@@ -3,3 +3,7 @@ description: Okuldaki, bizim bölüm ile alakalı veya alakasız olan klüpler i
 ---
 
 # 👯 Okul Klüpleri
+
+## IUBK
+
+Git-Github Workshop ile alakalı proje için [buraya](https://github.com/afozbek/GitWorkshop) tıklayabilirsiniz.
