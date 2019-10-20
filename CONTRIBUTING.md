@@ -101,19 +101,19 @@ Katkı sağlama işlemi GitHub hesabın gerektirir.
 
 > Videolar faydalı olmadıysa bana WhatsApp veya Mail üzerinden atabilirsin.
 
-### 📌 GitHub Fork'u Güncelleme
+### 📌 GitHub fork'u güncelleme
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=opIkgag6LFo"><img src="https://img.youtube.com/vi/opIkgag6LFo/0.jpg" alt="GitHub Fork'u Güncelleme"></a>
 </div>
 
-### 📌 Istanbul University CE ~ YEmreAk Dosya Yükleme
+### 📌 GitHub üzerinde dosya yükleme
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=zI5G7KQ87Zk"><img src="https://img.youtube.com/vi/zI5G7KQ87Zk/0.jpg" alt="🏫 Istanbul University CE ~ YEmreAk Dosya Yükleme"></a>
 </div>
 
-### 📌 Istanbul University CE İÜ CE ~ YEmreAk Katkıda Bulunma
+### 📌 İçerik katkısında bulunma
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=8IZQZrFpVMI"><img src="https://img.youtube.com/vi/8IZQZrFpVMI/0.jpg" alt="🏫 Istanbul University CE İÜ CE~ YEmreAk Katkıda Bulunma"></a>
