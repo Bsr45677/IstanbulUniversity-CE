@@ -17,8 +17,22 @@ Verimli olabilecek yapı tekliflerine ve **yapıcı** eleştirilere açığız.
 
 ## 🏃‍ Online Ortamda Projeye Hızlıca Katkıda Bulunma
 
+### 🏫 Istanbul University CE İÜ CE ~ YEmreAk Katkıda Bulunma
+
 <div align="center">
   <a href="https://www.youtube.com/watch?v=8IZQZrFpVMI"><img src="https://img.youtube.com/vi/8IZQZrFpVMI/0.jpg" alt="🏫 Istanbul University CE İÜ CE~ YEmreAk Katkıda Bulunma"></a>
+</div>
+
+### 🏫 Istanbul University CE ~ YEmreAk Dosya Yükleme
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=zI5G7KQ87Zk"><img src="https://img.youtube.com/vi/zI5G7KQ87Zk/0.jpg" alt="🏫 Istanbul University CE ~ YEmreAk Dosya Yükleme"></a>
+</div>
+
+### GitHub Fork'u Güncelleme
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=opIkgag6LFo"><img src="https://img.youtube.com/vi/opIkgag6LFo/0.jpg" alt="GitHub Fork'u Güncelleme"></a>
 </div>
 
 ## 👷‍ Sayfaların Tasarımı ve Notların Tutulma Yapısı
