@@ -113,7 +113,7 @@ Katkı sağlama işlemi GitHub hesabın gerektirir.
   <a href="https://www.youtube.com/watch?v=zI5G7KQ87Zk"><img src="https://img.youtube.com/vi/zI5G7KQ87Zk/0.jpg" alt="🏫 Istanbul University CE ~ YEmreAk Dosya Yükleme"></a>
 </div>
 
-### 📌 GitHub üzerinde içerik katkısında bulunma
+### 📌 GitHub üzerinde içerik düzenleme
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=8IZQZrFpVMI"><img src="https://img.youtube.com/vi/8IZQZrFpVMI/0.jpg" alt="🏫 Istanbul University CE İÜ CE~ YEmreAk Katkıda Bulunma"></a>
