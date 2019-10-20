@@ -6,4 +6,6 @@ description: Okuldaki, bizim bölüm ile alakalı veya alakasız olan klüpler i
 
 ## IUBK
 
-Git-Github Workshop ile alakalı proje için [buraya](https://github.com/afozbek/GitWorkshop) tıklayabilirsiniz.
+- Git-Github Workshop ile alakalı proje için [buraya](https://github.com/afozbek/GitWorkshop) tıklayabilirsiniz.
+- Organizasyonun paylaşmış olduğu repo için [buraya](https://github.com/iubk/GitWorkshop) tıklayabilirsiniz.
+
