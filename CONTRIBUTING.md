@@ -104,17 +104,23 @@ Katkı sağlama işlemi GitHub hesabın gerektirir.
 
 ### ⏫ GitHub üzerinde dosya yükleme
 
+Yeni dosya ekleme anlatım videosu:
+
 <div align="center">
   <a href="https://www.youtube.com/watch?v=zI5G7KQ87Zk"><img src="https://img.youtube.com/vi/zI5G7KQ87Zk/0.jpg" alt="🏫 Istanbul University CE ~ YEmreAk Dosya Yükleme"></a>
 </div>
 
 ### ✍ GitHub üzerinde içerik düzenleme
 
+Bulunan bir dosya üzerinde değişiklik yapma anlatım videosu:
+
 <div align="center">
   <a href="https://www.youtube.com/watch?v=8IZQZrFpVMI"><img src="https://img.youtube.com/vi/8IZQZrFpVMI/0.jpg" alt="🏫 Istanbul University CE İÜ CE~ YEmreAk Katkıda Bulunma"></a>
 </div>
 
 ### ✨ GitHub fork'u güncelleme
+
+Repo'yu daha önce _fork_ ettiysen yeni değişiklik eklemeden önce repo'yu güncellemen lazım, repo güncelleme anlatım videosu:
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=opIkgag6LFo"><img src="https://img.youtube.com/vi/opIkgag6LFo/0.jpg" alt="GitHub Fork'u Güncelleme"></a>
