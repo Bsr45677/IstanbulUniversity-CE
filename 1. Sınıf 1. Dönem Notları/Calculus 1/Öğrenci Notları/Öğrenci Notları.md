@@ -5,3 +5,7 @@
 - [2018 Tam Calculus ~ Asma Mirkhan](./2018%20Tam%20Calculus%20~%20Asma%20Mirkhan.pdf)
 
 <!--Index-->
+
+## 🔗 Harici Bağlantılar
+
+- [2019 Calculus 1 ~ Muhammet Esat Büyükbulut](http://muhammetesatbuyukbulut.com/category/dersler/calc-1/)
