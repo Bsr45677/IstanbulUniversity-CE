@@ -33,15 +33,16 @@ Verimli olabilecek yapı tekliflerine ve **yapıcı** eleştirilere açığız.
 
 ## 📙 Ders Notları Ekleme
 
-Dosya uzantısı `.pdf` olacak şekilde adlandırma kuralı `<tip> <ders_kodu> ~ <sahibi>` şeklindedir.
+Dosya uzantısı `.pdf` olacak şekilde adlandırma kuralı `<yıl> <tip> <ders_kodu> ~ <sahibi>` şeklindedir.
 
 | Kural     | Açıklama                                                         |
 | --------- | ---------------------------------------------------------------- |
+| Yıl       | `2019`, `2020`                                                   |
 | Tip       | `Vize`, `Final`, `Quic`, tüm notlar için `Tam` vs                |
 | Ders Kodu | Dersinin adının baş harfleri (`NYP` Nesneye yönelik programlama) |
 | Sahibi    | Hocanın verdiği notsa boş bırakın, aksi halde isminiz ✨          |
 
-> Örn: `Final Notu BM ~ YEmreAk.pdf`, `Vize Notu Gİ ~ YEmreAk.pdf`, `Tam Calculus ~ Asma Mirkhan.pdf`
+> Örn: `2018 Final Notu BM ~ YEmreAk.pdf`, `2018 Vize Notu Gİ ~ YEmreAk.pdf`, `2018 Tam Calculus ~ Asma Mirkhan.pdf`
 
 
 ## 📑 İçerik Yazma Formatı
