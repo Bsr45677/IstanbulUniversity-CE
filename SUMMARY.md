@@ -24,7 +24,7 @@
     - [Discrete Mathematics](./1.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Discrete%20Mathematics/README.md)
       - [Öğrenci Notları](./1.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Discrete%20Mathematics/%C3%96%C4%9Frenci%20Notlar%C4%B1/%C3%96%C4%9Frenci%20Notlar%C4%B1.md)
     - [Fizik 1](./1.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Fizik%201/README.md)
-      - [Öğrenci Notları](./1.%20S%C4%B1n%C4s%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Fizik%201/%C3%96%C4%9Frenci%20Notlar%C4%B1/%C3%96%C4%9Frenci%20Notlar%C4%B1.md)
+      - [Öğrenci Notları](./1.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Fizik%201/%C3%96%C4%9Frenci%20Notlar%C4%B1/%C3%96%C4%9Frenci%20Notlar%C4%B1.md)
     - [Introduction to Algorithms](./1.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Introduction%20to%20Algorithms/README.md)
       - [Öğrenci Notları](./1.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Introduction%20to%20Algorithms/%C3%96%C4%9Frenci%20Notlar%C4%B1/%C3%96%C4%9Frenci%20Notlar%C4%B1.md)
   - [📚 1. Sınıf 2. Dönem Notları](./1.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/README.md)
