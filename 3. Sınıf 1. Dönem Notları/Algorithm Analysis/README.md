@@ -1,14 +1,23 @@
 # Algorithm Analysis 
 
+## Sunum Bilgileri
+- Etki: %25
+- Bir algoritma veya problem seçilecek ve aşağıdaki maddeleri içerecek şekilde sunum şeklinde anlatılacak:
+  - Algoritmanın tanıtımı, kullanım alanları ve çalışma mantığı.
+  - Algoritmanın avantajları ve dezavantajları.
+  - Algoritmanın farklı _input_'lara karşı nasıl davrandığı.
+  - Algoritmanın kodu.
+    - Sunum içerisinde farklı _input_'lara karşı kodun çıktısının kontrol edilmesi istenebilir.
+  - Algoritmanın karmaşıklık analizi.
+  
 ## Vize Bilgileri
-
-- Big O konusuna kadar sorumluyuz.
-- Sınavda türkçe yazılabilmekte
-- İngilizce yazmak tabiki daha iyi not kazandırır :)
-- (Alıntı) Ek notlar:
-  - Soruda sadece worst case derse sözel cevap istediğini, worst case analizi derse işlemli çözüm istediğini söyledi.
-  - Big omegadan sormayacağını sadece big-o’dan sorumlu olduğumuzu - söyledi
-  - Search ve sort algoritmalarina bakmamiz gerekiyormus
+- Öğrenci sunumlarından sorumlu değiliz.
+- _Transform and Conquer_ konusuna kadar sorumluyuz.
+- Sorularla ilgili:
+  - Basit bir _Big O_ sorusu olabilir.
+  - _Transform and Conquer_ ile ilgili yorum sorusu olabilir (örn: bir problem verip bu problemde neden _Transform and Conquer_'e ihtiyaç duyulur - yada duyulmaz - tarzında).
+  - Grfikli bir soru olabilir (Analiz grafiği verilip onunla ilgili sorular).
+  - Bir problem verip _Transform and Conquer_ mantığıyla ve _Transform and Conquer_ mantığıyla olmadan çözme sorusu olabilir.
 
 ## Final Bilgileri
 
