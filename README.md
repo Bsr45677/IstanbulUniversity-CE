@@ -8,8 +8,13 @@ description: İstanbul Üniversitesi Bilgisayar Mühendisliği 💻 notlarını 
 
 - **Sağ üstteki [🔍 Arama Buton](https://iuce.yemreak.com/?q=)'nu kullanmayı asla ama asla ihmal etme**
   - Hocaların ve derslerin adları, ders konuları vs. aratabilirsin
-- [💖 Katkıda Bulunma Rehberi](CONTRIBUTING.md) alanından projeye katkıda bulunabilirsin
 - [👀 Neler Değişti](./CHANGELOG.md) veya [✨ Commits](https://github.com/yedhrab/IstanbulUniversity-CE/commits/master) alanından değişiklikleri görebilirsin
+
+
+## 💡 İçerik Desteğinde Bulunma veya Fikir Belirtme
+
+- [💖 Katkıda Bulunma Rehberi](CONTRIBUTING.md) alanından projeye **katkıda** bulunabilirsin
+- **Ders notu istekleri** için [🦋 Issue](https://github.com/YEmreAk/IstanbulUniversity-CE/issues/new/choose) alanından dersin adını belirtebilirsin.
 
 ## 💖 Destek ve İletişim
 
