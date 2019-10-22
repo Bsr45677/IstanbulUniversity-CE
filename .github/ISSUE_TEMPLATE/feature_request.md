@@ -1,7 +1,8 @@
 ---
 name: Özellik Önerisi 💡
 about: Parlak fikirlerin varsa, lütfen saklama
-
+title: ✨
+labels: ✨ Geliştirme
 ---
 
 <!-- Daha önceden oluşturulmuş fikirlere bakıp var olanları tekrarlamazsan sevinirim. -->

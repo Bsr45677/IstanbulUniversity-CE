@@ -1,6 +1,8 @@
 ---
 name: Hata bildirme 🐞
 about: Herhangi bir şey istendiği gibi çalışmıyor mu?
+title: 🐞
+labels: 🐞 Hata
 ---
 
 <!-- Daha önceden oluşturulmuş hatalara bakıp var olanları tekrarlamazsan sevinirim. -->
@@ -13,8 +15,8 @@ about: Herhangi bir şey istendiği gibi çalışmıyor mu?
 ## Hatayı Engelleme Adımları:
 <!-- Problemi nasıl engelleyebiliriz? -->
 
-1. 
-2. 
+1.
+2.
 
 <!-- Eğer görüntü, çıktı ve benzeri kaynakların varsa bunları paylşaman faydalı olacaktır :) -->
 

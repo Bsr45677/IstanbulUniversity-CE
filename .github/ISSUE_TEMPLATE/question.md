@@ -1,6 +1,7 @@
 ---
 name: ❔ Sorular
-about: Site kullanımı hakkında
+about: Site kullanımı hakkında soruların
+labels: ❔ Soru
 ---
 
 <!-- Daha önceden oluşturulmuş sorulara bakıp var olanları tekrarlamazsan sevinirim. -->
