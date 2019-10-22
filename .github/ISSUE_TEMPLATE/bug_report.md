@@ -1,7 +1,6 @@
 ---
-name: Hata bildirme 🐞
+name: 🐞 Hata bildirme
 about: Herhangi bir şey istendiği gibi çalışmıyor mu?
-title: 🐞
 labels: 🐞 Hata
 ---
 

@@ -1,7 +1,6 @@
 ---
-name: Özellik Önerisi 💡
+name: 💡 Özellik Önerisi
 about: Parlak fikirlerin varsa, lütfen saklama
-title: ✨
 labels: ✨ Geliştirme
 ---
 
