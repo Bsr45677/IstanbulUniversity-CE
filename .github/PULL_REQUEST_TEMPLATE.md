@@ -1,20 +1,24 @@
 <!-- Yardımın ve desteğin için teşekkürler. Detaylı bilgiler için  contributing dosyasına bakabilirsin. -->
 
-## Özet
-<!-- Short summary, referencing related issues: Closes #00, References #00, etc. -->
+## 📑 Başlık
+<!-- Değişikliği özetleyen başlık, hangi issue'ye çözüm buluyorsa onunu ID'si (Örn: #12) -->
 
+## Değişiklik Türü
 
+- [ ] 📘 Ders notu ekleme
+- [ ] 🕵️‍ Sorun tespiti
+- [ ] 🐛 Sorun çözümü
+- [ ] ✨ Geliştirme
 
-## Değişikler
+## ✨ Değişikler
 <!-- Pull Request'te değiştirdiğin özellikler nelerdir? -->
 
-- 
-- 
+-
+-
 
-## Gözden Geçireceklere Tavsiyeler
-<!-- 
+## 💡 Gözden Geçireceklere Tavsiyeler
+<!--
 Önemli olduğunu belirmek istediğin özel notları yazabilirsin.
 Eğer kişilere yönelik bir vurgu yapacaksan @kisi yapısı ile bunu yapabilirsin
 -->
-
 
