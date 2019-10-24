@@ -302,7 +302,7 @@ description: İstanbul Üniversitesi Bilgisayar Mühendisliği 💻 notlarını 
 
 ![iu_ce](./res/iu-ce.png)
 
-<!--Index-->
+<!--
 
 ## 🎀 Etiket Çalışması
 
@@ -314,4 +314,4 @@ sibel senan, awesome data science, www.udemy.com free online courses, geçici ma
 yönetici olarak açma, komut istemini yönetici olarak çalıştırma, tensorflow dersleri, iü edu, calisan vpn, fizik 2 pdf, istanbul üniversitesi axis, keras nedir, python dosya oluşturma, safari requestfullscreen, hepsi 1 emre, sağ tuş menüsü, udemy bedava kurs alma, wikipedia firebase, atamalr, mersenne prime python, ak com, son eklenenler diziler, ıstanbul üniversitesi, istanbul üniversitesi cerrahpaşa bölümleri, kotlin nedir, git autofetch, udemycourses, i ü cerrahpaşa tıp fakültesi, google notlar, kapatılan sekmeyi açma kısayolu, bilgisayarı hızlandır, firebase wikipedia, flutter keyboard_visibility, istanbul university, javascript ders notları, atıl samancıoğlu, conda ssl error, pico fuse wiki, fotoğraf kenar bulanıklaştırma, googl collab, calculus 1 ders notları türkçe, istanbul universitesi iletisim, veritabanı yönetimi ders notları, agno hesaplama, serway fizik, tf.nn.sigmoid_cross_entropy_with_logits example, javafx jmods, noyan culum, np pad with zeros, df wiki, natro android mail kurulumu, pm uninstall -k --user 0, istanbul bilgi university, istanbul üniversitesi cerrahpaşa bilgisayar mühendisliği, google coolab, istanbul university-cerrahpaşa, chrome kapatılan sekmeleri açma, iü duyurular, linda regber, iü o, google colab,, markdown toc vscode, google chrome son kapatılan sekmeyi açma, görüntü işleme python, netbeans postgresql, tip notlari, kruskal algoritması, viewpager pageradapter, i.ü, java eclipse dersleri, python örnekleri, istanbul üniversitsi, java programlama, cümlenin öğeleri pdf, veri bilimi nedir, colab python version, makine öğrenimi nedir, pandas read_html, yapay zeka, awesome android, bilgisayar mühendisliği için bilgisayar önerisi, bilgisayar mühendisliği yüksek lisans, colab python, istanbul üniversitesi doktora, python kitap,
 free courses on udemy, istanbul üniversitesi, java string içinde kelime arama, reak define, sudo katoolin, free courses in udemy, udemy course free, udemy tutorials free, tarih 9.sınıf ders notları, free udemy courses, yapay sinir ağları, udemy online courses learn anything, udemy online courses learn
 
-<!--Index-->
+-->
