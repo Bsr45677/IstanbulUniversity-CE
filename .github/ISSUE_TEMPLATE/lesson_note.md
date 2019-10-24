@@ -4,9 +4,7 @@ about: İhtiyacın olan dersin adını belirt
 labels: 📘 Ders Notu, 🆘 Yardım Lazım
 ---
 
-## ✅ İstek Türü
-<!-- Seçmek için kutucuğa x koy, [x] -->
-<!-- Birden fazla seçim yapabilirsin -->
+## ✅ İstenenler
 
 - [ ] 📘 Ders notu
 - [ ] 📜 Sınav soruları
