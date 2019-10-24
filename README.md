@@ -10,6 +10,8 @@ description: İstanbul Üniversitesi Bilgisayar Mühendisliği 💻 notlarını 
   - Hocaların ve derslerin adları, ders konuları vs. aratabilirsin
 - [👀 Neler Değişti](./CHANGELOG.md) veya [✨ Commits](https://github.com/yedhrab/IstanbulUniversity-CE/commits/master) alanından değişiklikleri görebilirsin
 
+> Her sayfanın en altında bulunan memnuniyet anketi ile ✨ gelişime ortak olabilirsin.
+
 
 ## 💡 İçerik Desteğinde Bulunma veya Fikir Belirtme
 
