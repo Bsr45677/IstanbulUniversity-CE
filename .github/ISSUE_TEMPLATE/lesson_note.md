@@ -5,6 +5,7 @@ labels: 📘 Ders Notu, 🆘 Yardım Lazım
 ---
 
 ## ✅ İstek Türü
+<!-- Seçmek için kutucuğa x koy, [x] -->
 <!-- Birden fazla seçim yapabilirsin -->
 
 - [ ] 📘 Ders notu
