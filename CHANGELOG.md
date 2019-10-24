@@ -4,10 +4,48 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 # Changelog
 
-
 ## ✨ Güncel
 
 ### 🚀 Yenilikler
+
+* ✨ Memnuniyet anketi notu eklendi. [Yunus Emre]
+
+* İşkence metni eklendi 🌚 [Yunus Emre]
+
+* ✅ İstek Türü'ne açıklama eklendi. [Yunus Emre]
+
+* ✅ İstek Türü eklendi. [Yunus Emre]
+
+* 🔍 CEO çalışması eklendi. [Yunus Emre]
+
+* 🦋 Issue alanı eklendi. [Yunus Emre]
+
+* 📚 DC ve AA ile ilgili bilgiler eklendi  (#19) [Asmaa Mirkhan]
+
+  * Algorithm Analysis bilgileri eklendi 📊
+  * DC notları eklendi 📡
+  * 🔗 DC notuna link verildi
+  * Fixed #21
+
+* 📚 Ders notu isteği alanı eklendi. [Yunus Emre]
+
+* 🔗 2019 calculus linki eklendi. [Yunus Emre]
+
+* ✨ Mobil 5.hafta ders notu eklendi. [Yunus Emre]
+
+* 📅 Tarih bilgisi eklendş. [Yunus Emre]
+
+* 📅 Tarih bilgisi eklendi. [Yunus Emre]
+
+* Videolara açıklamalar eklendi 💡 (#18) [Asmaa Mirkhan]
+
+* 📕 Ders notu eklendi. [Yunus Emre'nin Eski Hesabı]
+
+* 🖼 İÜ-CE logosu eklendi. [Yunus Emre]
+
+* 📑 Markdown bağlantısı eklendi. [Yunus Emre]
+
+* 💖 Katkıda Bulunma Rehberi eklendi. [Yunus Emre]
 
 * 💖 Katkıda Bulunma Rehberi eklendi. [Yunus Emre]
 
@@ -18,6 +56,40 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 * ➕ Bitirme Projesi Form Örneği eklendi. [Yunus Emre]
 
 ### 🌌 Değişikler
+
+* ✅ İstenenler alanı getirildi. [Yunus Emre]
+
+* 🍁 PR yapısı yenilendi. [Yunus Emre]
+
+* 📚 Ders notu isteği güncellendi. [Yunus Emre]
+
+* 🚀 Issue kalıpları yenilendi. [Yunus Emre]
+
+* ❔ Soru sorma başlığı yenilendi. [Yunus Emre]
+
+* 🔗 Muhammet Esat BÜYÜKBULUT notları aktarıldı. [Yunus Emre]
+
+* Update CONTRIBUTING.md. [Yunus Emre]
+
+* Update CONTRIBUTING.md. [Yunus Emre]
+
+* Update Okul Klüpleri.md. [Abdullah Furkan Özbek]
+
+* Update CONTRIBUTING.md. [Yunus Emre]
+
+* Update CONTRIBUTING.md. [Yunus Emre]
+
+* Update CONTRIBUTING.md. [Yunus Emre]
+
+* Update CONTRIBUTING.md. [Yunus Emre]
+
+* Update CONTRIBUTING.md. [Yunus Emre]
+
+* 👨‍💼 Logo sayfanın sonuna alındı. [Yunus Emre]
+
+* 🙋‍♂️ Karşılama ekranı yenilendi. [Yunus Emre]
+
+* Update Okul Klüpleri.md. [Abdullah Furkan Özbek]
 
 * Update SUMMARY.md. [Yunus Emre]
 
@@ -33,6 +105,18 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🗽 Düzeltmeler
 
+* 🐞 Emoji sorunu giderildi. [Yunus Emre]
+
+* ✍ Yazım hatası giderildi. [Yunus Emre]
+
+* 👨‍🔧 Issue kalıpları düzeltildi. [Yunus Emre]
+
+* 🐞 Link sorunu giderildi. [Yunus Emre]
+
+* 👨‍🔧 Yazım hataları ve kusurlu bağlantılar düzeltildi. [Yunus Emre]
+
+* 👨‍🔧 Yazım hataları ve kusurlu bağlantılar düzeltildi. [Yunus Emre]
+
 * ✨ Dosya isimleri düzeltildi. [Yunus Emre]
 
 * 🐞✨ Sorunlar giderildi, güzelleştirildi. [Yunus Emre]
@@ -42,6 +126,38 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
   - İçeriklerde ufak düzenleme yapıldı
 
 ### 📡 Diğerler
+
+* 🎀 Etiket Çalışması gizlendi. [Yunus Emre]
+
+* 🚙 Final bilgileri yeniden konumlandırıldı. [Yunus Emre]
+
+* Merge branch 'master' of https://github.com/yedhrab/IstanbulUniversity-CE. [Yunus Emre]
+
+* Merge branch 'master' of https://github.com/yedhrab/IstanbulUniversity-CE. [Yunus Emre]
+
+* Merge pull request #15 from afozbek/master. [Yunus Emre]
+
+  Yeni link eklendi
+
+* Merge pull request #1 from yedhrab/master. [Abdullah Furkan Özbek]
+
+  Gerekli merge işlemleri
+
+* Merge branch 'master' of https://github.com/yedhrab/IstanbulUniversity-CE. [Yunus Emre]
+
+* Merge pull request #16 from yedehrab/master. [Yunus Emre]
+
+  📕 Ders Notu eklendi
+
+* Merge pull request #1 from yedhrab/master. [Yunus Emre'nin Eski Hesabı]
+
+  ✨
+
+* Merge branch 'master' of https://github.com/yedhrab/IstanbulUniversity-CE. [Yunus Emre]
+
+* Merge pull request #13 from afozbek/patch-1. [Yunus Emre]
+
+  Update Okul Klüpleri.md
 
 * ✨ [Yunus Emre]
 
