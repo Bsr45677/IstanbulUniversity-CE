@@ -110,6 +110,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🗽 Düzeltmeler
 
+* 🧹 Gereksizler kaldırıldı. [Yunus Emre]
+
 * 👨‍🔧 İçerik yapısı düzenlendi. [Yunus Emre]
 
 * 🐞 Emoji sorunu giderildi. [Yunus Emre]
