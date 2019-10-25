@@ -8,10 +8,9 @@ description: Projeye katkı sağlamak isteyenler için bilgilendirme
 
 ## 💡 İçerik Desteğinde Bulunma veya Fikir Belirtme
 
-Verimli olabilecek yapı tekliflerine ve **yapıcı** eleştirilere açığız.
-
-- Tavsiyelerin veya hata tespitlerin varsa [🦋 Issue](https://github.com/yedhrab/IstanbulUniversity-CE/issues) açabilirsin
-- **Yapıcı** eleştirileriniz veya fikirleriniz varsa sağ üst köşedeki  **🏹 Edit on Github** alanından fikirlerinizi belirtebilirsiniz
+- 📙 Ders notun, ders notu ihtiyacın, tavsiyelerin veya hata tespitlerin varsa [🦋 Issue](https://github.com/yedhrab/IstanbulUniversity-CE/issues) açabilirsin
+  - 📈 Bu yapı sayesinde aranan dersler daha belirgin olacaktır.
+- 💡 **Yapıcı** eleştirileriniz veya fikirleriniz varsa sağ üst köşedeki  **🏹 Edit on Github** alanından fikirlerinizi belirtebilirsiniz
 
 > 📌 **Formata ([markdown](https://wiki.yemreak.com/1-programlama-notlari/0-genel-notlar/2-markdown)'a) uygun şekilde katkıda bulunursanız hoş olur 😊**
 
@@ -35,15 +34,22 @@ Verimli olabilecek yapı tekliflerine ve **yapıcı** eleştirilere açığız.
 
 Dosya uzantısı `.pdf` olacak şekilde adlandırma kuralı `<yıl> <tip> <ders_kodu> ~ <sahibi>` şeklindedir.
 
+- Ders notlarını ilgili dersin alaklı dizinine koyun
+- [⏫ GitHub üzerinde dosya yükleme](#github-uezerinde-dosya-yuekleme) alanı işine yaracaktır.
+- Dosyaya link vermene **gerek yoktur**, scriptim ile otomatik halletmekteyim.
+
 | Kural     | Açıklama                                                         |
 | --------- | ---------------------------------------------------------------- |
 | Yıl       | `2019`, `2020`                                                   |
-| Tip       | `Vize`, `Final`, `Quic`, tüm notlar için `Tam` vs                |
+| Tip       | `Vize`, `Final`, `Quiz`, tüm notlar için `Tam` vs                |
 | Ders Kodu | Dersinin adının baş harfleri (`NYP` Nesneye yönelik programlama) |
 | Sahibi    | Hocanın verdiği notsa boş bırakın, aksi halde isminiz ✨          |
 
-> Örn: `2018 Final Notu BM ~ YEmreAk.pdf`, `2018 Vize Notu Gİ ~ YEmreAk.pdf`, `2018 Tam Calculus ~ Asma Mirkhan.pdf`
-
+> Örnek dosya adları ve yüklenmesi gereken yerler:
+>
+> - `2018 Final Notu BM ~ YEmreAk.pdf` > `3. Sınıf 2. Dönem Notları/Bilgisayar Mimarisi/Öğrenci Notları`
+> - `2018 Final BM.pdf` > `3. Sınıf 2. Dönem Notları/Bilgisayar Mimarisi/Sınav Soruları`
+> - `2018 Tam Calculus ~ Asma Mirkhan.pdf` > `1. Sınıf 1. Dönem Notları - Calculus 1 - Öğrenci Notları`
 
 ## 📑 İçerik Yazma Formatı
 
