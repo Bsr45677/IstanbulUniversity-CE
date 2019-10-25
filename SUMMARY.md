@@ -16,6 +16,7 @@
     - [👨‍🏫 Staj Notları](./1%20-%20Okul%20Hakk%C4%B1nda%20Bilgiler/4%20-%20Staj%20Notlar%C4%B1.md)
     - [🔬 Proje Notları](./1%20-%20Okul%20Hakk%C4%B1nda%20Bilgiler/5%20-%20Proje%20Notlar%C4%B1.md)
     - [👯 Okul Klüpleri](./1%20-%20Okul%20Hakk%C4%B1nda%20Bilgiler/Okul%20Kl%C3%BCpleri.md)
+    - [🛫 Polonya'da Erasmus](./1%20-%20Okul%20Hakk%C4%B1nda%20Bilgiler/6%20-%20Polonyada%20Erasmus.md)
   - [📚 1. Sınıf 1. Dönem Notları](./1.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/README.md)
     - [Bilgisayar Mühendisliğine Giriş](./1.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Bilgisayar%20M%C3%BChendisli%C4%9Fine%20Giri%C5%9F/README.md)
       - [Öğrenci Notları](./1.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Bilgisayar%20M%C3%BChendisli%C4%9Fine%20Giri%C5%9F/%C3%96%C4%9Frenci%20Notlar%C4%B1/%C3%96%C4%9Frenci%20Notlar%C4%B1.md)
