@@ -27,6 +27,7 @@
     - [Fizik 1](./1.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Fizik%201/README.md)
       - [Öğrenci Notları](./1.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Fizik%201/%C3%96%C4%9Frenci%20Notlar%C4%B1/README.md)
     - [Introduction to Algorithms](./1.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Introduction%20to%20Algorithms/README.md)
+      - [Sınav Soruları](./1.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Introduction%20to%20Algorithms/S%C4%B1nav%20Sorular%C4%B1/README.md)
       - [Öğrenci Notları](./1.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Introduction%20to%20Algorithms/%C3%96%C4%9Frenci%20Notlar%C4%B1/README.md)
   - [📚 1. Sınıf 2. Dönem Notları](./1.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/README.md)
     - [Atatürk İlkeleri ve İnkılap 2](./1.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Atat%C3%BCrk%20%C4%B0lkeleri%20ve%20%C4%B0nk%C4%B1lap%202/README.md)
