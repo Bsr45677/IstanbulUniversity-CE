@@ -9,6 +9,12 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🚀 Yenilikler
 
+* 🔗 Bağlantılar oluşturuldu. [Yunus Emre]
+
+* 👩‍💻 Programlama sınav soruları eklendi (#29) [Asmaa Mirkhan]
+
+* Create CODE_OF_CONDUCT.md (#28) [Yunus Emre]
+
 * 🛫 Polonya'da Erasmus alanı eklendi. [Yunus Emre]
 
 * ✨ Memnuniyet anketi notu eklendi. [Yunus Emre]
