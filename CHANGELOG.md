@@ -60,6 +60,10 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🌌 Değişikler
 
+* 📙 Ders Notları Ekleme alanı yenilendi. [Yunus Emre]
+
+* 📙 Ders Notları Ekleme alanı yenilendi. [Yunus Emre]
+
 * 💫 Entegrasyon yenilendi. [Yunus Emre]
 
 * ✅ İstenenler alanı getirildi. [Yunus Emre]
@@ -109,6 +113,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
   This reverts commit 6a3051d1c02832579144fbead3bf6283f351091b.
 
 ### 🗽 Düzeltmeler
+
+* 👨‍🔧 Dosya adları düzenlendi. [Yunus Emre]
 
 * 🧹 Gereksizler kaldırıldı. [Yunus Emre]
 
