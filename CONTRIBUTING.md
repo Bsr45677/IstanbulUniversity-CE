@@ -35,7 +35,7 @@ description: Projeye katkı sağlamak isteyenler için bilgilendirme
 Dosya uzantısı `.pdf` olacak şekilde adlandırma kuralı `<yıl> <tip> <ders_kodu> ~ <sahibi>` şeklindedir.
 
 - Ders notlarını ilgili dersin alaklı dizinine koyun
-- [⏫ GitHub üzerinde dosya yükleme](#github-uezerinde-dosya-yuekleme) alanı işine yaracaktır.
+- [⏫ GitHub üzerinde dosya yükleme](https://www.youtube.com/watch?v=zI5G7KQ87Zk) alanı işine yaracaktır.
 - Dosyaya link vermene **gerek yoktur**, scriptim ile otomatik halletmekteyim.
 
 | Kural     | Açıklama                                                         |
