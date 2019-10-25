@@ -4,9 +4,12 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 # Changelog
 
+
 ## ✨ Güncel
 
 ### 🚀 Yenilikler
+
+* 🛫 Polonya'da Erasmus alanı eklendi. [Yunus Emre]
 
 * ✨ Memnuniyet anketi notu eklendi. [Yunus Emre]
 
@@ -57,6 +60,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🌌 Değişikler
 
+* 💫 Entegrasyon yenilendi. [Yunus Emre]
+
 * ✅ İstenenler alanı getirildi. [Yunus Emre]
 
 * 🍁 PR yapısı yenilendi. [Yunus Emre]
@@ -104,6 +109,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
   This reverts commit 6a3051d1c02832579144fbead3bf6283f351091b.
 
 ### 🗽 Düzeltmeler
+
+* 👨‍🔧 İçerik yapısı düzenlendi. [Yunus Emre]
 
 * 🐞 Emoji sorunu giderildi. [Yunus Emre]
 
