@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🚀 Yenilikler
 
+* ➕ Neural Network slaytları eklendi. [Yunus Emre]
+
 * 🔗 Bağlantılar oluşturuldu. [Yunus Emre]
 
 * 👩‍💻 Programlama sınav soruları eklendi (#29) [Asmaa Mirkhan]
