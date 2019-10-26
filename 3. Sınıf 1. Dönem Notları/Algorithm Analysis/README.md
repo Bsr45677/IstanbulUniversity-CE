@@ -19,15 +19,6 @@
   - Grfikli bir soru olabilir (Analiz grafiği verilip onunla ilgili sorular).
   - Bir problem verip _Transform and Conquer_ mantığıyla ve _Transform and Conquer_ mantığıyla olmadan çözme sorusu olabilir.
 
-## Final Bilgileri
-
-- Çıkardığım ders notum için buraya tıklayabilirsin.
-  - *Dynamic Algo konusu eksik!*
-- 3 soru olacak, 1 kesin cevaplı, diğerleri yoruma dayalı olabilir.
-- [DaC][DaC], [TaC][TaC], BigO, [Greedy][Greedy], Case analysis konuları önemli olabilir.
-  - DaC: Dvide and Conquer
-  - TaC: Transfor and Conquer
-- [Quick][Quick Sort] ve [Insertion][Insertion Sort] sort lazım olabilir.
 
 ## Harici Bağlantılar
 
