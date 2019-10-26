@@ -120,6 +120,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🗽 Düzeltmeler
 
+* ❌ Eski bilgiler kaldırıldı (#32) [Asmaa Mirkhan]
+
 * 👨‍🔧 Sorunlu linkler düzeltildi. [Yunus Emre]
 
 * 👨‍🔧 linkteki buglar çözüldü (#31) [Abdullah Furkan Özbek]
