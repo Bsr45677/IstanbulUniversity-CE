@@ -120,6 +120,10 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🗽 Düzeltmeler
 
+* 👨‍🔧 Sorunlu linkler düzeltildi. [Yunus Emre]
+
+* 👨‍🔧 linkteki buglar çözüldü (#31) [Abdullah Furkan Özbek]
+
 * 👨‍🔧 Dosya adları düzenlendi. [Yunus Emre]
 
 * 🧹 Gereksizler kaldırıldı. [Yunus Emre]
