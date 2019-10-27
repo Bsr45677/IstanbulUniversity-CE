@@ -32,24 +32,33 @@ description: Projeye katkı sağlamak isteyenler için bilgilendirme
 
 ## 📙 Ders Notları Ekleme
 
-Dosya uzantısı `.pdf` olacak şekilde adlandırma kuralı `<yıl> <tip> <ders_kodu> ~ <sahibi>` şeklindedir.
+Açık kaynaklı projeye ders notların ile katkı sağlamak için:
 
-- Ders notlarını ilgili dersin alaklı dizinine koyun
+- 💫 Ders notlarınızı [📕 Online2PDF](https://online2pdf.com/) ile PDF'e çeviriniz.
+- 👮‍ Adlandırma kuralına `<yıl> <tip> <ders_kodu> ~ <sahibi>` göre adlandırın
+- 🚙 Dosya konumlandırmasına göre alaklı dizinine koyun
 - [⏫ GitHub üzerinde dosya yükleme](https://www.youtube.com/watch?v=zI5G7KQ87Zk) alanı işine yaracaktır.
-- Dosyaya link vermene **gerek yoktur**, scriptim ile otomatik halletmekteyim.
 
-| Kural     | Açıklama                                                         |
+> 👨‍💻 Dosyaya link vermene **gerek yoktur**, scriptim ile otomatik halletmekteyim.
+
+### 👮‍ Adlandırma Kuralı
+
+| 👮‍ Kural | 📜 Açıklama                                                      |
 | --------- | ---------------------------------------------------------------- |
 | Yıl       | `2019`, `2020`                                                   |
 | Tip       | `Vize`, `Final`, `Quiz`, tüm notlar için `Tam` vs                |
 | Ders Kodu | Dersinin adının baş harfleri (`NYP` Nesneye yönelik programlama) |
 | Sahibi    | Hocanın verdiği notsa boş bırakın, aksi halde isminiz ✨          |
 
-> Örnek dosya adları ve yüklenmesi gereken yerler:
->
-> - `2018 Final Notu BM ~ YEmreAk.pdf` > `3. Sınıf 2. Dönem Notları/Bilgisayar Mimarisi/Öğrenci Notları`
-> - `2018 Final BM.pdf` > `3. Sınıf 2. Dönem Notları/Bilgisayar Mimarisi/Sınav Soruları`
-> - `2018 Tam Calculus ~ Asma Mirkhan.pdf` > `1. Sınıf 1. Dönem Notları - Calculus 1 - Öğrenci Notları`
+### 🚙 Dosya Konumlandırması
+
+| ⭐ Örnek Dosya İsmi                     | 📁 Koyulması gereken yer                                        |
+| -------------------------------------- | --------------------------------------------------------------- |
+| `2018 Final Notu BM ~ YEmreAk.pdf`     | `3. Sınıf 2. Dönem Notları/Bilgisayar Mimarisi/Öğrenci Notları` |
+| `2018 Final BM.pdf`                    | `3. Sınıf 2. Dönem Notları/Bilgisayar Mimarisi/Sınav Soruları`  |
+| `2018 Tam Calculus ~ Asma Mirkhan.pdf` | `1. Sınıf 1. Dönem Notları - Calculus 1 - Öğrenci Notları`      |
+
+
 
 ## 📑 İçerik Yazma Formatı
 
