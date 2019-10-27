@@ -143,3 +143,13 @@ Repo'yu daha önce _fork_ ettiysen yeni değişiklik eklemeden önce repo'yu gü
 <div align="center">
   <a href="https://www.youtube.com/watch?v=opIkgag6LFo"><img src="https://img.youtube.com/vi/opIkgag6LFo/0.jpg" alt="GitHub Fork'u Güncelleme"></a>
 </div>
+
+### 📂 GitHub'da Klasör Oluşturma
+
+- `Create New File` butonuna tıklayın
+- Resimdeki alana `/` koyma durumunuzda klasör açılır
+- Açılan klasörün altına `README.md` dosyası ekleyin
+- Dosyanın içine `# Dizin adı` yazın
+- `Commit New File` butonuna basın
+
+![](res/create_dir.png)
