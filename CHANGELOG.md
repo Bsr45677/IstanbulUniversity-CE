@@ -78,6 +78,10 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🌌 Değişikler
 
+* ✨ Karşılma ekranı yenilendi. [Yunus Emre]
+
+* 👀 Neler Değişti alanı yenilendi. [Yunus Emre]
+
 * 👀 Neler Değişti alanı yenilendi. [Yunus Emre]
 
 * 👀 Neler Değişti alanı yenilendi. [Yunus Emre]
