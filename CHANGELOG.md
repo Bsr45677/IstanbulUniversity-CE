@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🚀 Yenilikler
 
+* ✨ Ders notu ekleme alanı güzelleştirildi. [Yunus Emre]
+
 * 📕 Öğrenci notu eklendi. [Yunus Emre]
 
 * ✨ sayfa emojisi eklendi (#35) [Abdullah Furkan Özbek]
@@ -73,6 +75,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 * ➕ Bitirme Projesi Form Örneği eklendi. [Yunus Emre]
 
 ### 🌌 Değişikler
+
+* 📙 Ders Notları Ekleme alanı yenilendi. [Yunus Emre]
 
 * 💫 Entegrasyon yenilendi. [Yunus Emre]
 
