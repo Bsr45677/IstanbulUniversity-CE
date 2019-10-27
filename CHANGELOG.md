@@ -86,6 +86,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 * 👀 Neler Değişti alanı yenilendi. [Yunus Emre]
 
+* 👀 Neler Değişti alanı yenilendi. [Yunus Emre]
+
 * Update integrate.sh. [Yunus Emre]
 
 * 📙 Ders Notları Ekleme alanı yenilendi. [Yunus Emre]
@@ -190,6 +192,12 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
   - İçeriklerde ufak düzenleme yapıldı
 
 ### 📡 Diğerler
+
+* 🧹 Script temizlendi. [Yunus Emre]
+
+  Güncelleme alanı `pre-push` hook'una aktarıldı
+
+* 🚀 Emojilendi. [Yunus Emre]
 
 * 💫 YEmreAk entegrasyonu sağlandı. [Yunus Emre]
 
