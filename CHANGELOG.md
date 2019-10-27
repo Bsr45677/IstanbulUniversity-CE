@@ -82,6 +82,10 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🌌 Değişikler
 
+* 🚙 Sayfaların Tasarımı ve Notların Tutulma Yapısı ana sayfaya alındı. [Yunus Emre]
+
+* 👀 Neler Değişti alanı yenilendi. [Yunus Emre]
+
 * 👀 Neler Değişti alanı yenilendi. [Yunus Emre]
 
 * 👀 Neler Değişti alanı yenilendi. [Yunus Emre]
