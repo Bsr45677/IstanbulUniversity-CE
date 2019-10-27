@@ -35,13 +35,15 @@ description: Projeye katkı sağlamak isteyenler için bilgilendirme
 Açık kaynaklı projeye ders notların ile katkı sağlamak için:
 
 - 💫 Ders notlarınızı [📕 Online2PDF](https://online2pdf.com/) ile PDF'e çeviriniz.
-- 👮‍ Adlandırma kuralına `<yıl> <tip> <ders_kodu> ~ <sahibi>` göre adlandırın
-- 🚙 Dosya konumlandırmasına göre alaklı dizinine koyun
-- [⏫ GitHub üzerinde dosya yükleme](https://www.youtube.com/watch?v=zI5G7KQ87Zk) alanı işine yaracaktır.
+- [👮‍ Adlandırma Kuralı](#adlandirma-kurali)'na göre adlandırın
+- [🚙 Dosya Konumlandırması](#dosya-konumlandirmasi)'na göre alaklı dizinine koyun
+- [⏫ GitHub üzerinde dosya yükleme](#github-uezerinde-dosya-yuekleme) alanı işine yaracaktır.
 
 > 👨‍💻 Dosyaya link vermene **gerek yoktur**, scriptim ile otomatik halletmekteyim.
 
-### 👮‍ Adlandırma Kuralı
+### 👮‍ Adlandırma Kuralı <a name="adlandirma-kurali"></a>
+
+Adlandırma kuralı `<yıl> <tip> <ders_kodu> ~ <sahibi>` şeklindedir.
 
 | 👮‍ Kural | 📜 Açıklama                                                      |
 | --------- | ---------------------------------------------------------------- |
@@ -50,7 +52,7 @@ Açık kaynaklı projeye ders notların ile katkı sağlamak için:
 | Ders Kodu | Dersinin adının baş harfleri (`NYP` Nesneye yönelik programlama) |
 | Sahibi    | Hocanın verdiği notsa boş bırakın, aksi halde isminiz ✨          |
 
-### 🚙 Dosya Konumlandırması
+### 🚙 Dosya Konumlandırması <a name="dosya-konumlandirmasi"></a>
 
 | ⭐ Örnek Dosya İsmi                     | 📁 Koyulması gereken yer                                        |
 | -------------------------------------- | --------------------------------------------------------------- |
@@ -118,7 +120,7 @@ Katkı sağlama işlemi GitHub hesabın gerektirir.
 > Videolar faydalı olmadıysa bana WhatsApp veya Mail üzerinden atabilirsin.
 
 
-### ⏫ GitHub üzerinde dosya yükleme
+### ⏫ GitHub üzerinde dosya yükleme <a name="github-uezerinde-dosya-yuekleme"></a>
 
 Yeni dosya ekleme anlatım videosu:
 
