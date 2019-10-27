@@ -1,1 +1,1 @@
-# 📟 Bilgisayar Aritmatiği
+# 📟 Bilgisayar Aritmetiği
