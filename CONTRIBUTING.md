@@ -113,43 +113,11 @@ Markdown hakkında detaylı açıklamalara [📑 Markdown](https://wiki.yemreak.
 - Kodlar ``` arasına yazılmalı
 - Matematikler (latex) $latex$ `$$latex$$ (gitbook) veya $latex$ (github) `
 
-## 🏃‍ Online Ortamda Projeye Hızlıca Katkıda Bulunma
+## 🏃‍ Web Üzerinden Projeye Hızlıca Katkıda Bulunma
 
-Katkı sağlama işlemi GitHub hesabın gerektirir.
+GitHub projelerini `clone` yapıp, internetini harcamak yerine web üzerinden katkıda bulunabilirsin.
+
+- Katkı sağlama işlemi GitHub hesabı gerektirir.
+- Güncel bilgiler için [🌍 GitHub Web](https://wiki.yemreak.com/proje-yoenetimi/github/github-web) yazıma bakabilirsin
 
 > Videolar faydalı olmadıysa bana WhatsApp veya Mail üzerinden atabilirsin.
-
-
-### ⏫ GitHub üzerinde dosya yükleme <a name="github-uezerinde-dosya-yuekleme"></a>
-
-Yeni dosya ekleme anlatım videosu:
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=zI5G7KQ87Zk"><img src="https://img.youtube.com/vi/zI5G7KQ87Zk/0.jpg" alt="🏫 Istanbul University CE ~ YEmreAk Dosya Yükleme"></a>
-</div>
-
-### ✍ GitHub üzerinde içerik düzenleme
-
-Bulunan bir dosya üzerinde değişiklik yapma anlatım videosu:
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=8IZQZrFpVMI"><img src="https://img.youtube.com/vi/8IZQZrFpVMI/0.jpg" alt="🏫 Istanbul University CE İÜ CE~ YEmreAk Katkıda Bulunma"></a>
-</div>
-
-### ✨ GitHub fork'u güncelleme
-
-Repo'yu daha önce _fork_ ettiysen yeni değişiklik eklemeden önce repo'yu güncellemen lazım, repo güncelleme anlatım videosu:
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=opIkgag6LFo"><img src="https://img.youtube.com/vi/opIkgag6LFo/0.jpg" alt="GitHub Fork'u Güncelleme"></a>
-</div>
-
-### 📂 GitHub'da Klasör Oluşturma
-
-- `Create New File` butonuna tıklayın
-- Resimdeki alana `/` koyma durumunuzda klasör açılır
-- Açılan klasörün altına `README.md` dosyası ekleyin
-- Dosyanın içine `# Dizin adı` yazın
-- `Commit New File` butonuna basın
-
-![](res/create_dir.png)
