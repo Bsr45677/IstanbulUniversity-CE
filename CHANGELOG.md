@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🚀 Yenilikler
 
+* 📂 GitHub'da Klasör Oluşturma bilgisi eklendi. [Yunus Emre]
+
 * 📃 NN final soruları eklendi (#39) [Asmaa Mirkhan]
 
 * 📂 Düzenlenmemiş eski ders notlar arşivi eklendi. [Yunus Emre]
@@ -79,6 +81,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 * ➕ Bitirme Projesi Form Örneği eklendi. [Yunus Emre]
 
 ### 🌌 Değişikler
+
+* 👀 Neler Değişti alanı yenilendi. [Yunus Emre]
 
 * 👀 Neler Değişti alanı yenilendi. [Yunus Emre]
 
