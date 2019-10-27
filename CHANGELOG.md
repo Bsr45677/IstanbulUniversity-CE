@@ -78,6 +78,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 * 👀 Neler Değişti alanı yenilendi. [Yunus Emre]
 
+* 👀 Neler Değişti alanı yenilendi. [Yunus Emre]
+
 * Update integrate.sh. [Yunus Emre]
 
 * 📙 Ders Notları Ekleme alanı yenilendi. [Yunus Emre]
@@ -139,6 +141,11 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
   This reverts commit 6a3051d1c02832579144fbead3bf6283f351091b.
 
 ### 🗽 Düzeltmeler
+
+* 👨‍🔧 Ders notlarındaki sorunlar giderildi. [Yunus Emre]
+
+  - Derleyici ders notlarının bozukluğu giderildi
+  - 2018 klasörüne alındı
 
 * 👨‍🔧 İsim düzeltildi (#37) [Abdullah Furkan Özbek]
 
