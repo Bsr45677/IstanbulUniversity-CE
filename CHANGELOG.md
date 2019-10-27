@@ -11,6 +11,15 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 * ✨ Değişiklik tespiti yenilendi. [Yunus Emre]
 
+### 💫 Değişikler
+
+* 🧹 [Yunus Emre]
+
+
+## 2.1 (2019-10-27)
+
+### ✨ Yenilikler
+
 * ✨ Script yenilendi. [Yunus Emre]
 
 * 📂 GitHub'da Klasör Oluşturma bilgisi eklendi. [Yunus Emre]
