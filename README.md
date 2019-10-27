@@ -23,10 +23,10 @@ description: İstanbul Üniversitesi Bilgisayar Mühendisliği 💻 notlarını 
 ```txt
 - Dönem
   - Dersin Adı
-    - Öğrenci Notları
-    - Ders Notları
-    - Lab Notları
-    - Diğer notları
+    - 📚 Ders İçeriği
+    - 📕 Öğrenci Notları
+    - 📃 Sınav Soruları
+    - 📁 Ek Kaynaklar
     - ...
   - ...
 - ...
