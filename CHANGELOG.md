@@ -7,19 +7,41 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ## ✨ Güncel
 
-### 🚀 Yenilikler
+### ✨ Yenilikler
+
+* ✨ Değişiklik tespiti yenilendi. [Yunus Emre]
+
+* ✨ Script yenilendi. [Yunus Emre]
 
 * 📂 GitHub'da Klasör Oluşturma bilgisi eklendi. [Yunus Emre]
 
+* ✨ Yapıda güzelleştirildi. [Yunus Emre]
+
+  - Hatalı yazılar düzeltildi
+  - Eksik emojiler eklendi
+  - Yapıya aykırı isimler düzeltildi
+
+  > @asmaamirkhan 'a teşekkürler ✨
+
 * 📃 NN final soruları eklendi (#39) [Asmaa Mirkhan]
+
+* ✨ Daha açıklayıcı yapıldı. [Yunus Emre]
+
+* ✨ Karşılma ekranı yenilendi. [Yunus Emre]
 
 * 📂 Düzenlenmemiş eski ders notlar arşivi eklendi. [Yunus Emre]
 
 * ✨ Ders notu ekleme alanı güzelleştirildi. [Yunus Emre]
 
+* 📙 Ders Notları Ekleme alanı yenilendi. [Yunus Emre]
+
+* ✨ Yeniden yapılandırıldı. [Yunus Emre]
+
 * 📕 Öğrenci notu eklendi. [Yunus Emre]
 
 * ✨ sayfa emojisi eklendi (#35) [Abdullah Furkan Özbek]
+
+* 📗 Bilgisayar Aritmetiği Ders Notları Eklendi (#34) [Abdullah Furkan Özbek]
 
 * 🚧 Bilgisayar Aritmatiği taslağı eklendi. [Yunus Emre]
 
@@ -30,6 +52,10 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 * 👩‍💻 Programlama sınav soruları eklendi (#29) [Asmaa Mirkhan]
 
 * Create CODE_OF_CONDUCT.md (#28) [Yunus Emre]
+
+* 📙 Ders Notları Ekleme alanı yenilendi. [Yunus Emre]
+
+* 📙 Ders Notları Ekleme alanı yenilendi. [Yunus Emre]
 
 * 🛫 Polonya'da Erasmus alanı eklendi. [Yunus Emre]
 
@@ -42,6 +68,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 * ✅ İstek Türü eklendi. [Yunus Emre]
 
 * 🔍 CEO çalışması eklendi. [Yunus Emre]
+
+* 📚 Ders notu isteği güncellendi. [Yunus Emre]
 
 * 🦋 Issue alanı eklendi. [Yunus Emre]
 
@@ -74,59 +102,47 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 * 💖 Katkıda Bulunma Rehberi eklendi. [Yunus Emre]
 
+* ✨ Dosya isimleri düzeltildi. [Yunus Emre]
+
+* ✨ [Yunus Emre]
+
 * 📱 Öğrenci notları eklendi. [Yunus Emre]
 
 * 📄 Örnek proje planı ve teklif formu eklendi. [Yunus Emre]
 
 * ➕ Bitirme Projesi Form Örneği eklendi. [Yunus Emre]
 
-### 🌌 Değişikler
+* ✨ Linkler direkt değil, önizlemeli indirilmeye alındı. [Yunus Emre]
+
+* 🐞✨ Sorunlar giderildi, güzelleştirildi. [Yunus Emre]
+
+  - Linkler artık github'ı açmak yerine direk olarak çalışıyor
+  - Sorunlu linkler giderildi
+  - İçeriklerde ufak düzenleme yapıldı
+
+### 💫 Değişikler
 
 * 🚙 Sayfaların Tasarımı ve Notların Tutulma Yapısı ana sayfaya alındı. [Yunus Emre]
 
-* 👀 Neler Değişti alanı yenilendi. [Yunus Emre]
+* 🧹 Bilgi kirliliği temizlendi. [Yunus Emre]
 
-* 👀 Neler Değişti alanı yenilendi. [Yunus Emre]
+* 🧹 Script temizlendi. [Yunus Emre]
 
-* 👀 Neler Değişti alanı yenilendi. [Yunus Emre]
+  Güncelleme alanı `pre-push` hook'una aktarıldı
 
-* ✨ Script yenilendi. [Yunus Emre]
+* 🚀 Emojilendi. [Yunus Emre]
 
-* 👀 Neler Değişti alanı yenilendi. [Yunus Emre]
+* 💫 YEmreAk entegrasyonu sağlandı. [Yunus Emre]
 
-* 👀 Neler Değişti alanı yenilendi. [Yunus Emre]
-
-* 👀 Neler Değişti alanı yenilendi. [Yunus Emre]
-
-* 👀 Neler Değişti alanı yenilendi. [Yunus Emre]
-
-* 👀 Neler Değişti alanı yenilendi. [Yunus Emre]
-
-* ✨ Karşılma ekranı yenilendi. [Yunus Emre]
-
-* 👀 Neler Değişti alanı yenilendi. [Yunus Emre]
-
-* 👀 Neler Değişti alanı yenilendi. [Yunus Emre]
-
-* 👀 Neler Değişti alanı yenilendi. [Yunus Emre]
-
-* 👀 Neler Değişti alanı yenilendi. [Yunus Emre]
-
-* 👀 Neler Değişti alanı yenilendi. [Yunus Emre]
-
-* 👀 Neler Değişti alanı yenilendi. [Yunus Emre]
+* 🚀 Emojilendi. [Yunus Emre]
 
 * Update integrate.sh. [Yunus Emre]
 
-* 📙 Ders Notları Ekleme alanı yenilendi. [Yunus Emre]
-
 * 💫 Entegrasyon yenilendi. [Yunus Emre]
 
-* ✨ Yeniden yapılandırıldı. [Yunus Emre]
+* ❌ Eski bilgiler kaldırıldı (#32) [Asmaa Mirkhan]
 
-* 📙 Ders Notları Ekleme alanı yenilendi. [Yunus Emre]
-
-* 📙 Ders Notları Ekleme alanı yenilendi. [Yunus Emre]
+* 🧹 Gereksizler kaldırıldı. [Yunus Emre]
 
 * 💫 Entegrasyon yenilendi. [Yunus Emre]
 
@@ -134,7 +150,7 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 * 🍁 PR yapısı yenilendi. [Yunus Emre]
 
-* 📚 Ders notu isteği güncellendi. [Yunus Emre]
+* 🚙 Final bilgileri yeniden konumlandırıldı. [Yunus Emre]
 
 * 🚀 Issue kalıpları yenilendi. [Yunus Emre]
 
@@ -164,9 +180,9 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 * Update Okul Klüpleri.md. [Abdullah Furkan Özbek]
 
-* Update SUMMARY.md. [Yunus Emre]
+* 💫 [Yunus Emre]
 
-* ✨ Linkler direkt değil, önizlemeli indirilmeye alındı. [Yunus Emre]
+* Update SUMMARY.md. [Yunus Emre]
 
 * Revert "🚀 Artık dosyalara direkt olarak erişim var" [Yunus Emre]
 
@@ -176,9 +192,7 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
   This reverts commit 6a3051d1c02832579144fbead3bf6283f351091b.
 
-### 🗽 Düzeltmeler
-
-* 🙄 Önemsiz düzeltme. [Yunus Emre]
+### 👨‍🔧 Düzeltmeler
 
 * 👨‍🔧 Önemsiz düzeltme. [Yunus Emre]
 
@@ -189,15 +203,11 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 * 👨‍🔧 İsim düzeltildi (#37) [Abdullah Furkan Özbek]
 
-* ❌ Eski bilgiler kaldırıldı (#32) [Asmaa Mirkhan]
-
 * 👨‍🔧 Sorunlu linkler düzeltildi. [Yunus Emre]
 
 * 👨‍🔧 linkteki buglar çözüldü (#31) [Abdullah Furkan Özbek]
 
 * 👨‍🔧 Dosya adları düzenlendi. [Yunus Emre]
-
-* 🧹 Gereksizler kaldırıldı. [Yunus Emre]
 
 * 👨‍🔧 İçerik yapısı düzenlendi. [Yunus Emre]
 
@@ -213,47 +223,15 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 * 👨‍🔧 Yazım hataları ve kusurlu bağlantılar düzeltildi. [Yunus Emre]
 
-* ✨ Dosya isimleri düzeltildi. [Yunus Emre]
-
-* 🐞✨ Sorunlar giderildi, güzelleştirildi. [Yunus Emre]
-
-  - Linkler artık github'ı açmak yerine direk olarak çalışıyor
-  - Sorunlu linkler giderildi
-  - İçeriklerde ufak düzenleme yapıldı
+* 🐞 [Yunus Emre]
 
 ### 📡 Diğerler
 
-* 🧹 Bilgi kirliliği temizlendi. [Yunus Emre]
-
 * 🧪 Emoji denemesi yapıldı. [Yunus Emre]
-
-* ✨ Yapıda güzelleştirildi. [Yunus Emre]
-
-  - Hatalı yazılar düzeltildi
-  - Eksik emojiler eklendi
-  - Yapıya aykırı isimler düzeltildi
-
-  > @asmaamirkhan 'a teşekkürler ✨
 
 * Merge branch 'master' of https://github.com/YEmreAk/IstanbulUniversity-CE. [Yunus Emre]
 
-* ✨ Daha açıklayıcı yapıldı. [Yunus Emre]
-
-* 🧹 Script temizlendi. [Yunus Emre]
-
-  Güncelleme alanı `pre-push` hook'una aktarıldı
-
-* 🚀 Emojilendi. [Yunus Emre]
-
-* 💫 YEmreAk entegrasyonu sağlandı. [Yunus Emre]
-
-* 🚀 Emojilendi. [Yunus Emre]
-
-* 📗 Bilgisayar Aritmetiği Ders Notları Eklendi (#34) [Abdullah Furkan Özbek]
-
 * 🎀 Etiket Çalışması gizlendi. [Yunus Emre]
-
-* 🚙 Final bilgileri yeniden konumlandırıldı. [Yunus Emre]
 
 * Merge branch 'master' of https://github.com/yedhrab/IstanbulUniversity-CE. [Yunus Emre]
 
@@ -283,20 +261,18 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
   Update Okul Klüpleri.md
 
-* ✨ [Yunus Emre]
-
-* 🐞 [Yunus Emre]
-
-* 💫 [Yunus Emre]
-
 * GitBook: [master] 490 pages and 370 assets modified. [Yunus Emre]
 
 
 ## 2.0 (2019-10-10)
 
-### 🚀 Yenilikler
+### ✨ Yenilikler
 
 * 🏫 Istanbul University CE İÜ CE~ YEmreAk Katkıda Bulunma videosu eklendi. [Yunus Emre]
+
+* ✨ Yapıda güzelleştirme ve süsleme yapıldı. [Yunus Emre]
+
+* ✨ Yapıda güzelleştirme ve süsleme yapılda. [Yunus Emre]
 
 * 📗 Ders Programları eklendi. [Yunus Emre]
 
@@ -306,7 +282,7 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 * 16BitMipsVHDL.pdf eklendi. [Yunus Emre]
 
-### 🌌 Değişikler
+### 💫 Değişikler
 
 * 🚀 Artık dosyalara direkt olarak erişim var. [Yunus Emre]
 
@@ -352,7 +328,7 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 * Bilgisayar Mimarisi notları yenilendi. [Yunus Emre]
 
-### 🗽 Düzeltmeler
+### 👨‍🔧 Düzeltmeler
 
 * 🐞 Dosyaların gözükmeme sorunu giderildi. [Yunus Emre]
 
@@ -368,16 +344,12 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 * 🏫 Istanbul University CE İÜ CE~ YEmreAk Katkıda Bulunma. [Yunus Emre]
 
-* ✨ Yapıda güzelleştirme ve süsleme yapıldı. [Yunus Emre]
-
-* ✨ Yapıda güzelleştirme ve süsleme yapılda. [Yunus Emre]
-
 * İçerikler sıralandı. [Yunus Emre]
 
 
 ## 1.2 (2019-10-02)
 
-### 🚀 Yenilikler
+### ✨ Yenilikler
 
 * 💎 Linux Kernel Güncelleme eklendi. [Yunus Emre]
 
@@ -407,7 +379,7 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 * 🗽 İndekslemeler eklendi. [Yunus Emre]
 
-### 🌌 Değişikler
+### 💫 Değişikler
 
 * Son değişiklikler güncellendi. [Yunus Emre]
 
@@ -419,18 +391,16 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 * 🔑 İnformasyon Güvenliği ve Kriptoloji başlığı değiştirildi. [Yunus Emre]
 
-### 🗽 Düzeltmeler
+### 👨‍🔧 Düzeltmeler
 
 * 🐞 Ufak sorunlar giderildi. [Yunus Emre]
 
 * ✍ Yazım hataları giderildi. [Yunus Emre]
 
-* Ufak düzenleme (önemsiz) [Yunus Emre]
-
 
 ## 1.1 (2019-09-18)
 
-### 🚀 Yenilikler
+### ✨ Yenilikler
 
 * Kriptoloji dersinin ilk gününde yapılan quiz soruları ve cevapları eklendi. [Yunus Emre]
 
@@ -442,13 +412,17 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 * 🧪 Computer Science alanı eklendi. [Yunus Emre]
 
+* ✨ Özenle Hazırladığım Diğer Dökümanlarım yenilendi. [Yunus Emre]
+
 * 🗽 Hoş Geldin metni eklendi. [Yunus Emre]
+
+* Update 📙 Ders Seçimi.md. [Yunus Emre]
 
 * Tüm sınıfları ilgilendiren faydalı notlar eklendi✨ [Yunus Emre]
 
   [🤓 Genel Bilgiler](1%20-%20Genel%20Bilgiler9
 
-### 🌌 Değişikler
+### 💫 Değişikler
 
 * Update README.md. [Yunus Emre]
 
@@ -466,6 +440,10 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 * Staj Notları yenilendi. [Yunus Emre]
 
+* 🧹 Derslerin altında yazan "Yok 😅" yazısı kaldırıldı. [Yunus Emre]
+
+* 🧹 Gereksiz linkler temizlendi. [Yunus Emre]
+
 * 🛰 Tüm indekslemeler yeniden yapılandırıldı. [Yunus Emre]
 
   😩 Yoğun bir çalışma sonrasında indekleme repoya uygun bir yapıya geçirildi
@@ -473,11 +451,7 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 * 📂 Harici dosyalar adına geçildi. [Yunus Emre]
 
-* ✨ Özenle Hazırladığım Diğer Dökümanlarım yenilendi. [Yunus Emre]
-
-* Update 📙 Ders Seçimi.md. [Yunus Emre]
-
-### 🗽 Düzeltmeler
+### 👨‍🔧 Düzeltmeler
 
 * 🏗 Sayfalar Tasarımı ve Notların Tutulma Yapısı hakkında ek notlar ve düzenlemeler. [Yunus Emre]
 
@@ -487,26 +461,42 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 * Önemsiz düzeltme. [Yunus Emre]
 
-* 🧹 Derslerin altında yazan "Yok 😅" yazısı kaldırıldı. [Yunus Emre]
-
-### 📡 Diğerler
-
-* 🧹 Gereksiz linkler temizlendi. [Yunus Emre]
-
 
 ## 1.0 (2019-09-11)
 
-### 🚀 Yenilikler
+### ✨ Yenilikler
 
 * 👀 Neler değişti eklendi. [Yunus Emre]
 
 * Yeni ders programı eklendi. [Yunus Emre]
 
+* Update 📙 Ders Seçimi.md. [Yunus Emre]
+
 * Ders notları arttırıldı. [Yunus Emre]
+
+* ✨ Emojilendi. [Yunus Emre]
+
+* ✨ Ufak düzeltme. [Yunus Emre]
 
 * Ek açıklamalar ve içerik desteği eklendi 🚀 [Yunus Emre]
 
+* ✨ Ufak güzelleştirme. [Yunus Emre]
+
+* Ufak düzeltme ✨ [Yunus Emre]
+
 * Staj Bitiminde Gerekli Olan Belgeler eklendi. [Yunus Emre]
+
+* GitBook 📖 entegrasyonu. [Yunus Emre]
+
+  Entegrasyonun çoğu halledildi 💞
+
+* Görsel düzenleme ✨ [Yunus Emre]
+
+* Emojiler belirgin kılındı ✨ [Yunus Emre]
+
+* Ufak düzeltme ve güzelleştirme yapıldı ✨ [Yunus Emre]
+
+* Ufak güzelleştirme ✨ [Yunus Emre]
 
 * 🗽 Indekleme eklendi. [Yunus Emre]
 
@@ -517,6 +507,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 * Kalıp eklendi 🧼 [Yunus Emre]
 
 * Yapılacaklar eklendi ✔ [Yunus Emre]
+
+* Güzelleştirme ✨ [Yunus Emre]
 
 * Resmi saatler eklendi ⌚ [Yunus Emre]
 
@@ -610,6 +602,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 * Erasmus bilgileri eklendi. [Yunus Emre]
 
+* Harici linkler yenilendi ✨ [YEmreAk]
+
 * Öğrenci notları eklendi ✨ [YEmreAk]
 
   Asma Mirkhan'ın ders notları eklendi.
@@ -654,7 +648,11 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 * Resmi ders içeriği eklendi 🆕 [YEmreAk]
 
+* Komple güncelleme ✨ [YEmreAk]
+
 * Yeni bilgiler eklendi 🗞 [YEmreAk]
+
+* README güncelleyici yenilendi ✨ [YEmreAk]
 
 * 2018 proje ödevleri eklendi 😱 [YEmreAk]
 
@@ -662,15 +660,17 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 * Microsoft ve JetBrains lisans bilgileri eklendi ✨ [YEmreAk]
 
-### 🌌 Değişikler
-
-* Update 📙 Ders Seçimi.md. [Yunus Emre]
+### 💫 Değişikler
 
 * Ders seçimi duyurusu yenilendi. [Yunus Emre]
+
+* 🧹 Gereksizler silindi, indeks hatası giderildi. [Yunus Emre]
 
 * Update SUMMARY.md. [Yunus Emre]
 
 * 🗽 indeksler yenilendi. [Yunus Emre]
+
+* 🚀 Kişisel ders seçimi tavsileri. [Yunus Emre]
 
 * 📧 Mail linki güncellendi. [Yunus Emre]
 
@@ -682,11 +682,25 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 * Iuce.yemreak.com'a aktarıldı 🚙 [Yunus Emre]
 
+* Gereksizler kaldırıldı 🧹 [Yunus Emre]
+
 * Update SUMMARY.md. [Yunus Emre]
+
+* Gereksizler kaldırıldı 🧹 [Yunus Emre]
 
 * Ortak notlar için PDF 🔗 linkleri koyuldu. [Yunus Emre]
 
 * Update SUMMARY.md. [Yunus Emre]
+
+* Gereksizler temizlendi 🧹 [Yunus Emre]
+
+* Gitbook'dan gelenler kaldırıldı 🧹 [Yunus Emre]
+
+* Gereksiz indeksleme kaldırıldı 🧹 [Yunus Emre]
+
+* İçerikler kısmı kaldırıldı 🧹 [Yunus Emre]
+
+  GitBook entegrasyonu olduğundan içerikler otomatik oluşturulmakta ✨
 
 * Update README.md. [Yunus Emre]
 
@@ -714,6 +728,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 * Update FUNDING.yml. [Yunus Emre]
 
+* Kararlı sürüm 🚀 [Yunus Emre]
+
 * Yeni yapıya geçildi 🔥 [Yunus Emre]
 
 * Link yenilendi 🆕 [Yunus Emre]
@@ -722,11 +738,13 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
   3. sınıf 2. dönem derslerinin yapısı değiştirildi 🔥
 
+* Gereksiz tema verisi kaldırıldı 🧹 [Yunus Emre]
+
 * Latex denemesi geri alındı. [Yunus Emre]
 
-* Klasör ismi değiştirildi. [YEmreAk]
+* Yeni notlar 🚀 [Yunus Emre]
 
-* Harici linkler yenilendi ✨ [YEmreAk]
+* Klasör ismi değiştirildi. [YEmreAk]
 
 * İndeskleme yenilendi. [YEmreAk]
 
@@ -740,19 +758,17 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 * Script güncellendi. [Yunus Emre]
 
+* İndeksleme düzeltildi 🚀 [Yunus Emre]
+
 * Ders içerikleri doğru alana taşındı 👣 [YEmreAk]
 
 * Ders içerikleri doğru yere taşındı 👣 [YEmreAk]
 
 * Veriler güncellendi 🏗 [YEmreAk]
 
-* Komple güncelleme ✨ [YEmreAk]
-
 * Master aktarıldı 🛬 [YEmreAk]
 
 * Görünüm için yapılandırıld 🏗ı. [YEmreAk]
-
-* README güncelleyici yenilendi ✨ [YEmreAk]
 
 * Sistemi yeniden yapılandırma 🏗 [YEmreAk]
 
@@ -762,9 +778,7 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 * Giriş yapılandırması 🏗 [YEmreAk]
 
-### 🗽 Düzeltmeler
-
-* 🧹 Gereksizler silindi, indeks hatası giderildi. [Yunus Emre]
+### 👨‍🔧 Düzeltmeler
 
 * Hatalı link düzeltildi. [Yunus Emre]
 
@@ -774,39 +788,25 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 * Ufak düzeltme. [Yunus Emre]
 
-* ✨ Ufak düzeltme. [Yunus Emre]
+* 👨‍⚖️ [Yunus Emre]
+
+* 👨‍🏫 [Yunus Emre]
 
 * Link sorunu giderildi. [Yunus Emre]
 
 * Yazım hatası giderildi. [Yunus Emre]
 
-* Ufak düzeltme ✨ [Yunus Emre]
-
-* Gereksizler kaldırıldı 🧹 [Yunus Emre]
-
 * PDF ismi düzeltildi 🐞 [Yunus Emre]
 
 * Link sorunu giderildi 🐞 [Yunus Emre]
 
-* Gereksizler kaldırıldı 🧹 [Yunus Emre]
-
-* Görsel düzenleme ✨ [Yunus Emre]
-
-* Gitbook'dan gelenler kaldırıldı 🧹 [Yunus Emre]
-
-* Ufak düzeltme ve güzelleştirme yapıldı ✨ [Yunus Emre]
-
-* Gereksiz indeksleme kaldırıldı 🧹 [Yunus Emre]
+* GitBook için entegrasyon çakışmaları 👨‍🔧 [Yunus Emre]
 
 * İndeksleme kaldırıldı. [Yunus Emre]
 
 * Hata düzeltmesi. [Yunus Emre]
 
 * Hata düzeltmeleri yapıldı 🐞 [Yunus Emre]
-
-* İçerikler kısmı kaldırıldı 🧹 [Yunus Emre]
-
-  GitBook entegrasyonu olduğundan içerikler otomatik oluşturulmakta ✨
 
 * Lİnk sorunu giderildi 🐛 [Yunus Emre]
 
@@ -838,8 +838,6 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 * Hatalı link düzeltildi. [Yunus Emre]
 
-* Gereksiz tema verisi kaldırıldı 🧹 [Yunus Emre]
-
 * Hatalı metin giderildi. [Yedhrab]
 
 * Hata düzeltmesi. [Yedhrab]
@@ -870,8 +868,6 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 * Gereksiz indeksleme kaldırıldı. [Yunus Emre]
 
-* İndeksleme düzeltildi 🚀 [Yunus Emre]
-
 * Yapısal düzenleme 🏗 [Yunus Emre]
 
 * Yapısal düzenleme 🏗 [Yunus Emre]
@@ -892,35 +888,11 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 📡 Diğerler
 
-* ✨ Emojilendi. [Yunus Emre]
-
 * . [Yunus Emre]
-
-* 👨‍⚖️ [Yunus Emre]
-
-* 👨‍🏫 [Yunus Emre]
-
-* 🚀 Kişisel ders seçimi tavsileri. [Yunus Emre]
-
-* ✨ Ufak güzelleştirme. [Yunus Emre]
 
 * Yapılacaklar yapıldı ✔ [Yunus Emre]
 
-* GitBook 📖 entegrasyonu. [Yunus Emre]
-
-  Entegrasyonun çoğu halledildi 💞
-
-* Emojiler belirgin kılındı ✨ [Yunus Emre]
-
-* Gereksizler temizlendi 🧹 [Yunus Emre]
-
 * GitBook: [master] 235 pages and 249 assets modified. [Yunus Emre]
-
-* Ufak güzelleştirme ✨ [Yunus Emre]
-
-* GitBook için entegrasyon çakışmaları 👨‍🔧 [Yunus Emre]
-
-* Güzelleştirme ✨ [Yunus Emre]
 
 * Yeni bilgiler 🗽 [Yunus Emre]
 
@@ -940,8 +912,6 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 * ✍ [Yunus Emre]
 
-* Kararlı sürüm 🚀 [Yunus Emre]
-
 * Yeni yapıdan nasibini aldı 🔥 [Yunus Emre]
 
 * Yapısal düzemleme 🔥 [Yunus Emre]
@@ -955,8 +925,6 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 * Tempm. [Yunus Emre]
 
 * Latex denemesi. [Yunus Emre]
-
-* Yeni notlar 🚀 [Yunus Emre]
 
 * Yeni bilgiler. [Yunus Emre]
 
