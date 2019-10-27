@@ -14,22 +14,6 @@ description: Projeye katkı sağlamak isteyenler için bilgilendirme
 
 > 📌 **Formata ([markdown](https://wiki.yemreak.com/1-programlama-notlari/0-genel-notlar/2-markdown)'a) uygun şekilde katkıda bulunursanız hoş olur 😊**
 
-
-## 👷‍ Sayfaların Tasarımı ve Notların Tutulma Yapısı
-
-```txt
-- Dönem
-  - Dersin Adı
-    - Öğrenci Notları
-    - Ders Notları
-    - Lab Notları
-    - Diğer notları
-    - ...
-  - ...
-- ...
-...
-```
-
 ## 📙 Ders Notları Ekleme
 
 Açık kaynaklı projeye ders notların ile katkı sağlamak için:

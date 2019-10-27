@@ -18,6 +18,21 @@ description: İstanbul Üniversitesi Bilgisayar Mühendisliği 💻 notlarını 
 - [💖 Katkıda Bulunma Rehberi](CONTRIBUTING.md) alanından projeye **katkıda** bulunabilirsin
 - **Ders notu istekleri** için [🦋 Issue](https://github.com/YEmreAk/IstanbulUniversity-CE/issues/new/choose) alanından dersin adını belirtebilirsin.
 
+## 👷‍ Sayfaların Tasarımı ve Notların Tutulma Yapısı
+
+```txt
+- Dönem
+  - Dersin Adı
+    - Öğrenci Notları
+    - Ders Notları
+    - Lab Notları
+    - Diğer notları
+    - ...
+  - ...
+- ...
+...
+```
+
 ## 📃 Tüm İçerikler
 
 <!--Index-->
