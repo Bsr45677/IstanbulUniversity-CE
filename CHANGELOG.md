@@ -82,6 +82,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 * 👀 Neler Değişti alanı yenilendi. [Yunus Emre]
 
+* 👀 Neler Değişti alanı yenilendi. [Yunus Emre]
+
 * ✨ Karşılma ekranı yenilendi. [Yunus Emre]
 
 * 👀 Neler Değişti alanı yenilendi. [Yunus Emre]
@@ -200,6 +202,14 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
   - İçeriklerde ufak düzenleme yapıldı
 
 ### 📡 Diğerler
+
+* ✨ Yapıda güzelleştirildi. [Yunus Emre]
+
+  - Hatalı yazılar düzeltildi
+  - Eksik emojiler eklendi
+  - Yapıya aykırı isimler düzeltildi
+
+  > @asmaamirkhan 'a teşekkürler ✨
 
 * Merge branch 'master' of https://github.com/YEmreAk/IstanbulUniversity-CE. [Yunus Emre]
 
