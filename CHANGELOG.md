@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🚀 Yenilikler
 
+* 📂 Düzenlenmemiş eski ders notlar arşivi eklendi. [Yunus Emre]
+
 * ✨ Ders notu ekleme alanı güzelleştirildi. [Yunus Emre]
 
 * 📕 Öğrenci notu eklendi. [Yunus Emre]
@@ -75,6 +77,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 * ➕ Bitirme Projesi Form Örneği eklendi. [Yunus Emre]
 
 ### 🌌 Değişikler
+
+* 👀 Neler Değişti alanı yenilendi. [Yunus Emre]
 
 * 👀 Neler Değişti alanı yenilendi. [Yunus Emre]
 
@@ -182,6 +186,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
   - İçeriklerde ufak düzenleme yapıldı
 
 ### 📡 Diğerler
+
+* 🚀 Emojilendi. [Yunus Emre]
 
 * 📗 Bilgisayar Aritmetiği Ders Notları Eklendi (#34) [Abdullah Furkan Özbek]
 
