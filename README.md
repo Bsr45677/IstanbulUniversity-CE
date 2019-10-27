@@ -9,6 +9,7 @@ description: İstanbul Üniversitesi Bilgisayar Mühendisliği 💻 notlarını 
 - **Sağ üstteki [🔍 Arama Buton](https://iuce.yemreak.com/?q=)'nu kullanmayı asla ama asla ihmal etme**
   - Hocaların ve derslerin adları, ders konuları vs. aratabilirsin
 - [👀 Neler Değişti](./CHANGELOG.md) veya [✨ Commits](https://github.com/yedhrab/IstanbulUniversity-CE/commits/master) alanından değişiklikleri görebilirsin
+- 📂 Düzenlenmemiş eski ders notlar arşivi için [buraya](https://drive.google.com/open?id=1JPZH6Z_K59UeO-A79H0pcBIsAJlw40Y-) bakabilirsin.
 
 > Her sayfanın en altında bulunan memnuniyet anketi ile ✨ gelişime ortak olabilirsin.
 
