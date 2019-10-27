@@ -13,7 +13,6 @@ description: İstanbul Üniversitesi Bilgisayar Mühendisliği 💻 notlarını 
 
 > Her sayfanın en altında bulunan memnuniyet anketi ile ✨ gelişime ortak olabilirsin.
 
-
 ## 💡 İçerik Desteğinde Bulunma veya Fikir Belirtme
 
 - [💖 Katkıda Bulunma Rehberi](CONTRIBUTING.md) alanından projeye **katkıda** bulunabilirsin
