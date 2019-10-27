@@ -76,6 +76,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🌌 Değişikler
 
+* Update integrate.sh. [Yunus Emre]
+
 * 📙 Ders Notları Ekleme alanı yenilendi. [Yunus Emre]
 
 * 💫 Entegrasyon yenilendi. [Yunus Emre]
