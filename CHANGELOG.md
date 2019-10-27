@@ -9,6 +9,12 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🚀 Yenilikler
 
+* 📕 Öğrenci notu eklendi. [Yunus Emre]
+
+* ✨ sayfa emojisi eklendi (#35) [Abdullah Furkan Özbek]
+
+* 🚧 Bilgisayar Aritmatiği taslağı eklendi. [Yunus Emre]
+
 * ➕ Neural Network slaytları eklendi. [Yunus Emre]
 
 * 🔗 Bağlantılar oluşturuldu. [Yunus Emre]
@@ -68,6 +74,10 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🌌 Değişikler
 
+* 💫 Entegrasyon yenilendi. [Yunus Emre]
+
+* ✨ Yeniden yapılandırıldı. [Yunus Emre]
+
 * 📙 Ders Notları Ekleme alanı yenilendi. [Yunus Emre]
 
 * 📙 Ders Notları Ekleme alanı yenilendi. [Yunus Emre]
@@ -122,6 +132,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🗽 Düzeltmeler
 
+* 👨‍🔧 İsim düzeltildi (#37) [Abdullah Furkan Özbek]
+
 * ❌ Eski bilgiler kaldırıldı (#32) [Asmaa Mirkhan]
 
 * 👨‍🔧 Sorunlu linkler düzeltildi. [Yunus Emre]
@@ -155,6 +167,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
   - İçeriklerde ufak düzenleme yapıldı
 
 ### 📡 Diğerler
+
+* 📗 Bilgisayar Aritmetiği Ders Notları Eklendi (#34) [Abdullah Furkan Özbek]
 
 * 🎀 Etiket Çalışması gizlendi. [Yunus Emre]
 
