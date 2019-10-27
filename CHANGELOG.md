@@ -15,6 +15,10 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 * 🧹 [Yunus Emre]
 
+### 👨‍🔧 Düzeltmeler
+
+* 👩‍🔧 Sayfaların Tasarımı ve Notların Tutulma Yapısı alanı düzenlendi. [Yunus Emre]
+
 
 ## 2.1 (2019-10-27)
 
