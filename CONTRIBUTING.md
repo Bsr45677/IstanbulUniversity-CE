@@ -61,7 +61,6 @@ Adlandırma kuralı `<yıl> <tip> <ders_kodu> ~ <sahibi>` şeklindedir.
 | `2018 Tam Calculus ~ Asma Mirkhan.pdf` | `1. Sınıf 1. Dönem Notları - Calculus 1 - Öğrenci Notları`      |
 
 
-
 ## 📑 İçerik Yazma Formatı
 
 Başlık ile alakalı bir emoji koyman verimlilik adına çok etkilidir.
