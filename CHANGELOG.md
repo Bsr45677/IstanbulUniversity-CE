@@ -82,6 +82,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🌌 Değişikler
 
+* 👀 Neler Değişti alanı yenilendi. [Yunus Emre]
+
 * ✨ Script yenilendi. [Yunus Emre]
 
 * 👀 Neler Değişti alanı yenilendi. [Yunus Emre]
@@ -212,6 +214,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
   - İçeriklerde ufak düzenleme yapıldı
 
 ### 📡 Diğerler
+
+* 🧹 Bilgi kirliliği temizlendi. [Yunus Emre]
 
 * 🧪 Emoji denemesi yapıldı. [Yunus Emre]
 
