@@ -6,19 +6,23 @@
 ## Değişiklik Türü
 
 - [ ] 📘 Ders notu ekleme
+- [ ] 📃 Sınav soruları ekleme
 - [ ] 🕵️‍ Sorun tespiti
 - [ ] 🐛 Sorun çözümü
 - [ ] ✨ Geliştirme
 
 ## ✨ Değişikler
-<!-- Pull Request'te değiştirdiğin özellikler nelerdir? -->
+<!--
+- Pull Request'te değiştirdiğin özellikler nelerdir?
+- Issue'ye bağlı ise #'nın yanına sadece issue numarasını yazın
+-->
 
--
--
+> Alakalı Issue: #
 
 ## 💡 Gözden Geçireceklere Tavsiyeler
 <!--
-Önemli olduğunu belirmek istediğin özel notları yazabilirsin.
-Eğer kişilere yönelik bir vurgu yapacaksan @kisi yapısı ile bunu yapabilirsin
+- İsteğe bağlıdır
+- Eğer kişilere yönelik bir vurgu yapacaksan @kisi yapısı ile bunu yapabilirsin
+- Önemli olduğunu belirmek istediğin özel notları yazabilirsin
 -->
 
