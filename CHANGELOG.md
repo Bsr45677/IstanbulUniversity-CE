@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🚀 Yenilikler
 
+* 📃 NN final soruları eklendi (#39) [Asmaa Mirkhan]
+
 * 📂 Düzenlenmemiş eski ders notlar arşivi eklendi. [Yunus Emre]
 
 * ✨ Ders notu ekleme alanı güzelleştirildi. [Yunus Emre]
@@ -77,6 +79,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 * ➕ Bitirme Projesi Form Örneği eklendi. [Yunus Emre]
 
 ### 🌌 Değişikler
+
+* 👀 Neler Değişti alanı yenilendi. [Yunus Emre]
 
 * ✨ Karşılma ekranı yenilendi. [Yunus Emre]
 
@@ -196,6 +200,10 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
   - İçeriklerde ufak düzenleme yapıldı
 
 ### 📡 Diğerler
+
+* Merge branch 'master' of https://github.com/YEmreAk/IstanbulUniversity-CE. [Yunus Emre]
+
+* ✨ Daha açıklayıcı yapıldı. [Yunus Emre]
 
 * 🧹 Script temizlendi. [Yunus Emre]
 
