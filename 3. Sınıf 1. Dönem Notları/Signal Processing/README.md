@@ -1,6 +1,6 @@
-# Signal Processing 
+# Signal Processing
 
-## Ders Notları ~ YEmreAk Bilgileri
+## 📚 Ders İçeriği ~ YEmreAk Bilgileri
 
 - Final kısmı 7. sayfadan başlar
 

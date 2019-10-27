@@ -1,4 +1,4 @@
-# 📚 Ders İçeriği
+# README.md
 
 <!--Index-->
 

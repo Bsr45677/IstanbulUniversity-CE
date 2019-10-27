@@ -1,4 +1,4 @@
-# Artifical Intelligence 
+# Artificial Intelligence
 
 ## Sınav Bilgileri
 

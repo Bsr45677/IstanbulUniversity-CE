@@ -1,4 +1,4 @@
-# Öğrenci Noltarı
+# 📕 Öğrenci Notları
 
 <!--Index-->
 
