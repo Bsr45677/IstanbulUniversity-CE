@@ -1,6 +1,6 @@
-# Formal Diller ve Otomatlar 
+# Formal Diller ve Otomatlar
 
-## 2018 Final Sınavı Bilgileri
+## 📅 2018 Final Sınavı Bilgileri
 
 Resme [buradan][2018 Final FDO] erişebilirsin
 

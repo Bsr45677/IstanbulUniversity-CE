@@ -2,4 +2,4 @@
 descriotion: Derstte kullanılan slaytları barındırır.
 ---
 
-# Ders İçeriği
+# 📚 Ders İçeriği
