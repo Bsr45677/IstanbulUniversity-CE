@@ -84,6 +84,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 * 👀 Neler Değişti alanı yenilendi. [Yunus Emre]
 
+* 👀 Neler Değişti alanı yenilendi. [Yunus Emre]
+
 * ✨ Script yenilendi. [Yunus Emre]
 
 * 👀 Neler Değişti alanı yenilendi. [Yunus Emre]
@@ -171,6 +173,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
   This reverts commit 6a3051d1c02832579144fbead3bf6283f351091b.
 
 ### 🗽 Düzeltmeler
+
+* 🙄 Önemsiz düzeltme. [Yunus Emre]
 
 * 👨‍🔧 Önemsiz düzeltme. [Yunus Emre]
 
