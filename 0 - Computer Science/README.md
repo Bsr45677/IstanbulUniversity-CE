@@ -1,3 +1,7 @@
+---
+description: Bilgisayar bilimi ile alakalı bağlantılar
+---
+
 # 🧪 Computer Science
 
 - [University Courses](https://github.com/prakhar1989/awesome-courses#readme)
