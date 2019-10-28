@@ -1,2 +1,2 @@
-# Calculus 1
+# 🧮 Calculus 1
 

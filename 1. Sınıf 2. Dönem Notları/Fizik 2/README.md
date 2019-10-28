@@ -1,4 +1,4 @@
-# Fizik 2 
+# 💠 Fizik 2
 
 ## Ders Bilgileri
 

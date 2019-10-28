@@ -1,2 +1,2 @@
-# Atatürk İlkeleri ve İnkılap 2
+# 📅 Atatürk İlkeleri ve İnkılap 2
 

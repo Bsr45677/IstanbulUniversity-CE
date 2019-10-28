@@ -1,2 +1,2 @@
-# Bilgisayar Mühendisliğine Giriş
+# 🔰 Bilgisayar Mühendisliğine Giriş
 

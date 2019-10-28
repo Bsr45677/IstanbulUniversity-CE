@@ -1,2 +1,2 @@
-# Discrete Mathematics
+# 🔢 Discrete Mathematics
 

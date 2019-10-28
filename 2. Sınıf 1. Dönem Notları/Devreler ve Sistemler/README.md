@@ -1,1 +1,1 @@
-# Devreler ve Sistemler 
+# ⚡ Devreler ve Sistemler

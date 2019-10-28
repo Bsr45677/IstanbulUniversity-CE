@@ -43,3 +43,5 @@
 - [IMG-20171102-WA0010](./IMG-20171102-WA0010.jpg)
 
 <!--Index-->
+
+> Buranın düzenlenmeye ihtiyacı var 😥

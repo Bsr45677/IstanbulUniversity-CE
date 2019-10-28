@@ -1,4 +1,4 @@
-# Differantial Equations 
+# ➰ Differantial Equations
 
 ## Sınav Bilgileri
 
