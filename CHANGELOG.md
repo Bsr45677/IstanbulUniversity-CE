@@ -41,11 +41,15 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 💫 Değişikler
 
+* Update README.md. [Yunus Emre]
+
 * 🚀 Emojilendirme ve düzenleme yapıldı. [Yunus Emre]
 
 * 🧹 [Yunus Emre]
 
 ### 👨‍🔧 Düzeltmeler
+
+* 🐛 Sorunlu dosya isimleri düzeltildi. [Yunus Emre]
 
 * 👨‍🔧 Emoji düzeltildi. [Yunus Emre]
 
