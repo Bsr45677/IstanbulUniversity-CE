@@ -2,11 +2,15 @@
 
 <!--Index-->
 
-- [Büt 2015 ~ Cal1](./B%C3%BCt%202015%20~%20Cal1.jpeg)
-- [Final 2014 ~ Cal1](./Final%202014%20~%20Cal1.jpeg)
-- [Final 2017 ~ Cal1](./Final%202017%20~%20Cal1.jpeg)
-- [Final 2018 Endüstri ~ Cal1](./Final%202018%20End%C3%BCstri%20~%20Cal1.jpeg)
-- [Final 2018 ~ Cal1](./Final%202018%20~%20Cal1.jpeg)
-- [Vize 2017 ~ Cal1](./Vize%202017%20~%20Cal1.jpeg)
+- [2014 Final C1](./2014%20Final%20C1.pdf)
+- [2015 Büt C1](./2015%20B%C3%BCt%20C1.pdf)
+- [2016 C1](./2016%20C1.pdf)
+- [2016 Vize C1](./2016%20Vize%20C1.pdf)
+- [2017 C1](./2017%20C1.pdf)
+- [2017 Final C1](./2017%20Final%20C1.pdf)
+- [2017 Mazeret C1](./2017%20Mazeret%20C1.pdf)
+- [2017 Vize C1](./2017%20Vize%20C1.pdf)
+- [2018 Final C1 ~ Endüstri](./2018%20Final%20C1%20~%20End%C3%BCstri.pdf)
+- [2018 Final C1](./2018%20Final%20C1.pdf)
 
 <!--Index-->
