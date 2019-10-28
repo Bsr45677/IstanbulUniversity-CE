@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### ✨ Yenilikler
 
+* 📃 2018 Vize soruları eklendi. [Yunus Emre]
+
 * ✨ Değişiklik tespiti yenilendi. [Yunus Emre]
 
 ### 💫 Değişikler
