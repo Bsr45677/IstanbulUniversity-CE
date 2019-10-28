@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### ✨ Yenilikler
 
+* 📑 Ek açıklama eklendi. [Yunus Emre]
+
 * 📃 2015 Mobile Programming vizesi eklendi. [Yunus Emre]
 
   Ufak isimlendirme düzeltmeleri de yapıldı
@@ -42,6 +44,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 * 🧹 [Yunus Emre]
 
 ### 👨‍🔧 Düzeltmeler
+
+* 👨‍🔧 Emoji düzeltildi. [Yunus Emre]
 
 * 👨‍🔧 Kablosuz notlarının adları düzeltildi. [Yunus Emre]
 
