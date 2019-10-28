@@ -10,7 +10,7 @@ description: İstanbul Üniversitesi Bilgisayar Mühendisliği 💻 notlarını 
   - Hocaların ve derslerin adları, ders konuları vs. aratabilirsin
   - 🏹 Sağ üst köşededir, tıkladığına tepki verecektir
 - [👀 Neler Değişti](./CHANGELOG.md) veya [✨ Commits](https://github.com/yedhrab/IstanbulUniversity-CE/commits/master) alanından değişiklikleri görebilirsin
-- [📂 Düzenlenmemiş eski ders notlar arşivi](ttps://drive.google.com/open?id=1JPZH6Z_K59UeO-A79H0pcBIsAJlw40Y-) de ilgini çekebilir
+- [📂 Düzenlenmemiş eski ders notlar arşivi](https://drive.google.com/open?id=1JPZH6Z_K59UeO-A79H0pcBIsAJlw40Y-) de ilgini çekebilir
 - [🏫 Okul Hakkında Bilgiler](./1%20-%20Okul%20Hakk%C4%B1nda%20Bilgiler/README.md) alanına göz atmayı unutma
 
 > Her sayfanın en altında bulunan memnuniyet anketi ile ✨ gelişime ortak olabilirsin.
