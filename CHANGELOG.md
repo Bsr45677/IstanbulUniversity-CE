@@ -9,6 +9,12 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### ✨ Yenilikler
 
+* 🔗 AI sınav sorularına bağlantı eklendi. [Yunus Emre]
+
+  @asmaamirkhan
+
+* 📜 AI vize soruları eklendi (#44) [Asmaa Mirkhan]
+
 * ✨ Giriş notları yenilendi. [Yunus Emre]
 
 * ✨ Daha anlaşılır Issue kalıbı oluşturuldu. [Yunus Emre]
@@ -32,6 +38,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 * 🧹 [Yunus Emre]
 
 ### 👨‍🔧 Düzeltmeler
+
+* 👨‍🔧 Adlandırmalar düzeltildi. [Yunus Emre]
 
 * 👩‍🔧 Sayfaların Tasarımı ve Notların Tutulma Yapısı alanı düzenlendi. [Yunus Emre]
 
