@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### ✨ Yenilikler
 
+* 📃 Calculus 1 sınav soruları eklendi. [Yunus Emre]
+
 * 📑 Ek açıklama eklendi. [Yunus Emre]
 
 * 📃 2015 Mobile Programming vizesi eklendi. [Yunus Emre]
