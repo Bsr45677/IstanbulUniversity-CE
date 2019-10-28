@@ -1,4 +1,4 @@
-# Ödevler Hakkında
+# ⭐ Ödevler
 
 <!--Index-->
 

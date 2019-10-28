@@ -1,1 +1,0 @@
-# 📕 Öğrenci Notları
