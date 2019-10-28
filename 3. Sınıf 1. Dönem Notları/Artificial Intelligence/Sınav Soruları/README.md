@@ -2,8 +2,9 @@
 
 <!--Index-->
 
-- [Final 2014 AI](./Final%202014%20AI.pdf)
-- [Quiz 2012 AI](./Quiz%202012%20AI.pdf)
+- [2012 Quiz AI](./2012%20Quiz%20AI.pdf)
+- [2014 Final AI](./2014%20Final%20AI.pdf)
+- [Vize ~ AI](./Vize%20~%20AI.pdf)
 
 <!--Index-->
 
