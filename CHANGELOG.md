@@ -9,6 +9,12 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### ✨ Yenilikler
 
+* 📃 Çıkmış sorular ve ders notları eklendi. [Yunus Emre]
+
+  @asmaamirkhan
+
+* 📃 Signal Processing çıkmış sorular ve yeni notlar eklendi (#41) [Asmaa Mirkhan]
+
 * 📃 2018 Vize soruları eklendi. [Yunus Emre]
 
 * ✨ Değişiklik tespiti yenilendi. [Yunus Emre]
