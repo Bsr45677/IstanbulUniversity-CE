@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### ✨ Yenilikler
 
+* 📅 Vizeye kadar işlenen konular eklendi #43. [Yunus Emre]
+
 * 📃 Çıkmış sorular ve ders notları eklendi. [Yunus Emre]
 
   @asmaamirkhan
