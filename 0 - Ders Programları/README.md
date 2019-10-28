@@ -1,9 +1,8 @@
 ---
-description: Güz dönemi ders programlarını içerir.
+description: Güz dönemi ders programlarını içerir
 ---
 
-
-# 📗 Ders Programları
+# 📅 Ders Programları
 
 ## 1.Sınıf Ders Programı
 

@@ -6,7 +6,7 @@
   - [👀 Neler değişti](./CHANGELOG.md)
   - [💖 Katkıda Bulunma Rehberi](./CONTRIBUTING.md)
   - [🧪 Computer Science](./0%20-%20Computer%20Science/README.md)
-  - [📗 Ders Programları](./0%20-%20Ders%20Programlar%C4%B1/README.md)
+  - [📅 Ders Programları](./0%20-%20Ders%20Programlar%C4%B1/README.md)
   - [🏫 Okul Hakkında Bilgiler](./1%20-%20Okul%20Hakk%C4%B1nda%20Bilgiler/README.md)
     - [🌟 Sık Kullanılan Bilgiler](./1%20-%20Okul%20Hakk%C4%B1nda%20Bilgiler/0%20-%20S%C4%B1k%20Kullan%C4%B1lan%20Bilgiler.md)
     - [🤑 Ücretsiz Yazılımlar](./1%20-%20Okul%20Hakk%C4%B1nda%20Bilgiler/1%20-%20%C3%9Ccretsiz%20Yaz%C4%B1l%C4%B1mlar.md)
