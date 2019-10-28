@@ -49,6 +49,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 👨‍🔧 Düzeltmeler
 
+* 👨‍🔧 İsim sorunları onarıldı. [Yunus Emre]
+
 * 🐛 Sorunlu dosya isimleri düzeltildi. [Yunus Emre]
 
 * 👨‍🔧 Emoji düzeltildi. [Yunus Emre]
