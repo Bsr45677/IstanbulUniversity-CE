@@ -2,6 +2,6 @@
 
 <!--Index-->
 
-- [Ders Notları](./Ders%20Notlar%C4%B1.pdf)
+- [2017 Tam KHA](./2017%20Tam%20KHA.pdf)
 
 <!--Index-->
