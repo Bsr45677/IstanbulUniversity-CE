@@ -39,6 +39,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 👨‍🔧 Düzeltmeler
 
+* 🐛 Link sorunu giderildi. [Yunus Emre]
+
 * 👨‍🔧 Adlandırmalar düzeltildi. [Yunus Emre]
 
 * 👩‍🔧 Sayfaların Tasarımı ve Notların Tutulma Yapısı alanı düzenlendi. [Yunus Emre]
