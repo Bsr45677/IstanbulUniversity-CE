@@ -9,6 +9,10 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### ✨ Yenilikler
 
+* 📃 2015 Mobile Programming vizesi eklendi. [Yunus Emre]
+
+  Ufak isimlendirme düzeltmeleri de yapıldı
+
 * 🔗 AI sınav sorularına bağlantı eklendi. [Yunus Emre]
 
   @asmaamirkhan
@@ -38,6 +42,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 * 🧹 [Yunus Emre]
 
 ### 👨‍🔧 Düzeltmeler
+
+* 👨‍🔧 Kablosuz notlarının adları düzeltildi. [Yunus Emre]
 
 * 🐛 Link sorunu giderildi. [Yunus Emre]
 
