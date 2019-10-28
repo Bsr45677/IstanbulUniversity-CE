@@ -1,10 +1,14 @@
 ---
 name: 📚 Ders notu isteği
-about: İhtiyacın olan dersin adını belirt
+about: Sadece ihtiyacın olan dersin adını yaz
 labels: 📘 Ders Notu, 🆘 Yardım Lazım
 ---
 
 ## ✅ İstenenler
+
+<!--
+Bu alana ellemene gerek yok, biz ekledikçe işaretleyeceğiz.
+-->
 
 - [ ] 📘 Ders notu
 - [ ] 📜 Sınav soruları
@@ -12,3 +16,5 @@ labels: 📘 Ders Notu, 🆘 Yardım Lazım
 - [ ] ✨ Diğer
 
 ## 💬 Ek Notlar
+
+<!-- Varsa ek notunu buraya yazabilirsin -->
