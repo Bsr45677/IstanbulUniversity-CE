@@ -25,6 +25,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 💫 Değişikler
 
+* 🚀 Emojilendirme ve düzenleme yapıldı. [Yunus Emre]
+
 * 🧹 [Yunus Emre]
 
 ### 👨‍🔧 Düzeltmeler
