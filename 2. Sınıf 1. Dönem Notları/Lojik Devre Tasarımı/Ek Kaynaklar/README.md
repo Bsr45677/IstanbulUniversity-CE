@@ -1,4 +1,4 @@
-## Ders Bilgileri
+# 📂 Ek Kaynaklar
 
 - Alakalı konu olan **Sayısal Tasarım** notlarına [buradan][Sayısal Tasarım - Ege Uni] erişebilirsin.
 - **Digital Desing** ek kaynak için [buraya][Digital Design - ITU] bakabilirsin.
