@@ -268,6 +268,7 @@
       - [📕 Öğrenci Notları](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Neural%20Networks/%C3%96%C4%9Frenci%20Notlar%C4%B1/README.md)
       - [🆎 Harf Notu](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Neural%20Networks/Harf%20Notu.md)
     - [📏 Yön Eylem](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Y%C3%B6n%20Eylem/README.md)
+      - [📚 Ders İçeriği](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Y%C3%B6n%20Eylem/Ders%20%C4%B0%C3%A7eri%C4%9Fi/README.md)
       - [📕 Öğrenci Notları](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Y%C3%B6n%20Eylem/%C3%96%C4%9Frenci%20Notlar%C4%B1/README.md)
     - [🔑 İnformasyon Güvenliği ve Kriptoloji](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/%C4%B0nformasyon%20G%C3%BCvenli%C4%9Fi%20ve%20Kriptoloji/README.md)
       - [📚 Ders İçeriği](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/%C4%B0nformasyon%20G%C3%BCvenli%C4%9Fi%20ve%20Kriptoloji/Ders%20%C4%B0%C3%A7eri%C4%9Fi/README.md)
