@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### ✨ Yenilikler
 
+* 📃 Sınav soruları eklendi. [Yunus Emre]
+
 * 📃 Sınav soruları eklendi #33 #25. [Yunus Emre]
 
 * 📃 Calculus 1 sınav soruları eklendi. [Yunus Emre]
