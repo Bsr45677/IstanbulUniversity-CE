@@ -241,6 +241,7 @@
         - [📑 Formlar](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Bili%C5%9Fim%20Proje%20Geli%C5%9Ftirme/Ders%20%C4%B0%C3%A7eri%C4%9Fi/Formlar/README.md)
           - [📅 2018 Formları](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Bili%C5%9Fim%20Proje%20Geli%C5%9Ftirme/Ders%20%C4%B0%C3%A7eri%C4%9Fi/Formlar/2018%20Formlar%C4%B1/README.md)
         - [⭐ Ödevler](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Bili%C5%9Fim%20Proje%20Geli%C5%9Ftirme/Ders%20%C4%B0%C3%A7eri%C4%9Fi/%C3%96devler/README.md)
+      - [📃 Sınav Soruları](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Bili%C5%9Fim%20Proje%20Geli%C5%9Ftirme/S%C4%B1nav%20Sorular%C4%B1/README.md)
       - [✍ Öğrenci Notları](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Bili%C5%9Fim%20Proje%20Geli%C5%9Ftirme/%C3%96%C4%9Frenci%20Notlar%C4%B1/README.md)
       - [🗽 Açıklamalar](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Bili%C5%9Fim%20Proje%20Geli%C5%9Ftirme/0%20-%20A%C3%A7%C4%B1klama.md)
     - [💭 Bulanık Mantık](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Bulan%C4%B1k%20Mant%C4%B1k/README.md)
