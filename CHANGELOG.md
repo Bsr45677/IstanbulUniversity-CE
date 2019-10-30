@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### ✨ Yenilikler
 
+* 📹 BPG slaytları eklendi. [Yunus Emre]
+
 * 📃 Sınav soruları eklendi. [Yunus Emre]
 
 * 📃 Sınav soruları eklendi #33 #25. [Yunus Emre]
