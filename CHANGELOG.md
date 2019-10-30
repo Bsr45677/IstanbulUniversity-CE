@@ -9,6 +9,22 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### ✨ Yenilikler
 
+* 🔗 Bağlantılar eklendi. [Yunus Emre]
+
+* 📕 OS öğrenci notları indekslendi. [Yunus Emre]
+
+* 📕 NN ders notları indenkslendi #25. [Yunus Emre]
+
+* 🗂 Yeni ders notları eklendi (#45) [Asmaa Mirkhan]
+
+  * 💫 Yapay zeka notları eklendi
+
+  Diğer derslere uyum sağlamak adına sınav bilgileri ana README dosyasına yazılmıştır ❗❗
+
+  * 💻 OS notları eklendi
+
+  * 🕸 NN notları eklendi
+
 * 📹 BPG slaytları eklendi. [Yunus Emre]
 
 * 📃 Sınav soruları eklendi. [Yunus Emre]
