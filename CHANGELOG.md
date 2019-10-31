@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### ✨ Yenilikler
 
+* 📑 MP Vize Hakkında alanı eklendi. [Yunus Emre]
+
 * 🔗 Bağlantılar eklendi. [Yunus Emre]
 
 * 📕 OS öğrenci notları indekslendi. [Yunus Emre]
