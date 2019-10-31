@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### ✨ Yenilikler
 
+* 🔗 Vize bilgisinin kaynağı eklendi. [Yunus Emre]
+
 * 📑 MP Vize Hakkında alanı eklendi. [Yunus Emre]
 
 * 🔗 Bağlantılar eklendi. [Yunus Emre]
