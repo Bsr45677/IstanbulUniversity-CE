@@ -25,3 +25,5 @@ Bir kaç arkadaştan sınavda sorumlu olduğunuz içerik hakkında mailler aldı
 - Lesson 3: Testing, debugging, and using support libraries (tüm konulartemel seviyede bilinmesi yeterli)
 - Lesson 4: User interaction (tüm konular )
 - Lesson 7: Background tasks ( sadece 7.1 Async task ve loader
+
+> [2019 Mobile Programming Google Classroom](https://classroom.google.com/u/1/c/MTc5NjQ0NTE4OTJa/p/NDM0Nzg2MDkxNzVa/details)
