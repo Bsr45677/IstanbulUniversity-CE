@@ -9,6 +9,12 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### ✨ Yenilikler
 
+* 📕 MP Vize notlarım eklendi. [Yunus Emre]
+
+  - 🧹 Haftalık notlar kaldırıldı
+  - 👨‍🔧 Notlarda düzenleme yapıldı
+  - 📃 PDF halinde tam not oluşturuldu
+
 * 🔗 Vize bilgisinin kaynağı eklendi. [Yunus Emre]
 
 * 📑 MP Vize Hakkında alanı eklendi. [Yunus Emre]
