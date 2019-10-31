@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### ✨ Yenilikler
 
+* 📕 Kablosuz haberleşme öğreni notları eklendi #24. [Yunus Emre]
+
 * 📕 MP Vize notlarım eklendi. [Yunus Emre]
 
   - 🧹 Haftalık notlar kaldırıldı
@@ -80,6 +82,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 * 🧹 [Yunus Emre]
 
 ### 👨‍🔧 Düzeltmeler
+
+* 👨‍🔧 Ders notu isteme kalbının karmaşıklığı azaltıldı. [Yunus Emre]
 
 * 👨‍🔧 İsim sorunları onarıldı. [Yunus Emre]
 
