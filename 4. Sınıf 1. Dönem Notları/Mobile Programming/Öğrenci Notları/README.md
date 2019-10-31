@@ -2,8 +2,6 @@
 
 <!--Index-->
 
-- [Mobil 3. Hafta ~ YEmreAk](./Mobil%203.%20Hafta%20~%20YEmreAk.pdf)
-- [Mobil 4. Hafta ~ YEmreAk](./Mobil%204.%20Hafta%20~%20YEmreAk.pdf)
-- [Mobil 5. Hafta ~ YEmreAk](./Mobil%205.%20Hafta%20~%20YEmreAk.pdf)
+- [2019 Vize MP ~ YEmreAk](./2019%20Vize%20MP%20~%20YEmreAk.pdf)
 
 <!--Index-->
