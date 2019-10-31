@@ -99,6 +99,10 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 * 👩‍🔧 Sayfaların Tasarımı ve Notların Tutulma Yapısı alanı düzenlendi. [Yunus Emre]
 
+### 📡 Diğerler
+
+* Merge branch 'master' of https://github.com/YEmreAk/IstanbulUniversity-CE. [Yunus Emre]
+
 
 ## 2.1 (2019-10-27)
 
