@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### ✨ Yenilikler
 
+* 💫 AI vize notları eklendi (#46) [Asmaa Mirkhan]
+
 * 📅 2019 Vizesi hakkında bilgiler eklendi. [Yunus Emre]
 
 * 📕 Kablosuz haberleşme öğreni notları eklendi #24. [Yunus Emre]
@@ -76,6 +78,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 * ✨ Değişiklik tespiti yenilendi. [Yunus Emre]
 
 ### 💫 Değişikler
+
+* 👨‍🔧 Bağlantılar yenilendi. [Yunus Emre]
 
 * Update README.md. [Yunus Emre]
 
