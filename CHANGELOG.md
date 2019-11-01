@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### ✨ Yenilikler
 
+* 📅 2019 Vizesi hakkında bilgiler eklendi. [Yunus Emre]
+
 * 📕 Kablosuz haberleşme öğreni notları eklendi #24. [Yunus Emre]
 
 * 📕 MP Vize notlarım eklendi. [Yunus Emre]
