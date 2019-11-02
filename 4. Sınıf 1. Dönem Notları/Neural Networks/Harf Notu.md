@@ -1,4 +1,4 @@
-# 🆎 Harf Notu
+# 🆎 Harf Notu Dağılımı
 
 ## 📅 2017 - 2018
 
