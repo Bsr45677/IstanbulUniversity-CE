@@ -89,6 +89,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 👨‍🔧 Düzeltmeler
 
+* 👨‍🔧 Adlandırmalar düzeltildi. [Yunus Emre]
+
 * 👨‍🔧 Ders notu isteme kalbının karmaşıklığı azaltıldı. [Yunus Emre]
 
 * 👨‍🔧 İsim sorunları onarıldı. [Yunus Emre]
