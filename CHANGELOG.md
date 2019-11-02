@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### ✨ Yenilikler
 
+* 📃 BH vizesi hakkında bilgi eklendi. [Yunus Emre]
+
 * 💫 AI vize notları eklendi (#46) [Asmaa Mirkhan]
 
 * 📅 2019 Vizesi hakkında bilgiler eklendi. [Yunus Emre]
