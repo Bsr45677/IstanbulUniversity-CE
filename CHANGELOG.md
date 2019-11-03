@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### ✨ Yenilikler
 
+* ✨ Emojilendi. [Yunus Emre]
+
 * 📕 Kişisel notlarım eklendi. [Yunus Emre]
 
   :cry: Eksiktir
