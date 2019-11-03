@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### ✨ Yenilikler
 
+* 📃 Algoritma Analiz 2018 vize soruları ve çözümü eklendi. [Yunus Emre]
+
 * 🖨 Android Developer Fundamentals için Print metodu eklendi. [Yunus Emre]
 
 * 📃 Sınav soruları eklendi. [Yunus Emre]
