@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### ✨ Yenilikler
 
+* 🖨 Android Developer Fundamentals için Print metodu eklendi. [Yunus Emre]
+
 * 📃 Sınav soruları eklendi. [Yunus Emre]
 
 * 🔗 Bağlantı eklendi. [Yunus Emre]
