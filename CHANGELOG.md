@@ -105,6 +105,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 👨‍🔧 Düzeltmeler
 
+* 👨‍🔧 Ufak düzeltme. [Yunus Emre]
+
 * 🐞 Hatalı bağlantılar kaldırıldı. [Yunus Emre]
 
 * 👨‍🔧 Adlandırmalar düzeltildi. [Yunus Emre]
