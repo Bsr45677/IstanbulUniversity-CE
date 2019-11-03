@@ -9,6 +9,10 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### ✨ Yenilikler
 
+* 📕 BPG ilk 4 slayt hakkındaki notlarım eklendi. [Yunus Emre]
+
+  - Geç eklenme sebebi, geç çıkarmış olmamdır 🙄
+
 * ✨ [Yunus Emre]
 
 * ✨ Emojilendi. [Yunus Emre]
