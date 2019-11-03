@@ -81,6 +81,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 💫 Değişikler
 
+* 🚙 Doğru yere taşındı. [Yunus Emre]
+
 * 👨‍🔧 Bağlantılar yenilendi. [Yunus Emre]
 
 * Update README.md. [Yunus Emre]
