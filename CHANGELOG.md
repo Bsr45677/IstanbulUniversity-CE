@@ -97,6 +97,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 👨‍🔧 Düzeltmeler
 
+* 🐞 Hatalı bağlantılar kaldırıldı. [Yunus Emre]
+
 * 👨‍🔧 Adlandırmalar düzeltildi. [Yunus Emre]
 
 * 👨‍🔧 Ders notu isteme kalbının karmaşıklığı azaltıldı. [Yunus Emre]
