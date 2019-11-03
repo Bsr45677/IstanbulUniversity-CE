@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### ✨ Yenilikler
 
+* 📃 Sınav soruları eklendi. [Yunus Emre]
+
 * 🔗 Bağlantı eklendi. [Yunus Emre]
 
 * 📃 BH vizesi hakkında bilgi eklendi. [Yunus Emre]
