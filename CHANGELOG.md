@@ -9,6 +9,10 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### ✨ Yenilikler
 
+* 📕 Kişisel notlarım eklendi. [Yunus Emre]
+
+  :cry: Eksiktir
+
 * 📃 Algoritma Analiz 2018 vize soruları ve çözümü eklendi. [Yunus Emre]
 
 * 🖨 Android Developer Fundamentals için Print metodu eklendi. [Yunus Emre]
