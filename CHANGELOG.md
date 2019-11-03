@@ -89,6 +89,10 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 * 🚙 Doğru yere taşındı. [Yunus Emre]
 
+  📃 Android Developer Fundamentals için Print metodu açıklama alanına taşındı
+
+* 🚙 Doğru yere taşındı. [Yunus Emre]
+
 * 👨‍🔧 Bağlantılar yenilendi. [Yunus Emre]
 
 * Update README.md. [Yunus Emre]
