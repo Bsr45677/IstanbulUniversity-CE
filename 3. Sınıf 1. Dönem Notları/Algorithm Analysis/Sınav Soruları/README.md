@@ -8,3 +8,13 @@
 - [Örnek Vize AA](./%C3%96rnek%20Vize%20AA.pdf)
 
 <!--Index-->
+
+## Vize Bilgileri
+
+- Öğrenci sunumlarından sorumlu değiliz.
+- _Transform and Conquer_ konusuna kadar sorumluyuz.
+- Sorularla ilgili:
+  - Basit bir _Big O_ sorusu olabilir.
+  - _Transform and Conquer_ ile ilgili yorum sorusu olabilir (örn: bir problem verip bu problemde neden _Transform and Conquer_'e ihtiyaç duyulur - yada duyulmaz - tarzında).
+  - Grfikli bir soru olabilir (Analiz grafiği verilip onunla ilgili sorular).
+  - Bir problem verip _Transform and Conquer_ mantığıyla ve _Transform and Conquer_ mantığıyla olmadan çözme sorusu olabilir.
