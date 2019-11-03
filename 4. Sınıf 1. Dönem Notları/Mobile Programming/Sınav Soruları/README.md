@@ -26,3 +26,28 @@ Bir kaç arkadaştan sınavda sorumlu olduğunuz içerik hakkında mailler aldı
 - Lesson 7: Background tasks ( sadece 7.1 Async task ve loader
 
 > [2019 Mobile Programming Google Classroom](https://classroom.google.com/u/1/c/MTc5NjQ0NTE4OTJa/p/NDM0Nzg2MDkxNzVa/details)
+
+## 📃 Android Developer Fundamentals için Print metodu
+
+[Android Developer Fundamentals (Version 2) — Concepts](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/) bağlantısındaki sayfaları yazdırmak için:
+
+- Sitede yazdırmak istediğiniz sayfaya girin
+- Chrome console'u açın
+- Alttaki scripti kopyalayın
+- Ardından sayfalarda ilerleyip `print()` yazın
+
+```js
+function print() {
+    var mywindow = window.open('', 'PRINT', 'height=400,width=600');
+
+    mywindow.document.write('<html><head><title>' + document.title  + '</title>');
+    mywindow.document.write('</head><body >');
+    mywindow.document.write('<h1>' + document.title  + '</h1>');
+    mywindow.document.write($("div.page-inner")[0].innerHTML);
+    mywindow.document.write('</body></html>');
+
+    mywindow.document.close(); // necessary for IE >= 10
+    mywindow.focus(); // necessary for IE >= 10*/
+	mywindow.print()
+}
+```
