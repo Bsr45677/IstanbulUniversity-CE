@@ -1,4 +1,4 @@
-# Bilgisayar Organizasyonu ve Tasarımı (BOT) Lab 
+# 👨‍🔬 Bilgisayar Organizasyonu ve Tasarımı (BOT) Lab
 
 ## Ders Bilgileri
 

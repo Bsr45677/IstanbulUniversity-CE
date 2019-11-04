@@ -9,6 +9,11 @@
 
 <!--Index-->
 
+## 📅 2019 Vize Bilgileri
+
+-  5\. slaytın sonuna kadar sorumluyuz.
+- Sınav klasik olacak.
+
 ## 📅 2018 Sınav Bilgileri
 
 - Vize için *Search Algorithm*'lerden muhakkak soru gelir.

@@ -1,3 +1,3 @@
-# Veritabanı Yönetim Sistemleri 
+# 📂 Veritabanı Yönetim Sistemleri
 
 
