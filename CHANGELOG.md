@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### ✨ Yenilikler
 
+* ✨ Görsel düzenlemeler yapıldı. [Yunus Emre]
+
 * 📃 OS çıkmış sorular yenilendi. [Yunus Emre]
 
 * 📕 BPG ilk 4 slayt hakkındaki notlarım eklendi. [Yunus Emre]
