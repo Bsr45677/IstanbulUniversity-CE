@@ -9,3 +9,11 @@
 - [Lab5 BOTL](./Lab5%20BOTL.pdf)
 
 <!--Index-->
+
+## 💡 Ders Bilgileri
+
+Hocanın hazırlamış olduğu videolar:
+
+- [XILINX ile VHDL PROGRAMLAMA! - Full Adder (Tam Toplayıcı) Tasarımı #1](https://www.youtube.com/watch?v=-SZuTT3xa18)
+- [XILINX ile VHDL PROGRAMLAMA! - Full Adder (Tam Toplayıcı) Tasarımı #2](https://www.youtube.com/watch?v=H7jihUQz-Io)
+- [XILINX ile VHDL PROGRAMLAMA! - Full Adder (Tam Toplayıcı) Tasarımı #3](https://www.youtube.com/watch?v=Sw5ktjHl1zc)
