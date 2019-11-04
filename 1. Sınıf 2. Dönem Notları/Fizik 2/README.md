@@ -4,7 +4,7 @@
 
 - Derse alternatif bir kaynak için [buraya][Fizik 2 Genel] bakabilirsin.
 
-## Final Bilgileri
+## 📅 Final Bilgileri
 
 - 2 Kirchoff sorusu
   - 1'i Kirchoff ile çözülecek

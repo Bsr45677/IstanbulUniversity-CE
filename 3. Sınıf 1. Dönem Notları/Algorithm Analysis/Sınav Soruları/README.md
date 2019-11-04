@@ -9,7 +9,7 @@
 
 <!--Index-->
 
-## Vize Bilgileri
+## 📅 Vize Bilgileri
 
 - Öğrenci sunumlarından sorumlu değiliz.
 - _Transform and Conquer_ konusuna kadar sorumluyuz.

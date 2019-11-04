@@ -1,6 +1,6 @@
-# Computer Networks and Technologies 
+# Computer Networks and Technologies
 
-### Vize Bilgileri
+### 📅 Vize Bilgileri
 
 - 1, 2, 3, 4.1, 4.2 numaralı *Chapter*'lardan sorumluyuz
 - Sınav formatı karışıktır.
@@ -8,7 +8,7 @@
 
 > [Network Layer] kısmına kadar olan kısım vize için notlarımdır.
 
-### Final Bilgileri
+### 📅 Final Bilgileri
 
 Final sınavı konu kapsamı:
 

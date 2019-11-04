@@ -10,7 +10,7 @@
 
 ## Sınav Bilgileri
 
-### Vize Bilgileri
+### 📅 Vize Bilgileri
 
 - %60 test ve boşluk doldurma (20 tane)
   - Temel software process aktiviteleri nelerdir?
@@ -25,7 +25,7 @@
   - Class diagram
   - Activity diagram
 
-### Final Bilgileri
+### 📅 Final Bilgileri
 
 - Tum dönem dahil
   - Ağırlıklı vize sonrası slaytlar (9,11,19,22)

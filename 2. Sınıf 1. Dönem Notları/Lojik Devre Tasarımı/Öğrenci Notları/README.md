@@ -6,7 +6,7 @@
 
 <!--Index-->
 
-## Final için Referanslar
+## 📅 Final için Referanslar
 
 - [Decoders][Decoders]
 - [Mux][Mux] (video kaynak için [buraya][Mux - Video])

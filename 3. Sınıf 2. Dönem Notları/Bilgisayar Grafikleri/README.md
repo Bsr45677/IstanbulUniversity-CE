@@ -1,6 +1,6 @@
-# Bilgisayar Grafikileri 
+# Bilgisayar Grafikileri
 
-## Vize Bilgileri
+## 📅 Vize Bilgileri
 
 - 3 nokta verilmisti bu noktalar ile olusan cismi (4,2) noktasina gore 45 derece dondurup y eksenine gore yansitmamizi istedi
 - 7 nokta icin jacobien degerleri
@@ -9,7 +9,7 @@
 
 > Sorularin hepsi esit puanliydi
 
-## Final Bilgileri
+## 📅 Final Bilgileri
 
 - *Cubic spline* her aralıkta P değerini bulunuz
   - R ve 3 nokta değerleri verildi

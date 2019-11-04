@@ -8,7 +8,7 @@ Hocanın hazırlamış olduğu videolar:
 - [XILINX ile VHDL PROGRAMLAMA! - Full Adder (Tam Toplayıcı) Tasarımı #2](https://www.youtube.com/watch?v=H7jihUQz-Io)
 - [XILINX ile VHDL PROGRAMLAMA! - Full Adder (Tam Toplayıcı) Tasarımı #3](https://www.youtube.com/watch?v=Sw5ktjHl1zc)
 
-## Final Hakkında
+## 📅 Final Hakkında
 
 - Syntax yapılalarını özetlediğim not için [buraya](https://drive.google.com/open?id=1Lwj1DfOjI5fjtEXjytVzUuFdR9wtMz7g) tıklayabilirsin.
 - Dalga similasyonu soruları hakkında:
