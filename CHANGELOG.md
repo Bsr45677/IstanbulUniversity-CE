@@ -103,6 +103,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 💫 Değişikler
 
+* 🚙 Bilgiler doğru yerlere aktarıldı. [Yunus Emre]
+
 * 👩‍🔧 Notlar gerekli yerlere aktarıldı. [Yunus Emre]
 
 * 🚙 Doğru yere taşındı. [Yunus Emre]
