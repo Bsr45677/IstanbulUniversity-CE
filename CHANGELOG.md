@@ -107,6 +107,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 * 🚀 Emojilendi. [Yunus Emre]
 
+* 🚀 Emojilendi. [Yunus Emre]
+
 * 🚙 Bilgiler doğru yerlere aktarıldı. [Yunus Emre]
 
 * 👩‍🔧 Notlar gerekli yerlere aktarıldı. [Yunus Emre]
