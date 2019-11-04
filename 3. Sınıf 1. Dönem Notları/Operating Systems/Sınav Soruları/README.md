@@ -1,6 +1,13 @@
 # 📃 Sınav Soruları
 
-## 📅 2019 Vize Sınavı
+## 📅 2019 Vize Bilgileri
+
+- _Scheduling Algorithms In Batch Systems_ konusunun sonuna kadar sorumluyuz.
+- Kod sorusu olmayacak
+- Sınav klasik olacak
+- Türkçe yazabiliriz
+
+## 📅 2018 Vize Sınavı
 
 - 3 tane önemli register vardı onlar ve kısaca ne yaptıkları
 - Pipe nedir
