@@ -1,13 +1,13 @@
-# Lab Notları
+# 👩‍🔬 Lab Notları
 
-## Lab Bilgileri
+## 👩‍🔬 Lab Bilgileri
 
 Lab dersinde **LTspice** uygulaması kullanılmaktadır.
 
 - Resmi sitesi için [buraya][LTspice Website] bakabilir
 - [Windows][LTspice Windows] ve [MAC][LTspice MAC] için linklerden indirme yapabilirsin.
 
-### Lab-1 Notları
+### 👩‍🔬 Lab-1 Notları
 
 ![devre](../../res/devre.png)
 
@@ -49,7 +49,7 @@ A, B, C arasındaki gerilim:
 
 ![trans_a_b_volt](../../res/trans_a_b_vold.png)
 
-### Lab-2 Notları
+### 👩‍🔬 Lab-2 Notları
 
 >⚠ Aşağıdaki resimler labda yapılanlarla alakalıdır, ödevin kendisi değildir.
 
