@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### ✨ Yenilikler
 
+* ✨ Ek açıklamalar eklendi. [Yunus Emre]
+
 * ✨ Görsel düzenlemeler yapıldı. [Yunus Emre]
 
 * 📃 OS çıkmış sorular yenilendi. [Yunus Emre]
