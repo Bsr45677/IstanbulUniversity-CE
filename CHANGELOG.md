@@ -141,6 +141,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 👨‍🔧 Düzeltmeler
 
+* 👨‍🔧 Ufak düzeltmeler yapıldı. [Yunus Emre]
+
 * 👨‍🔧  Yapısal düzenleme. [Yunus Emre]
 
 * 🐛 Hata düzeltmesi. [Yunus Emre]
