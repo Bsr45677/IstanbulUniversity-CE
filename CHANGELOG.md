@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### ✨ Yenilikler
 
+* 📃 Lojik sınavları eklendi. [Yunus Emre]
+
 * 📃 2018 Sinyal çalışma kağıdı eklendi. [Yunus Emre]
 
 * 📕 Kriptoloji vize notları eklendi. [Yunus Emre]
