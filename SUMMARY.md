@@ -156,6 +156,7 @@
     - [💻 Operating Systems](./3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Operating%20Systems/README.md)
       - [📚 Ders İçeriği](./3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Operating%20Systems/Ders%20%C4%B0%C3%A7eri%C4%9Fi/README.md)
         - [📹 Ders Sunumları](./3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Operating%20Systems/Ders%20%C4%B0%C3%A7eri%C4%9Fi/Ders%20Slaytlar%C4%B1/README.md)
+        - [📂 Ek Kaynaklar](./3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Operating%20Systems/Ders%20%C4%B0%C3%A7eri%C4%9Fi/Ek%20Kaynaklar/README.md)
         - [📖 Türkçe Kaynaklar](./3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Operating%20Systems/Ders%20%C4%B0%C3%A7eri%C4%9Fi/T%C3%BCrk%C3%A7e%20Kaynakar/README.md)
       - [📃 Sınav Soruları](./3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Operating%20Systems/S%C4%B1nav%20Sorular%C4%B1/README.md)
       - [📕 Öğrenci Notları](./3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Operating%20Systems/%C3%96%C4%9Frenci%20Notlar%C4%B1/README.md)
