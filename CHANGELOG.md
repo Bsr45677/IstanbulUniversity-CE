@@ -137,6 +137,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 👨‍🔧 Düzeltmeler
 
+* 👨‍🔧  Yapısal düzenleme. [Yunus Emre]
+
 * 🐛 Hata düzeltmesi. [Yunus Emre]
 
 * 👨‍🔧 Ufak düzeltme. [Yunus Emre]
