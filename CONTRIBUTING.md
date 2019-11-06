@@ -104,3 +104,28 @@ GitHub projelerini `clone` yapıp, internetini harcamak yerine web üzerinden ka
 - Güncel bilgiler için [🌍 GitHub Web](https://wiki.yemreak.com/proje-yoenetimi/github/github-web) yazıma bakabilirsin
 
 > Videolar faydalı olmadıysa bana WhatsApp veya Mail üzerinden atabilirsin.
+
+## ⚓ GitHook'lar
+
+### 💫 GitBook İndekslemesini Yapma
+
+```sh
+# pip install ypackage
+ygitbookintegration . -ll 2
+```
+
+### 👀 Neler Değişti Commit'i Tanımlama
+
+```sh
+#!/bin/sh
+# .git/hooks/pre-push dosyasında
+
+remote="$1"
+url="$2"
+
+echo "---
+description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri 🔍 arama motorunda aratarak sayfaya erişebilirsin
+---
+" > CHANGELOG.md && \
+ygitchangelog.exe >> CHANGELOG.md && git add CHANGELOG.md && git commit -m "👀 Neler Değişti alanı yenilendi" && exit 0
+```
