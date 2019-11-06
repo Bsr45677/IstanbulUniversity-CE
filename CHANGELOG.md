@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### ✨ Yenilikler
 
+* 📃 Derleyici vize soruları eklendi. [Yunus Emre]
+
 * ✨ Ek açıklamalar eklendi. [Yunus Emre]
 
 * ✨ Görsel düzenlemeler yapıldı. [Yunus Emre]
