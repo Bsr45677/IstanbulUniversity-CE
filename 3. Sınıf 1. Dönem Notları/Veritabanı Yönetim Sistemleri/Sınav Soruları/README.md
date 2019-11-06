@@ -2,12 +2,12 @@
 
 <!--Index-->
 
-- [Final Sınav Konuları VYS](./Final%20S%C4%B1nav%20Konular%C4%B1%20VYS.pdf)
-- [Veritabani2017-ArasinavGece](./Veritabani2017-ArasinavGece.pdf)
-- [Veritabani2017-ArasinavGunduz](./Veritabani2017-ArasinavGunduz.pdf)
-- [Veritabani2017-ButunlemeGece](./Veritabani2017-ButunlemeGece.pdf)
-- [Veritabani2017-butunlemeGunduz](./Veritabani2017-butunlemeGunduz.pdf)
-- [Veritabani2017-finalGece](./Veritabani2017-finalGece.pdf)
-- [Veritabani2017-finalGunduz](./Veritabani2017-finalGunduz.pdf)
+- [2017 Büt VYS ~ IO](./2017%20B%C3%BCt%20VYS%20~%20IO.pdf)
+- [2017 Büt VYS](./2017%20B%C3%BCt%20VYS.pdf)
+- [2017 Final VYS ~ İO](./2017%20Final%20VYS%20~%20%C4%B0O.pdf)
+- [2017 Final VYS](./2017%20Final%20VYS.pdf)
+- [2017 Vize VYS ~ IO](./2017%20Vize%20VYS%20~%20IO.pdf)
+- [2017 Vize VYS](./2017%20Vize%20VYS.pdf)
+- [2019 Vize VYS](./2019%20Vize%20VYS.pdf)
 
 <!--Index-->
