@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### ✨ Yenilikler
 
+* 📃 2019 VYS Vizesi eklendi. [Yunus Emre]
+
 * 📃 Kriptoloji 2018 vize sınavı eklendi. [Yunus Emre]
 
 * 📃 Derleyici vize soruları eklendi. [Yunus Emre]
