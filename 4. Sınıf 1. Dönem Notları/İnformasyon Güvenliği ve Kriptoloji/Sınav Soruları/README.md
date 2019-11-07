@@ -7,6 +7,10 @@
 
 <!--Index-->
 
+## 📢 Sınavlar Hakkında
+
+- Çıkmışlardan karışık sormaktadır
+
 ## ✍ Öğrenci Çözümleri
 
 ![](../../../res/kripto_vize.png)
