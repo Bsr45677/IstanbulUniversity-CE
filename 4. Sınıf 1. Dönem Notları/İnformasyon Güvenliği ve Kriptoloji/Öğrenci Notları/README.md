@@ -11,9 +11,19 @@
 
 > [2019 Vize Kripto (Eksik) ~YEmreAk](./2019%20Vize%20Kripto%20%28Eksik%29%20~YEmreAk.pdf) notumu çalıştıkça güncelleyeceğim ✨
 
+## 🆚 3-DES vs 2-DES
+
+![](../../../res/3_2_des.png)
+
+Triple des 3 anahtarlama seçeneği ile gelir. Keying option olarak geçer literatürde.
+1. Anahtarlama seçeneğinde 3 geçiş için de ayrı anahtar kullanılır ve anahtar boyutu 168’dir. (parity bitler hariç, dahil olması durumunda 64 x 3 = 192 bit uzunluğundadır)
+2. Anahtarlama seçeneğinde K1 = K3 ve K2 bağımsızdır 128 bit uzunlukta anahtar alır (parity bitler dahil)
+3. Anahtarlama seçeneğinde K1 = K2 = K3’tür ve 64 bit uzunluğunda anahtar alır, bu yöntem klasik DES ile uyumlu olduğu için tercih edilebilir.
+
 ## 🔗 Faydalı Bağlantılar
 
 - [📜 Bir Matrisin Çarpma İşlemine Göre Tersi](https://www.bilgicik.com/yazi/bir-matrisin-carpma-islemine-gore-tersi/)
+- [📜 3DES](http://bilgisayarkavramlari.sadievrenseker.com/2008/03/13/uclu-des-triple-des/)
 - [📺 2 x 2 Matrisin Çarpmaya Göre Tersi](https://www.khanacademy.org.tr/matematik/kalkulus-oncesi/matrisler/bir-matrisin-determinantini-kullanarak-tersini-bulma/2x2-matrisin-tersi/3267)
 - [📺 Inverting a 3x3 matrix using determinants Part 1: Matrix of minors and cofactor matrix](https://www.khanacademy.org/math/algebra-home/alg-matrices/alg-determinants-and-inverses-of-large-matrices/v/inverting-3x3-part-1-calculating-matrix-of-minors-and-cofactor-matrix)
 - [📺 Inverting a 3x3 matrix using determinants Part 1: Matrix of minors and cofactor matrix](https://www.khanacademy.org/math/algebra-home/alg-matrices/alg-determinants-and-inverses-of-large-matrices/v/inverting-3x3-part-2-determinant-and-adjugate-of-a-matrix)
