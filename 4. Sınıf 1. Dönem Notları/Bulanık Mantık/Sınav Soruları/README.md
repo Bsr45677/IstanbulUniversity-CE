@@ -15,3 +15,9 @@
 - [Vize Bulanık](./Vize%20Bulan%C4%B1k.pdf)
 
 <!--Index-->
+
+## 📢 Sınavlar Hakkında
+
+Arkadaşlar, benim aldığım notları okurken, ilgili slide'ı açıp, ilgili sayfasına şekillere bakmanız gerekiyor. Hoca slidedan işliyordu dersi, ben de slidelara bakarak çalışıp anlayacağımı düşünerek not almıştım. Yani slidelara bakmadan çalışırsanız pek bir anlam ifade etmeyebilir. 😊
+
+> Alıntıdır.
