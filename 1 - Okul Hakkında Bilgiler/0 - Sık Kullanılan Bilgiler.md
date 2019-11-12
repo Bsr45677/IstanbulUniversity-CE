@@ -13,6 +13,10 @@
 - [📒 Eski ders notlarının olduğu drive linki][drive]
 - [🌎 Erasmus için izlenecek yollar][erasmus]
 
+## 📞 Öğrenci İşleri Telefon Numaraları
+
+![](../res/ogrenci_isleri.png)
+
 ## 📕 Ders Bilgileri
 
 - [📓 Ders İçerikleri][ders i̇çerikleri]
