@@ -20,7 +20,9 @@
 ## 📕 Ders Bilgileri
 
 - [📓 Ders İçerikleri][ders i̇çerikleri]
-- [📔 Lisans Programı Ders Listesi][lisans programı ders listesi]
+- 📃 Lisans Programı Ders Listeleri
+  - [2019][lisans programı ders listesi 2019]
+  - [2018][lisans programı ders listesi 2018]
 - [👨‍🏫 Yüksek Lisans Programı Ders Listesi][yüksek lisans programı ders listesi]
 - [👨‍⚕️ Doktora Programı Ders Listesi][doktora programı ders listesi]
 - [🎓 Eğitim Bilgileri][eğitim bilgileri]
@@ -40,7 +42,8 @@
 [drive]: https://drive.google.com/drive/folders/1JPZH6Z_K59UeO-A79H0pcBIsAJlw40Y-
 [erasmus]: res/2019-2020-erasmus-izlenecek-yollar.pdf
 [ders i̇çerikleri]: res%2FBilgisayar%20M%C3%BChendisli%C4%9Fi%20Ders%20%C4%B0%C3%A7eri%C4%9Fi.pdf
-[lisans programı ders listesi]: http://ebs.istanbulc.edu.tr/home/dersprogram/?id=1092
+[lisans programı ders listesi 2018]: https://ebs.istanbulc.edu.tr/home/dersprogram?id=1092&yil=2018
+[lisans programı ders listesi 2019]: https://ebs.istanbulc.edu.tr/home/dersprogram?id=1092&yil=2019
 [yüksek lisans programı ders listesi]: http://ebs.istanbulc.edu.tr/home/dersprogram/?id=1797
 [doktora programı ders listesi]: http://ebs.istanbulc.edu.tr/home/dersprogram/?id=2183
 [eğitim bilgileri]: http://bilgisayar.muhendislik.istanbulc.edu.tr/tr/content/egitim/lisans
