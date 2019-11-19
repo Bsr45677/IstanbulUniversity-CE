@@ -1,1146 +1,648 @@
----
-description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri 🔍 arama motorunda aratarak sayfaya erişebilirsin
----
-
-# Changelog
-
-
-## ✨ Güncel
-
-### ✨ Yenilikler
-
-* ✍ Kriptoloji çalışma notum eklendi. [Yunus Emre]
-
-* 📃 Sinyal vizesi eklendi. [Yunus Emre]
-
-* 📃 Lojik sınavları eklendi. [Yunus Emre]
-
-* 📃 2018 Sinyal çalışma kağıdı eklendi. [Yunus Emre]
-
-* 📕 Kriptoloji vize notları eklendi. [Yunus Emre]
-
-* 📃 2019 VYS Vizesi eklendi. [Yunus Emre]
-
-* 📃 Kriptoloji 2018 vize sınavı eklendi. [Yunus Emre]
-
-* 📃 Derleyici vize soruları eklendi. [Yunus Emre]
-
-* ✨ Ek açıklamalar eklendi. [Yunus Emre]
-
-* ✨ Görsel düzenlemeler yapıldı. [Yunus Emre]
-
-* 📃 OS çıkmış sorular yenilendi. [Yunus Emre]
-
-* 📕 BPG ilk 4 slayt hakkındaki notlarım eklendi. [Yunus Emre]
-
-  - Geç eklenme sebebi, geç çıkarmış olmamdır 🙄
-
-* ✨ [Yunus Emre]
-
-* ✨ Emojilendi. [Yunus Emre]
-
-* 📕 Kişisel notlarım eklendi. [Yunus Emre]
-
-  :cry: Eksiktir
-
-* 📃 Algoritma Analiz 2018 vize soruları ve çözümü eklendi. [Yunus Emre]
-
-* 🖨 Android Developer Fundamentals için Print metodu eklendi. [Yunus Emre]
-
-* 📃 Sınav soruları eklendi. [Yunus Emre]
-
-* 🔗 Bağlantı eklendi. [Yunus Emre]
-
-* 📃 BH vizesi hakkında bilgi eklendi. [Yunus Emre]
-
-* 💫 AI vize notları eklendi (#46) [Asmaa Mirkhan]
-
-* 📅 2019 Vizesi hakkında bilgiler eklendi. [Yunus Emre]
-
-* 📕 Kablosuz haberleşme öğreni notları eklendi #24. [Yunus Emre]
-
-* 📕 MP Vize notlarım eklendi. [Yunus Emre]
-
-  - 🧹 Haftalık notlar kaldırıldı
-  - 👨‍🔧 Notlarda düzenleme yapıldı
-  - 📃 PDF halinde tam not oluşturuldu
-
-* 🔗 Vize bilgisinin kaynağı eklendi. [Yunus Emre]
-
-* 📑 MP Vize Hakkında alanı eklendi. [Yunus Emre]
-
-* 🔗 Bağlantılar eklendi. [Yunus Emre]
-
-* 📕 OS öğrenci notları indekslendi. [Yunus Emre]
-
-* 📕 NN ders notları indenkslendi #25. [Yunus Emre]
-
-* 🗂 Yeni ders notları eklendi (#45) [Asmaa Mirkhan]
-
-  * 💫 Yapay zeka notları eklendi
-
-  Diğer derslere uyum sağlamak adına sınav bilgileri ana README dosyasına yazılmıştır ❗❗
-
-  * 💻 OS notları eklendi
-
-  * 🕸 NN notları eklendi
-
-* 📹 BPG slaytları eklendi. [Yunus Emre]
-
-* 📃 Sınav soruları eklendi. [Yunus Emre]
-
-* 📃 Sınav soruları eklendi #33 #25. [Yunus Emre]
-
-* 📃 Calculus 1 sınav soruları eklendi. [Yunus Emre]
-
-* 📑 Ek açıklama eklendi. [Yunus Emre]
-
-* 📃 2015 Mobile Programming vizesi eklendi. [Yunus Emre]
-
-  Ufak isimlendirme düzeltmeleri de yapıldı
-
-* 🔗 AI sınav sorularına bağlantı eklendi. [Yunus Emre]
-
-  @asmaamirkhan
-
-* 📜 AI vize soruları eklendi (#44) [Asmaa Mirkhan]
-
-* ✨ Giriş notları yenilendi. [Yunus Emre]
-
-* ✨ Daha anlaşılır Issue kalıbı oluşturuldu. [Yunus Emre]
-
-* 📅 Vizeye kadar işlenen konular eklendi #43. [Yunus Emre]
-
-* 📃 Çıkmış sorular ve ders notları eklendi. [Yunus Emre]
-
-  @asmaamirkhan
-
-* 📃 Signal Processing çıkmış sorular ve yeni notlar eklendi (#41) [Asmaa Mirkhan]
-
-* 📃 2018 Vize soruları eklendi. [Yunus Emre]
-
-* ✨ Değişiklik tespiti yenilendi. [Yunus Emre]
-
-### 💫 Değişikler
-
-* 🚙 Bilgiler doğru yere aktarıldı. [Yunus Emre]
-
-* 🚀 Emojilendi. [Yunus Emre]
-
-* 🚀 Emojilendi. [Yunus Emre]
-
-* 🚙 Bilgiler doğru yerlere aktarıldı. [Yunus Emre]
-
-* 👩‍🔧 Notlar gerekli yerlere aktarıldı. [Yunus Emre]
-
-* 🚙 Doğru yere taşındı. [Yunus Emre]
-
-  📃 Android Developer Fundamentals için Print metodu açıklama alanına taşındı
-
-* 🚙 Doğru yere taşındı. [Yunus Emre]
-
-* 👨‍🔧 Bağlantılar yenilendi. [Yunus Emre]
-
-* Update README.md. [Yunus Emre]
-
-* 🚀 Emojilendirme ve düzenleme yapıldı. [Yunus Emre]
-
-* 🧹 [Yunus Emre]
-
-### 👨‍🔧 Düzeltmeler
-
-* 👨‍🔧 OS içerikleri düzenlendi. [Yunus Emre]
-
-* 👨‍🔧 Ufak düzeltmeler yapıldı. [Yunus Emre]
-
-* 👨‍🔧  Yapısal düzenleme. [Yunus Emre]
-
-* 🐛 Hata düzeltmesi. [Yunus Emre]
-
-* 👨‍🔧 Ufak düzeltme. [Yunus Emre]
-
-* 🐞 Hatalı bağlantılar kaldırıldı. [Yunus Emre]
-
-* 👨‍🔧 Adlandırmalar düzeltildi. [Yunus Emre]
-
-* 👨‍🔧 Ders notu isteme kalbının karmaşıklığı azaltıldı. [Yunus Emre]
-
-* 👨‍🔧 İsim sorunları onarıldı. [Yunus Emre]
-
-* 🐛 Sorunlu dosya isimleri düzeltildi. [Yunus Emre]
-
-* 👨‍🔧 Emoji düzeltildi. [Yunus Emre]
-
-* 👨‍🔧 Kablosuz notlarının adları düzeltildi. [Yunus Emre]
-
-* 🐛 Link sorunu giderildi. [Yunus Emre]
-
-* 👨‍🔧 Adlandırmalar düzeltildi. [Yunus Emre]
-
-* 👩‍🔧 Sayfaların Tasarımı ve Notların Tutulma Yapısı alanı düzenlendi. [Yunus Emre]
-
-### 📡 Diğerler
-
-* Merge branch 'master' of https://github.com/YEmreAk/IstanbulUniversity-CE. [Yunus Emre]
-
-
-## 2.1 (2019-10-27)
-
-### ✨ Yenilikler
-
-* ✨ Script yenilendi. [Yunus Emre]
-
-* 📂 GitHub'da Klasör Oluşturma bilgisi eklendi. [Yunus Emre]
-
-* ✨ Yapıda güzelleştirildi. [Yunus Emre]
-
-  - Hatalı yazılar düzeltildi
-  - Eksik emojiler eklendi
-  - Yapıya aykırı isimler düzeltildi
-
-  > @asmaamirkhan 'a teşekkürler ✨
-
-* 📃 NN final soruları eklendi (#39) [Asmaa Mirkhan]
-
-* ✨ Daha açıklayıcı yapıldı. [Yunus Emre]
-
-* ✨ Karşılma ekranı yenilendi. [Yunus Emre]
-
-* 📂 Düzenlenmemiş eski ders notlar arşivi eklendi. [Yunus Emre]
-
-* ✨ Ders notu ekleme alanı güzelleştirildi. [Yunus Emre]
-
-* 📙 Ders Notları Ekleme alanı yenilendi. [Yunus Emre]
-
-* ✨ Yeniden yapılandırıldı. [Yunus Emre]
-
-* 📕 Öğrenci notu eklendi. [Yunus Emre]
-
-* ✨ sayfa emojisi eklendi (#35) [Abdullah Furkan Özbek]
-
-* 📗 Bilgisayar Aritmetiği Ders Notları Eklendi (#34) [Abdullah Furkan Özbek]
-
-* 🚧 Bilgisayar Aritmatiği taslağı eklendi. [Yunus Emre]
-
-* ➕ Neural Network slaytları eklendi. [Yunus Emre]
-
-* 🔗 Bağlantılar oluşturuldu. [Yunus Emre]
-
-* 👩‍💻 Programlama sınav soruları eklendi (#29) [Asmaa Mirkhan]
-
-* Create CODE_OF_CONDUCT.md (#28) [Yunus Emre]
-
-* 📙 Ders Notları Ekleme alanı yenilendi. [Yunus Emre]
-
-* 📙 Ders Notları Ekleme alanı yenilendi. [Yunus Emre]
-
-* 🛫 Polonya'da Erasmus alanı eklendi. [Yunus Emre]
-
-* ✨ Memnuniyet anketi notu eklendi. [Yunus Emre]
-
-* İşkence metni eklendi 🌚 [Yunus Emre]
-
-* ✅ İstek Türü'ne açıklama eklendi. [Yunus Emre]
-
-* ✅ İstek Türü eklendi. [Yunus Emre]
-
-* 🔍 CEO çalışması eklendi. [Yunus Emre]
-
-* 📚 Ders notu isteği güncellendi. [Yunus Emre]
-
-* 🦋 Issue alanı eklendi. [Yunus Emre]
-
-* 📚 DC ve AA ile ilgili bilgiler eklendi  (#19) [Asmaa Mirkhan]
-
-  * Algorithm Analysis bilgileri eklendi 📊
-  * DC notları eklendi 📡
-  * 🔗 DC notuna link verildi
-  * Fixed #21
-
-* 📚 Ders notu isteği alanı eklendi. [Yunus Emre]
-
-* 🔗 2019 calculus linki eklendi. [Yunus Emre]
-
-* ✨ Mobil 5.hafta ders notu eklendi. [Yunus Emre]
-
-* 📅 Tarih bilgisi eklendş. [Yunus Emre]
-
-* 📅 Tarih bilgisi eklendi. [Yunus Emre]
-
-* Videolara açıklamalar eklendi 💡 (#18) [Asmaa Mirkhan]
-
-* 📕 Ders notu eklendi. [Yunus Emre'nin Eski Hesabı]
-
-* 🖼 İÜ-CE logosu eklendi. [Yunus Emre]
-
-* 📑 Markdown bağlantısı eklendi. [Yunus Emre]
-
-* 💖 Katkıda Bulunma Rehberi eklendi. [Yunus Emre]
-
-* 💖 Katkıda Bulunma Rehberi eklendi. [Yunus Emre]
-
-* ✨ Dosya isimleri düzeltildi. [Yunus Emre]
-
-* ✨ [Yunus Emre]
-
-* 📱 Öğrenci notları eklendi. [Yunus Emre]
-
-* 📄 Örnek proje planı ve teklif formu eklendi. [Yunus Emre]
-
-* ➕ Bitirme Projesi Form Örneği eklendi. [Yunus Emre]
-
-* ✨ Linkler direkt değil, önizlemeli indirilmeye alındı. [Yunus Emre]
-
-* 🐞✨ Sorunlar giderildi, güzelleştirildi. [Yunus Emre]
-
-  - Linkler artık github'ı açmak yerine direk olarak çalışıyor
-  - Sorunlu linkler giderildi
-  - İçeriklerde ufak düzenleme yapıldı
-
-### 💫 Değişikler
-
-* 🚙 Sayfaların Tasarımı ve Notların Tutulma Yapısı ana sayfaya alındı. [Yunus Emre]
-
-* 🧹 Bilgi kirliliği temizlendi. [Yunus Emre]
-
-* 🧹 Script temizlendi. [Yunus Emre]
-
-  Güncelleme alanı `pre-push` hook'una aktarıldı
-
-* 🚀 Emojilendi. [Yunus Emre]
-
-* 💫 YEmreAk entegrasyonu sağlandı. [Yunus Emre]
-
-* 🚀 Emojilendi. [Yunus Emre]
-
-* Update integrate.sh. [Yunus Emre]
-
-* 💫 Entegrasyon yenilendi. [Yunus Emre]
-
-* ❌ Eski bilgiler kaldırıldı (#32) [Asmaa Mirkhan]
-
-* 🧹 Gereksizler kaldırıldı. [Yunus Emre]
-
-* 💫 Entegrasyon yenilendi. [Yunus Emre]
-
-* ✅ İstenenler alanı getirildi. [Yunus Emre]
-
-* 🍁 PR yapısı yenilendi. [Yunus Emre]
-
-* 🚙 Final bilgileri yeniden konumlandırıldı. [Yunus Emre]
-
-* 🚀 Issue kalıpları yenilendi. [Yunus Emre]
-
-* ❔ Soru sorma başlığı yenilendi. [Yunus Emre]
-
-* 🔗 Muhammet Esat BÜYÜKBULUT notları aktarıldı. [Yunus Emre]
-
-* Update CONTRIBUTING.md. [Yunus Emre]
-
-* Update CONTRIBUTING.md. [Yunus Emre]
-
-* Update Okul Klüpleri.md. [Abdullah Furkan Özbek]
-
-* Update CONTRIBUTING.md. [Yunus Emre]
-
-* Update CONTRIBUTING.md. [Yunus Emre]
-
-* Update CONTRIBUTING.md. [Yunus Emre]
-
-* Update CONTRIBUTING.md. [Yunus Emre]
-
-* Update CONTRIBUTING.md. [Yunus Emre]
-
-* 👨‍💼 Logo sayfanın sonuna alındı. [Yunus Emre]
-
-* 🙋‍♂️ Karşılama ekranı yenilendi. [Yunus Emre]
-
-* Update Okul Klüpleri.md. [Abdullah Furkan Özbek]
-
-* 💫 [Yunus Emre]
-
-* Update SUMMARY.md. [Yunus Emre]
-
-* Revert "🚀 Artık dosyalara direkt olarak erişim var" [Yunus Emre]
-
-  This reverts commit 53c5d8f4bc8139bde7ac9a1f25d2087e99582959.
-
-* Revert "GitBook: [master] 490 pages and 370 assets modified" [Yunus Emre]
-
-  This reverts commit 6a3051d1c02832579144fbead3bf6283f351091b.
-
-### 👨‍🔧 Düzeltmeler
-
-* 👨‍🔧 Önemsiz düzeltme. [Yunus Emre]
-
-* 👨‍🔧 Ders notlarındaki sorunlar giderildi. [Yunus Emre]
-
-  - Derleyici ders notlarının bozukluğu giderildi
-  - 2018 klasörüne alındı
-
-* 👨‍🔧 İsim düzeltildi (#37) [Abdullah Furkan Özbek]
-
-* 👨‍🔧 Sorunlu linkler düzeltildi. [Yunus Emre]
-
-* 👨‍🔧 linkteki buglar çözüldü (#31) [Abdullah Furkan Özbek]
-
-* 👨‍🔧 Dosya adları düzenlendi. [Yunus Emre]
-
-* 👨‍🔧 İçerik yapısı düzenlendi. [Yunus Emre]
-
-* 🐞 Emoji sorunu giderildi. [Yunus Emre]
-
-* ✍ Yazım hatası giderildi. [Yunus Emre]
-
-* 👨‍🔧 Issue kalıpları düzeltildi. [Yunus Emre]
-
-* 🐞 Link sorunu giderildi. [Yunus Emre]
-
-* 👨‍🔧 Yazım hataları ve kusurlu bağlantılar düzeltildi. [Yunus Emre]
-
-* 👨‍🔧 Yazım hataları ve kusurlu bağlantılar düzeltildi. [Yunus Emre]
-
-* 🐞 [Yunus Emre]
-
-### 📡 Diğerler
-
-* 🧪 Emoji denemesi yapıldı. [Yunus Emre]
-
-* Merge branch 'master' of https://github.com/YEmreAk/IstanbulUniversity-CE. [Yunus Emre]
-
-* 🎀 Etiket Çalışması gizlendi. [Yunus Emre]
-
-* Merge branch 'master' of https://github.com/yedhrab/IstanbulUniversity-CE. [Yunus Emre]
-
-* Merge branch 'master' of https://github.com/yedhrab/IstanbulUniversity-CE. [Yunus Emre]
-
-* Merge pull request #15 from afozbek/master. [Yunus Emre]
-
-  Yeni link eklendi
-
-* Merge pull request #1 from yedhrab/master. [Abdullah Furkan Özbek]
-
-  Gerekli merge işlemleri
-
-* Merge branch 'master' of https://github.com/yedhrab/IstanbulUniversity-CE. [Yunus Emre]
-
-* Merge pull request #16 from yedehrab/master. [Yunus Emre]
-
-  📕 Ders Notu eklendi
-
-* Merge pull request #1 from yedhrab/master. [Yunus Emre'nin Eski Hesabı]
-
-  ✨
-
-* Merge branch 'master' of https://github.com/yedhrab/IstanbulUniversity-CE. [Yunus Emre]
-
-* Merge pull request #13 from afozbek/patch-1. [Yunus Emre]
-
-  Update Okul Klüpleri.md
-
-* GitBook: [master] 490 pages and 370 assets modified. [Yunus Emre]
-
-
-## 2.0 (2019-10-10)
-
-### ✨ Yenilikler
-
-* 🏫 Istanbul University CE İÜ CE~ YEmreAk Katkıda Bulunma videosu eklendi. [Yunus Emre]
-
-* ✨ Yapıda güzelleştirme ve süsleme yapıldı. [Yunus Emre]
-
-* ✨ Yapıda güzelleştirme ve süsleme yapılda. [Yunus Emre]
-
-* 📗 Ders Programları eklendi. [Yunus Emre]
-
-* Bilişim proje geliştirme ödev teslim takvimi eklendi. [Yunus Emre]
-
-* 👷‍♂️ Daha belirgin ve anlaşılır yapı oluşturuldu. [Yunus Emre]
-
-* 16BitMipsVHDL.pdf eklendi. [Yunus Emre]
-
-### 💫 Değişikler
-
-* 🚀 Artık dosyalara direkt olarak erişim var. [Yunus Emre]
-
-  - 🐞 GitHub'a yönlendirme sorunu giderildi
-  - ✨ Güzelleştirme yapıldı
-
-* Revert "🚀 Artık dosyalar GitHub'tan bağımsız 🚀" [Yunus Emre]
-
-  This reverts commit 025bd081bf2f1fef314055bc394d62f20281de8e.
-
-* Revert "🐞 Dosyaların gözükmeme sorunu giderildi" [Yunus Emre]
-
-  This reverts commit 3c807d4e2022e803d09bb55b6fa61c52c4a19605.
-
-* 🚀 Artık dosyalar GitHub'tan bağımsız 🚀 [Yunus Emre]
-
-  - Dosyaların GitHub'a yönlendirmesi engellendi
-  - WebSitesi üzerinden direkt olarak indirilebilmekte
-
-* Update README.md. [Yunus Emre]
-
-* 🏫 Istanbul University CE İÜ CE~ YEmreAk Katkıda Bulunma videosu yenilendi. [Yunus Emre]
-
-* Revert "Update PULL_REQUEST_TEMPLATE.md" [Yunus Emre]
-
-  This reverts commit 94b372670cf2fb21f15afeeded148b531765dcd0.
-
-* Update PULL_REQUEST_TEMPLATE.md. [Yunus Emre]
-
-* Bilişim proje geliştirme içerikleri yenilendi. [Yunus Emre]
-
-* Update README.md. [Yunus Emre]
-
-* Update 3 - Akademik Kadro.md. [Yunus Emre]
-
-* Son güncelleme alanı yenilendi. [Yunus Emre]
-
-* Update 0 - Açıklama.md. [Yunus Emre]
-
-* Update 🤑 Ücretsiz Yazılımlar.md. [Yunus Emre]
-
-* 🤑 Ücretsiz Yazılımlar için Eduroam notları yenilendi. [Yunus Emre]
-
-* Bilgisayar Mimarisi notları yenilendi. [Yunus Emre]
-
-### 👨‍🔧 Düzeltmeler
-
-* 🐞 Dosyaların gözükmeme sorunu giderildi. [Yunus Emre]
-
-* 🔗🐞 Akademik Kadro link sorunları giderildi. [Yunus Emre]
-
-* Önemsiz düzeltme. [Yunus Emre]
-
-* ⚙ Entegrasyon yapısı düzenlendi. [Yunus Emre]
-
-* 🐞 Hatalar giderildi. [Yunus Emre]
-
-### 📡 Diğerler
-
-* 🏫 Istanbul University CE İÜ CE~ YEmreAk Katkıda Bulunma. [Yunus Emre]
-
-* İçerikler sıralandı. [Yunus Emre]
-
-
-## 1.2 (2019-10-02)
-
-### ✨ Yenilikler
-
-* 💎 Linux Kernel Güncelleme eklendi. [Yunus Emre]
-
-* Mobil programlama ders slaytları linki eklendi. [Yunus Emre]
-
-* Kriptoloji 3. Hafta Ders Notlarım eklendi. [Yunus Emre]
-
-* ✨ Son Güncellemeler (🧪 Deneysel) yapısı eklendi. [Yunus Emre]
-
-* Eduroamda Çalışan VPN eklendi. [Yunus Emre]
-
-  Genel Bilgiler\📗 Faydalı Bilgiler alanında
-
-* NN için ufak düzeltmeler ve notlar eklendi. [Yunus Emre]
-
-* 🗒 Ders notlarım eklendi. [Yunus Emre]
-
-  - Yöneylem
-  - Bİlişim proje geliştirme
-  - Neural Network
-
-* Mobile Programming duyuruları eklendi. [Yunus Emre]
-
-* 4.sınıf 1.dönem dersleri için duyurular eklendi. [Yunus Emre]
-
-* 🚀 Kripto 2.hafta notları eklendi. [Yunus Emre]
-
-* 🗽 İndekslemeler eklendi. [Yunus Emre]
-
-### 💫 Değişikler
-
-* Son değişiklikler güncellendi. [Yunus Emre]
-
-* Yeniden yapılandırıldı 🚧 [Yunus Emre]
-
-* Update README.md. [Yunus Emre]
-
-* 4. Sınıf 1. Dönem Notları\Bilişim Proje Geliştirme saatleri yenilendi. [Yunus Emre]
-
-* 🔑 İnformasyon Güvenliği ve Kriptoloji başlığı değiştirildi. [Yunus Emre]
-
-### 👨‍🔧 Düzeltmeler
-
-* 🐞 Ufak sorunlar giderildi. [Yunus Emre]
-
-* ✍ Yazım hataları giderildi. [Yunus Emre]
-
-
-## 1.1 (2019-09-18)
-
-### ✨ Yenilikler
-
-* Kriptoloji dersinin ilk gününde yapılan quiz soruları ve cevapları eklendi. [Yunus Emre]
-
-* 📜 Kriptoloji dersinin ilk gününde yapılan quiz soruları ve cevapları eklendi. [Yunus Emre]
-
-* Kriptoloji İlk Gün Yapılan Quiz'in Soruları eklendi. [Yunus Emre]
-
-* Eğitmen Bilgileri için link eklendi. [Yunus Emre]
-
-* 🧪 Computer Science alanı eklendi. [Yunus Emre]
-
-* ✨ Özenle Hazırladığım Diğer Dökümanlarım yenilendi. [Yunus Emre]
-
-* 🗽 Hoş Geldin metni eklendi. [Yunus Emre]
-
-* Update 📙 Ders Seçimi.md. [Yunus Emre]
-
-* Tüm sınıfları ilgilendiren faydalı notlar eklendi✨ [Yunus Emre]
-
-  [🤓 Genel Bilgiler](1%20-%20Genel%20Bilgiler9
-
-### 💫 Değişikler
-
-* Update README.md. [Yunus Emre]
-
-* Update README.md. [Yunus Emre]
-
-* Update İlk Günki Quiz Soruları ve Cevapları.md. [Yunus Emre]
-
-* Bulanık mantık sayfası güncellendi. [Yunus Emre]
-
-* Yapı kökten değişti ve iyileştirildi 🚀 [Yunus Emre]
-
-* Mobile Programming notları yenilendi. [Yunus Emre]
-
-* Update 🤑 Ücretsiz Yazılımlar.md. [Yunus Emre]
-
-* Staj Notları yenilendi. [Yunus Emre]
-
-* 🧹 Derslerin altında yazan "Yok 😅" yazısı kaldırıldı. [Yunus Emre]
-
-* 🧹 Gereksiz linkler temizlendi. [Yunus Emre]
-
-* 🛰 Tüm indekslemeler yeniden yapılandırıldı. [Yunus Emre]
-
-  😩 Yoğun bir çalışma sonrasında indekleme repoya uygun bir yapıya geçirildi
-  🎈 Notlar daha anlaşılır
-
-* 📂 Harici dosyalar adına geçildi. [Yunus Emre]
-
-### 👨‍🔧 Düzeltmeler
-
-* 🏗 Sayfalar Tasarımı ve Notların Tutulma Yapısı hakkında ek notlar ve düzenlemeler. [Yunus Emre]
-
-* 🐞 Sayfaların gözükmeme sorunu giderildi. [Yunus Emre]
-
-* 🏗 Ufak yapı düzeltemesi. [Yunus Emre]
-
-* Önemsiz düzeltme. [Yunus Emre]
-
-
-## 1.0 (2019-09-11)
-
-### ✨ Yenilikler
-
-* 👀 Neler değişti eklendi. [Yunus Emre]
-
-* Yeni ders programı eklendi. [Yunus Emre]
-
-* Update 📙 Ders Seçimi.md. [Yunus Emre]
-
-* Ders notları arttırıldı. [Yunus Emre]
-
-* ✨ Emojilendi. [Yunus Emre]
-
-* ✨ Ufak düzeltme. [Yunus Emre]
-
-* Ek açıklamalar ve içerik desteği eklendi 🚀 [Yunus Emre]
-
-* ✨ Ufak güzelleştirme. [Yunus Emre]
-
-* Ufak düzeltme ✨ [Yunus Emre]
-
-* Staj Bitiminde Gerekli Olan Belgeler eklendi. [Yunus Emre]
-
-* GitBook 📖 entegrasyonu. [Yunus Emre]
-
-  Entegrasyonun çoğu halledildi 💞
-
-* Görsel düzenleme ✨ [Yunus Emre]
-
-* Emojiler belirgin kılındı ✨ [Yunus Emre]
-
-* Ufak düzeltme ve güzelleştirme yapıldı ✨ [Yunus Emre]
-
-* Ufak güzelleştirme ✨ [Yunus Emre]
-
-* 🗽 Indekleme eklendi. [Yunus Emre]
-
-* Script yenilendi 🚀 Summary dosyası oluşturmak için kullanılacak şekle getirildi. [Yunus Emre]
-
-* İstek ve yardım kalıpları oluşturuldu 🚀 [Yunus Emre]
-
-* Kalıp eklendi 🧼 [Yunus Emre]
-
-* Yapılacaklar eklendi ✔ [Yunus Emre]
-
-* Güzelleştirme ✨ [Yunus Emre]
-
-* Resmi saatler eklendi ⌚ [Yunus Emre]
-
-* Duyurular eklendi 📢 [Yunus Emre]
-
-* Emojiler eklendi ✨ [Yunus Emre]
-
-* Emojiler ve ek bilgi eklendi ✨ 💸 Üniversite harcı nasıl yatırılır. [Yunus Emre]
-
-* Seçmeli derslerin grupları eklendi ✨ 2018-2019 EĞİTİM-ÖĞRETİM YILI, ÖRGÜN LİSANS EĞİTİMİ DERS PLANI. [Yunus Emre]
-
-* Bahar ders programı eklendi 🌿 [Yunus Emre]
-
-* Tarih sınav soruları eklendi ✨ [Yunus Emre]
-
-* Windows 10 için icon eklendi 🔮 [Yunus Emre]
-
-* Eski ders programı eklendi. [Yunus Emre]
-
-* 2019 Büt'ü eklendi. [yedhrab]
-
-* Staj bilgileri eklendi. [yedhrab]
-
-* 2019 Vize soruları eklendi 🔖 [yedhrab]
-
-* 2018 Büt'ü eklendi 📑 [Yunus Emre]
-
-* Yaz okulu süreci hakında bilgi eklendi. [Yunus Emre]
-
-* Soru çözümü eklendi. [Yunus Emre]
-
-* ITU dil sınavına çalışacabileceğin link eklendi. [Yunus Emre]
-
-* 2019 finali eklendi. [Yunus Emre]
-
-* Final sınavı eklendi. [Yunus Emre]
-
-* Fizik sorularının çözümleri eklendi. [Yunus Emre]
-
-* PDF'e ek not eklendi. [Yunus Emre]
-
-* Yapılacaklar eklendi. [Yunus Emre]
-
-* Yapılacak eklendi. [Yunus Emre]
-
-* Öğrenci notları eklendi. [Yunus Emre]
-
-  Not sahibi: Eda Nur Var
-
-* Bilgiler arttırıldı 🗽 [Yunus Emre]
-
-* Yeni bilgiler eklendi ✨ [Yunus Emre]
-
-* Yaz okulu bilgisi eklendi ✨ [Yunus Emre]
-
-* Yeni başlık eklendi. [Yunus Emre]
-
-* Çan bilgileri eklendi. [Yunus Emre]
-
-* Sınav soruları eklendi 📃 [Yunus Emre]
-
-* Final sınavı eklendi. [Yunus Emre]
-
-* Çıkmış sorular eklendi. [Yunus Emre]
-
-* Yatay geçiş notları eklendi. [Yunus Emre]
-
-* Yeni dersler eklendi. [Yunus Emre]
-
-* Final çalışmam eklendi 🚀 [Yunus Emre]
-
-* Veteriner'e sorulan sınav eklendi. [Yunus Emre]
-
-* Yeni notlar ve sınavlar eklendi 🔥 [Yunus Emre]
-
-* Sınav sorularının cevapları eklendi. [Yunus Emre]
-
-* Notlar arttırıldı. [Yunus Emre]
-
-* Mimari notlarım eklendi. [Yunus Emre]
-
-* Final notları eklendi. [Yunus Emre]
-
-* Lab notları eklendi. [Yunus Emre]
-
-* Latex desteği eklendi. [Yunus Emre]
-
-* Kendi notlarım eklendi ✨ [Yunus Emre]
-
-* Final hakkında bilgiler eklendi. [Yunus Emre]
-
-* Erasmus bilgileri eklendi. [Yunus Emre]
-
-* Harici linkler yenilendi ✨ [YEmreAk]
-
-* Öğrenci notları eklendi ✨ [YEmreAk]
-
-  Asma Mirkhan'ın ders notları eklendi.
-
-* Asma Mirkhan workshop çalışmaları eklendi ✨ [YEmreAk]
-
-* Sena Modanlı'nın attığı notlar eklendi ✨ [YEmreAk]
-
-* Yapılacaklar eklendi 🐱‍🏍 [YEmreAk]
-
-* Workshoplar eklendi ✨ [YEmreAk]
-
-* Sınav kağıtları eklendi ✨ [YEmreAk]
-
-  Sena Modanlıoğlu'nun attığı sınav kağıtları eklendi
-
-* 4. sınıf notları eklendi 🚀 [YEmreAk]
-
-* Bilgiler arttırıldı 🚀 [YEmreAk]
-
-* Gerekli bilgiler ve faydalı bağlantılar eklendi. [YEmreAk]
-
-* Sınav takvimi eklendi 📄 [Yunus Emre]
-
-* Final hakkında bilgilendirme eklendi. [YEmreAk]
-
-* Selçuk hocanın maili eklendi. [Yunus Emre]
-
-* Hata çözümü eklendi 👷 [Yunus Emre]
-
-* Hata çözümü eklendi 👷 [Yunus Emre]
-
-* Proje ödevi hakkında bilgiler eklenti 🗽 XILINX işlemleri ve kaynakları. [Yunus Emre]
-
-* XILINX linkleri eklendi 🗽 [Yunus Emre]
-
-* Proje ödevi eklendi 🎃 [Yunus Emre]
-
-* TODO eklendi 🥀 [YEmreAk]
-
-* İndex'e uzantı da eklendi 🌀 [YEmreAk]
-
-* Resmi ders içeriği eklendi 🆕 [YEmreAk]
-
-* Komple güncelleme ✨ [YEmreAk]
-
-* Yeni bilgiler eklendi 🗞 [YEmreAk]
-
-* README güncelleyici yenilendi ✨ [YEmreAk]
-
-* 2018 proje ödevleri eklendi 😱 [YEmreAk]
-
-* 2.Sınıf 2. Dönem Notları eklendi ✨ [YEmreAk]
-
-* Microsoft ve JetBrains lisans bilgileri eklendi ✨ [YEmreAk]
-
-### 💫 Değişikler
-
-* Ders seçimi duyurusu yenilendi. [Yunus Emre]
-
-* 🧹 Gereksizler silindi, indeks hatası giderildi. [Yunus Emre]
-
-* Update SUMMARY.md. [Yunus Emre]
-
-* 🗽 indeksler yenilendi. [Yunus Emre]
-
-* 🚀 Kişisel ders seçimi tavsileri. [Yunus Emre]
-
-* 📧 Mail linki güncellendi. [Yunus Emre]
-
-* Ufak güncelleme. [Yunus Emre]
-
-* Update SUMMARY.md. [Yunus Emre]
-
-* 📂 Dosya ismi yenilendi. [Yunus Emre]
-
-* Iuce.yemreak.com'a aktarıldı 🚙 [Yunus Emre]
-
-* Gereksizler kaldırıldı 🧹 [Yunus Emre]
-
-* Update SUMMARY.md. [Yunus Emre]
-
-* Gereksizler kaldırıldı 🧹 [Yunus Emre]
-
-* Ortak notlar için PDF 🔗 linkleri koyuldu. [Yunus Emre]
-
-* Update SUMMARY.md. [Yunus Emre]
-
-* Gereksizler temizlendi 🧹 [Yunus Emre]
-
-* Gitbook'dan gelenler kaldırıldı 🧹 [Yunus Emre]
-
-* Gereksiz indeksleme kaldırıldı 🧹 [Yunus Emre]
-
-* İçerikler kısmı kaldırıldı 🧹 [Yunus Emre]
-
-  GitBook entegrasyonu olduğundan içerikler otomatik oluşturulmakta ✨
-
-* Update README.md. [Yunus Emre]
-
-* Destek alanı güncellendi 📢 [Yunus Emre]
-
-* Ücretsiz yazılımlar güncellendi 🆓 [Yunus Emre]
-
-* Yapı yenilendi. [Yunus Emre]
-
-* Staj notları yenilendi. [Yunus Emre]
-
-* Sınav soruları yenilendi 🚀 [Yunus Emre]
-
-* Giriş yazısı güncellendi 🗽 [Yunus Emre]
-
-* Yapı değişikliği 🗽 [Yunus Emre]
-
-* İndeksler güncellendi 🗽 [Yunus Emre]
-
-* Bağış linki güncellendi  ♥ [Yunus Emre]
-
-* PDF'ler yenilendi. [Yunus Emre]
-
-* Ders notları yenilendi 🆕 [Yunus Emre]
-
-* Update FUNDING.yml. [Yunus Emre]
-
-* Kararlı sürüm 🚀 [Yunus Emre]
-
-* Yeni yapıya geçildi 🔥 [Yunus Emre]
-
-* Link yenilendi 🆕 [Yunus Emre]
-
-* Temel yapı değiştirildi 🔥 [Yunus Emre]
-
-  3. sınıf 2. dönem derslerinin yapısı değiştirildi 🔥
-
-* Gereksiz tema verisi kaldırıldı 🧹 [Yunus Emre]
-
-* Latex denemesi geri alındı. [Yunus Emre]
-
-* Yeni notlar 🚀 [Yunus Emre]
-
-* Klasör ismi değiştirildi. [YEmreAk]
-
-* İndeskleme yenilendi. [YEmreAk]
-
-* Huawei notları yenilendi. [YEmreAk]
-
-* Yeni scripte geçildi 🚀 [YEmreAk]
-
-* Teslim bilgileri güncellendi. [YEmreAk]
-
-* Script güncellendi 👷 [Yunus Emre]
-
-* Script güncellendi. [Yunus Emre]
-
-* İndeksleme düzeltildi 🚀 [Yunus Emre]
-
-* Ders içerikleri doğru alana taşındı 👣 [YEmreAk]
-
-* Ders içerikleri doğru yere taşındı 👣 [YEmreAk]
-
-* Veriler güncellendi 🏗 [YEmreAk]
-
-* Master aktarıldı 🛬 [YEmreAk]
-
-* Görünüm için yapılandırıld 🏗ı. [YEmreAk]
-
-* Sistemi yeniden yapılandırma 🏗 [YEmreAk]
-
-* İçerikler güncellendi 🌀 [YEmreAk]
-
-* Genel düzenleme ve başlık değiştirme 🌀 [YEmreAk]
-
-* Giriş yapılandırması 🏗 [YEmreAk]
-
-### 👨‍🔧 Düzeltmeler
-
-* Hatalı link düzeltildi. [Yunus Emre]
-
-* Ufak düzeltme. [Yunus Emre]
-
-* Ufak düzeltme. [Yunus Emre]
-
-* Ufak düzeltme. [Yunus Emre]
-
-* 👨‍⚖️ [Yunus Emre]
-
-* 👨‍🏫 [Yunus Emre]
-
-* Link sorunu giderildi. [Yunus Emre]
-
-* Yazım hatası giderildi. [Yunus Emre]
-
-* PDF ismi düzeltildi 🐞 [Yunus Emre]
-
-* Link sorunu giderildi 🐞 [Yunus Emre]
-
-* GitBook için entegrasyon çakışmaları 👨‍🔧 [Yunus Emre]
-
-* İndeksleme kaldırıldı. [Yunus Emre]
-
-* Hata düzeltmesi. [Yunus Emre]
-
-* Hata düzeltmeleri yapıldı 🐞 [Yunus Emre]
-
-* Lİnk sorunu giderildi 🐛 [Yunus Emre]
-
-* Windows dosyaları kaldırıldı. [Yunus Emre]
-
-* Önemsiz düzeltme 🗽 [yedhrab]
-
-* Yazım hatası giderildi 🐛 [Yunus Emre]
-
-* Delete Final 2019 ~ Fizik.pdf. [Yunus Emre]
-
-* Yapısal düzenleme 👷 [Yunus Emre]
-
-* Gereksiz bilgi kaldırıldı. [Yunus Emre]
-
-* Font sorunu giderildi 👌 [Yunus Emre]
-
-* Yazım hataları giderildi. [Yunus Emre]
-
-* Başlıklardaki kayma sorunu giderildi 🐛 [Yunus Emre]
-
-* Gereksiz not kaldırıldı 🌀 [Yunus Emre]
-
-* 3.sınıf 1. Dönem Notları düzenlendi 🔥 [Yunus Emre]
-
-* Gereksiz resimler kaldırldı 🌀 [Yunus Emre]
-
-* Yeni bilgiler geldi gereksizler kaldırıldı 🌀 [Yunus Emre]
-
-* Hatalı link düzeltildi. [Yunus Emre]
-
-* Hatalı metin giderildi. [Yedhrab]
-
-* Hata düzeltmesi. [Yedhrab]
-
-* Hatalı link düzeltildi. [Yedhrab]
-
-* Hatalar giderildi. [Yunus Emre]
-
-* Yapılar düzeltildi. [Yunus Emre]
-
-* İndeksler düzeltildi. [Yunus Emre]
-
-* Hata düzeltmesi 🐛 [Yunus Emre]
-
-  Yanlış link düzeltildi ve bilgiler tamamlandı ✨
-
-* Link eksikliği giderildi 🐛 [YEmreAk]
-
-* Hatalı yazım giderildi. [YEmreAk]
-
-* İndeksleme hatası giderildi 🐛 [YEmreAk]
-
-* Windows yollarından kaynaklı sorun giderildi 🐛 [YEmreAk]
-
-* İndeksleme düzeltildi. [YEmreAk]
-
-* Gereksiz düzeltme. [YEmreAk]
-
-* Gereksiz indeksleme kaldırıldı. [Yunus Emre]
-
-* Yapısal düzenleme 🏗 [Yunus Emre]
-
-* Yapısal düzenleme 🏗 [Yunus Emre]
-
-* Ufak düzeltme 👷 [Yunus Emre]
-
-* Link hatası düzeltildi 👷 [Yunus Emre]
-
-* Link kusurları giderildi 🌀 | yerine - kullanıldı. [Yunus Emre]
-
-* Script hatası giderildi 🌀 [YEmreAk]
-
-* Yapısal düzenleme 🏗 [YEmreAk]
-
-* Yapısal düzenleme 🏗 [YEmreAk]
-
-* Hatalı index kaldırıldı 🐛 [YEmreAk]
-
-### 📡 Diğerler
-
-* . [Yunus Emre]
-
-* Yapılacaklar yapıldı ✔ [Yunus Emre]
-
-* GitBook: [master] 235 pages and 249 assets modified. [Yunus Emre]
-
-* Yeni bilgiler 🗽 [Yunus Emre]
-
-* Final çözümleri birleştirildi. [Yunus Emre]
-
-* Staj notları başlığı açıldı. [Yunus Emre]
-
-* Yeni Ders Notu. [Yunus Emre]
-
-  Object Orianted & Anylasis için 4.sınıf  © grubuna atılan notlar.
-
-* PDF çıktısının boyutu küçültüldü ⏬ [Yunus Emre]
-
-  Emojilerden kaynaklanan 7 MB'lık artıştan dolayı emojiler kaldırıldı.
-
-* ✍ [Yunus Emre]
-
-* ✍ [Yunus Emre]
-
-* Yeni yapıdan nasibini aldı 🔥 [Yunus Emre]
-
-* Yapısal düzemleme 🔥 [Yunus Emre]
-
-* Yeni yapıdan nasibini aldı 🔥 [Yunus Emre]
-
-* Yeni yapıdan nasibini aldı 🔥 [Yunus Emre]
-
-* Yapılar güzelleştirildi 🔥 [Yunus Emre]
-
-* Tempm. [Yunus Emre]
-
-* Latex denemesi. [Yunus Emre]
-
-* Yeni bilgiler. [Yunus Emre]
-
-* Merge branch 'master' of https://github.com/yedhrab/IstanbulUniversity-CE. [YEmreAk]
-
-* Notlar doğru yeretaşındı 🚌 [YEmreAk]
-
-* Notlar doğru yeretaşındı 🚌 [YEmreAk]
-
-* Merge branch 'master' of https://github.com/yedhrab/IstanbulUniversity-CE. [YEmreAk]
-
-* Merge branch 'master' of https://github.com/yedhrab/IstanbulUniversity-CE. [YEmreAk]
-
-* Merge branch 'master' of https://github.com/yedhrab/IstanbulUniversity-CE into gh-pages. [Yunus Emre]
-
-* Merge branch 'master' of https://github.com/yedhrab/IstanbulUniversity-CE into gh-pages. [Yunus Emre]
-
-* Merge branch 'master' of https://github.com/yedhrab/IstanbulUniversity-CE into gh-pages. [Yunus Emre]
-
-* Merge branch 'master' of https://github.com/yedhrab/IstanbulUniversity-CE into gh-pages. [Yunus Emre]
-
-* Merge branch 'master' of https://github.com/yedhrab/IstanbulUniversity-CE into gh-pages. [Yunus Emre]
-
-* Merge branch 'master' of https://github.com/yedhrab/IstanbulUniversity-CE into gh-pages. [Yunus Emre]
-
-* Merge branch 'master' of https://github.com/yedhrab/IstanbulUniversity-CE into gh-pages. [YEmreAk]
-
-* Düzen değiltirildi 🏗 [YEmreAk]
-
-* Merge branch 'master' of https://github.com/yedhrab/IstanbulUniversity-CE into gh-pages. [YEmreAk]
-
-* Set theme jekyll-theme-midnight. [Yunus Emre]
-
-* Ücretsiz yazılımlar başlığı açıldı tada 🎉 [YEmreAk]
-
-* Ücretsiz yazılımlar başlığı açıldı 🎉 [YEmreAk]
-
-* 3. sınıf notları tamamlandı 🗽 [YEmreAk]
-
-* 3. sınıf notları tamamlandı 🗽 [YEmreAk]
-
-
+# ✨ Değişiklikler
+
+## 📋 Tüm Değişiklikler
+
+- [🛫 Polonya'da Erasmus yazısı yenilendi ~ 20/11/2019 - 00:03:25](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/cd3459443690ac13d45f845842e407aa386aa018?diff=split)
+- [📕 Ders Bilgileri yenilendi ~ 20/11/2019 - 00:03:03](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/139394eb259c12a81bbc5ac2e875c1e56dce387f?diff=split)
+- [✨ Derlenmiş çalışmalar yenilendi ~ 17/11/2019 - 02:19:28](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/ca11eb4ebf22b3f877c7717374e6fe7c14bd6055?diff=split)
+- [✨ Derlenmiş çalışmalarım eklendi ~ 16/11/2019 - 11:39:51](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/e4f958f0d2f1d5b54f9fedd891b203ab57a5b588?diff=split)
+- [📞 Öğrenci İşleri Telefon Numaraları eklendi ~ 12/11/2019 - 09:56:53](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/c90aac4207f53256e6ca545b3ff9c219e22435d1?diff=split)
+- [📕 Bulanık Mantık öğrenci notları eklendi ~ 08/11/2019 - 09:22:52](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/d3e6d34a5d9d5e76be6396cc9666cff2a6192288?diff=split)
+- [📃 Discreate çıkmış soruları eklendi ~ 08/11/2019 - 09:18:13](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/660792f8850149158ed3954530d7d1f3aef6abbb?diff=split)
+- [✨ Faydalı videolar eklendi ~ 08/11/2019 - 00:19:10](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/094a573bc6549cc9c114fc8b1fa0a019efb7e33e?diff=split)
+- [✨ Kriptoloji sınavı hakkında ufak bilgi eklendi ~ 07/11/2019 - 23:35:50](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/b5038a30505e8dc59e5923bd37fcf44a0f223c12?diff=split)
+- [✨ Yöneylem Yol Yardımı - Simpleks Yöntem (Minimizasyon) eklendi ~ 07/11/2019 - 23:34:32](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/6064874545b069bbb4ff7775fb8cfcb7f0b8b299?diff=split)
+- [✍ Kriptoloji notlarım yenilendi ~ 07/11/2019 - 12:50:20](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/007d7d7a192f1f29c1eba8e42b4650bc37a74c5c?diff=split)
+- [✍ DES ve Vize soru çözümü eklendi ~ 07/11/2019 - 12:29:13](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/57725a2ab2e3c0824b97ca5020b55bfe67dd5e96?diff=split)
+- [📃 AA 2019 vizesi eklendi ~ 07/11/2019 - 09:27:23](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/111db301ab25e16e551b1b55e6490a6f3b8d2a3c?diff=split)
+- [📃 DT 2019 vize sınavı eklendi ~ 07/11/2019 - 09:24:55](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/870e445969a4fbc33bb29241920284ccfd83bf21?diff=split)
+- [📃 NN 2019 vize sınavı eklendi ~ 07/11/2019 - 09:24:43](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/cdd778a2c613a0798b3ff3e889aed13882345371?diff=split)
+- [✍ Kriptoloji notlarım yenilendi ~ 07/11/2019 - 01:59:47](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/080d17a188721ce4b5ec51c23930aa4879eae9f6?diff=split)
+- [👨‍💻 GitHook alanı eklendi ~ 06/11/2019 - 23:48:15](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/5da9f243e5050e706420e2b2063ff8e162c51bb1?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 06/11/2019 - 23:43:10](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/8a5d502d5cbb8e95450a4991f0fcc980075e187b?diff=split)
+- [✍ Kriptoloji çalışma notum eklendi ~ 06/11/2019 - 23:43:07](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/e8b5811faa5cfd32e90fb3c12f6fc06d5cef3559?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 06/11/2019 - 23:30:20](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/f276590af1de648574ba46b7f4def0a37acb6b9d?diff=split)
+- [👨‍🔧 OS içerikleri düzenlendi ~ 06/11/2019 - 23:30:17](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/6d87f57d149d9690a8b2d6d04361b7f3805c4f8d?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 06/11/2019 - 23:24:21](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/e0ac13d1428db02bfc5131ed72951965fbfc43b5?diff=split)
+- [📃 Sinyal vizesi eklendi ~ 06/11/2019 - 23:24:17](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/1519b8c625b59aa6a77b609024b0e6510ab5a94e?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 06/11/2019 - 23:22:28](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/549ddd10b799b1b3dc8690c0243386380348b672?diff=split)
+- [📃 Lojik sınavları eklendi ~ 06/11/2019 - 23:22:24](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/2b48c960b8ab79e09805344bf8791b3da6261745?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 06/11/2019 - 21:22:58](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/095d50f3ddcdc58f9a4e4899f45da916e6d8ad9f?diff=split)
+- [📃 2018 Sinyal çalışma kağıdı eklendi ~ 06/11/2019 - 21:22:54](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/5afb06769f7799062ae9110a11640bfc050c98f9?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 06/11/2019 - 20:14:38](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/5c595eed4efef5156812275a67da24a9a48c10ef?diff=split)
+- [👨‍🔧 Ufak düzeltmeler yapıldı ~ 06/11/2019 - 20:14:34](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/d49f606248b9b0773050bd39c6b50930aa32cc77?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 06/11/2019 - 16:59:14](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/f47a6be4706d3d0434a0398eafdf368f1c192132?diff=split)
+- [📕 Kriptoloji vize notları eklendi ~ 06/11/2019 - 16:59:11](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/5378a9059006d071269b09b536e80be95f9fc1a7?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 06/11/2019 - 16:30:45](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/a10d313feb54a77055dc580712993cd9ae9ae184?diff=split)
+- [📃 2019 VYS Vizesi eklendi ~ 06/11/2019 - 16:30:42](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/068e16419625250b6a217f4e8086c47beb393e43?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 06/11/2019 - 15:41:39](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/15b7e6ceb98bd069f0b50bf6ecf2b2cba4bc5e5e?diff=split)
+- [👨‍🔧  Yapısal düzenleme ~ 06/11/2019 - 15:41:36](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/e9cfe2f3fe281cab628355285992276817bd83f1?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 06/11/2019 - 15:15:35](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/1add0cf71ffc835b1efed3db7ee24ee63a13ba5e?diff=split)
+- [📃 Kriptoloji 2018 vize sınavı eklendi ~ 06/11/2019 - 15:15:32](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/66beb32f343bcd59c95080f93090d6e005d0d84c?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 06/11/2019 - 13:50:16](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/efebb80f3ed01774cbd8c6504254988a2db97d47?diff=split)
+- [📃 Derleyici vize soruları eklendi ~ 06/11/2019 - 13:50:13](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/3ff532eb05150b3c426fd2ee27d063ad7e5f8a82?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 06/11/2019 - 13:40:29](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/031eb1296ad1946b0a08fe70bdd459ab4e6b4593?diff=split)
+- [✨ Ek açıklamalar eklendi ~ 06/11/2019 - 13:40:25](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/8ac32a7211d48b07fe80acff6b0be2d3acbb90d1?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 04/11/2019 - 23:47:49](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/ec3a10c974d0bed7c05d0d4e8c2922dc50edb557?diff=split)
+- [🚙 Bilgiler doğru yere aktarıldı ~ 04/11/2019 - 23:47:46](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/fb49fe2593c885746fcfc231f63682bd67dc0207?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 04/11/2019 - 23:44:43](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/d41fbd70e96010b0a835cae302c7447d6d903883?diff=split)
+- [🚀 Emojilendi ~ 04/11/2019 - 23:44:39](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/d4175833f8e006cbf5917ece4082640c5204107f?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 04/11/2019 - 23:41:38](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/dc3b92fc4ed072e60c6344ac3ef614fbda912a33?diff=split)
+- [🚀 Emojilendi ~ 04/11/2019 - 23:41:35](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/e6c147c0d46498b4f5ec85f32cad570e79230b7c?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 04/11/2019 - 23:16:41](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/528137ee13c2585326f4f9ccecf06521424138d4?diff=split)
+- [✨ Görsel düzenlemeler yapıldı ~ 04/11/2019 - 23:16:37](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/01e85a42d3c2ddd1dd9223876bec732fa47c1173?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 04/11/2019 - 23:06:22](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/e2f2be72a7f316a2e460d6b8fd078d1bf0d45963?diff=split)
+- [🚙 Bilgiler doğru yerlere aktarıldı ~ 04/11/2019 - 23:06:18](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/86bcc7dde2bc8069e3fd4c8c489ad8da6d69432f?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 04/11/2019 - 22:46:10](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/3f8a1d9d1e902deed5b314ecf88c2768e741befd?diff=split)
+- [📃 OS çıkmış sorular yenilendi ~ 04/11/2019 - 22:46:03](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/fc6b800bfa89f1d801b913ca484fc33599f2cd92?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 04/11/2019 - 00:16:18](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/f6255f338a8d348b9c8ff4855ca69d7d0fbddfa8?diff=split)
+- [📕 BPG ilk 4 slayt hakkındaki notlarım eklendi ~ 04/11/2019 - 00:16:14](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/1ca7b9f82949ef92b50e9befac484bbece303737?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 03/11/2019 - 22:00:57](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/1a9d912b5ea9ee39ea029ba3a4f78d714bb6d844?diff=split)
+- [✨ ~ 03/11/2019 - 22:00:52](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/78147802ba3171ad64236d12f0e30abb4c057ed3?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 03/11/2019 - 21:50:24](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/e2b69e85c01e031ac575b4692a49277e479d347e?diff=split)
+- [✨ Emojilendi ~ 03/11/2019 - 21:50:21](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/cd01a391d0d130733a74f2984d32f6660b07aa97?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 03/11/2019 - 21:49:54](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/b96050d234362f73825848f78038d3fb05e9746b?diff=split)
+- [👩‍🔧 Notlar gerekli yerlere aktarıldı ~ 03/11/2019 - 21:49:51](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/d9df9481a3970cbbfb3e29eaef59920c63a904bb?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 03/11/2019 - 21:47:47](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/8fa1f2fa5167afd640cc3c2a683d3124e7b5c499?diff=split)
+- [📕 Kişisel notlarım eklendi ~ 03/11/2019 - 21:47:43](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/7779efbe68a8d71209ce66d266ea7c91853350da?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 03/11/2019 - 21:26:33](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/3e429e742570130796e7904044cd1c3f6a8e1649?diff=split)
+- [🐛 Hata düzeltmesi ~ 03/11/2019 - 21:26:30](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/71afef1c50331716696337a28b65412ddb72d435?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 03/11/2019 - 21:24:12](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/61142ddd5a52b2800ce906054705ca5ecf4e4dbe?diff=split)
+- [👨‍🔧 Ufak düzeltme ~ 03/11/2019 - 21:24:04](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/40fa2b1116227fce207be481c76376d8e24be53a?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 03/11/2019 - 21:07:51](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/5dcdf26841c4f6f174ec01fc19a7d30ce3825498?diff=split)
+- [📃 Algoritma Analiz 2018 vize soruları ve çözümü eklendi ~ 03/11/2019 - 21:07:47](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/9955461e09e8d4498537fee38e7073f6280b3bfd?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 03/11/2019 - 19:53:45](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/4016148feef2df5f3902a34f29d8310f87306bcd?diff=split)
+- [🚙 Doğru yere taşındı ~ 03/11/2019 - 19:53:41](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/ce119835a5430616931f05cdbbe68dc8db02c22e?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 03/11/2019 - 19:53:01](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/33f2b73e8973813b460c6c315fec06df31ef39a0?diff=split)
+- [🖨 Android Developer Fundamentals için Print metodu eklendi ~ 03/11/2019 - 19:52:57](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/3ea7b3bd94f06f039e8b55bbe510b41e0dc5f889?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 03/11/2019 - 12:27:22](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/a87b088d3e294ee0b79c048254473a80efda172d?diff=split)
+- [🐞 Hatalı bağlantılar kaldırıldı ~ 03/11/2019 - 12:27:18](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/33e982ec743eb166d6c6686af32ec712228bcbde?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 03/11/2019 - 12:19:29](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/db3ac4858c379c7301f1ec44a5fed203eb9316e7?diff=split)
+- [📃 Sınav soruları eklendi ~ 03/11/2019 - 12:19:26](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/6dbd8f4d41f5512b84acc8efc529ba7af36fb4c4?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 03/11/2019 - 10:24:29](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/fac0957116e4baf0a0f3a5e93719ec7e53210ed9?diff=split)
+- [🔗 Bağlantı eklendi ~ 03/11/2019 - 10:24:26](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/fb708aa2489ad009fe4f3b293fe44c3839f7452f?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 03/11/2019 - 10:17:34](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/84338f44348bf2c17aee9ba3d90aa4378a95822b?diff=split)
+- [🚙 Doğru yere taşındı ~ 03/11/2019 - 10:17:30](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/bf33a6f50800086d10356c552e45bd8c89c7e92e?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 02/11/2019 - 19:32:00](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/f32bc14f36f8759433be8f82f491d25885e936ba?diff=split)
+- [📃 BH vizesi hakkında bilgi eklendi ~ 02/11/2019 - 19:31:57](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/bbef2432ab13e8684a06eb24de3001588034dc86?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 02/11/2019 - 09:49:33](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/556ff8c075808375a748ea8556354073112b70c3?diff=split)
+- [👨‍🔧 Adlandırmalar düzeltildi ~ 02/11/2019 - 09:49:27](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/d2f102d441d30b832a0978e390097be8d4a4f184?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 01/11/2019 - 22:29:52](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/96e205d6d0e3e55a5c7f2b747eba68b88d55c586?diff=split)
+- [👨‍🔧 Bağlantılar yenilendi ~ 01/11/2019 - 22:29:49](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/0a1ae76d9fa14919b1bf3ba3ed746eea1e307f06?diff=split)
+- [💫 AI vize notları eklendi (#46) ~ 01/11/2019 - 22:11:41](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/ffa32de8959d43f88c2699f6fe495afaac5d3681?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 01/11/2019 - 14:31:18](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/5387384b2d5ca722988ca714437ee43b07ac2138?diff=split)
+- [📅 2019 Vizesi hakkında bilgiler eklendi ~ 01/11/2019 - 14:31:15](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/cf962ff8abc2acf55cb4c9212a322f67ff9dc509?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 31/10/2019 - 17:55:11](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/7477102822f508ad5f83942e0562f8e1a6f5e506?diff=split)
+- [Merge branch 'master' of https://github.com/YEmreAk/IstanbulUniversity-CE ~ 31/10/2019 - 17:55:00](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/fd663e2b513c1794fd5043d85732d11060a49783?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 31/10/2019 - 17:53:52](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/ebff17a24f9786fd98cad2aa544ccfd850878abc?diff=split)
+- [📕 Kablosuz haberleşme öğreni notları eklendi #24 ~ 31/10/2019 - 17:53:46](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/1942368d8f817339730f3a9520e41f85b611ae74?diff=split)
+- [👨‍🔧 Ders notu isteme kalbının karmaşıklığı azaltıldı ~ 31/10/2019 - 17:53:12](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/1a3e76a428183125454fa93c965352d6bf56e42c?diff=split)
+- [🙄 Önemsiz düzeltme ~ 31/10/2019 - 17:43:15](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/8307dc9aa89360e65e4a6077d343865bdcca1950?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 31/10/2019 - 16:54:41](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/48a81379b3f76bfa431608076a1359c1df359526?diff=split)
+- [📕 MP Vize notlarım eklendi ~ 31/10/2019 - 16:54:37](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/9deb8259b9f23a3f068b12136c2e8e528bd01abf?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 31/10/2019 - 15:58:48](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/b24fc5f89d25a54f1c7588f3b941a2ea2804a428?diff=split)
+- [🔗 Vize bilgisinin kaynağı eklendi ~ 31/10/2019 - 15:58:45](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/3d09d03f7379d9ebe05d29fc72b61b0b4a9ddfec?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 31/10/2019 - 11:23:29](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/fdfdad5f7c0c0cf137f99473a4d37746ff165cbc?diff=split)
+- [📑 MP Vize Hakkında alanı eklendi ~ 31/10/2019 - 11:23:23](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/a278ad2b84f1c318f7b2eddfdd71738ed82f0727?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 30/10/2019 - 21:35:47](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/e9e0bf35eca373b446a1fa925fa4b2ce07e9b74e?diff=split)
+- [🔗 Bağlantılar eklendi ~ 30/10/2019 - 21:35:44](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/33a1b7402fcf9061fdfee55075c301315ed503d8?diff=split)
+- [📕 OS öğrenci notları indekslendi ~ 30/10/2019 - 21:35:32](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/20f645a003245e56011dbb52feccc9271fbd559d?diff=split)
+- [📕 NN ders notları indenkslendi #25 ~ 30/10/2019 - 21:35:08](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/38c4b8632b02a621e5e1fcdeabc91b5f6a94d2f3?diff=split)
+- [🗂 Yeni ders notları eklendi (#45) ~ 30/10/2019 - 21:05:58](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/7990de301a6c9fc51b4adb16772a128154532b8c?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 30/10/2019 - 15:15:25](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/d411e31aa81530215b0bf28c17eb89803c273d81?diff=split)
+- [📹 BPG slaytları eklendi ~ 30/10/2019 - 15:15:22](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/71d9e0e90fceda23e7709d0640293432193d3790?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 29/10/2019 - 19:19:17](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/baed23243623f1a10de617304e887f526df5ad8b?diff=split)
+- [📃 Sınav soruları eklendi ~ 29/10/2019 - 19:19:09](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/3e583554b21562aa48842055480b8140c76355f6?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 29/10/2019 - 19:08:05](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/debfb00b7c48a3d0caa2b3027cbf7186c854242f?diff=split)
+- [📃 Sınav soruları eklendi #33 #25 ~ 29/10/2019 - 19:07:56](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/ce5d4b064550ca0240de901c0da12a70b66db4a9?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 29/10/2019 - 01:08:06](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/2d676cfc11ee6532c5eeb3b2ddf5059a0255d765?diff=split)
+- [👨‍🔧 İsim sorunları onarıldı ~ 29/10/2019 - 01:07:54](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/9644ae75a91d38450c2edd468a6e160a36ae0c26?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 29/10/2019 - 00:53:16](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/759a5d9273ce4d0a3013cef4605b8f97fb5c46eb?diff=split)
+- [🐛 Sorunlu dosya isimleri düzeltildi ~ 28/10/2019 - 23:40:40](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/60d9d8d0782a8b61c2c962a1b75a4e2b05be9721?diff=split)
+- [Update README.md ~ 28/10/2019 - 22:50:51](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/30d8b76e1d70574c2dcbeffc513f95879ec257d4?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 28/10/2019 - 22:29:27](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/7619414922ce42b0f4bdf785d3d273809a6d12d9?diff=split)
+- [📃 Calculus 1 sınav soruları eklendi ~ 28/10/2019 - 22:29:23](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/a192ef5315f70c8e6cd50b04da010324f5319701?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 28/10/2019 - 22:12:12](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/f42861d8be711e1ca79171ea63a4033962f519c2?diff=split)
+- [👨‍🔧 Emoji düzeltildi ~ 28/10/2019 - 22:12:08](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/1867edaa1e3d6438975696100d922b82cd5f2601?diff=split)
+- [📑 Ek açıklama eklendi ~ 28/10/2019 - 22:12:00](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/86470e152f775387f7d5ac26557e018ef134eca6?diff=split)
+- [🙄 Önemsiz düzeltme ~ 28/10/2019 - 22:07:38](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/908edd80cf4b87f779f49fa395ff0f3fa320fa2f?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 28/10/2019 - 22:04:17](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/2b11fcbf0cb0a12248195da084b5d15d3faf4e4b?diff=split)
+- [📃 2015 Mobile Programming vizesi eklendi ~ 28/10/2019 - 22:04:14](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/74a6beefa25de7363b5c589c1cdfa8e1fbdb4ddf?diff=split)
+- [👨‍🔧 Kablosuz notlarının adları düzeltildi ~ 28/10/2019 - 22:03:25](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/489b1f415be4edca68dd689c01e97ba081f1fbc2?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 28/10/2019 - 21:55:57](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/af2ea0181a4085ed384be1433f85d8e4e00ce83c?diff=split)
+- [🐛 Link sorunu giderildi ~ 28/10/2019 - 21:55:54](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/33b6632f5773602f787153f166625929e6717e3a?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 28/10/2019 - 21:54:11](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/126659e3ded60e747e05489da3a0728b8ee67aa1?diff=split)
+- [🔗 AI sınav sorularına bağlantı eklendi ~ 28/10/2019 - 21:54:08](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/c3c8b5a7514e3fe941fae8575f43071edb9bbfa1?diff=split)
+- [👨‍🔧 Adlandırmalar düzeltildi ~ 28/10/2019 - 21:52:49](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/a3eea72dc7b80cd4f9aa4784f3cae1978fe2378e?diff=split)
+- [📜 AI vize soruları eklendi (#44) ~ 28/10/2019 - 21:48:21](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/c40b6db424920b8f05ccba6805ead50c61ade694?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 28/10/2019 - 21:47:19](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/f6f210028e41672ae0bf65d862be46aa4257296e?diff=split)
+- [✨ Giriş notları yenilendi ~ 28/10/2019 - 21:47:16](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/82565fd802b937159fb48067d4075397e1836164?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 28/10/2019 - 21:41:57](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/c57b41ff227b4d7be5fe4827689b7ce281d7bff7?diff=split)
+- [🚀 Emojilendirme ve düzenleme yapıldı ~ 28/10/2019 - 21:41:54](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/cdfacb7ca413b127813829c3efe11e90dccb78cb?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 28/10/2019 - 19:32:38](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/4d9d26aa02a56813c95731fc7432079b9a143306?diff=split)
+- [✨ Daha anlaşılır Issue kalıbı oluşturuldu ~ 28/10/2019 - 19:32:35](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/0f01158cc511b79ba4d1f6d5234c5dcc9b4f800f?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 28/10/2019 - 19:24:48](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/0000d34f9b4282c8834be1d617916e367d04cbff?diff=split)
+- [📅 Vizeye kadar işlenen konular eklendi #43 ~ 28/10/2019 - 19:24:44](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/7a869fc17609381d527d1bd085aa5830741c712c?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 28/10/2019 - 19:17:41](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/52f9a06b26cd747d62fd38549719f80154751d75?diff=split)
+- [📃 Çıkmış sorular ve ders notları eklendi ~ 28/10/2019 - 19:17:38](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/e6e5ff5a31928b3091dd4cc6f4ee36cdc76c548c?diff=split)
+- [📃 Signal Processing çıkmış sorular ve yeni notlar eklendi (#41) ~ 28/10/2019 - 19:15:19](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/91bef55b885047384358bced95cbd4589169964f?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 28/10/2019 - 19:11:44](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/683c4ef54381a2ecb565a49cae64328b6fccef0a?diff=split)
+- [📃 2018 Vize soruları eklendi ~ 28/10/2019 - 19:11:40](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/98a10438083921ed6c5c80973a64876b13ed7cce?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 28/10/2019 - 02:39:12](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/7a95c8301a900b16edc5c34677cdb5cb378f4d4b?diff=split)
+- [👩‍🔧 Sayfaların Tasarımı ve Notların Tutulma Yapısı alanı düzenlendi ~ 28/10/2019 - 02:39:09](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/80bda9dc048badde1466e3437c5e4ef242cc25f7?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 28/10/2019 - 02:15:09](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/b129e48b54264267a03b6e5a468e6ea2ce01076c?diff=split)
+- [🧹 ~ 28/10/2019 - 02:15:05](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/0becbe271da4d885adee4a81090ec5f46f3ee0cb?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 28/10/2019 - 02:13:09](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/50300fe2c4162be05b4ca95d984c0ca29dc898be?diff=split)
+- [✨ Değişiklik tespiti yenilendi ~ 28/10/2019 - 02:13:04](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/b29695171cd1eb9e834e86f7b3cc3fd36f83101b?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 28/10/2019 - 02:00:12](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/2bf51050b56e23ec89222c22d7f97ec550a4fa33?diff=split)
+- [🚙 Sayfaların Tasarımı ve Notların Tutulma Yapısı ana sayfaya alındı ~ 28/10/2019 - 02:00:09](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/3339504b2252e39df6e9a99b39f8e6d0bd8a6327?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 28/10/2019 - 01:56:50](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/7f8766fb3f6fbb262895a661418a8ae785ca8e23?diff=split)
+- [🙄 Önemsiz düzeltme ~ 28/10/2019 - 01:56:46](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/125e37bfbafb1baaca74f84a887c76f3c0e07847?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 28/10/2019 - 00:48:26](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/8efb0b0f374bf79909d9cdf47f6909ce5fc05778?diff=split)
+- [🧹 Bilgi kirliliği temizlendi ~ 28/10/2019 - 00:48:23](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/e1e2eada33631740ada561d1e8ba922cefc772cf?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 27/10/2019 - 23:53:11](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/e5e4da1fd710acfe9ed9ff686c31ad65b6ea985b?diff=split)
+- [✨ Script yenilendi ~ 27/10/2019 - 23:53:07](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/a3034563fa72c7cdaf3892c1b707db059691f998?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 27/10/2019 - 23:17:47](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/d423aa2f9d1afd0ce415fef2d3a121b551fa7bcd?diff=split)
+- [🧪 Emoji denemesi yapıldı ~ 27/10/2019 - 23:17:44](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/799403a2adba181a77420295644e26e265feecea?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 27/10/2019 - 22:34:31](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/aa9533dee0225f165750c8f0231f61b5272b6f2f?diff=split)
+- [📂 GitHub'da Klasör Oluşturma bilgisi eklendi ~ 27/10/2019 - 22:34:27](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/a88bda5ccdbdc913b0e219bccac5dd20b7e1e758?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 27/10/2019 - 22:25:01](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/ba02365815bd5c8af21d8fbaaef7ed4d8d5cc5ba?diff=split)
+- [✨ Yapıda güzelleştirildi ~ 27/10/2019 - 22:24:50](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/27afd73a0b7be5d42f9527e510ffd6075ac95f35?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 27/10/2019 - 22:03:44](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/096d16af91a977fa807d7c9cd40f96652744a2ba?diff=split)
+- [Merge branch 'master' of https://github.com/YEmreAk/IstanbulUniversity-CE ~ 27/10/2019 - 22:03:40](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/16244bebc403cbcdecfca0a657d9f52cdc34976f?diff=split)
+- [✨ Daha açıklayıcı yapıldı ~ 27/10/2019 - 22:03:36](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/671efbb28272083557f239547a66c2793213e083?diff=split)
+- [📃 NN final soruları eklendi (#39) ~ 27/10/2019 - 21:51:22](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/50a8a4fed65fc54201632f1f9b8fd28f13c8866f?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 27/10/2019 - 21:50:17](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/d3a5f005013de0aa2aa5b28aabbfe660614e76a9?diff=split)
+- [✨ Karşılma ekranı yenilendi ~ 27/10/2019 - 21:50:14](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/a990786a8a7e77d0a62ab65d85ba053e3d5e1a03?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 27/10/2019 - 21:10:34](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/8d404e1596a44d2a23e90b0bb1299b840b6f0cb6?diff=split)
+- [🧹 Script temizlendi ~ 27/10/2019 - 21:10:29](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/acc7062c97587f40fded8b3e9749759f44e5e949?diff=split)
+- [🚀 Emojilendi ~ 27/10/2019 - 21:09:49](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/8b266690d587fe5a00525d9bb13697824f112b9a?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 27/10/2019 - 20:52:12](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/5cb08ff157c2124d102553817ee9810ffbb6a93f?diff=split)
+- [👨‍🔧 Önemsiz düzeltme ~ 27/10/2019 - 20:52:03](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/be7bef834e80cc818fe958d80f3a65949bcaa20d?diff=split)
+- [💫 YEmreAk entegrasyonu sağlandı ~ 27/10/2019 - 20:48:53](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/3aa2dbd3cd76b2758e7d4e437155c80c63a371c4?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 27/10/2019 - 20:48:15](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/69e4c1a9e35d879c0025cd6f919ac06f24a20f5c?diff=split)
+- [🚀 Emojilendi ~ 27/10/2019 - 20:48:06](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/938c7dd8b29e761d5380fa40f9bba64cff3ea14c?diff=split)
+- [📂 Düzenlenmemiş eski ders notlar arşivi eklendi ~ 27/10/2019 - 20:39:21](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/e83a3507bfe574fde3b4a40d1e1b419fcc6864a1?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 27/10/2019 - 20:38:10](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/3f7071bb9f0a10cb47c43e74db6eb2b30e8a18b9?diff=split)
+- [👨‍🔧 Ders notlarındaki sorunlar giderildi ~ 27/10/2019 - 20:34:45](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/faf039cae6f08112176103b523d25d09a433d5e6?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 27/10/2019 - 20:33:36](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/fc0e344f53430bf811022309cc96d0ed836a4f4d?diff=split)
+- [👀 Neler Değişti alanı yenilendi ~ 27/10/2019 - 14:35:59](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/b719e10ec2397079fd1f7e50f31403b53e46d9e5?diff=split)
+- [Update integrate.sh ~ 27/10/2019 - 14:34:56](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/3831f9ffacd9abc0c28a268fe650d06a5f5666ff?diff=split)
+- [Update CHANGELOG ~ 27/10/2019 - 14:34:03](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/ec9a4d5ac015116ce9ff0fce428583eb68da476e?diff=split)
+- [Update CHANGELOG.md ~ 27/10/2019 - 14:31:37](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/acc90580b31338a85c883983410d91ace9a6e8c6?diff=split)
+- [✨ Ders notu ekleme alanı güzelleştirildi ~ 27/10/2019 - 14:19:24](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/f5f637251064c9a92ceb0495c825b5c09351f077?diff=split)
+- [📙 Ders Notları Ekleme alanı yenilendi ~ 27/10/2019 - 14:13:34](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/f4c2c791d0724780a0937d72a701c11f49927935?diff=split)
+- [Update CHANGELOG.md ~ 27/10/2019 - 14:06:19](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/01beccfb789df3a70159a7d3a3f9919a2712f1f7?diff=split)
+- [💫 Entegrasyon yenilendi ~ 27/10/2019 - 14:06:10](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/e60f5e695f04316f2dada909fbfdbac155e3e17d?diff=split)
+- [✨ Yeniden yapılandırıldı ~ 27/10/2019 - 14:05:50](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/a44bf290692373fd902fd88d237ea79fead82b67?diff=split)
+- [📕 Öğrenci notu eklendi ~ 27/10/2019 - 14:05:22](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/0ae14a87b5bf7ea5e73e9d55a6ed7dc8e3e3c346?diff=split)
+- [👨‍🔧 İsim düzeltildi (#37) ~ 27/10/2019 - 12:53:16](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/17a008c70b6c138653c735087e427d56cac912d1?diff=split)
+- [✨ sayfa emojisi eklendi (#35) ~ 27/10/2019 - 11:40:48](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/4e2c2b4ef992f54c45f2d3e781c8c52b14b90949?diff=split)
+- [📗 Bilgisayar Aritmetiği Ders Notları Eklendi (#34) ~ 27/10/2019 - 11:37:16](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/3e6bb67c867fbe9786772f984b6c1acd81668dd9?diff=split)
+- [🚧 Bilgisayar Aritmatiği taslağı eklendi ~ 27/10/2019 - 11:14:23](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/4b0031adce45dd1285c9fa55b0739f90ac49e2f7?diff=split)
+- [Update CHANGELOG.md ~ 26/10/2019 - 20:42:19](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/1e5bab9ce584bba199f488a3eea96970ccb7d402?diff=split)
+- [➕ Neural Network slaytları eklendi ~ 26/10/2019 - 20:39:06](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/5b6bba77b6d310585cd4b3ef444373606cb87f43?diff=split)
+- [Update CHANGELOG.md ~ 26/10/2019 - 19:27:15](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/07fd275ff2c75efbe94726b90ef81a7bd2df4d2d?diff=split)
+- [❌ Eski bilgiler kaldırıldı (#32) ~ 26/10/2019 - 18:14:18](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/caedfc89e67b64db472a2cfc029c4666aebfe2ba?diff=split)
+- [Update CHANGELOG.md ~ 26/10/2019 - 17:00:43](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/56d5a06ea9adbc4f37636d21af5e3c72ef518571?diff=split)
+- [👨‍🔧 Sorunlu linkler düzeltildi ~ 26/10/2019 - 16:59:51](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/eb5f2fac64f4b6e62cec7dae1e1c01ab130a25c6?diff=split)
+- [👨‍🔧 linkteki buglar çözüldü (#31) ~ 26/10/2019 - 14:31:15](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/5f55de49e0fe740c26fc2e4508d7c8fcdfca3b69?diff=split)
+- [Update CHANGELOG.md ~ 25/10/2019 - 22:34:39](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/529f5e8296854e62210853f455cef3607522998c?diff=split)
+- [🔗 Bağlantılar oluşturuldu ~ 25/10/2019 - 22:34:30](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/fe0b798c8409447d9581c083bf9da621545ce28a?diff=split)
+- [👩‍💻 Programlama sınav soruları eklendi (#29) ~ 25/10/2019 - 22:33:01](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/351de262f64b31e44e1554a723783908f9d6564f?diff=split)
+- [Create CODE_OF_CONDUCT.md (#28) ~ 25/10/2019 - 20:22:23](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/3ffb9013b64ff6edf9fe4ebbda392fd565a8bca9?diff=split)
+- [Update CHANGELOG.md ~ 25/10/2019 - 19:59:54](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/25d5d5a9be44d3c40e604abdbd342633196d8369?diff=split)
+- [📙 Ders Notları Ekleme alanı yenilendi ~ 25/10/2019 - 19:59:46](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/1b4691259bc0ca8544f7b98145901edaeb622f09?diff=split)
+- [📙 Ders Notları Ekleme alanı yenilendi ~ 25/10/2019 - 19:55:39](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/357a9d583c15f48ccc068117218241582b654f01?diff=split)
+- [👨‍🔧 Dosya adları düzenlendi ~ 25/10/2019 - 19:53:38](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/b70a38ea8a4ce3bdb1d28bb6d1f6fccee4c4ba2d?diff=split)
+- [Update CHANGELOG.md ~ 25/10/2019 - 16:41:42](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/cb1d7ebd3c35fa95437c44f61837bc18a97e1724?diff=split)
+- [🧹 Gereksizler kaldırıldı ~ 25/10/2019 - 16:39:13](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/d22f2f60cd1a352b2dddf37066873931997ca4bf?diff=split)
+- [Update CHANGELOG.md ~ 25/10/2019 - 16:32:46](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/b3367f08639664db168b31fac6b7ddc1cac06a18?diff=split)
+- [👨‍🔧 İçerik yapısı düzenlendi ~ 25/10/2019 - 16:32:30](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/2bb2a345f3ab1ea4abe1d68946a742ae4ec75667?diff=split)
+- [💫 Entegrasyon yenilendi ~ 25/10/2019 - 15:14:21](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/952a83473a2f1bc4052b2ae72cbc38ec530018ca?diff=split)
+- [🛫 Polonya'da Erasmus alanı eklendi ~ 25/10/2019 - 14:59:31](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/40973eff56c2c2938127be3495451b778a8ee4ea?diff=split)
+- [Update CHANGELOG.md ~ 25/10/2019 - 02:22:23](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/c02d00c1ed44b32a62f918f7c393f904a30d0f2e?diff=split)
+- [✨ Memnuniyet anketi notu eklendi ~ 25/10/2019 - 02:21:50](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/57c7cf7740d69918938c94a80c4372827cebb917?diff=split)
+- [İşkence metni eklendi 🌚 ~ 24/10/2019 - 22:43:41](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/1c034d65edc163cb3b0c10f0c57e769f75fedc1e?diff=split)
+- [🎀 Etiket Çalışması gizlendi ~ 24/10/2019 - 22:38:57](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/ebb993c02ec700435bf1f12e864c3be133b3d08a?diff=split)
+- [✅ İstenenler alanı getirildi ~ 24/10/2019 - 16:32:34](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/f3888e0e2fdebc88a9fed7b6c1db4866c78def8e?diff=split)
+- [✅ İstek Türü'ne açıklama eklendi ~ 24/10/2019 - 15:08:14](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/603609daf48850e6d283804b3496b0a928dfd72e?diff=split)
+- [✅ İstek Türü eklendi ~ 24/10/2019 - 15:00:35](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/45bb98309b3f010348ac0b4de2f824e12d3a8f2c?diff=split)
+- [🐞 Emoji sorunu giderildi ~ 24/10/2019 - 13:50:21](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/4cc71245c7de4a364a6712a20089e5d589d24a48?diff=split)
+- [🔍 CEO çalışması eklendi ~ 24/10/2019 - 13:46:22](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/3d1a4f89ad635dbbea5411d7f437a16b530d2635?diff=split)
+- [🍁 PR yapısı yenilendi ~ 23/10/2019 - 19:01:25](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/464850543711f9f65553707f332502305e2cd534?diff=split)
+- [📚 Ders notu isteği güncellendi ~ 23/10/2019 - 10:07:26](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/debf9aa7a42fee10a36e446a91d351623025c4d6?diff=split)
+- [✍ Yazım hatası giderildi ~ 22/10/2019 - 23:59:07](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/0e7ec2042db95f61fd04786e187ff1f3da80954e?diff=split)
+- [🦋 Issue alanı eklendi ~ 22/10/2019 - 16:52:22](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/6d140a9adb60f5f49eb86d68806a92eec666798e?diff=split)
+- [👨‍🔧 Issue kalıpları düzeltildi ~ 22/10/2019 - 16:46:56](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/e77963ec7c7e670a1ce3c2fe2660d481725c5a6b?diff=split)
+- [🚙 Final bilgileri yeniden konumlandırıldı ~ 22/10/2019 - 16:45:22](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/2f14de916833f4f3ea55a646817d25aece038567?diff=split)
+- [🚀 Issue kalıpları yenilendi ~ 22/10/2019 - 16:42:52](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/f796e5d34ce4b4c3a3cb877404762122a039d9bf?diff=split)
+- [❔ Soru sorma başlığı yenilendi ~ 22/10/2019 - 16:04:52](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/bd1eab8bc345f53050c79c895cdb461d6875ebdd?diff=split)
+- [Merge branch 'master' of https://github.com/yedhrab/IstanbulUniversity-CE ~ 22/10/2019 - 16:04:24](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/e62285c51522af92a61884bb43d567e88f16df2d?diff=split)
+- [📚 Ders notu isteği alanı eklendi ~ 22/10/2019 - 16:02:10](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/6a5577673c90c64c062d4bc471860fc43a2e8e73?diff=split)
+- [📚 DC ve AA ile ilgili bilgiler eklendi  (#19) ~ 22/10/2019 - 15:54:56](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/7895e48e5263491c141daf4658d6607011eb4e29?diff=split)
+- [🔗 2019 calculus linki eklendi ~ 21/10/2019 - 22:24:59](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/59cce5bd6f580b78055246f13158d86e5d87b288?diff=split)
+- [🐞 Link sorunu giderildi ~ 21/10/2019 - 22:18:40](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/e109ca4d57afc545b9e6efea3b0d584c55ff9baf?diff=split)
+- [✨ Mobil 5.hafta ders notu eklendi ~ 21/10/2019 - 22:17:38](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/f391662c2b9f9e89603ac4131c974b310b784d53?diff=split)
+- [📅 Tarih bilgisi eklendş ~ 21/10/2019 - 22:08:10](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/2feaa6400e638de63c26e6a92df06252b84dea71?diff=split)
+- [📅 Tarih bilgisi eklendi ~ 21/10/2019 - 22:06:01](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/061f156c9578a16d7e2315e3222265612a66dba2?diff=split)
+- [🔗 Muhammet Esat BÜYÜKBULUT notları aktarıldı ~ 21/10/2019 - 22:05:44](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/eeba011048b72e1bf4b47e40486db19c5e7995e9?diff=split)
+- [Videolara açıklamalar eklendi 💡 (#18) ~ 21/10/2019 - 11:07:17](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/c9b1f8712fed937e62382e55eeea4ede67d9531a?diff=split)
+- [Update CONTRIBUTING.md ~ 20/10/2019 - 20:24:07](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/2ee1519074380bc4ec7c1d757941b11aa969e737?diff=split)
+- [Update CONTRIBUTING.md ~ 20/10/2019 - 20:23:43](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/c89c48bb8a9520ff66a88c6f8b0c1c183ff0f706?diff=split)
+- [Merge branch 'master' of https://github.com/yedhrab/IstanbulUniversity-CE ~ 20/10/2019 - 20:16:11](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/03939ee84a3d062c12275451d0fe2a751b23bcd8?diff=split)
+- [Update CONTRIBUTING.md ~ 20/10/2019 - 20:16:01](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/6cde0012aae980c867763d1305efe8f9913db960?diff=split)
+- [Merge pull request #15 from afozbek/master ~ 20/10/2019 - 19:54:22](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/ef9c47cef3613a396308380a1b270025699c1531?diff=split)
+- [Update CONTRIBUTING.md ~ 20/10/2019 - 19:52:37](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/84606736dac5c7f8724b3066573577c827fba400?diff=split)
+- [Update CONTRIBUTING.md ~ 20/10/2019 - 19:52:17](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/e5185abf2bb47921499fc60fcf9327c93866a540?diff=split)
+- [Update CONTRIBUTING.md ~ 20/10/2019 - 19:28:47](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/3151ed6329d1949dd1e03cba719eec126c19305e?diff=split)
+- [Merge branch 'master' of https://github.com/yedhrab/IstanbulUniversity-CE ~ 20/10/2019 - 19:22:43](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/feefb3ece6632569a4e121082bde99a966b288b4?diff=split)
+- [Update CONTRIBUTING.md ~ 20/10/2019 - 19:22:32](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/9a46e91bd291b0804d66cc6e095eedaeb24a45b3?diff=split)
+- [Merge pull request #16 from yedehrab/master ~ 20/10/2019 - 19:11:03](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/7aeaa9dda189a419b926376d7cea349d83329415?diff=split)
+- [📕 Ders notu eklendi ~ 20/10/2019 - 19:09:17](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/62ce46b55ef9734ff5ccce6210c9de377f57857b?diff=split)
+- [Merge pull request #1 from yedhrab/master ~ 20/10/2019 - 19:03:33](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/a5aacad9f00df5d3bcdfd5a692cc1d821d6a8790?diff=split)
+- [👨‍💼 Logo sayfanın sonuna alındı ~ 19/10/2019 - 19:59:48](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/0b50817d8bc9d13220fd74e1409eec0918a80a63?diff=split)
+- [🖼 İÜ-CE logosu eklendi ~ 19/10/2019 - 19:57:38](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/0cbc36f2857b9ba7e5301b3dc1b91e6b9224e2e7?diff=split)
+- [📑 Markdown bağlantısı eklendi ~ 19/10/2019 - 19:47:37](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/222a2d287af88d9d16f895606f37383a08c791e1?diff=split)
+- [👨‍🔧 Yazım hataları ve kusurlu bağlantılar düzeltildi ~ 19/10/2019 - 19:42:14](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/62e6d0f7b0a6255112f56a732471c2b018445314?diff=split)
+- [👨‍🔧 Yazım hataları ve kusurlu bağlantılar düzeltildi ~ 19/10/2019 - 19:34:50](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/b69105bdec9beb942b8a698d93221d9333e0dbfe?diff=split)
+- [🙋‍♂️ Karşılama ekranı yenilendi ~ 19/10/2019 - 19:17:35](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/26044e9173f8c1e030972c45ecb461958bbeba89?diff=split)
+- [💖 Katkıda Bulunma Rehberi eklendi ~ 19/10/2019 - 19:15:14](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/20e0227bdac8dddadb0bad3d0b1799aa5e049126?diff=split)
+- [Merge branch 'master' of https://github.com/yedhrab/IstanbulUniversity-CE ~ 19/10/2019 - 19:11:05](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/458027d7b06f9ba5207eaf89585b4f535e07082f?diff=split)
+- [Update CHANGELOG.md ~ 19/10/2019 - 19:11:02](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/164d342560261638e241e0bb9f90045f985f0ffe?diff=split)
+- [💖 Katkıda Bulunma Rehberi eklendi ~ 19/10/2019 - 19:09:36](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/4db17c5784d9e478374dc26e89791a57f3fdfabb?diff=split)
+- [✨ Dosya isimleri düzeltildi ~ 19/10/2019 - 19:09:27](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/50d4fef760f77faf85122ec62acc4229e09c9672?diff=split)
+- [Update Okul Klüpleri.md ~ 19/10/2019 - 17:53:23](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/bfbb4b7b3a577a840d5730c626a0cd6017e8fbe0?diff=split)
+- [Merge pull request #1 from yedhrab/master ~ 19/10/2019 - 17:47:28](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/fac77b671b5199691013fb276453e1c6f48da1b7?diff=split)
+- [Merge pull request #13 from afozbek/patch-1 ~ 19/10/2019 - 17:41:15](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/ffe73309b76a6c39724c60f7f2f12430645c59f5?diff=split)
+- [Update Okul Klüpleri.md ~ 19/10/2019 - 17:31:26](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/085e5dcc4e2319f924b55475cdaeee52b2bb1ec0?diff=split)
+- [✨ ~ 17/10/2019 - 12:19:11](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/7b5758ad297b63062f77fd59781e0304004e5f84?diff=split)
+- [🐞 ~ 17/10/2019 - 12:18:58](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/70b19835249f92aeb5242d9bc254fa346d79e502?diff=split)
+- [💫 ~ 17/10/2019 - 12:12:39](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/ab8ddf5125b42afc55d99b62aca14b1efbd5e13b?diff=split)
+- [Update CHANGELOG.md ~ 14/10/2019 - 09:27:45](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/d9b47e44ad1b057dcb234767e86d7ce40af26058?diff=split)
+- [Update CHANGELOG.md ~ 14/10/2019 - 09:27:38](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/86407cb96e7c348cf5edf7c198d80d0bf614a5b0?diff=split)
+- [Update SUMMARY.md ~ 14/10/2019 - 09:27:35](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/acd8d4cebea6abe529738af6ebcb14365244e3aa?diff=split)
+- [📱 Öğrenci notları eklendi ~ 14/10/2019 - 09:27:24](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/63a3a018853cc0e79014a07d0578246f3b7930d4?diff=split)
+- [Update CHANGELOG.md ~ 13/10/2019 - 23:53:03](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/5dc527e92256e34eb05a7705ada0ea40b975ad2a?diff=split)
+- [📄 Örnek proje planı ve teklif formu eklendi ~ 13/10/2019 - 23:52:55](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/2588dfdfe369cce025331ceb729dc7f8aed4b00d?diff=split)
+- [➕ Bitirme Projesi Form Örneği eklendi ~ 13/10/2019 - 23:49:52](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/a109cfe42ab7f4792ad224e858be4eef731943ff?diff=split)
+- [Update CHANGELOG.md ~ 11/10/2019 - 14:09:33](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/47a9a60ed0430badf0ffc7fa92d186378f17d62c?diff=split)
+- [✨ Linkler direkt değil, önizlemeli indirilmeye alındı ~ 11/10/2019 - 14:09:05](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/28f60725b7afda283fc01d1e91a90c151fd64d5a?diff=split)
+- [🐞✨ Sorunlar giderildi, güzelleştirildi ~ 10/10/2019 - 13:33:11](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/d5bab2c0f94a356a107d330d11ad2f27c73e8ecf?diff=split)
+- [Revert "🚀 Artık dosyalara direkt olarak erişim var" ~ 10/10/2019 - 12:32:26](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/062741e19e6e6b56f821174cd53a38e5caadcda9?diff=split)
+- [Revert "GitBook: [master] 490 pages and 370 assets modified" ~ 10/10/2019 - 12:19:56](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/866572e4dee5e394a07c040be589258979c9dd03?diff=split)
+- [GitBook: [master] 490 pages and 370 assets modified ~ 10/10/2019 - 09:10:44](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/6a3051d1c02832579144fbead3bf6283f351091b?diff=split)
+- [CHANGELOG yapısı güncellendi ~ 10/10/2019 - 11:58:59](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/02f7604b3a3d30fb356b0c4bc34ea1d5e856b11a?diff=split)
+- [🚀 Artık dosyalara direkt olarak erişim var ~ 10/10/2019 - 11:56:35](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/53c5d8f4bc8139bde7ac9a1f25d2087e99582959?diff=split)
+- [Update CHANGELOG.md ~ 10/10/2019 - 02:31:00](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/0d5624fac492ea1e66c4326a4b0a187af6e240dd?diff=split)
+- [Revert "🚀 Artık dosyalar GitHub'tan bağımsız 🚀" ~ 10/10/2019 - 02:30:13](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/a7ddd8f30ba969e6b81215f78899fc91d6c80baa?diff=split)
+- [Revert "Update CHANGELOG" ~ 10/10/2019 - 02:30:11](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/9d730e9141d6d86b5da98f10e8a1f3edfef829e0?diff=split)
+- [Revert "🐞 Dosyaların gözükmeme sorunu giderildi" ~ 10/10/2019 - 02:30:06](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/57ac9df3bfa97466ac97df06d45383bce81d7e6d?diff=split)
+- [🐞 Dosyaların gözükmeme sorunu giderildi ~ 10/10/2019 - 02:16:44](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/3c807d4e2022e803d09bb55b6fa61c52c4a19605?diff=split)
+- [Update CHANGELOG ~ 10/10/2019 - 02:09:43](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/6cc03d8aa6a6d747bccaa024a9ed7d29dea6c6a4?diff=split)
+- [🚀 Artık dosyalar GitHub'tan bağımsız 🚀 ~ 10/10/2019 - 02:04:10](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/025bd081bf2f1fef314055bc394d62f20281de8e?diff=split)
+- [Update CHANGELOG.md ~ 10/10/2019 - 01:32:34](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/7bab721df8d0cf228a66b4712b2f40117040212f?diff=split)
+- [🏫 Istanbul University CE İÜ CE~ YEmreAk Katkıda Bulunma ~ 10/10/2019 - 01:32:24](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/89d7d95c5e81f131a513d8a5e411d048b498c069?diff=split)
+- [Update README.md ~ 10/10/2019 - 01:30:38](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/a92c4ef6c227069a79cc032d82a090f0370ee6bb?diff=split)
+- [🏫 Istanbul University CE İÜ CE~ YEmreAk Katkıda Bulunma videosu yenilendi ~ 10/10/2019 - 01:23:02](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/efec09dd80f7a5748732ede6b335887f875f4352?diff=split)
+- [🏫 Istanbul University CE İÜ CE~ YEmreAk Katkıda Bulunma videosu eklendi ~ 10/10/2019 - 01:14:33](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/4a23019b36edd20af4a8358627447450c23e8af9?diff=split)
+- [Revert "Update PULL_REQUEST_TEMPLATE.md" ~ 10/10/2019 - 00:43:33](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/3aa56f5ef62ad73d418e497deb92a243074b88d5?diff=split)
+- [Update PULL_REQUEST_TEMPLATE.md ~ 10/10/2019 - 00:41:29](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/94b372670cf2fb21f15afeeded148b531765dcd0?diff=split)
+- [Update CHANGELOG.md ~ 09/10/2019 - 19:57:45](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/28e0760b78ea416fd269d13bb2722cb445efea05?diff=split)
+- [Bilişim proje geliştirme içerikleri yenilendi ~ 09/10/2019 - 19:57:35](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/f9d9d1b2967d147a49a94f2fd4216b2aa6faaf28?diff=split)
+- [Update CHANGELOG.md ~ 09/10/2019 - 00:14:29](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/826ea2313e66cc96b432c39b89fef2beb5c7e0e5?diff=split)
+- [Update README.md ~ 09/10/2019 - 00:14:22](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/9fa926d5cdca363505c2095f9e0088bc1edfe0cf?diff=split)
+- [Update 3 - Akademik Kadro.md ~ 09/10/2019 - 00:09:59](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/32eab265e59ad13118390ae45e660ad16943bb16?diff=split)
+- [Update CHANGELOG.md ~ 09/10/2019 - 00:08:08](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/716373e1ffe811531c49908617755732524fc99c?diff=split)
+- [🔗🐞 Akademik Kadro link sorunları giderildi ~ 09/10/2019 - 00:07:59](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/5b89feed9d5ea1ec2ad5b87f98787ad4e97bc040?diff=split)
+- [Update CHANGELOG.md ~ 09/10/2019 - 00:06:42](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/55d04b20318091f0f2213c56114a3cde63163c25?diff=split)
+- [✨ Yapıda güzelleştirme ve süsleme yapıldı. ~ 09/10/2019 - 00:06:35](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/fe5ac9d625e824ea48c4359e466194f44458a756?diff=split)
+- [Update CHANGELOG.md ~ 08/10/2019 - 23:54:08](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/cf69113286639a1f98eee0024c67f1e2222f01fc?diff=split)
+- [✨ Yapıda güzelleştirme ve süsleme yapılda ~ 08/10/2019 - 23:53:57](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/39b1f1fbfd82a7c42fe0a95440b634607fb7dabe?diff=split)
+- [Son güncelleme alanı yenilendi ~ 08/10/2019 - 23:41:09](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/a68548b50ea40160a2708c63b66f9f33d7db4371?diff=split)
+- [Önemsiz düzeltme ~ 08/10/2019 - 23:40:10](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/802bcf02a7931bbef1a6563e97c7d61e04786ce8?diff=split)
+- [📗 Ders Programları eklendi ~ 08/10/2019 - 23:39:02](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/7ba87db04f00d120226de52d4e4230725ab1aecc?diff=split)
+- [Bilişim proje geliştirme ödev teslim takvimi eklendi ~ 08/10/2019 - 23:32:27](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/11ca412ae928df53792a5ab51adc3c50f77e7a72?diff=split)
+- [Update CHANGELOG.md ~ 08/10/2019 - 22:18:57](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/86c3b331ce042a133e04b6866cbf94f13cc09db9?diff=split)
+- [👷‍♂️ Daha belirgin ve anlaşılır yapı oluşturuldu ~ 08/10/2019 - 22:18:47](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/9d33acc61c988548cad32b082d9dc718801b8c3e?diff=split)
+- [Update CHANGELOG.md ~ 08/10/2019 - 11:40:51](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/cf74f2ca13cc064b529851cb34baf4a747c3e1d7?diff=split)
+- [Update 0 - Açıklama.md ~ 08/10/2019 - 11:40:42](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/a4491be1df6726d5d2ebcce8bd93d1c70dac6b9d?diff=split)
+- [Update 🤑 Ücretsiz Yazılımlar.md ~ 08/10/2019 - 11:40:38](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/85f2bc8960f7d5d3da9f07304cd8a87409133f76?diff=split)
+- [Update CHANGELOG.md ~ 08/10/2019 - 01:05:42](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/d615332dd65920b190e66d03963849587d34dade?diff=split)
+- [⚙ Entegrasyon yapısı düzenlendi ~ 08/10/2019 - 01:05:30](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/7a6e65a5f9afc60ce1ce7c657460c7fe59c693c4?diff=split)
+- [🤑 Ücretsiz Yazılımlar için Eduroam notları yenilendi ~ 08/10/2019 - 01:05:16](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/2908a9df4817f814599b1d1eb0ad34ef87263b77?diff=split)
+- [🐞 Hatalar giderildi ~ 03/10/2019 - 23:28:00](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/4150b3f7782fc6f9a7a342962ac69140ec3789cf?diff=split)
+- [İçerikler sıralandı ~ 03/10/2019 - 22:42:41](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/effe8c6930f5029c6e7584b548f29bfbc6d70653?diff=split)
+- [16BitMipsVHDL.pdf eklendi ~ 03/10/2019 - 22:38:52](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/ad5ffcd6c9a7d2d69f67d0a5559f092531cb8d13?diff=split)
+- [Bilgisayar Mimarisi notları yenilendi ~ 03/10/2019 - 22:34:34](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/587946b08b10268966d1f0042c428b95ce1f2640?diff=split)
+- [Son değişiklikler güncellendi ~ 03/10/2019 - 00:03:25](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/b36b5443a05ae2cf71dd8d55a219c499640e9f04?diff=split)
+- [💎 Linux Kernel Güncelleme eklendi ~ 03/10/2019 - 00:00:11](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/5f2c3afc8ed20e55d6cbb0d826a1f11f0a837f97?diff=split)
+- [Mobil programlama ders slaytları linki eklendi ~ 02/10/2019 - 23:56:06](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/9ef300c00fb14330ade8037958f62cd598622424?diff=split)
+- [Update CHANGELOG.md ~ 01/10/2019 - 12:16:16](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/e989fefd413724620a94a76f64740c20f7613ad4?diff=split)
+- [Kriptoloji 3. Hafta Ders Notlarım eklendi ~ 01/10/2019 - 12:16:10](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/551f0b002a5e5d87846b162eaa4257963d3a3732?diff=split)
+- [Yeniden yapılandırıldı 🚧 ~ 01/10/2019 - 11:20:39](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/07d76ed3d2c3f6124ccdb5a70bdd7b0fbde1553e?diff=split)
+- [Update CHANGELOG ~ 01/10/2019 - 11:15:18](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/8311d27beea1ff0f5ad1cba5e5ae136261b63848?diff=split)
+- [Update CHANGELOG.md ~ 01/10/2019 - 11:13:03](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/d278ab0d5125a26aab9c4dd26dd35a9a1fabe0e8?diff=split)
+- [✨ Son Güncellemeler (🧪 Deneysel) yapısı eklendi ~ 01/10/2019 - 11:12:55](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/7655a0bd2a09c2d28553c8cf2bc33619ed169bbb?diff=split)
+- [Update README.md ~ 01/10/2019 - 11:06:21](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/d203b12f8d4ec36be664dd38b9daff954ce41c1e?diff=split)
+- [Update CHANGELOG.md ~ 01/10/2019 - 11:04:38](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/d73d237c59c046c8a0edaa57f7a7a2e2b3f98c58?diff=split)
+- [4. Sınıf 1. Dönem Notları\Bilişim Proje Geliştirme saatleri yenilendi ~ 01/10/2019 - 11:04:28](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/bb1f407d7990ff3b9e69e0fe169d0d5ba70b3454?diff=split)
+- [Eduroamda Çalışan VPN eklendi ~ 01/10/2019 - 11:04:13](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/72c9c29bc6ac47a7f9b9c13fc49bb839d12f264a?diff=split)
+- [Update CHANGELOG.md ~ 29/09/2019 - 14:39:54](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/5d089752249e465c314653e38a1a2edf932e9ad2?diff=split)
+- [NN için ufak düzeltmeler ve notlar eklendi ~ 29/09/2019 - 14:39:43](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/89bd5afbee54ae76c94a6bc6d7686d5456b3ec73?diff=split)
+- [Update CHANGELOG.md ~ 28/09/2019 - 19:31:00](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/76d4bfb0a5f95bcf63acf63cb83a79b93ea90855?diff=split)
+- [🗒 Ders notlarım eklendi ~ 28/09/2019 - 19:30:51](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/77ea3a28717572998bbbfa9fc17e3661a0b8f8d7?diff=split)
+- [Update CHANGELOG.md ~ 24/09/2019 - 23:43:36](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/48e692c7b5a9554ed513951795f384390e6986d4?diff=split)
+- [Mobile Programming duyuruları eklendi ~ 24/09/2019 - 23:43:31](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/19b4957bba9a32370b0d7de38d0ba456a2128baf?diff=split)
+- [Update CHANGELOG.md ~ 24/09/2019 - 21:50:20](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/a492e93687409d313cfb6419279cada746f1ed98?diff=split)
+- [4.sınıf 1.dönem dersleri için duyurular eklendi ~ 24/09/2019 - 21:50:01](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/f4063d65d9557b55a441b421be22b6728bf3e4d2?diff=split)
+- [🔑 İnformasyon Güvenliği ve Kriptoloji başlığı değiştirildi ~ 24/09/2019 - 20:49:30](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/0c12fe545b613314711dccbe07215a4a0627288b?diff=split)
+- [Update CHANGELOG.md ~ 24/09/2019 - 20:48:04](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/8a5355af22f02518a3ef62818dadbd269a0cb935?diff=split)
+- [🚀 Kripto 2.hafta notları eklendi ~ 24/09/2019 - 20:47:57](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/ca59db2b31b7db51c5f84061d0c28619140ec6b0?diff=split)
+- [🐞 Ufak sorunlar giderildi ~ 24/09/2019 - 09:33:54](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/548bbc06d37713c2a1c0eda9e72bf2f0ed25ed36?diff=split)
+- [Update CHANGELOG.md ~ 24/09/2019 - 09:14:31](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/259bc1f70a95500e4abb37e25f39e8e241274838?diff=split)
+- [🗽 İndekslemeler eklendi ~ 24/09/2019 - 09:14:01](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/7afd6cecddf535a44bb93c4f1b45d4039dac835f?diff=split)
+- [✍ Yazım hataları giderildi ~ 24/09/2019 - 08:58:43](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/7b6aed4b2443e3fd1202f6a51e94c58295c40eb1?diff=split)
+- [Update CHANGELOG.md ~ 19/09/2019 - 01:21:54](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/b5b6d1171d8f3bd9669684db69ec8a7725091de5?diff=split)
+- [Update CHANGELOG.md ~ 19/09/2019 - 01:21:32](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/b5d5c069df7aa282289644cea41dbb08196a55f8?diff=split)
+- [Ufak düzenleme (önemsiz) ~ 19/09/2019 - 01:21:24](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/284a52c236acccbf6517f4ca03a402eeb1ca3b18?diff=split)
+- [Update CHANGELOG.md ~ 19/09/2019 - 01:17:33](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/82f42b01d240a967ff16e389c197bfe0086237be?diff=split)
+- [Update README.md ~ 19/09/2019 - 01:17:24](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/a7544910fa61cb4e93a33ae48bf6b326139f09f8?diff=split)
+- [Update README.md ~ 19/09/2019 - 01:17:07](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/c8bb6df7ebd15894d87c2f527dbdb161bf877cf3?diff=split)
+- [Update CHANGELOG.md ~ 19/09/2019 - 01:12:27](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/b43cf48d196ce7169d18e4b684be831f108ef21f?diff=split)
+- [🏗 Sayfalar Tasarımı ve Notların Tutulma Yapısı hakkında ek notlar ve düzenlemeler ~ 19/09/2019 - 01:12:14](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/27850c9fe43915a15f9c5565f4a8a0e87495a4b9?diff=split)
+- [Update CHANGELOG.md ~ 19/09/2019 - 00:56:48](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/90ea4840f801719db5104742ac04b8de18f49707?diff=split)
+- [Update İlk Günki Quiz Soruları ve Cevapları.md ~ 19/09/2019 - 00:56:39](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/a44279b57e78292c71c7a76b31f562bd13b46c08?diff=split)
+- [Update CHANGELOG.md ~ 19/09/2019 - 00:54:17](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/a926232a1d2d9652fdb366766275a4c8b45f7ec6?diff=split)
+- [Bulanık mantık sayfası güncellendi ~ 19/09/2019 - 00:54:10](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/69fb13a273f5a684d5465ab570c759e3a9764839?diff=split)
+- [Update CHANGELOG.md ~ 19/09/2019 - 00:44:31](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/956c33e350e4ae3c4cbc64674d7b1980da0fa2dc?diff=split)
+- [🐞 Sayfaların gözükmeme sorunu giderildi ~ 19/09/2019 - 00:44:24](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/7c58d179441cba86b0cff995fac880af08b057d7?diff=split)
+- [Yapı kökten değişti ve iyileştirildi 🚀 ~ 19/09/2019 - 00:43:29](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/66ed8e2f7dfd2c523c3037567236cf8f4c04561e?diff=split)
+- [Kriptoloji dersinin ilk gününde yapılan quiz soruları ve cevapları eklendi ~ 19/09/2019 - 00:39:11](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/623f1432967a2f97d0c80c70c7d77cd02a1f856b?diff=split)
+- [Update CHANGELOG.md ~ 18/09/2019 - 23:55:12](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/fbab6f90c6943662dc331fbff7865ce96c566d6a?diff=split)
+- [🏗 Ufak yapı düzeltemesi ~ 18/09/2019 - 23:55:02](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/7031ed91cae161cbf782e66f217f35623cb62fbb?diff=split)
+- [📜 Kriptoloji dersinin ilk gününde yapılan quiz soruları ve cevapları eklendi ~ 18/09/2019 - 23:51:46](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/60b7c48bc53812855d20f6a8038a6724f8e2e5bf?diff=split)
+- [Update CHANGELOG.md ~ 18/09/2019 - 23:20:59](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/de85b6c08384a82db7d663141b3be038ea7743c5?diff=split)
+- [Mobile Programming notları yenilendi ~ 18/09/2019 - 23:18:58](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/8b87bf438ec0db01466a12ea37175431cc8c5bcd?diff=split)
+- [Update 🤑 Ücretsiz Yazılımlar.md ~ 18/09/2019 - 23:11:29](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/53a0ff20c3a43a2ce95e179858bc60070959b0e0?diff=split)
+- [Update CHANGELOG.md ~ 18/09/2019 - 22:59:09](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/1db297b0da37f2f93edd6268c1a94d681b147427?diff=split)
+- [Kriptoloji İlk Gün Yapılan Quiz'in Soruları eklendi ~ 18/09/2019 - 22:59:02](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/f0726cce734b1b9370cfd77d1a72d40369485d87?diff=split)
+- [Update CHANGELOG.md ~ 18/09/2019 - 22:49:28](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/d2e9d107ac8585ca0e8c9d0e59a2d7bb37d6e6d7?diff=split)
+- [Staj Notları yenilendi ~ 18/09/2019 - 22:49:17](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/9bc45da3ab14f7f9881b86d8bd8253afaec014fc?diff=split)
+- [Önemsiz düzeltme ~ 15/09/2019 - 19:15:14](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/f974b52e041b5a9b54cbf0738c4b304aae370eb5?diff=split)
+- [Update CHANGELOG.md ~ 15/09/2019 - 19:12:36](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/0ee8bd0933ba9a4ad9554f520cf2a634278ba8f5?diff=split)
+- [Eğitmen Bilgileri için link eklendi ~ 15/09/2019 - 19:12:24](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/117907e27b8d69cd823188f878844089ad6e5e2b?diff=split)
+- [🧹 Derslerin altında yazan "Yok 😅" yazısı kaldırıldı ~ 15/09/2019 - 17:44:16](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/66c43cc41102051d64fd9c42cc4f56c140f8651a?diff=split)
+- [Update CHANGELOG ~ 15/09/2019 - 17:43:49](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/8eca62176363632903442e71b83b5ccb077ba583?diff=split)
+- [Update CHANGELOG.md ~ 12/09/2019 - 22:39:33](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/9da671428518246526c040905835b3873daf1b5d?diff=split)
+- [🧹 Gereksiz linkler temizlendi ~ 12/09/2019 - 22:38:47](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/a5699ff03cab56ced576f9c2d94815030a60806d?diff=split)
+- [🛰 Tüm indekslemeler yeniden yapılandırıldı ~ 12/09/2019 - 22:35:48](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/2d87f0b586236bad0f3eadd06ff7d0ff1e44e2aa?diff=split)
+- [📂 Harici dosyalar adına geçildi ~ 12/09/2019 - 17:29:32](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/12f5cec2e3713d6783d5be44df1b93dd0c004037?diff=split)
+- [Update CHANGELOG.md ~ 12/09/2019 - 11:29:06](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/5cc572e5dfe45632c3052f7b4ac0650f992ea5f7?diff=split)
+- [🧪 Computer Science alanı eklendi ~ 12/09/2019 - 11:29:00](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/a801250beacfbfa57547a82c9723cf9f59944147?diff=split)
+- [✨ Özenle Hazırladığım Diğer Dökümanlarım yenilendi ~ 12/09/2019 - 11:20:18](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/d5569df0503b42a7313c65ffe9c78ae0eed83f0d?diff=split)
+- [Update CHANGELOG.md ~ 12/09/2019 - 01:57:39](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/a8b601777ec6fc522ae0197e2bd0952d99c78a34?diff=split)
+- [🗽 Hoş Geldin metni eklendi ~ 12/09/2019 - 01:57:29](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/6790dcadb88048ec92f5de05d709ddfb3d320616?diff=split)
+- [Update 📙 Ders Seçimi.md ~ 12/09/2019 - 01:53:45](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/3735fdf32a1fda77dbccd9f85ccfaeb76f7eb0e7?diff=split)
+- [Update CHANGELOG.md ~ 12/09/2019 - 01:48:43](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/593c6db37b085c6f82524072217ccb60b9abd55e?diff=split)
+- [Tüm sınıfları ilgilendiren faydalı notlar eklendi✨ ~ 12/09/2019 - 01:47:26](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/00ba8a7833c75b75098e951bd511508a430d0b53?diff=split)
+- [Update CHANGELOG.md ~ 12/09/2019 - 01:38:54](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/154a1eee8642a96f70cf33211e13b1032ab582f1?diff=split)
+- [👀 Neler değişti eklendi ~ 12/09/2019 - 01:38:47](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/2ad6ae1f7325533b5f59c5f6390703dc9bc12eca?diff=split)
+- [CHANGELOG yapısı getirildi ~ 12/09/2019 - 01:38:37](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/8bdc40a98bcbbf614d3f1359fb0044b4a3075751?diff=split)
+- [Yeni ders programı eklendi ~ 09/09/2019 - 15:14:27](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/75616127714119c02499d8b5fd507fe17000fe79?diff=split)
+- [Update 📙 Ders Seçimi.md ~ 09/09/2019 - 11:55:38](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/64878b8d492f3c491a944e80e6d6a0cb198b725f?diff=split)
+- [Ders seçimi duyurusu yenilendi ~ 09/09/2019 - 09:13:39](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/57f2588952d1f6402f881950efe6f4ff20a25d88?diff=split)
+- [Ders notları arttırıldı ~ 09/09/2019 - 09:07:41](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/a8eb3c1b7f1765c0250cbfc982b05764c67dc3f2?diff=split)
+- [🧹 Gereksizler silindi, indeks hatası giderildi ~ 08/09/2019 - 18:44:10](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/2aba1bf32e4da8fbb808c18f8efb70c4eefef7f2?diff=split)
+- [✨ Emojilendi ~ 08/09/2019 - 18:33:46](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/dc3d822843abe56f50aa8400fad57922f3bfb9a1?diff=split)
+- [Update SUMMARY.md ~ 08/09/2019 - 17:28:49](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/ecb8b67612824548361352571017b8661f1db140?diff=split)
+- [Hatalı link düzeltildi ~ 08/09/2019 - 03:00:24](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/79db54751aa38f4e9299c8111c867428b2717426?diff=split)
+- [Ufak düzeltme ~ 08/09/2019 - 02:59:15](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/ad33e3e60d840c90b39fbe0ca77d2136dad7040e?diff=split)
+- [🗽 indeksler yenilendi ~ 08/09/2019 - 02:53:18](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/ec2cb0c4cce1bd9e8d90b0ad85f1d8e28c2e95cf?diff=split)
+- [ufak düzeltme ~ 07/09/2019 - 01:54:53](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/f449c7f77fda5cd67d788343b486e7a5f9f10d0c?diff=split)
+- [Ufak düzeltme ~ 07/09/2019 - 01:54:19](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/21edc1842639030fe8eee7c0e4960a184d44e685?diff=split)
+- [. ~ 06/09/2019 - 16:28:59](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/3a7d006eae0d1f081af67b0e22eec86c3c6e7768?diff=split)
+- [👨‍⚖️ ~ 06/09/2019 - 16:27:08](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/e47b9dc072d854acce3f8abd1c0baf2362da2463?diff=split)
+- [👨‍🏫 ~ 06/09/2019 - 16:26:37](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/030093b6164a3e7065cf5cf97c7c68ce0e5da40f?diff=split)
+- [✨ Ufak düzeltme ~ 06/09/2019 - 16:26:01](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/0e9dc9dccd018bd47b4a60243d6f1f7238748ad8?diff=split)
+- [🚀 Kişisel ders seçimi tavsileri ~ 06/09/2019 - 16:21:33](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/18e4759ec4b3bd17ac7ebfe8b6116ad5fbf3421c?diff=split)
+- [📧 Mail linki güncellendi ~ 06/09/2019 - 16:03:44](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/8a0a4950c9894c5a32223cf00dd7299397bf34a8?diff=split)
+- [Link sorunu giderildi ~ 05/09/2019 - 02:58:23](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/b1612a82c852e4266ac557f8d1a0de155faf4f43?diff=split)
+- [Yazım hatası giderildi ~ 05/09/2019 - 02:57:29](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/4caf099f5ab07df79103831f24879b335fa84dcf?diff=split)
+- [Ek açıklamalar ve içerik desteği eklendi 🚀 ~ 05/09/2019 - 02:55:34](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/d7f77d37f25fbc391a61ac54f0ad927c32916b7f?diff=split)
+- [Ufak güncelleme ~ 05/09/2019 - 02:53:18](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/24b0b22b3a88de2b78f2cb4a1d4c8147615fd6ad?diff=split)
+- [Update SUMMARY.md ~ 05/09/2019 - 02:31:50](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/4799b14e0ad2daf64f6a701ae0b860ac4c94d2db?diff=split)
+- [📂 Dosya ismi yenilendi ~ 04/09/2019 - 00:01:46](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/4022a47c8fc618dbf668af0bef398ca6d2404331?diff=split)
+- [✨ Ufak güzelleştirme ~ 03/09/2019 - 23:59:51](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/aac8e2b1fab588b39d3652098157208a4acfc73f?diff=split)
+- [Ufak düzeltme ✨ ~ 03/09/2019 - 20:37:27](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/64436f8a36a886dc14efec5fd04d248360b74650?diff=split)
+- [Staj Bitiminde Gerekli Olan Belgeler eklendi ~ 03/09/2019 - 20:37:20](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/858e273dd7b4a910ea4d3054f32259a2064f5b37?diff=split)
+- [iuce.yemreak.com'a aktarıldı 🚙 ~ 03/09/2019 - 20:27:19](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/6d3b1408f5265bef1526d6a5c67940cf32319cd3?diff=split)
+- [Yapılacaklar yapıldı ✔ ~ 03/09/2019 - 18:55:41](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/dc8dd62dba067561e02cb5a777fa9beb69f1bcd5?diff=split)
+- [Gereksizler kaldırıldı 🧹 ~ 03/09/2019 - 18:52:21](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/bf81ec94604b12bf06bbca21174e09923a84d349?diff=split)
+- [GitBook 📖 entegrasyonu ~ 03/09/2019 - 18:45:25](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/e34c005250b6ee30365bea7d15414a2bdbebc85e?diff=split)
+- [PDF ismi düzeltildi 🐞 ~ 03/09/2019 - 18:10:28](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/2683cd7b1286decff8cbd90533e1c902dcf2579d?diff=split)
+- [Update SUMMARY.md ~ 03/09/2019 - 15:53:08](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/47f1d4925f4e11b98248941abc8297932ad4e33b?diff=split)
+- [Link sorunu giderildi 🐞 ~ 03/09/2019 - 15:46:29](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/39df2a7f30fc801f89d502bc121230a0d5971d59?diff=split)
+- [Gereksizler kaldırıldı 🧹 ~ 03/09/2019 - 15:45:54](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/c7c345b6e6957413f9ba1712572bcbf71c00c272?diff=split)
+- [Görsel düzenleme ✨ ~ 03/09/2019 - 15:45:43](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/c65e69c76e451617ff8701c82ffe33297d4e378e?diff=split)
+- [Ortak notlar için PDF 🔗 linkleri koyuldu ~ 03/09/2019 - 15:45:34](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/ee44a037282696c3d7263dde9aa26b5bd4521d7a?diff=split)
+- [Emojiler belirgin kılındı ✨ ~ 03/09/2019 - 15:26:35](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/0513007e82165f1f8e987f61f35e66038ec9174b?diff=split)
+- [Update SUMMARY.md ~ 03/09/2019 - 15:23:52](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/2c4121b92c6908d9aa5799b9259176ed8dfd5095?diff=split)
+- [Gereksizler temizlendi 🧹 ~ 03/09/2019 - 15:23:38](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/217fe7af345848a956ac3a930358ba37ab5a15c7?diff=split)
+- [Gitbook'dan gelenler kaldırıldı 🧹 ~ 03/09/2019 - 15:13:31](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/10717096607b73d4f7791df29ca9eacf4ce02417?diff=split)
+- [GitBook: [master] 235 pages and 249 assets modified ~ 03/09/2019 - 10:36:10](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/21ba5362514ea924f92d345aaf1c17a3e3405054?diff=split)
+- [Ufak düzeltme ve güzelleştirme yapıldı ✨ ~ 03/09/2019 - 13:25:41](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/78915dfddc70dfa5f5b77945625db0f88148f8bd?diff=split)
+- [Ufak güzelleştirme ✨ ~ 03/09/2019 - 13:16:25](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/fe7157277a4c9f0bf4ae4c94f86c9010b9a9cfad?diff=split)
+- [Gereksiz indeksleme kaldırıldı 🧹 ~ 03/09/2019 - 13:09:51](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/a15a2118b9c7194e5ab8fe6a173581ebae5b5aae?diff=split)
+- [GitBook için entegrasyon çakışmaları 👨‍🔧 ~ 03/09/2019 - 13:08:37](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/b62929bef15aea2e2318ac2eed88efa97492acbf?diff=split)
+- [🗽 Indekleme eklendi ~ 03/09/2019 - 12:28:32](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/3fbfdfa664da1ea565d2da8ebdf826d16084c1c2?diff=split)
+- [Script yenilendi 🚀 ~ 02/09/2019 - 23:41:54](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/3948b384317e9fc0857555003a24b7a4bed4e53d?diff=split)
+- [İstek ve yardım kalıpları oluşturuldu 🚀 ~ 02/09/2019 - 23:36:17](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/dc25a7bc033430782f3964d7f08fb1975994e04d?diff=split)
+- [Kalıp eklendi 🧼 ~ 02/09/2019 - 23:25:15](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/7d91e0e2a05e18e611101d5beae2ef8da5272cc9?diff=split)
+- [Yapılacaklar eklendi ✔ ~ 02/09/2019 - 23:19:59](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/7640aed4777af2cfc6fadb363d1d86355eaee1ed?diff=split)
+- [Güzelleştirme ✨ ~ 02/09/2019 - 22:43:22](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/5186592efb70b080ab626654a3bee2d8bbf4c5f0?diff=split)
+- [İndeksleme kaldırıldı ~ 02/09/2019 - 22:33:53](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/b0f086a931c748f859295e4a15e55993277b8f6d?diff=split)
+- [Hata düzeltmesi ~ 02/09/2019 - 22:33:11](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/1770166ec21aae985ec1797d898808fd7c64bcd1?diff=split)
+- [Hata düzeltmeleri yapıldı 🐞 ~ 02/09/2019 - 22:29:18](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/d3862862fab70ab57dbc5a16ef3404910cd675f8?diff=split)
+- [İçerikler kısmı kaldırıldı 🧹 ~ 02/09/2019 - 20:43:02](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/4e8876b049e611d591e14c3a48cfa4d57b74e1d0?diff=split)
+- [Resmi saatler eklendi ⌚ ~ 02/09/2019 - 10:54:41](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/9ce346dad02abd19c5e1aa9db3718ff82325d835?diff=split)
+- [Duyurular eklendi 📢 ~ 25/08/2019 - 15:18:21](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/9c798ad9456755cfd4de40c303dd474043ff7433?diff=split)
+- [Emojiler eklendi ✨ ~ 25/08/2019 - 15:09:17](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/04f741409fb1db04a3dc549bf815db88975b82f2?diff=split)
+- [Emojiler ve ek bilgi eklendi ✨ ~ 25/08/2019 - 15:07:46](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/1d80650d502d843ffb6bba9eef6562077367bb26?diff=split)
+- [Seçmeli derslerin grupları eklendi ✨ ~ 21/08/2019 - 22:02:11](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/562e1892c1b6961f847713c8da80b3f620214b0b?diff=split)
+- [Bahar ders programı eklendi 🌿 ~ 21/08/2019 - 20:40:47](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/15491811bd3bd34d09fa299808955a2df5239947?diff=split)
+- [Tarih sınav soruları eklendi ✨ ~ 21/08/2019 - 14:20:11](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/4f64e7c25b6196c11503bd88a8ddbe8802e7a02a?diff=split)
+- [Update README.md ~ 15/08/2019 - 16:35:54](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/6eb790457b54a4f3964b267a26f067fea511a0c2?diff=split)
+- [Lİnk sorunu giderildi 🐛 ~ 31/07/2019 - 21:23:08](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/1fdcffbe2727cf1bea45d256812d431f0d2dd998?diff=split)
+- [Destek alanı güncellendi 📢 ~ 31/07/2019 - 21:21:15](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/2ae987a38b1a460eed997f962e59a381e96a15ce?diff=split)
+- [Windows dosyaları kaldırıldı ~ 31/07/2019 - 21:20:55](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/13ac17271ad0b8cbfb95c3ec3526986731c9c6b0?diff=split)
+- [Windows 10 için icon eklendi 🔮 ~ 27/07/2019 - 14:29:08](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/8ea931140cc600cfa8f5ad60a31d67814579555d?diff=split)
+- [Ücretsiz yazılımlar güncellendi 🆓 ~ 25/07/2019 - 09:33:07](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/838b7a97862bed9b105faffacfc701f816103993?diff=split)
+- [Eski ders programı eklendi ~ 23/07/2019 - 17:06:38](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/33b748d1ab68b27aa341657db97e240fcbb7bd2d?diff=split)
+- [Yapı yenilendi ~ 23/07/2019 - 17:06:28](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/ebff4b67a8122fec3e9af201e6fdd8bade8465e8?diff=split)
+- [2019 Büt'ü eklendi ~ 19/06/2019 - 20:31:09](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/5d88bb04b643857a7595d7973591f7c4004a6086?diff=split)
+- [Staj bilgileri eklendi ~ 19/06/2019 - 15:56:56](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/43d60dcf4fb7f494c97ae26b39cc769f4d1a0975?diff=split)
+- [2019 Vize soruları eklendi 🔖 ~ 18/06/2019 - 10:14:18](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/1686ef2ef5e0a0ae3c6a0846f9671a6df11fe0dd?diff=split)
+- [Önemsiz düzeltme 🗽 ~ 18/06/2019 - 02:16:44](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/bff32c52d58f1970f31a74e93382fdbaf09a465c?diff=split)
+- [2018 Büt'ü eklendi 📑 ~ 16/06/2019 - 22:38:58](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/237747287101c1cbe0150e625f0d84c624090ddb?diff=split)
+- [Staj notları yenilendi ~ 12/06/2019 - 17:57:45](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/eba778335d70ff94366d5f6995aecb233de7ff6e?diff=split)
+- [Sınav soruları yenilendi 🚀 ~ 10/06/2019 - 12:25:55](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/9a3db28717233a3d1c5b69dafe74b1a5814f1b56?diff=split)
+- [Yaz okulu süreci hakında bilgi eklendi ~ 09/06/2019 - 22:46:24](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/a69d58fc84835bf8d02b5c1bb27656c53deb9d58?diff=split)
+- [Soru çözümü eklendi ~ 09/06/2019 - 21:00:02](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/ff0270905ea5f01dff7ce5e11fb309d9418e6205?diff=split)
+- [Yazım hatası giderildi 🐛 ~ 08/06/2019 - 22:32:13](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/1e9d5e38b10bed5f07b9686b495097b814940fb3?diff=split)
+- [ITU dil sınavına çalışacabileceğin link eklendi ~ 08/06/2019 - 22:31:40](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/35690d68b64209c58b1f6d880a4584f21d761c29?diff=split)
+- [2019 finali eklendi ~ 08/06/2019 - 22:16:25](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/943a03314dc1177fd4ef44a7c3061373158b6503?diff=split)
+- [Final sınavı eklendi ~ 08/06/2019 - 22:15:58](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/37860e1fdc4aa221ac024d4a15f705f9429bc777?diff=split)
+- [Fizik sorularının çözümleri eklendi ~ 08/06/2019 - 22:15:33](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/bc64e6e9688d1b84238404ce2d91fc24c65c9a18?diff=split)
+- [Delete Final 2019 ~ Fizik.pdf ~ 08/06/2019 - 22:15:09](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/ab7e0102129db71cb6d61be48edf10cb149e50d1?diff=split)
+- [Yapısal düzenleme 👷 ~ 05/06/2019 - 23:45:34](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/51700bcc17700a9858c1158ebe7a8b05b7754551?diff=split)
+- [PDF'e ek not eklendi ~ 05/06/2019 - 21:37:46](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/2083ec7c8fa5af655b27140c42e3f45d0379d813?diff=split)
+- [Yapılacaklar eklendi ~ 05/06/2019 - 18:30:07](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/b297908574b3b1c4a2e4816e86a59a7adb84ac0b?diff=split)
+- [Yapılacak eklendi ~ 05/06/2019 - 18:23:11](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/a1a416e0f02cabb19d774f0226b34027ad3130cc?diff=split)
+- [Öğrenci notları eklendi ~ 05/06/2019 - 18:09:45](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/781a011196ccdf2ba3f0eaffdacfd710d3da14f5?diff=split)
+- [Giriş yazısı güncellendi 🗽 ~ 05/06/2019 - 18:08:41](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/83769392253ffa76093bd2aca9ed201c53bd3035?diff=split)
+- [Bilgiler arttırıldı 🗽 ~ 02/06/2019 - 22:41:23](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/dd521c9b07e4668bd8e1e6565bc1c9444cacc62e?diff=split)
+- [Yeni bilgiler 🗽 ~ 02/06/2019 - 22:38:27](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/2148c01a9e2146b11d9d9fa183b463e41e92f0a3?diff=split)
+- [Yapı değişikliği 🗽 ~ 02/06/2019 - 22:17:57](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/9871a7e723b37718318909e2e8e882bee531e5dc?diff=split)
+- [İndeksler güncellendi 🗽 ~ 02/06/2019 - 20:06:45](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/9bdf2a6a290fb4346ec37d35762e6b8adba051ac?diff=split)
+- [Yeni bilgiler eklendi ✨ ~ 02/06/2019 - 20:00:09](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/1ef666a3b011160878c75fc042cc040c0d05b230?diff=split)
+- [Yaz okulu bilgisi eklendi ✨ ~ 02/06/2019 - 11:08:38](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/aca1931d4ecd1d07f5d684670c26b5038b5489b4?diff=split)
+- [Yeni başlık eklendi ~ 01/06/2019 - 18:14:42](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/44cc393b2e095f8f7ceb3149d7d3f89349de4905?diff=split)
+- [Final çözümleri birleştirildi ~ 01/06/2019 - 18:08:02](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/abbafe46446111497703abe99958a26e7fcf6553?diff=split)
+- [Çan bilgileri eklendi ~ 01/06/2019 - 18:07:55](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/6cc9cba54f67604dd8487cc75bc15bbeae410a77?diff=split)
+- [Staj notları başlığı açıldı ~ 31/05/2019 - 20:09:30](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/6b478f1e835ab9bab491670049bef28a6993e80c?diff=split)
+- [Sınav soruları eklendi 📃 ~ 31/05/2019 - 14:02:00](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/bed0adf772656486411566c2c2c3e80fea096953?diff=split)
+- [Gereksiz bilgi kaldırıldı ~ 29/05/2019 - 17:37:41](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/908df9fba108f26d0dabc00817c4206e3bb53083?diff=split)
+- [Final sınavı eklendi ~ 29/05/2019 - 17:29:56](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/317d75a82c2e7dd2079ad4b22f79b3cec0cabac9?diff=split)
+- [Çıkmış sorular eklendi ~ 29/05/2019 - 10:23:18](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/d46661e8c647ed7077ccea3572b42dfd5037ceb0?diff=split)
+- [Yeni Ders Notu ~ 29/05/2019 - 10:21:57](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/32027dd5d3e52e9044b4b20fab26757b064e9f6b?diff=split)
+- [PDF çıktısının boyutu küçültüldü ⏬ ~ 29/05/2019 - 09:07:13](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/5ddaa4aee1e31d5300188a9be9464f9a34bdb2b1?diff=split)
+- [Font sorunu giderildi 👌 ~ 29/05/2019 - 00:53:01](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/78f557b6281ad2c72c7809f5cd3d3bb773704247?diff=split)
+- [Yazım hataları giderildi ~ 29/05/2019 - 00:18:54](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/0660e2ab5c0784754977d926052748169f274ec9?diff=split)
+- [Başlıklardaki kayma sorunu giderildi 🐛 ~ 28/05/2019 - 23:55:42](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/b340b9b7b00712b781dc14459cf89121a192f70e?diff=split)
+- [Yatay geçiş notları eklendi ~ 28/05/2019 - 19:46:43](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/f2d8a04509ae027f8bc16afda4f32d592637b3e3?diff=split)
+- [Bağış linki güncellendi  ♥ ~ 28/05/2019 - 19:15:45](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/2a7b9ed9945eff9423fab5f373c28205767d8468?diff=split)
+- [Gereksiz not kaldırıldı 🌀 ~ 28/05/2019 - 19:00:14](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/51438234c8b9a63fde449d681b06b1fd678f34f7?diff=split)
+- [Yeni dersler eklendi ~ 28/05/2019 - 18:59:05](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/25ecfe5720ce1042e004f2adaa5d6ca2ac8369e7?diff=split)
+- [Final çalışmam eklendi 🚀 ~ 28/05/2019 - 18:58:53](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/40a375f2a936bceaab75fce329bc2bc278a08782?diff=split)
+- [Veteriner'e sorulan sınav eklendi ~ 28/05/2019 - 02:39:20](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/9638e2cc80cdf52139a33f789bd8bf954cfa0ee4?diff=split)
+- [Yeni notlar ve sınavlar eklendi 🔥 ~ 27/05/2019 - 18:18:15](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/d15a35f825a5d85e2bb1a5fb247530e0f366c589?diff=split)
+- [Sınav sorularının cevapları eklendi ~ 27/05/2019 - 01:00:18](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/0b8982235bb37d7faf82299d71d7e23ba7cb8386?diff=split)
+- [PDF'ler yenilendi ~ 27/05/2019 - 00:28:45](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/4441fdd152017feface92011781394a06aaae7c2?diff=split)
+- [Ders notları yenilendi 🆕 ~ 26/05/2019 - 22:20:04](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/d5399bb8b27f19c9365d53743080bf02828fedcb?diff=split)
+- [✍ ~ 26/05/2019 - 21:36:30](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/0d4fc02aeddd57324615fbf3728b9d50fa821d2b?diff=split)
+- [Update FUNDING.yml ~ 26/05/2019 - 21:36:01](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/9a950d56977307fa14ff903e4870963a168dab88?diff=split)
+- [✍ ~ 26/05/2019 - 21:31:01](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/1b193a2046490706e6325d0e3cbcef29b6b90612?diff=split)
+- [Kararlı sürüm 🚀 ~ 26/05/2019 - 00:03:50](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/c3992dd6332b3a92b356630ca546d8eb590294ef?diff=split)
+- [Yeni yapıdan nasibini aldı 🔥 ~ 25/05/2019 - 19:56:11](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/2d5d39a144dadb666f342d96c95ae7018f3be85e?diff=split)
+- [Yapısal düzemleme 🔥 ~ 25/05/2019 - 19:34:05](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/fd1f4f2c48da3b68dc760e04684f0841755b1d4e?diff=split)
+- [Yeni yapıdan nasibini aldı 🔥 ~ 25/05/2019 - 19:17:46](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/017b7f011cc39ab82eee6a8c376e1024192ad687?diff=split)
+- [Yeni yapıdan nasibini aldı 🔥 ~ 25/05/2019 - 18:26:52](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/ba7aa69b8e5a99b59095fc9efd0f3325072827bc?diff=split)
+- [Yapılar güzelleştirildi 🔥 ~ 25/05/2019 - 16:34:04](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/a4abd5473caab7d90f46615888b4e7577d962b26?diff=split)
+- [Yeni yapıya geçildi 🔥 ~ 25/05/2019 - 15:53:31](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/3e7de0d2783dab6ef39a02596c8817ce77858bca?diff=split)
+- [3.sınıf 1. Dönem Notları düzenlendi 🔥 ~ 25/05/2019 - 15:53:12](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/f4f76502a0de4016e41626db9e8029919751ddbe?diff=split)
+- [Link yenilendi 🆕 ~ 25/05/2019 - 04:48:18](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/9d92d0bc193e507d05be9c12537e4a93b2764fec?diff=split)
+- [Gereksiz resimler kaldırldı 🌀 ~ 25/05/2019 - 04:48:07](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/35a41943dbc91332a5d39abc2d3f1cb19c579bfb?diff=split)
+- [Yeni bilgiler geldi gereksizler kaldırıldı 🌀 ~ 25/05/2019 - 04:38:34](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/9082432c72953d0ff66e821a207006227eded94c?diff=split)
+- [Temel yapı değiştirildi 🔥 ~ 25/05/2019 - 04:13:29](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/5511f441af461070e010a56bd1f67efc7e1791ff?diff=split)
+- [Notlar arttırıldı ~ 23/05/2019 - 01:51:47](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/a5ca9f0e6b1143f44f1b5dc8ac1013f572b2fee3?diff=split)
+- [Hatalı link düzeltildi ~ 22/05/2019 - 19:36:10](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/8bb569f77e35ddcf427cfd69919b8ec6badf932e?diff=split)
+- [Mimari notlarım eklendi ~ 22/05/2019 - 19:16:07](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/5ed57e152d563069722c523ced754cac01acf5b6?diff=split)
+- [Gereksiz tema verisi kaldırıldı 🧹 ~ 22/05/2019 - 18:58:59](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/e94048d5d5b765f654e06ef89192df9d1481f9d2?diff=split)
+- [Final notları eklendi ~ 22/05/2019 - 18:31:23](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/9affaced7818f3b0ac3a535f58fb19a15f511793?diff=split)
+- [Hatalı metin giderildi ~ 21/05/2019 - 15:33:31](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/acefb24c9ebd32e8410bbcc3cb6783604255356b?diff=split)
+- [Hata düzeltmesi ~ 21/05/2019 - 14:45:03](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/4f70bf9f93c1fc49a44591ced750b3addda5ca2a?diff=split)
+- [Hatalı link düzeltildi ~ 21/05/2019 - 14:35:05](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/e7e67e09a4d068e100c069af7895ea3bab05ea8e?diff=split)
+- [Lab notları eklendi ~ 21/05/2019 - 11:17:00](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/86b74796b577a103810a9fe1909c32118c37cfa3?diff=split)
+- [tempm ~ 21/05/2019 - 01:31:53](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/9463a9a3d384713ab0bdc1c2ccb2028dc0c98963?diff=split)
+- [Latex denemesi geri alındı ~ 21/05/2019 - 01:29:30](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/662dd5832af72ef3c346f1a8c57852aed8669f0f?diff=split)
+- [Latex denemesi ~ 21/05/2019 - 01:27:54](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/868dc6bd773a97452ea2d601a5c3bfe2ff0410d9?diff=split)
+- [Hatalar giderildi ~ 20/05/2019 - 17:27:12](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/3b18dc5d88c5cd0abe92342afc59a664528fd2d8?diff=split)
+- [Latex desteği eklendi ~ 20/05/2019 - 13:18:02](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/2c1fdb8cf5cb665117b9c281f6ef0086110998ca?diff=split)
+- [Yapılar düzeltildi ~ 19/05/2019 - 22:36:42](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/a30a1e205ce6f2b20772d01c68079e2ed8f40530?diff=split)
+- [İndeksler düzeltildi ~ 19/05/2019 - 22:27:20](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/13823cbedf8219052d0aec86b5a55200f9142a5d?diff=split)
+- [Yeni notlar 🚀 ~ 19/05/2019 - 22:26:19](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/ff12520ee32bac355d6e24cc95364c71710b26ab?diff=split)
+- [Kendi notlarım eklendi ✨ ~ 19/05/2019 - 13:43:37](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/7f02668627a7ba265583849f16d8fc8194600e7e?diff=split)
+- [Yeni bilgiler ~ 18/05/2019 - 16:19:30](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/d3efbbe7c2a464cd5bce04cb1f4e4288794005d7?diff=split)
+- [Hata düzeltmesi 🐛 ~ 18/05/2019 - 00:58:27](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/3625e0897e4859d4da3c6e08301f6a17911d9c9b?diff=split)
+- [Final hakkında bilgiler eklendi ~ 17/05/2019 - 17:44:51](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/868bd9c432e398c9422ae6a24859d32a13ec14f7?diff=split)
+- [Erasmus bilgileri eklendi ~ 16/05/2019 - 19:11:46](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/c8da5cb98ee86e356b1df1534a46000a2ab9865a?diff=split)
+- [Klasör ismi değiştirildi ~ 16/05/2019 - 15:21:08](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/cc83276ae47ff94c4cdbffda8a1aeaddb4d21076?diff=split)
+- [Merge branch 'master' of https://github.com/yedhrab/IstanbulUniversity-CE ~ 16/05/2019 - 12:06:43](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/1a3c732f654c72896f9c958550aa14db7bb2a1ad?diff=split)
+- [Notlar doğru yeretaşındı 🚌 ~ 16/05/2019 - 12:06:38](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/30b7b226cfb1276db5412061df555b481ca42070?diff=split)
+- [Notlar doğru yeretaşındı 🚌 ~ 16/05/2019 - 12:05:03](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/c8339fec2f0b122f2640fadbc246623ce3740fd9?diff=split)
+- [Link eksikliği giderildi 🐛 ~ 16/05/2019 - 11:57:40](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/df3890324a1dcb2c9d063cf76e75af4fc1c97a77?diff=split)
+- [Hatalı yazım giderildi ~ 16/05/2019 - 11:56:25](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/6db373326de7a56b2ff101943d47b9f2049d7f1e?diff=split)
+- [Harici linkler yenilendi ✨ ~ 16/05/2019 - 11:54:05](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/c0af09388c40139b0ca225795018401023083ccb?diff=split)
+- [İndeskleme yenilendi ~ 16/05/2019 - 11:49:29](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/8c50a00db716d20cb7d4ea349ddada7401a84742?diff=split)
+- [Öğrenci notları eklendi ✨ ~ 16/05/2019 - 11:49:18](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/d66be6d50b66a67842e946aa2804eb5f40c68af1?diff=split)
+- [İndeksleme hatası giderildi 🐛 ~ 16/05/2019 - 11:31:54](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/98a3bb8094a0994f842ca33eb657dfa16ae2b234?diff=split)
+- [Merge branch 'master' of https://github.com/yedhrab/IstanbulUniversity-CE ~ 16/05/2019 - 11:31:32](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/4635cedb375692122be960796647e39e419fb803?diff=split)
+- [Yapılacaklar eklendi 🐱‍🏍 ~ 16/05/2019 - 11:29:54](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/f055e85ae5e0747f42b161b11254194ef6b3dbaa?diff=split)
+- [Workshoplar eklendi ✨ ~ 16/05/2019 - 11:29:35](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/70594af853d5da8fc91d6f398b78b6c8f719adbd?diff=split)
+- [Sınav kağıtları eklendi ✨ ~ 16/05/2019 - 11:29:22](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/1ab3bc5990cf07b28ed2cc8bc0851d382ca23b4d?diff=split)
+- [Huawei notları yenilendi ~ 16/05/2019 - 11:22:58](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/93a947affd4b12ac4d5e135ddf5005f99e66a55d?diff=split)
+- [Asma Mirkhan workshop çalışmaları eklendi ✨ ~ 16/05/2019 - 11:21:47](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/9fe7f3085ad324d23e3cbcd4f7e8d66e59aff896?diff=split)
+- [Sena Modanlı'nın attığı notlar eklendi ✨ ~ 16/05/2019 - 11:18:14](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/9eb2572b7e53dac781f7858c4467343bee3f9464?diff=split)
+- [4. sınıf notları eklendi 🚀 ~ 16/05/2019 - 11:09:13](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/0c01a71be93666203db0e7a8e3f7d5568a6eabf5?diff=split)
+- [Windows yollarından kaynaklı sorun giderildi 🐛 ~ 16/05/2019 - 02:45:26](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/c1dcdb438f71a76d4c63c1c2052486ab1f499dc8?diff=split)
+- [İndeksleme düzeltildi ~ 16/05/2019 - 02:36:12](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/6aeb1b2fe090fee0eb157e0f4cb5a06a8d91d448?diff=split)
+- [Yeni scripte geçildi 🚀 ~ 16/05/2019 - 02:32:56](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/6ca28f2afa4c1e2259a6d9413c44d8fcc6549344?diff=split)
+- [Gereksiz düzeltme ~ 15/05/2019 - 22:25:23](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/abcd5e073a393aaafdb0a9ad874539762a66ec87?diff=split)
+- [Bilgiler arttırıldı 🚀 ~ 15/05/2019 - 22:24:20](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/ef25af09d55c22ea4b85da7524d6700b48eb5db9?diff=split)
+- [Gerekli bilgiler ve faydalı bağlantılar eklendi ~ 14/05/2019 - 11:40:17](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/f31b840d683fc8142eac91487bf63ccdad34d882?diff=split)
+- [Teslim bilgileri güncellendi ~ 14/05/2019 - 11:31:14](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/9a728ecf58dfac86ba8f3319304cec64d14810b5?diff=split)
+- [Merge branch 'master' of https://github.com/yedhrab/IstanbulUniversity-CE ~ 14/05/2019 - 11:25:54](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/8a3da5b2cbc3f2bfad86352bbacd6523823f048d?diff=split)
+- [Final hakkında bilgilendirme eklendi ~ 14/05/2019 - 11:25:49](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/06f8c2ad6a9113f10243c34d2066a70d34767a2e?diff=split)
+- [Gereksiz indeksleme kaldırıldı ~ 11/05/2019 - 01:50:16](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/ca641ecc2633493fb66025514d1f7e2dd9204b03?diff=split)
+- [Script güncellendi 👷 ~ 11/05/2019 - 01:48:35](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/904cabf170449ce0c02864f5c7cf6a7b60e80450?diff=split)
+- [Sınav takvimi eklendi 📄 ~ 11/05/2019 - 01:10:11](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/385ee6ced1654c244db2f94ef462ee86e05a507a?diff=split)
+- [Script güncellendi ~ 11/05/2019 - 01:05:26](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/f7555c93b3a96f13a92edd6def472cf2406a654f?diff=split)
+- [İndeksleme düzeltildi 🚀 ~ 02/05/2019 - 00:01:18](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/c80cbae3f64638eaa07b00612ca4419391c5835c?diff=split)
+- [Selçuk hocanın maili eklendi ~ 01/05/2019 - 23:46:28](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/8d5ef309b9f986d59f6e56bcb6cc6999732a9bdd?diff=split)
+- [Yapısal düzenleme 🏗 ~ 01/05/2019 - 04:40:48](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/5a1ee4c72ed41d218c16ebf5007baf549b291ee8?diff=split)
+- [Yapısal düzenleme 🏗 ~ 01/05/2019 - 04:39:38](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/6a98616e65d90a46a286ee99f044933a7e91b95f?diff=split)
+- [Hata çözümü eklendi 👷 ~ 29/04/2019 - 19:05:41](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/9cfa3b4308a4bb8da8e7aa668f4f7ac899c632d3?diff=split)
+- [Hata çözümü eklendi 👷 ~ 29/04/2019 - 19:05:14](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/e86ecf32bb23fefe828103cd62ac0d261ec08db3?diff=split)
+- [Merge branch 'master' of https://github.com/yedhrab/IstanbulUniversity-CE into gh-pages ~ 29/04/2019 - 17:48:55](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/c2601dfa5d768e3f3198014c75f1d603e4df21bf?diff=split)
+- [Ufak düzeltme 👷 ~ 29/04/2019 - 17:48:09](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/5763392066952e9d3713c96d76672af73e14aa34?diff=split)
+- [Merge branch 'master' of https://github.com/yedhrab/IstanbulUniversity-CE into gh-pages ~ 29/04/2019 - 17:46:46](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/b24b70d981df6665dcf0a9660ccb84e72a347054?diff=split)
+- [Proje ödevi hakkında bilgiler eklenti 🗽 ~ 29/04/2019 - 17:46:29](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/6ff794db427210dadf5ca7c4da56204377bd4d4e?diff=split)
+- [Merge branch 'master' of https://github.com/yedhrab/IstanbulUniversity-CE into gh-pages ~ 29/04/2019 - 16:02:47](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/870f10bc579038bca29905b02bfb7481f7bf06d5?diff=split)
+- [Link hatası düzeltildi 👷 ~ 29/04/2019 - 16:02:37](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/bd8db4237729ff924c105769f5c0b76618d17ab3?diff=split)
+- [Merge branch 'master' of https://github.com/yedhrab/IstanbulUniversity-CE into gh-pages ~ 29/04/2019 - 16:00:22](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/2cc630abe8af8a20e7574b0fa0b6792afdf5af69?diff=split)
+- [Link kusurları giderildi 🌀 ~ 29/04/2019 - 16:00:11](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/7f61c7e55ef7e5e2e8a2c6e7a0d361e1b6bce150?diff=split)
+- [Merge branch 'master' of https://github.com/yedhrab/IstanbulUniversity-CE into gh-pages ~ 29/04/2019 - 15:55:26](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/21d38dff5a13175677562b6a693c41705da002f0?diff=split)
+- [XILINX linkleri eklendi 🗽 ~ 29/04/2019 - 15:36:00](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/df1a52b59943e838ad27fd4292fed4fcc9975768?diff=split)
+- [Merge branch 'master' of https://github.com/yedhrab/IstanbulUniversity-CE into gh-pages ~ 29/04/2019 - 14:48:15](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/eb9c6129a180d23e9993abeddd24572999bf727d?diff=split)
+- [Proje ödevi eklendi 🎃 ~ 29/04/2019 - 14:48:00](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/574fe3826995bd506b26d1f7b96695722884057e?diff=split)
+- [TODO eklendi 🥀 ~ 26/04/2019 - 20:20:57](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/396200d33feb16d3ec7e2e1a637489f3d07fc032?diff=split)
+- [İndex'e uzantı da eklendi 🌀 ~ 26/04/2019 - 19:36:34](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/e27c7ed163e08289377adca5cdf77b14c0bbd4a9?diff=split)
+- [Script hatası giderildi 🌀 ~ 26/04/2019 - 19:36:14](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/fc081f94482648ef3cda4372aaae917e189a9084?diff=split)
+- [Yapısal düzenleme 🏗 ~ 26/04/2019 - 19:35:29](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/cd1a3b1f1f05fec26c33a2d122c5cdd9681aa572?diff=split)
+- [Yapısal düzenleme 🏗 ~ 26/04/2019 - 19:33:23](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/c407e490fedf7da588a8af2a43044bf57f1f5840?diff=split)
+- [Merge branch 'master' of https://github.com/yedhrab/IstanbulUniversity-CE into gh-pages ~ 26/04/2019 - 12:48:44](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/c2ceff9163f5e54f54d42ef4627a34be50341497?diff=split)
+- [Düzen değiltirildi 🏗 ~ 26/04/2019 - 12:48:35](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/b690d7a9e6699e8734eb3d2d2b51b0d61433360a?diff=split)
+- [Hatalı index kaldırıldı 🐛 ~ 26/04/2019 - 12:47:18](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/b4b5c922d2cc8be808686c5bc9d0a5c1fd74598a?diff=split)
+- [Ders içerikleri doğru alana taşındı 👣 ~ 26/04/2019 - 12:43:12](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/064015c7c81f02422f1227bec6ac24ca6a822258?diff=split)
+- [Ders içerikleri doğru yere taşındı 👣 ~ 26/04/2019 - 12:42:20](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/0e6f81764ff2fad31b33b71d6ddc5212ca6742fc?diff=split)
+- [Veriler güncellendi 🏗 ~ 26/04/2019 - 12:39:00](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/100db98f97578db0ecc93c91802e5d3a7c7298ba?diff=split)
+- [Resmi ders içeriği eklendi 🆕 ~ 26/04/2019 - 12:38:07](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/2e7c2e6b93e95bd721ac4fdc34a6faae00a1d54c?diff=split)
+- [Komple güncelleme ✨ ~ 26/04/2019 - 12:37:00](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/75c87e3e77fb4501b57e3b7893dfca7d3fd8f29e?diff=split)
+- [Master aktarıldı 🛬 ~ 26/04/2019 - 02:19:12](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/e0b283acd2edce883aea8408f16dc501e1542e50?diff=split)
+- [Yeni bilgiler eklendi 🗞 ~ 26/04/2019 - 02:16:07](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/c4f71d9b7f0f798a1875431da88994e0b73edaa5?diff=split)
+- [Merge branch 'master' of https://github.com/yedhrab/IstanbulUniversity-CE into gh-pages ~ 26/04/2019 - 02:05:09](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/7b5bcf50aec6384aa0ee4275c92b19031aacd34a?diff=split)
+- [Görünüm için yapılandırıld 🏗ı ~ 26/04/2019 - 02:04:14](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/98209e35b5aa5b8aefc05be45e9ab104861810a7?diff=split)
+- [Set theme jekyll-theme-midnight ~ 26/04/2019 - 02:03:27](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/444d0f8d45394a39975da8453d281483d183b5d9?diff=split)
+- [README güncelleyici yenilendi ✨ ~ 26/04/2019 - 02:02:55](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/fef77fd6f9d4f967e910091e568487fc875a8ae3?diff=split)
+- [2018 proje ödevleri eklendi 😱 ~ 24/04/2019 - 20:00:33](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/c71d629da6f97cbdb43e7497acd61426bdffa1a4?diff=split)
+- [Sistemi yeniden yapılandırma 🏗 ~ 24/04/2019 - 19:57:34](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/0156fc60f691c4a6f6cb7cead9edbcd00d739246?diff=split)
+- [2.Sınıf 2. Dönem Notları eklendi ✨ ~ 24/04/2019 - 18:57:13](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/8cae6fd51c2fb4982d6af66218f7cd83c8b3c192?diff=split)
+- [İçerikler güncellendi 🌀 ~ 24/04/2019 - 04:16:04](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/94638634b3264f264b8f042c7a4380607f43f029?diff=split)
+- [Microsoft ve JetBrains lisans bilgileri eklendi ✨ ~ 24/04/2019 - 02:37:38](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/ce4b023398634655bf89b16e046282b54083c603?diff=split)
+- [Genel düzenleme ve başlık değiştirme 🌀 ~ 23/04/2019 - 16:14:24](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/bd3d6116156ca1157223d7b306148dd399ac1680?diff=split)
+- [Ücretsiz yazılımlar başlığı açıldı tada 🎉 ~ 23/04/2019 - 16:12:28](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/0075e6bb55a1c90a4d4686d6e440b61af8d8f76e?diff=split)
+- [Ücretsiz yazılımlar başlığı açıldı 🎉 ~ 23/04/2019 - 16:11:15](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/5891aaffc358a1ec552a50c687f0298635e2d628?diff=split)
+- [3. sınıf notları tamamlandı 🗽 ~ 22/04/2019 - 21:01:41](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/ccb47e93a9a51238f1f9c0b0bfecbebc48df83a0?diff=split)
+- [3. sınıf notları tamamlandı 🗽 ~ 22/04/2019 - 21:01:32](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/31b12943af81bb1670815bdbeaf315c673a3ce7a?diff=split)
+- [Giriş yapılandırması 🏗 ~ 22/04/2019 - 19:26:03](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/ad94dbf094f88bed9c583bfdc8ef7368d69400d6?diff=split)
