@@ -349,7 +349,7 @@ description: İstanbul Üniversitesi Bilgisayar Mühendisliği 💻 notlarını 
 
 ## 🌍 Tüm YEmreAk İçerikleri
 
-[![YEmreAK t&#xFC;m i&#xE7;erikleri \(her s&#xFC;tun bir web sitesidir\)](https://drive.google.com/uc?id=1LZoJzZyY_uYbl3zCxk6ZtZPaDiMHglMv)](https://yemreak.com)
+![YEmreAK t&#xFC;m i&#xE7;erikleri \(her s&#xFC;tun bir web sitesidir\)](https://drive.google.com/uc?id=1LZoJzZyY_uYbl3zCxk6ZtZPaDiMHglMv)
 
 
 ## 💖 Destek ve İletişim
