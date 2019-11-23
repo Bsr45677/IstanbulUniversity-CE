@@ -1,4 +1,4 @@
-ygitbookintegration . -ll 2
+ygitbookintegration . -rg -ll 2
 bash github .
 
 # .git/hooks/pre-push
