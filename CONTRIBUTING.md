@@ -100,6 +100,8 @@ Markdown hakkında detaylı açıklamalara [📑 Markdown](https://wiki.yemreak.
 
 GitHub projelerini `clone` yapıp, internetini harcamak yerine web üzerinden katkıda bulunabilirsin.
 
+- [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/YEmreAk/IstanbulUniversity-CE)
+ ile online sanal makineden işlemlerinizi yapabilirsiniz
 - Katkı sağlama işlemi GitHub hesabı gerektirir.
 - Güncel bilgiler için [🌍 GitHub Web](https://wiki.yemreak.com/proje-yoenetimi/github/github-web) yazıma bakabilirsin
 
