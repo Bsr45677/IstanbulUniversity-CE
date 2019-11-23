@@ -111,10 +111,12 @@ GitHub projelerini `clone` yapıp, internetini harcamak yerine web üzerinden ka
 
 ### 💫 GitBook İndekslemesini Yapma
 
-```sh
-# pip install ypackage
-ygitbookintegration . -ll 2
-```
+Projeyi güncelleme işlemi için alttaki komutları veya `integrate.sh` scriptini kullanın
+
+- `pip3 install ypackage` ile ypackage paketimi indirin
+- `ygitbookintegration . -ur -ll 2` komutu ile entegrasyonu sağlayın
+
+> Komut hakkında detaylar için `ygitbookintegration -h` yazabilirsiniz.
 
 ### 👀 Neler Değişti Commit'i Tanımlama
 
