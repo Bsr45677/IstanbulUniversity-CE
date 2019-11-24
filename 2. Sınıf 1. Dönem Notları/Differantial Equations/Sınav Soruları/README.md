@@ -2,6 +2,6 @@
 
 <!--Index-->
 
-- [Karma DE](./Karma%20DE.pdf)
+- [Karma DE](Karma%20DE.pdf)
 
 <!--Index-->

@@ -2,7 +2,7 @@
 
 <!--Index-->
 
-- [2018 Tam LDT~ YEmreAk](./2018%20Tam%20LDT~%20YEmreAk.pdf)
+- [2018 Tam LDT~ YEmreAk](2018%20Tam%20LDT~%20YEmreAk.pdf)
 
 <!--Index-->
 

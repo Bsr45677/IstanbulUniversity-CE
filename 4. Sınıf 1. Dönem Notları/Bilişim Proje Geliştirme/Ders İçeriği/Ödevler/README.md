@@ -2,7 +2,7 @@
 
 <!--Index-->
 
-- [BilisimProjeGelistirmeOdevKonusu](./BilisimProjeGelistirmeOdevKonusu.pdf)
-- [OdevTeslimTakvimi](./OdevTeslimTakvimi.pdf)
+- [BilisimProjeGelistirmeOdevKonusu](BilisimProjeGelistirmeOdevKonusu.pdf)
+- [OdevTeslimTakvimi](OdevTeslimTakvimi.pdf)
 
 <!--Index-->

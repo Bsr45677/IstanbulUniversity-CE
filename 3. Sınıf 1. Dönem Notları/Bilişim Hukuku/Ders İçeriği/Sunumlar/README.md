@@ -9,6 +9,6 @@ Her öğrenci bir ülkenin veya eyaletin bilişim hukukunu araştıracak
 
 <!--Index-->
 
-- [2019 Sunum ~ BH](./2019%20Sunum%20~%20BH.pdf)
+- [2019 Sunum ~ BH](2019%20Sunum%20~%20BH.pdf)
 
 <!--Index-->

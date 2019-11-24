@@ -18,6 +18,6 @@
 
 <!--Index-->
 
-- [2017 Final DC](./2017%20Final%20DC.pdf)
+- [2017 Final DC](2017%20Final%20DC.pdf)
 
 <!--Index-->

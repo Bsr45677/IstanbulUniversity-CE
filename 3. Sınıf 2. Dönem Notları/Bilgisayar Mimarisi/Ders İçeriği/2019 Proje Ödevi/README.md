@@ -2,6 +2,6 @@
 
 <!--Index-->
 
-- [Proje 2019 BM](./Proje%202019%20BM.pdf)
+- [Proje 2019 BM](Proje%202019%20BM.pdf)
 
 <!--Index-->

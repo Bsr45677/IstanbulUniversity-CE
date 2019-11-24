@@ -2,7 +2,7 @@
 
 <!--Index-->
 
-- [database](./database.sql)
-- [sql-init](./sql-init.sql)
+- [database](database.sql)
+- [sql-init](sql-init.sql)
 
 <!--Index-->

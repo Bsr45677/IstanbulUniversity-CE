@@ -2,6 +2,6 @@
 
 <!--Index-->
 
-- [Final Notları](./Final%20Notlar%C4%B1.pdf)
+- [Final Notları](Final%20Notlar%C4%B1.pdf)
 
 <!--Index-->

@@ -2,7 +2,7 @@
 
 <!--Index-->
 
-- [Final ISG](./Final%20ISG.pdf)
-- [Vize ISG](./Vize%20ISG.pdf)
+- [Final ISG](Final%20ISG.pdf)
+- [Vize ISG](Vize%20ISG.pdf)
 
 <!--Index-->
