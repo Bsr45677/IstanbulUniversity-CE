@@ -1,2 +1,3 @@
 [integration "pre"]
-	args = "-g -ll 2"
+args = -rg -ll 2
+
