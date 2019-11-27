@@ -76,6 +76,23 @@ Ders içeriklerinin uyuşması durumunda derleri alıp, saydırabilirsin.
 | :---------------------------------------- | :------------------------------------- |
 | [ErasmusDorm](http://erasmusdorm.com/en/) | Kaliteli bir yurt, yer kalmayabiliyor. |
 
+## 👨‍💻 Scriptlerim
+
+```js
+// Ders adları
+$("ctl0_pcontent_Programs").innerText.split("\n")[1]
+
+// Alınabilir kurslar
+$("ctl0_pcontent_Courses").innerText
+
+// İndex değiştirme
+$("ctl0_pcontent_Programs").selectedIndex = 2
+
+// Tablo formunda alma
+$("ctl0_pcontent_Courses").innerText.split("\n")[1].replace("\t", "|").replace("	", "|").replace("	", "|").replace("	", "|")
+```
+
+
 ## 🔗 Faydalı Bağlantılar
 
 - [Erasmus Polonya Tüyo](http://www.polonyam.com/erasmus-polonya-tuyo/)
