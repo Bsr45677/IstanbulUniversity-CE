@@ -13,17 +13,21 @@ description: Polonya Lodz Üniversitesi'nde erasmus programı ile okuma
 - Bizim okulun [Erasmus programı](https://muhendislik.istanbulc.edu.tr/tr/content/ogrenci/erasmus-programi) içeriklerine bakmalısın
 - Süreç sana okul tarafından, mailler ile aktarılacaktır
 - **Ders Denkliği Formu**'nu doldurup, ardından
-  - Erasmus koordinatörlüğüne imzalatmak
-  - Erasmjus koordinatörlüğüne dekan yardımcısı imzasını almak için bırakmak
-  - **1 haftayı** bulan bir süreç olabilir
+  - Erasmus koordinatörlüğüne (Tolga Ensari'e) imzalatmak
+  - Yayın bürosuna (Mitat Bey'e) teslim etmek
 - **Application Form**'u [Mobility Lodz](https://mobility.p.lodz.pl/in/) üzerinden almalı ve sırasıyla alttakilere imzalatmalısın
   - Erasmus ile ilgilenen hocaya
   - Erasmus Koordinatörlüğüne
 - **Learning Agreement**'ı [Mobility Lodz](https://mobility.p.lodz.pl/in/) üzerinden dersleri onaylarak yazdırmalısın
   - [Mobility Lodz](https://mobility.p.lodz.pl/in/) üzerinden derslerini onaylamadan belgeyi alamazsın
-  - Dersleri onayladıktan sonra değiştirme imkanı tanınmamakta
+  - Dersleri onayladıktan sonra değiştirme imkanı tanın**ma**makta
   - Olası sorunlarda [Lodz University of Technology](mailto:sao@info.p.lodz.pl)'e mail atarak değiştirebilirsin
   - Dersleri onayladıktan sonra, **Print Documents** alanından PDF'ini alabilirsin
+  - Yayın bürosundaki Mitat Bey'e dekan yardımcısı imzasını almak için bırakmalısın
+  - **1 haftayı** bulan bir süreç olabilir
+- **Bizim okul için Learning Agreement**'ı doldurmalısın
+  - Nasıl doldurulacağı hakkında [📺 Erasmus Hareketliliği Öğrenim Anlaşması Doldurulması](https://www.youtube.com/watch?v=rm5zU0S7wzQ) videosu faydalı olabilir
+
 
 > Sorularını **Zeynep ORMAN**'a sorman gerekmekte.
 
@@ -44,9 +48,9 @@ Ders içeriklerinin uyuşması durumunda derleri alıp, saydırabilirsin.
 | Bizim okuldaki Ders                             | AKTS | Lodz of Technology Karşılığı                                                                                                                                                                      | ECTS |
 | ----------------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
 | Object Oriented Analysis and Design             | 5    | [Component Programming](https://programy.p.lodz.pl/ectslabel-web/przedmiot_3.jsp?l=en&idPrzedmiotu=165810&pkId=1233&s=4&j=0&w=Information%20Technology&v=3)                                       | 6    |
-| Bitirme Projesi                                 | 10   | Team Project                                                                                                                                                                                      | 10   |
+| Bitirme Projesi                                 | 10   | [Team Project](https://programy.p.lodz.pl/ectslabel-web/przedmiot_3.jsp?l=en&idPrzedmiotu=169635&pkId=1230&s=4&j=0&w=Computer%20Science&v=3)                                                      | 10   |
 | Gömülü Sistemler ve Uygulamaları                | 5    | [Sensors](https://programy.p.lodz.pl/ectslabel-web/przedmiot_3.jsp?l=en&idPrzedmiotu=168886&pkId=1155&s=4&j=0&w=Biomedical%20Engineering&v=3)                                                     | 7    |
-| Information Technology Management and Standarts | 5    | Management                                                                                                                                                                                        | 3    |
+| Information Technology Management and Standarts | 5    | [Management](https://stare-programy.p.lodz.pl/przedmiot.jsp?l=en&idPrzedmiotu=144797&s=2&j=0&w=CKM)                                                                                               | 3    |
 | Görüntü İşleme                                  | 5    | [Image Processing and Computer Graphics](https://programy.p.lodz.pl/ectslabel-web/przedmiot_3.jsp?l=en&idPrzedmiotu=169963&pkId=1229&s=4&j=0&w=Biomedical%20Engineering%20and%20Technologies&v=3) | 6    |
 
 ## ❌ Onaylanmayan Dersler
