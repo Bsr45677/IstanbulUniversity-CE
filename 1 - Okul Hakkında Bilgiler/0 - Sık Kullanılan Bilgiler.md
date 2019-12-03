@@ -20,6 +20,7 @@
 ## 📕 Ders Bilgileri
 
 - [💡 Eğitim Bilgileri][eğitim bilgileri]
+- [📅 2019-2020 Akademik Takvim][akademik takvim]
 - [🚩 2019-2020 Ders Planı][ders planı]
 - [📓 Ders İçerikleri][ders i̇çerikleri]
 - 📃 Lisans Programı Ders Listeleri
@@ -35,6 +36,7 @@
 - [IU Coders][iu coders]
 - Algoritma mantığını görselleştiren site ([Visioalgo][visioalgo])
 
+[akademik takvim]: ../res/2019-2020%20Akademik%20takvim.pdf
 [eğitim bilgileri]: https://bilgisayarmuhendislik.istanbulc.edu.tr/tr/content/egitim
 [ders planı]: ../res/2019-2020%20Lisans%20Ders%20Plan%C4%B1.pdf
 [i̇ü - cerrahpaşa duyurular]: http://www.istanbulc.edu.tr/tr/duyurular/1/1
