@@ -1,5 +1,13 @@
 # 📃 Sınav Soruları
 
+## 📅 Mazaret Hakkında
+
+Vize sınavında sorumlu olacağınız ilk 5 sunum eklenmiştir. 5. sunumun 30. slayt sonrası sınava dahil değildir.
+
+> Aksis duyurusu olmakla beraber 4. Sınıf grubundan alıntıdır.
+
+## 📂 Ek Kaynaklar
+
 <!--Index-->
 
 - [2016 Final DT ~ İO](2016%20Final%20DT%20~%20%C4%B0O.pdf)
