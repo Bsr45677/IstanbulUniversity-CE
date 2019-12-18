@@ -13,6 +13,10 @@
   - Nasıl
   - İleriki versiyonlarda nasıl geliştirilir
 
+## 💯 Puanlama Sistemi
+
+![](../../res/bpg%20puanlama%20sistemi.jpeg)
+
 ## ⏰ Ödev Teslim Takvimi
 
 ![](../../res/bpg_homework.png)
