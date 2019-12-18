@@ -1,14 +1,5 @@
 # 📑 Formlar
 
-## ❗ Tez Kitapçığı Hakkında
-
-- Bulgular alanı 2. dönem yapılacaktır
-- Tartışmalar kısmı için alttakiler yapılacaktır:
-  - Proje sonunda ne sonuç veriyor
-  - Nasıl
-  - İleriki versiyonlarda nasıl geliştirilir
-
-
 ## 📂 Form Dosyaları
 
 <!--Index-->
