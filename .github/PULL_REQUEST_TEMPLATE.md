@@ -11,7 +11,7 @@
 - [ ] 🐛 Sorun çözümü
 - [ ] ✨ Geliştirme
 
-## ✨ Değişikler
+## ✨ Değişiklikler
 <!--
 - Pull Request'te değiştirdiğin özellikler nelerdir?
 - Issue'ye bağlı ise #'nın yanına sadece issue numarasını yazın
