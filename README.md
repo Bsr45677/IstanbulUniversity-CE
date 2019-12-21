@@ -20,18 +20,6 @@ description: İstanbul Üniversitesi Bilgisayar Mühendisliği 💻 notlarını 
 
 > Her sayfanın en altında bulunan memnuniyet anketi ile ✨ gelişime ortak olabilirsin.
 
-## 📢 Duyurular
-
-OBSS Codemaster yarışması 12 Aralık 2020'de yapılacaktır, kayıt için:
-
-- **OBSS StepIn**'i indir
-- Sağ alttan 2. butona tıkla (Etkinlikler)
-- En üste 2019-2020 CodeMaster'a tıkla
-- Soldaki el butonundaki Başvuracağıma Tıkla
-- Bilgilerini gir
-
-> Detaylar için [OBSS CodeMaster Kayıtları Başladı](https://bilgisayarmuhendislik.istanbulc.edu.tr/tr/duyuru/obss-codemaster-kayitlari-basladi-500065005F0063004D004E006E00360062007000330039007900700046006200610041004F003200370077003200) alanına bakabilirsin
-
 ## 💡 İçerik Desteğinde Bulunma veya Fikir Belirtme
 
 - [💖 Katkıda Bulunma Rehberi](CONTRIBUTING.md) alanından projeye **katkıda** bulunabilirsin
@@ -51,6 +39,18 @@ OBSS Codemaster yarışması 12 Aralık 2020'de yapılacaktır, kayıt için:
 - ...
 ...
 ```
+
+## 💭 Okul Hakkında Yorumum
+
+- 🗑️ Laboratuvarlarındaki bilgisayarlar çok eskidir (bir kaç yeni lab. açılmıştır Huewei desteğiyle, onlar buna dahil değildir)
+- 📉 Çoğu ders ezbere anlatılmaktadır, iyi işlenen dersler nadirdir. İyi anlatan hocalara Özgür Can Turna'yı örnek verebilirim. (⚠️ Bu örnek, diğer hepsinin kötü olduğu anlamına gelmez)
+- ⚠️ Yukarıdaki maddeyi okurken, diğer üniversitelerdeki eğitimden habersiz olduğumu bilmenizi isterim. (belki diğer okullar da aynıdır, bilemem)
+- 📋 Devam zorunluluğu pek yoktur, okula pek gitmek istemeyenler için ideal olabilir. (çalışma ihtiyacınız vs varsa)
+- 👶 Derslerin içeriği, teknik ünilere kıyasla nispeten kolaydır denebilir (programlama dersleri özellikle) (umarım bunu okuyanlar, bana laf atmıyorlardır 🙄)
+
+~ YEmreAk
+
+> Bu yorum [bu videonun](https://www.youtube.com/watch?v=y1IiDFM10Bw) altına da atılmıştır.
 
 ## 🌍 Tüm YEmreAk İçerikleri
 
