@@ -3,7 +3,7 @@
 ## 📢 Önemli Hususlar
 
 - ⚠️ Notlarda her konu olmayabilir, lütfen dikkatli bakınız. ~ YEmreAk
-- ✍ Mobil çalışırken aldığım notlar [Android ~ YEmreAk](https://android.yemreak.com/) üzerinde derlemekteyim
+- ✍ Mobil çalışırken aldığım notları [Android ~ YEmreAk](https://android.yemreak.com/) üzerinde derlemekteyim
 - 🌟 Android için faydalı kaynakları [Learn ~ YEmreAk](https://learn.yemreak.com/android) üzerinde derlemekteyi**z**
 
 ## 📂 Dosyalar
