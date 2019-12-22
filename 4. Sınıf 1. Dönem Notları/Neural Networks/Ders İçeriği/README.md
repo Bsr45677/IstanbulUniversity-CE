@@ -1,5 +1,14 @@
 # 📚 Ders İçeriği
 
+## 📢 Notlar Hakkında
+
+- 📅 Vize için ilk 3 slayttan sorumluyuz
+- 🗓️ Final için hepsinden sorumluyuz sanırım
+
+> 🕵️‍♂️ Genelde çıkmışlara benzer sorular sorulmakta imiş.
+
+## 📂 Dosyalar
+
 <!--Index-->
 
 - [NN_Ch1_2019](NN_Ch1_2019.pdf)
