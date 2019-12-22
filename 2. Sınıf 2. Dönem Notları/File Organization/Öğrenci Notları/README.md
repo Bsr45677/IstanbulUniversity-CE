@@ -6,7 +6,7 @@
 
 <!--Index-->
 
-## ℹ️ Ders Bilgileri
+## ♦️ Ders Bilgileri
 
 - Ders slaytlarının **türkçeleri** için [bu sayfaya][File Org] bakabilirsin
 - 2018 Proje ödevime [buradan][2018 Proje Ödevim] erişebilirsin

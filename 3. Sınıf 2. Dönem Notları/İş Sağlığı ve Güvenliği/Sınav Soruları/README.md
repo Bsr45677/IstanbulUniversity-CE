@@ -7,6 +7,6 @@
 
 <!--Index-->
 
-## ℹ️ Sınav Bilgleri
+## ♦️ Sınav Bilgleri
 
 - Üstü çizik olan slaytlar hocanın slaytında yokmuş, hoca ufak bir göz atarsınız demiş. (*Sezgin Otlak*)

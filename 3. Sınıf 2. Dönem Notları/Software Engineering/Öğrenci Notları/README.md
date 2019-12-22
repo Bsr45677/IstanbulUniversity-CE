@@ -8,7 +8,7 @@
 
 <!--Index-->
 
-## ℹ️ Ders Bilgileri
+## ♦️ Ders Bilgileri
 
 - Hocası: *Atakan Kurt*
 - 1 Arasınav 1 *Final***

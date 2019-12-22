@@ -1,2 +1,2 @@
-# ℹ️ Information Technology Management and Standards
+# ♦️ Information Technology Management and Standards
 

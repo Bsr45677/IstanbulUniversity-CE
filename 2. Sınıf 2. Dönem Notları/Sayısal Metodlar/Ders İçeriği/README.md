@@ -7,7 +7,7 @@
 
 <!--Index-->
 
-## ℹ️ Ders Bilgisi
+## ♦️ Ders Bilgisi
 
 - Hocanın resmi sitesi için [buraya][OguzhanOztas] bakabilirsin.
 - Hocanın mail adresi: [ooztas2001@yahoo.com][Oguzhan Hoca - Mail]

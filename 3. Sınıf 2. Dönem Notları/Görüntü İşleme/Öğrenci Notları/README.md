@@ -6,7 +6,7 @@
 
 <!--Index-->
 
-## ℹ️ Ders Bilgisi
+## ♦️ Ders Bilgisi
 
 - Yoklama: Yok
 - Ödev: %20 etkilemekte
