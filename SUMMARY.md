@@ -273,8 +273,6 @@
       - [🗽 Açıklama](4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Mobile%20Programming/0%20-%20A%C3%A7%C4%B1klama.md)
     - [🧠 Neural Networks](4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Neural%20Networks/README.md)
       - [📚 Ders İçeriği](4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Neural%20Networks/Ders%20%C4%B0%C3%A7eri%C4%9Fi/README.md)
-        - [📅 2018](4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Neural%20Networks/Ders%20%C4%B0%C3%A7eri%C4%9Fi/2018/README.md)
-        - [📅 Vize](4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Neural%20Networks/Ders%20%C4%B0%C3%A7eri%C4%9Fi/2019/README.md)
       - [🆎 Harf Notu Dağılımı](4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Neural%20Networks/Harf%20Notu%20Da%C4%9F%C4%B1l%C4%B1m%C4%B1/README.md)
       - [📃 Sınav Soruları](4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Neural%20Networks/S%C4%B1nav%20Sorular%C4%B1/README.md)
       - [📕 Öğrenci Notları](4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Neural%20Networks/%C3%96%C4%9Frenci%20Notlar%C4%B1/README.md)
