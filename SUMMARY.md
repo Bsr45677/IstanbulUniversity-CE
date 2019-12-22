@@ -182,7 +182,7 @@
         - [📅 Final](3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Veritaban%C4%B1%20Y%C3%B6netim%20Sistemleri/Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/README.md)
         - [📅 Vize](3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Veritaban%C4%B1%20Y%C3%B6netim%20Sistemleri/Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/README.md)
         - [📖 Ödevler](3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Veritaban%C4%B1%20Y%C3%B6netim%20Sistemleri/Ders%20%C4%B0%C3%A7eri%C4%9Fi/%C3%96devler/README.md)
-          - [📗 Odev1](3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Veritaban%C4%B1%20Y%C3%B6netim%20Sistemleri/Ders%20%C4%B0%C3%A7eri%C4%9Fi/%C3%96devler/Odev1/README.md)
+          - [📕 Odev1](3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Veritaban%C4%B1%20Y%C3%B6netim%20Sistemleri/Ders%20%C4%B0%C3%A7eri%C4%9Fi/%C3%96devler/Odev1/README.md)
           - [📗 Odev2](3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Veritaban%C4%B1%20Y%C3%B6netim%20Sistemleri/Ders%20%C4%B0%C3%A7eri%C4%9Fi/%C3%96devler/Odev2/README.md)
             - [📂 SQL Dosyaları](3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Veritaban%C4%B1%20Y%C3%B6netim%20Sistemleri/Ders%20%C4%B0%C3%A7eri%C4%9Fi/%C3%96devler/Odev2/SQL%20Dosyalar%C4%B1/README.md)
           - [📘 Odev3](3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Veritaban%C4%B1%20Y%C3%B6netim%20Sistemleri/Ders%20%C4%B0%C3%A7eri%C4%9Fi/%C3%96devler/Odev3/README.md)
