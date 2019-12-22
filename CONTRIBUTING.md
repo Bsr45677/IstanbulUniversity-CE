@@ -41,9 +41,10 @@ Adlandırma kuralı `<yıl> <tip> <ders_kodu> ~ <sahibi>` şeklindedir.
 | ⭐ Örnek Dosya İsmi                     | 📁 Koyulması gereken yer                                        |
 | -------------------------------------- | --------------------------------------------------------------- |
 | `2018 Final Notu BM ~ YEmreAk.pdf`     | `3. Sınıf 2. Dönem Notları/Bilgisayar Mimarisi/Öğrenci Notları` |
-| `2018 Final BM.pdf`                    | `3. Sınıf 2. Dönem Notları/Bilgisayar Mimarisi/Sınav Soruları`  |
 | `2018 Tam Calculus ~ Asma Mirkhan.pdf` | `1. Sınıf 1. Dönem Notları - Calculus 1 - Öğrenci Notları`      |
+| `Final 2018 BM.pdf`                    | `3. Sınıf 2. Dönem Notları/Bilgisayar Mimarisi/Sınav Soruları`  |
 
+> 📢 Sınav soruları için `Vize, Final veya Büt` özellikleri, tarihinden daha önemli olduğundan ilk onlar yazılmalıdır
 
 ## 📑 İçerik Yazma Formatı
 
