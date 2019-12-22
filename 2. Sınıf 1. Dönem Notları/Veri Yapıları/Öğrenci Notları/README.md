@@ -1,5 +1,7 @@
 # 📕 Öğrenci Notları
 
+## 📂 Dosyalar
+
 <!--Index-->
 
 - [Binary Tree](Binary%20Tree.c)
@@ -14,3 +16,7 @@
 - [İkili Ağaç Oluşturma ve Gezme](%C4%B0kili%20A%C4%9Fa%C3%A7%20Olu%C5%9Fturma%20ve%20Gezme.c)
 
 <!--Index-->
+
+## 🔗 Faydalı Bağlantılar
+
+- [👨‍💻 2019 İÜC-CE Data Structures ~ Eda Nur Var](https://github.com/enurv/dataStructures)

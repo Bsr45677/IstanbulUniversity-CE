@@ -1,7 +1,7 @@
 # 📕 Öğrenci Notları
 
 - ☕ Ders **java** tabanlı ilerleyeceği için, [buraya][Java - yemreak.com] tıklayarak alttaki bilgileri edinebilirsin
-  - Java hakkında bilgi 
+  - Java hakkında bilgi
   - Java'yı hangi **IDE** aracılığıyla derleyebileceğini
   - Bu IDE'leri bilgisayarına nasıl **kurabileceğini** ve **anlatımlı youtube kaynaklarını**
 - 2018 Proje ödevi olan **Kütüphane** ödevi için alttaki linklere bakabilirsin
@@ -11,3 +11,8 @@
 
 [Java - yemreak.com]: https://wiki.yemreak.com/programlama-notlari/java
 [Öğrenci Otomasyon Sistemi]: https://github.com/yedhrab/JavaProjects/tree/master/NetBeans-Projects/OgrenciOtomasyonu
+
+## 🔗 Faydalı Bağlantılar
+
+- [👨‍💻 2019 İÜC-CE Nesneye Yönelik Programlama ~ Eda Nur Var](https://github.com/enurv/ObjectOrientedProgramming)
+- [👨‍💻 Java Projects ~ YEmreAk](https://github.com/yedhrab/JavaProjects)
