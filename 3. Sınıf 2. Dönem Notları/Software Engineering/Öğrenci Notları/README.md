@@ -7,3 +7,21 @@
 - [UML notları ~Yemreak](UML%20notlar%C4%B1%20~Yemreak.pdf)
 
 <!--Index-->
+
+## ℹ️ Ders Bilgileri
+
+- Hocası: *Atakan Kurt*
+- 1 Arasınav 1 *Final***
+- Google grubu için [buraya](https://groups.google.com/forum/#!forum/software2019) tıklayabilirsin.
+- Dersin baz aldığı slaytların sitesi için [buraya](https://iansommerville.com/software-engineering-book/slides/)
+ bakabilirsin
+
+## 🔗 Faydalı Bağlantılar
+
+- [Diagram Çizme Uygulamaları][Diagram Çizme Uygulamaları]
+- [Confluence]
+- [Jira]
+
+[Confluence]: https://www.atlassian.com/software/confluence
+[Jira]: https://www.atlassian.com/software/jira
+[Diagram Çizme Uygulamaları]: https://www.lucidchart.com/

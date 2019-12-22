@@ -1,2 +1,2 @@
-# Finansta Bilişim Teknolojileri
+# 📈 Finansta Bilişim Teknolojileri
 

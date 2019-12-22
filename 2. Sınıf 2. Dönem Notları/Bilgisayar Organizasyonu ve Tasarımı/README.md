@@ -1,3 +1,3 @@
-# Bilgisayar Organizasyonu ve Tasarımı 
+# 👨‍🔬 Bilgisayar Organizasyonu ve Tasarımı
 
 

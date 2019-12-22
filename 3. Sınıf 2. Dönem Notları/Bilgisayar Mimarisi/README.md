@@ -1,1 +1,1 @@
-# Bilgisayar Mimarisi 
+# 🏰 Bilgisayar Mimarisi

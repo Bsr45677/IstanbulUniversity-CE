@@ -1,3 +1,3 @@
-# Lojik Devre Tasarımı Lab Notları 
+# 👨‍🔬 Lojik Devre Tasarımı Lab Notları
 
 

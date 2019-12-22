@@ -13,3 +13,22 @@
 - [Çalışma 2017 CNT](%C3%87al%C4%B1%C5%9Fma%202017%20CNT.pdf)
 
 <!--Index-->
+
+### 📅 Vize Bilgileri
+
+- 1, 2, 3, 4.1, 4.2 numaralı *Chapter*'lardan sorumluyuz
+- Sınav formatı karışıktır.
+- 2.3 ve 2.7 dahil değildir
+
+> [Network Layer] kısmına kadar olan kısım vize için notlarımdır.
+
+### 📅 Final Bilgileri
+
+Final sınavı konu kapsamı:
+
+- Chapter 4
+  - Kendi notlarım **Network Layer** adı altındadır
+- HUAWEI-WEEK1, HUAWEI-WEEK2, HUAWEI-WEEK3
+  - **Huawei dersi** adı altındadır
+
+> [Network Layer] ve sonrası final için notlarımdır.

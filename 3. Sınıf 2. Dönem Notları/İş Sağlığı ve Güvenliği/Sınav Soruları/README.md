@@ -6,3 +6,7 @@
 - [Vize ISG](Vize%20ISG.pdf)
 
 <!--Index-->
+
+## ℹ️ Sınav Bilgleri
+
+- Üstü çizik olan slaytlar hocanın slaytında yokmuş, hoca ufak bir göz atarsınız demiş. (*Sezgin Otlak*)
