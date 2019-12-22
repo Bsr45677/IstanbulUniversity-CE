@@ -8,7 +8,7 @@
 
 <!--Index-->
 
-## ♦️ Sınav Bilgileri
+## 🔸 Sınav Bilgileri
 
 > Çıkmışlara benzer veya eşdeğer sorar.
 

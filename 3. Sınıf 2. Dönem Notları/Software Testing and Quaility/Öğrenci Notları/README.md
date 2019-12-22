@@ -6,7 +6,7 @@
 
 <!--Index-->
 
-## ♦️ Ders Bilgisi
+## 🔸 Ders Bilgisi
 
 - Ders dökümanlarının paylaşıldığı resmi siteye [buradan][Rüya Hoca Avesis] erişebilirsin.
 

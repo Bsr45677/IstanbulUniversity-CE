@@ -7,7 +7,7 @@
 
 <!--Index-->
 
-## ♦️ Ders Bilgileri
+## 🔸 Ders Bilgileri
 
 - Yoklama yok
 - Sınavlar için sınıflar belirlenmektedir

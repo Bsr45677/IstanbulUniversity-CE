@@ -293,7 +293,7 @@
       - [🎲 Karma İçerikler](4.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Bilgisayar%20A%C4%9Flar%C4%B1nda%20G%C3%BCvenlik/Karma%20%C4%B0%C3%A7erikler/README.md)
     - [📈 Finansta Bilişim Teknolojileri](4.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Finansta%20Bili%C5%9Fim%20Teknolojileri/README.md)
       - [🎲 Karma İçerikler](4.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Finansta%20Bili%C5%9Fim%20Teknolojileri/Karma%20%C4%B0%C3%A7erikler/README.md)
-    - [♦️ Information Technology Management and Standards](4.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Information%20Technology%20Management%20and%20Standards/README.md)
+    - [🔸 Information Technology Management and Standards](4.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Information%20Technology%20Management%20and%20Standards/README.md)
       - [🎲 Karma İçerikler](4.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Information%20Technology%20Management%20and%20Standards/Karma%20%C4%B0%C3%A7erikler/README.md)
     - [🏗️ Object Oriented Analysis and Design](4.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Object%20Oriented%20Analysis%20and%20Design/README.md)
       - [📚 Ders İçeriği](4.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Object%20Oriented%20Analysis%20and%20Design/Ders%20%C4%B0%C3%A7eri%C4%9Fi/README.md)
