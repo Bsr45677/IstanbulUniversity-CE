@@ -1,4 +1,4 @@
-# Slaytların Türkçesi
+# ☪️ Slaytların Türkçesi
 
 <!--Index-->
 

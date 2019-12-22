@@ -203,7 +203,7 @@
     - [🕸️ Computer Networks and Technologies](3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Computer%20Networks%20and%20Technologies/README.md)
       - [📚 Ders İçeriği](3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Computer%20Networks%20and%20Technologies/Ders%20%C4%B0%C3%A7eri%C4%9Fi/README.md)
         - [📅 Final](3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Computer%20Networks%20and%20Technologies/Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/README.md)
-        - [Slaytların Türkçesi](3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Computer%20Networks%20and%20Technologies/Ders%20%C4%B0%C3%A7eri%C4%9Fi/Slaytlar%C4%B1n%20T%C3%BCrk%C3%A7esi/README.md)
+        - [☪️ Slaytların Türkçesi](3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Computer%20Networks%20and%20Technologies/Ders%20%C4%B0%C3%A7eri%C4%9Fi/Slaytlar%C4%B1n%20T%C3%BCrk%C3%A7esi/README.md)
         - [📅 Vize](3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Computer%20Networks%20and%20Technologies/Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/README.md)
       - [📃 Sınav Soruları](3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Computer%20Networks%20and%20Technologies/S%C4%B1nav%20Sorular%C4%B1/README.md)
       - [📕 Öğrenci Notları](3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Computer%20Networks%20and%20Technologies/%C3%96%C4%9Frenci%20Notlar%C4%B1/README.md)
