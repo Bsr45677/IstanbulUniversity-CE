@@ -1,4 +1,4 @@
-## 📕 Öğrenci Notları
+# 📕 Öğrenci Notları
 
 ## 🏗️ Proje Ödevi
 

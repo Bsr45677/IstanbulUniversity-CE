@@ -1,4 +1,4 @@
-# 🗽 Açıklama
+# 📕 Öğrenci Notları
 
 ## 💎 Linux Kernel Güncelleme
 
