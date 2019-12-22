@@ -101,7 +101,6 @@
         - [📅 Vize](2.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/File%20Organization/Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/README.md)
       - [📃 Sınav Soruları](2.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/File%20Organization/S%C4%B1nav%20Sorular%C4%B1/README.md)
       - [📕 Öğrenci Notları](2.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/File%20Organization/%C3%96%C4%9Frenci%20Notlar%C4%B1/README.md)
-      - [Genel Bilgiler](2.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/File%20Organization/Genel%20Bilgiler.md)
     - [➰ Formal Diller ve Otomatlar](2.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Formal%20Diller%20ve%20Otomatlar/README.md)
       - [📚 Ders İçeriği](2.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Formal%20Diller%20ve%20Otomatlar/Ders%20%C4%B0%C3%A7eri%C4%9Fi/README.md)
         - [📅 Final](2.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Formal%20Diller%20ve%20Otomatlar/Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/README.md)
