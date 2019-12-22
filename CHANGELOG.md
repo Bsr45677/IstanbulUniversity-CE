@@ -2,6 +2,8 @@
 
 ## 📋 Tüm Değişiklikler
 
+En güncel değişiklikler için [Commit](https://github.com/YEmreAk/IstanbulUniversity-CE/commits/master) alanına bakmanda fayda var
+
 - [🛫 Polonya'da Erasmus yazısı yenilendi ~ 20/11/2019 - 00:03:25](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/cd3459443690ac13d45f845842e407aa386aa018?diff=split)
 - [📕 Ders Bilgileri yenilendi ~ 20/11/2019 - 00:03:03](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/139394eb259c12a81bbc5ac2e875c1e56dce387f?diff=split)
 - [✨ Derlenmiş çalışmalar yenilendi ~ 17/11/2019 - 02:19:28](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/ca11eb4ebf22b3f877c7717374e6fe7c14bd6055?diff=split)
