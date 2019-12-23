@@ -11,6 +11,10 @@
 
 - Çıkmışlardan karışık sormaktadır
 
+![](../../../res/final_hakkında.png)
+
 ## ✍ Öğrenci Çözümleri
+
+### 📅 Vize 2018
 
 ![](../../../res/kripto_vize.png)
