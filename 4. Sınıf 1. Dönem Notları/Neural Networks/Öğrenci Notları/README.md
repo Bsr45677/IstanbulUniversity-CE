@@ -17,3 +17,7 @@
 - [NN 9. Hafta 3.12.2019](NN%209.%20Hafta%203.12.2019.pdf)
 
 <!--Index-->
+
+## 🔗 Faydalı Bağlantılar
+
+- [🧠 Neural Network ~ Afozbek](https://afozbek.github.io/neural-final/)
