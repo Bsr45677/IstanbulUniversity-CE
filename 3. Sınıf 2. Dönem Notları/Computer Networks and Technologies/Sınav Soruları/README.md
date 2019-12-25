@@ -1,6 +1,6 @@
 # 📃 Sınav Soruları
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [COMPUTER NETWORKS FACEBOOK](COMPUTER%20NETWORKS%20FACEBOOK.pdf)
 - [Final 2015 CNT](Final%202015%20CNT.pdf)
@@ -12,7 +12,7 @@
 - [Vize Tam 2014 CNT](Vize%20Tam%202014%20CNT.pdf)
 - [Çalışma 2017 CNT](%C3%87al%C4%B1%C5%9Fma%202017%20CNT.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 ### 📅 Vize Bilgileri
 

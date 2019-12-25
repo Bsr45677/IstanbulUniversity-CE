@@ -1,6 +1,6 @@
 # 📃 Sınav Soruları
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [Ayrık olasılık daılım](Ayr%C4%B1k%20olas%C4%B1l%C4%B1k%20da%C4%B1l%C4%B1m.pdf)
 - [olasilik-2010-final-cozumler](olasilik-2010-final-cozumler.pdf)
@@ -26,7 +26,7 @@
 - [olasilik-vize-2009](olasilik-vize-2009.pdf)
 - [surekli-rdler-ornek-sorular](surekli-rdler-ornek-sorular.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 ## Sınav Bilgileri
 

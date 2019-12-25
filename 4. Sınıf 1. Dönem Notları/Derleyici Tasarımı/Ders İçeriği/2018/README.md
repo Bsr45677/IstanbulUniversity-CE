@@ -1,6 +1,6 @@
 # 📅 2018
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [derleyici1](derleyici1.pdf)
 - [derleyici2](derleyici2.pdf)
@@ -11,4 +11,4 @@
 - [derleyici7](derleyici7.pdf)
 - [derleyici8](derleyici8.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

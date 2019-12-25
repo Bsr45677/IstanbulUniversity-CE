@@ -1,11 +1,11 @@
 # 📃 Sınav Soruları
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [2015 Final NN ~ Çözümlü](2015%20Final%20NN%20~%20%C3%87%C3%B6z%C3%BCml%C3%BC.pdf)
 - [2015 Final NN](2015%20Final%20NN.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 ## 📅 2019 Vize Sınavı
 

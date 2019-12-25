@@ -1,10 +1,10 @@
 # 📚 Ders İçeriği
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [Ders Kitabı AA](Ders%20Kitab%C4%B1%20AA.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 ## Sunum Bilgileri
 

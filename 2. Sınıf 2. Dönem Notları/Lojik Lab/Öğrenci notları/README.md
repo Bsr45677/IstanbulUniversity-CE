@@ -1,6 +1,6 @@
 # 📕 Öğrenci Notları
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [and](and.pdf)
 - [CADET](CADET.pdf)
@@ -12,4 +12,4 @@
 - [Rapor Kapağı](Rapor%20Kapa%C4%9F%C4%B1.pdf)
 - [Xzy](Xzy.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

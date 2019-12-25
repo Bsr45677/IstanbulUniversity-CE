@@ -1,6 +1,6 @@
 # 📃 Sınav Soruları
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [12321440_10208061083697786_747689446661251739_n](12321440_10208061083697786_747689446661251739_n.jpg)
 - [12512429_10208061083497781_557166734878632662_n](12512429_10208061083497781_557166734878632662_n.jpg)
@@ -38,4 +38,4 @@
 - [programming apps final io 2](programming%20apps%20final%20io%202.jpg)
 - [programming apps final](programming%20apps%20final.jpg)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

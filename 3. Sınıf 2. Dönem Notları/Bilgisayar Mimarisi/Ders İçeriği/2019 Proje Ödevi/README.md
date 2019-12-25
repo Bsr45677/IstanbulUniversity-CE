@@ -1,7 +1,7 @@
 # 2019 Proje Ödevi
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [Proje 2019 BM](Proje%202019%20BM.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

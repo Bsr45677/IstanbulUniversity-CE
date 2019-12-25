@@ -1,11 +1,11 @@
 # 📚 Ders İçeriği
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [Final ISG](Final%20ISG.pdf)
 - [Vize ISG](Vize%20ISG.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 ## 🔸 Ders Bilgileri
 

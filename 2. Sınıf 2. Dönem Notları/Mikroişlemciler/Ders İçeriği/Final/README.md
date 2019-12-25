@@ -1,8 +1,8 @@
 # 📅 Final
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [Bellek Mimarileri-1](Bellek%20Mimarileri-1.pdf)
 - [Bellek](Bellek.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

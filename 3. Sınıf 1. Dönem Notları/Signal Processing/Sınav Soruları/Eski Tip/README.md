@@ -1,6 +1,6 @@
 # Eski Tip
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [signal-io-2015-final-solutions](signal-io-2015-final-solutions.pdf)
 - [signal-io-2015-final](signal-io-2015-final.pdf)
@@ -37,4 +37,4 @@
 - [signal-orgun-2017-midterm-solutions](signal-orgun-2017-midterm-solutions.pdf)
 - [signal-orgun-2017-midterm](signal-orgun-2017-midterm.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

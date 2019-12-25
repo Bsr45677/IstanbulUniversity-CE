@@ -1,8 +1,8 @@
 # ⭐ Ödevler
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [BilisimProjeGelistirmeOdevKonusu](BilisimProjeGelistirmeOdevKonusu.pdf)
 - [OdevTeslimTakvimi](OdevTeslimTakvimi.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

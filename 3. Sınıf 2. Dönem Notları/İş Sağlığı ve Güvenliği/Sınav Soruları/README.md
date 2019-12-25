@@ -1,11 +1,11 @@
 # 📃 Sınav Soruları
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [Final 2013 ISG](Final%202013%20ISG.pdf)
 - [Vize ISG](Vize%20ISG.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 ## 🔸 Sınav Bilgleri
 

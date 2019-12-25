@@ -1,6 +1,6 @@
 # 📅 2018
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [1_Bulanik_Mantik](1_Bulanik_Mantik.pdf)
 - [2_Bulanik_Mantik](2_Bulanik_Mantik.pdf)
@@ -12,4 +12,4 @@
 - [8_Bulanik_Mantik](8_Bulanik_Mantik.pdf)
 - [9_Bulanik_Mantik](9_Bulanik_Mantik.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

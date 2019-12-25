@@ -1,10 +1,10 @@
 # 📕 Öğrenci Notları
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [YönEylem 2.hafta ~YEmreAk](Y%C3%B6nEylem%202.hafta%20~YEmreAk.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 # 🔗 Faydalı Bağlantılar
 

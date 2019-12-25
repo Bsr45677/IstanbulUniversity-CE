@@ -1,6 +1,6 @@
 # 📹 Ders Sunumları
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [BPG1- Giris](BPG1-%20Giris.pdf)
 - [BPG2- Proje_Yasam_Dongusu](BPG2-%20Proje_Yasam_Dongusu.pdf)
@@ -11,4 +11,4 @@
 - [BPG7- Proje_Gelistirme_PlanKalitesi](BPG7-%20Proje_Gelistirme_PlanKalitesi.pdf)
 - [BPG8- Proje_Gelistirme_Tahmin_Ilan](BPG8-%20Proje_Gelistirme_Tahmin_Ilan.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

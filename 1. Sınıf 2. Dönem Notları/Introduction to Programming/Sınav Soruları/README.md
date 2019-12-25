@@ -1,6 +1,6 @@
 # 📃 Sınav Soruları
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [Büt 2018 ItP](B%C3%BCt%202018%20ItP.pdf)
 - [Büt 2019 ItP](B%C3%BCt%202019%20ItP.pdf)
@@ -8,4 +8,4 @@
 - [Final 2019 ItP](Final%202019%20ItP.pdf)
 - [Vize 2017 IP](Vize%202017%20IP.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

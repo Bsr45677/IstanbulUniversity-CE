@@ -1,7 +1,7 @@
 # 📚 Ders İçeriği
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [Ders Kitabı C2](Ders%20Kitab%C4%B1%20C2.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

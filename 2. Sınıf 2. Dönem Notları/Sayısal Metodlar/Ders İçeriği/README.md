@@ -1,11 +1,11 @@
 # 📚 Ders İçeriği
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [Ders Kitabı SM](Ders%20Kitab%C4%B1%20SM.pdf)
 - [Sayısal Metodlar](Say%C4%B1sal%20Metodlar.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 ## 🔸 Ders Bilgisi
 

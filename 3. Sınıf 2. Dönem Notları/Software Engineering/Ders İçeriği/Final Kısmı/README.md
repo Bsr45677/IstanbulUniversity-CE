@@ -1,6 +1,6 @@
 # 📅 Final Kısmı
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [Ch11](Ch11.pdf)
 - [Ch19](Ch19.pdf)
@@ -9,4 +9,4 @@
 - [Ch9](Ch9.pdf)
 - [Lab Çalışmaları](Lab%20%C3%87al%C4%B1%C5%9Fmalar%C4%B1.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

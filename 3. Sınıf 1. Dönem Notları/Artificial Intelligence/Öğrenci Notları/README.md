@@ -1,12 +1,12 @@
 # 📕 Öğrenci Notları
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [2018 Final Notları AI ~ YEmreAk](2018%20Final%20Notlar%C4%B1%20AI%20~%20YEmreAk.pdf)
 - [2018 Vize Notları AI ~ YEmreAk](2018%20Vize%20Notlar%C4%B1%20AI%20~%20YEmreAk.pdf)
 - [2019 Vize Notları AI ~ Asmaa Mirkhan](2019%20Vize%20Notlar%C4%B1%20AI%20~%20Asmaa%20Mirkhan.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 ## 🔗 Harici Bağlantılar
 

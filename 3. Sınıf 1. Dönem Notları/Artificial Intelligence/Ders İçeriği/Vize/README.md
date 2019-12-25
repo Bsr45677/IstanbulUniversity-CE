@@ -1,6 +1,6 @@
 # 📅 Vize
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [AstarExamples](AstarExamples.pdf)
 - [Lec1.Introduction](Lec1.Introduction.pdf)
@@ -9,4 +9,4 @@
 - [Lec4.Search2](Lec4.Search2.pdf)
 - [Lec5.InfSearch](Lec5.InfSearch.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

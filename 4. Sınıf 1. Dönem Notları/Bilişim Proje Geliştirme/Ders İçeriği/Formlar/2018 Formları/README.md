@@ -1,6 +1,6 @@
 # 📅 2018 Formları
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [BilisimProjeGelistirmeOdevKonusu](BilisimProjeGelistirmeOdevKonusu.pdf)
 - [BPG_KonuKabulListesi](BPG_KonuKabulListesi.pdf)
@@ -8,4 +8,4 @@
 - [OzgurCanTurna_Konu Basliklari](OzgurCanTurna_Konu%20Basliklari.pdf)
 - [ProjeGelistirmeRaporOrnegi](ProjeGelistirmeRaporOrnegi.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

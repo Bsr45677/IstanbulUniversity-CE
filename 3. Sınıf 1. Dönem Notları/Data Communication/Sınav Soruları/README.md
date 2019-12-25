@@ -16,8 +16,8 @@
 
 ## 📂 Harici Dosyalar
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [2017 Final DC](2017%20Final%20DC.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

@@ -1,10 +1,10 @@
 # 📕 Öğrenci Notları
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [Final Notları STQ ~ YEmreAk](Final%20Notlar%C4%B1%20STQ%20~%20YEmreAk.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 ## 🔸 Ders Bilgisi
 

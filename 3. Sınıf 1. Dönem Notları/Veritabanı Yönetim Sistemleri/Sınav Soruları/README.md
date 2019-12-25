@@ -1,6 +1,6 @@
 # 📃 Sınav Soruları
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [Büt 2017 VYS ~ IO](B%C3%BCt%202017%20VYS%20~%20IO.pdf)
 - [Büt 2017 VYS](B%C3%BCt%202017%20VYS.pdf)
@@ -11,4 +11,4 @@
 - [Vize 2017 VYS](Vize%202017%20VYS.pdf)
 - [Vize 2019 VYS](Vize%202019%20VYS.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

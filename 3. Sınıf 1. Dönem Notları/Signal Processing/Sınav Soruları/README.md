@@ -1,11 +1,11 @@
 # 📃 Sınav Soruları
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [2018 Final SP](2018%20Final%20SP.pdf)
 - [2018 Vize SP](2018%20Vize%20SP.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 ## 📅 2018 Sınavının Özellikleri
 

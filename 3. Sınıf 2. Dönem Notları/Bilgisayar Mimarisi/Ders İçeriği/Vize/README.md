@@ -1,6 +1,6 @@
 # 📅 Vize
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [2019_yıliçi_hazırlık](2019_y%C4%B1li%C3%A7i_haz%C4%B1rl%C4%B1k.pdf)
 - [Bolum_1_Bilg.Mim_Giris](Bolum_1_Bilg.Mim_Giris.pdf)
@@ -11,4 +11,4 @@
 - [Bolum_6_Pipeline](Bolum_6_Pipeline.pdf)
 - [Uygulama_A](Uygulama_A.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

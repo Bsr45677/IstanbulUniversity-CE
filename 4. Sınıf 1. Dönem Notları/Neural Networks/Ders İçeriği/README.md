@@ -9,7 +9,7 @@
 
 ## 📂 Dosyalar
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [NN_Ch1_2019](NN_Ch1_2019.pdf)
 - [NN_Ch5_2019](NN_Ch5_2019.pdf)
@@ -17,4 +17,4 @@
 - [NN_Ch8](NN_Ch8.pdf)
 - [NN_Ch9](NN_Ch9.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

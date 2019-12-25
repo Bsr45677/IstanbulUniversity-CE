@@ -1,6 +1,6 @@
 # 📃 Sınav Soruları
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [midterm_solutions](midterm_solutions.pdf)
 - [rsp-2013-final](rsp-2013-final.pdf)
@@ -28,4 +28,4 @@
 - [rsp-orgun-2015-final-solutions](rsp-orgun-2015-final-solutions.pdf)
 - [rsp-orgun-2015-final](rsp-orgun-2015-final.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

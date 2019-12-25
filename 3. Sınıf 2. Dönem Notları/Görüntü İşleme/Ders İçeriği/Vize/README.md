@@ -1,6 +1,6 @@
 # 📅 Vize
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [GI01](GI01.pdf)
 - [GI02_1](GI02_1.pdf)
@@ -13,4 +13,4 @@
 - [MATLAB 4-5](MATLAB%204-5.pdf)
 - [python101](python101.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

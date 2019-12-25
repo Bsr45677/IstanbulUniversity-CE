@@ -1,6 +1,6 @@
 # 📅 2019 Vize
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [1 - SP 17-09-2019](1%20-%20SP%2017-09-2019.pdf)
 - [2 - SP 24-09-2019](2%20-%20SP%2024-09-2019.pdf)
@@ -9,4 +9,4 @@
 - [5 - SP 15-10-2019](5%20-%20SP%2015-10-2019.pdf)
 - [6 - SP 22-10-2019](6%20-%20SP%2022-10-2019.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

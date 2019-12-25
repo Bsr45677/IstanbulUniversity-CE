@@ -1,6 +1,6 @@
 # 📃 Sınav Soruları
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [2014 Final C1](2014%20Final%20C1.pdf)
 - [2015 Büt C1](2015%20B%C3%BCt%20C1.pdf)
@@ -13,4 +13,4 @@
 - [2018 Final C1 ~ Endüstri](2018%20Final%20C1%20~%20End%C3%BCstri.pdf)
 - [2018 Final C1](2018%20Final%20C1.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

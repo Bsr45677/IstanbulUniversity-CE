@@ -1,6 +1,6 @@
 # 📙 Odev4
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [database](database.sql)
 - [odev4-cozum](odev4-cozum.odt)
@@ -9,4 +9,4 @@
 - [Odev4](Odev4.java)
 - [sql-answers](sql-answers.sql)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

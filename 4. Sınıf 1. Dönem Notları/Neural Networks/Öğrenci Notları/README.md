@@ -2,7 +2,7 @@
 
 ❕ Notlarda eksiklikler olabilir. (Hiç yoktan iyidir, diye atıldı 🙄)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [Final Çalışma BAM NN ~ YEmreAk](Final%20%C3%87al%C4%B1%C5%9Fma%20BAM%20NN%20~%20YEmreAk.pdf)
 - [Final Çalışma Cellular NN ~ YEmreAk](Final%20%C3%87al%C4%B1%C5%9Fma%20Cellular%20NN%20~%20YEmreAk.pdf)
@@ -18,7 +18,7 @@
 - [NN 8. Hafta 26.11.2019](NN%208.%20Hafta%2026.11.2019.pdf)
 - [NN 9. Hafta 3.12.2019](NN%209.%20Hafta%203.12.2019.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 ## 🔗 Faydalı Bağlantılar
 

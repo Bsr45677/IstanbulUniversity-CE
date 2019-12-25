@@ -1,7 +1,7 @@
 # 📕 Öğrenci Notları
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [Vize Notları ISG ~ YEmreAk](Vize%20Notlar%C4%B1%20ISG%20~%20YEmreAk.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

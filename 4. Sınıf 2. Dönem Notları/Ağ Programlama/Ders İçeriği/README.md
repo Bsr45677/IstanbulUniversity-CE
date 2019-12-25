@@ -1,6 +1,6 @@
 # 📚 Ders İçeriği
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [Ders Kitabı AP](Ders%20Kitab%C4%B1%20AP.pdf)
 - [Ders_BIMU4079_Ders1_20170223_288](Ders_BIMU4079_Ders1_20170223_288.pdf)
@@ -10,4 +10,4 @@
 - [Ders_BIMU4079_Ders5_20170316_863](Ders_BIMU4079_Ders5_20170316_863.pdf)
 - [Proje Yakar Top](Proje%20Yakar%20Top.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

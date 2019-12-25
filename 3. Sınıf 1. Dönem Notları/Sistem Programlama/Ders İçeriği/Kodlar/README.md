@@ -1,6 +1,6 @@
 # 👨‍💻 Kodlar
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [driver](driver.c)
 - [ebbchar](ebbchar.c)
@@ -21,4 +21,4 @@
 - [testebbchar](testebbchar.c)
 - [writedev](writedev.c)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

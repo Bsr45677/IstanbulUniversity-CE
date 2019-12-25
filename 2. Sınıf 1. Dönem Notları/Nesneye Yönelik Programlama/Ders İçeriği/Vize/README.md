@@ -1,6 +1,6 @@
 # 📅 Vize
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [BufferedReader](BufferedReader.pdf)
 - [Ders 1](Ders%201.pdf)
@@ -9,4 +9,4 @@
 - [Ders 4](Ders%204.pdf)
 - [Ders 5](Ders%205.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

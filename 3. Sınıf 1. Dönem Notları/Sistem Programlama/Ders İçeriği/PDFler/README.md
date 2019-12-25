@@ -1,6 +1,6 @@
 # 📚 PDFler
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [1_COPYRIGHT](1_COPYRIGHT.pdf)
 - [2_TableOfContents](2_TableOfContents.pdf)
@@ -26,4 +26,4 @@
 - [ch18_TTY Drivers](ch18_TTY%20Drivers.pdf)
 - [TITLE](TITLE.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

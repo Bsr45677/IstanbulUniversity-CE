@@ -1,6 +1,6 @@
 # 📚 Ders İçeriği
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [Faydalı Kitap BOTL](Faydal%C4%B1%20Kitap%20BOTL.pdf)
 - [Lab2 BOTL](Lab2%20BOTL.pdf)
@@ -8,7 +8,7 @@
 - [Lab4 BOTL](Lab4%20BOTL.pdf)
 - [Lab5 BOTL](Lab5%20BOTL.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 ## 💡 Ders Bilgileri
 

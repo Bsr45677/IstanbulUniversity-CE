@@ -1,8 +1,8 @@
 # 📂 SQL Dosyaları
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [database](database.sql)
 - [sql-init](sql-init.sql)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

@@ -1,7 +1,7 @@
 # 🎲 Karma İçerikler
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [Ağ Programlama](A%C4%9F%20Programlama.rar)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

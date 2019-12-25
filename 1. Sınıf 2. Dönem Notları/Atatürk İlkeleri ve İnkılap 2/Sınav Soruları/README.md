@@ -1,6 +1,6 @@
 # 📃 Sınav Soruları
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [1](1.jpeg)
 - [10](10.jpeg)
@@ -14,4 +14,4 @@
 - [8](8.jpeg)
 - [9](9.jpeg)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

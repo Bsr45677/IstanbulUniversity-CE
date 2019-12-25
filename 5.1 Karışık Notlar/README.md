@@ -4,7 +4,7 @@ description: Öğrencilerin ve derslerin gruplandırılmamış notlarını içer
 
 # 📚 Karışık Notlar
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 ## 📂 Harici Dosyalar
 
@@ -13,5 +13,5 @@ description: Öğrencilerin ve derslerin gruplandırılmamış notlarını içer
 - [Çan SM.jpeg](%C3%87an%20SM.jpeg)
 - [ÇİZGE+TEORİSİ.rar](%C3%87%C4%B0ZGE%2BTEOR%C4%B0S%C4%B0.rar)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

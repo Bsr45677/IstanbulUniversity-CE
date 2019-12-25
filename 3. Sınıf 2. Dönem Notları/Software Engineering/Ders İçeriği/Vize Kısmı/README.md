@@ -1,6 +1,6 @@
 # 📅 Vize Kısmı
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [Ch1](Ch1.pdf)
 - [Ch2](Ch2.pdf)
@@ -11,4 +11,4 @@
 - [Ch7](Ch7.pdf)
 - [Ch8](Ch8.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

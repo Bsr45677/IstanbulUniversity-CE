@@ -1,6 +1,6 @@
 # 📃 Sınav Soruları
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [IMG-20171031-WA0015](IMG-20171031-WA0015.jpg)
 - [IMG-20171031-WA0025](IMG-20171031-WA0025.jpg)
@@ -42,6 +42,6 @@
 - [IMG-20171102-WA0009](IMG-20171102-WA0009.jpg)
 - [IMG-20171102-WA0010](IMG-20171102-WA0010.jpg)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 > Buranın düzenlenmeye ihtiyacı var 😥

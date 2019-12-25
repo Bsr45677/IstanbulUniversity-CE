@@ -1,6 +1,6 @@
 # 📅 Vize
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [ALGORITHMS](ALGORITHMS.pdf)
 - [Algoritma Analizi](Algoritma%20Analizi.pdf)
@@ -8,4 +8,4 @@
 - [ALGORİTMALAR](ALGOR%C4%B0TMALAR.pdf)
 - [BİG O](B%C4%B0G%20O.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

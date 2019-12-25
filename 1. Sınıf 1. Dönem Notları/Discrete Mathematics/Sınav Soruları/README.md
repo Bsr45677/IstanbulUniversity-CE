@@ -1,6 +1,6 @@
 # 📃 Sınav Soruları
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [2013 Vize DM](2013%20Vize%20DM.pdf)
 - [2014 Vize DM](2014%20Vize%20DM.pdf)
@@ -11,4 +11,4 @@
 - [2017 Final DM_2](2017%20Final%20DM_2.pdf)
 - [2018 Final DM](2018%20Final%20DM.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

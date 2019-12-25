@@ -1,12 +1,12 @@
 # 📃 Sınav Soruları
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [Final 2016 BOTL](Final%202016%20BOTL.pdf)
 - [Final 2018 BOTL](Final%202018%20BOTL.pdf)
 - [Final Karma BOTL](Final%20Karma%20BOTL.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 ## 💡 Final için Ufak Bilgi
 

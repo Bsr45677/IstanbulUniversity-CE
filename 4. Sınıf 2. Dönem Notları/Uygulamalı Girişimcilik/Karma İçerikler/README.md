@@ -1,7 +1,7 @@
 # 🎲 Karma İçerikler
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [Uygulamalı Girişimcilik](Uygulamal%C4%B1%20Giri%C5%9Fimcilik.rar)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

@@ -1,6 +1,6 @@
 # 📅 Vize
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [2. hafta](2.%20hafta.pdf)
 - [3.hafta](3.hafta.pdf)
@@ -9,4 +9,4 @@
 - [ds_1_es](ds_1_es.pdf)
 - [Giriş Dersi](Giri%C5%9F%20Dersi.pdf)
 
-<!--Index-->
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
