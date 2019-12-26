@@ -2,8 +2,9 @@
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
-- [2018 Final SP](2018%20Final%20SP.pdf)
-- [2018 Vize SP](2018%20Vize%20SP.pdf)
+- [Final 2019 SP](Final%202019%20SP.pdf)
+- [Fİnal 2018 SP](F%C4%B0nal%202018%20SP.pdf)
+- [Vize 0218 SP](Vize%200218%20SP.pdf)
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

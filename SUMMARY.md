@@ -157,6 +157,7 @@
       - [📃 Sınav Soruları](3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Data%20Communication/S%C4%B1nav%20Sorular%C4%B1/README.md)
       - [📕 Öğrenci Notları](3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Data%20Communication/%C3%96%C4%9Frenci%20Notlar%C4%B1/README.md)
     - [💰 Mühendislik Ekonomisi](3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/M%C3%BChendislik%20Ekonomisi/README.md)
+      - [📃 Sınav Soruları](3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/M%C3%BChendislik%20Ekonomisi/S%C4%B1nav%20Sorular%C4%B1/README.md)
       - [📕 Öğrenci Notları](3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/M%C3%BChendislik%20Ekonomisi/%C3%96%C4%9Frenci%20Notlar%C4%B1/README.md)
     - [💻 Operating Systems](3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Operating%20Systems/README.md)
       - [📚 Ders İçeriği](3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Operating%20Systems/Ders%20%C4%B0%C3%A7eri%C4%9Fi/README.md)
