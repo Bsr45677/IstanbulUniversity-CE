@@ -1,11 +1,11 @@
-# 📅 Final
+# 📅 2019 Final
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
-- [Ex CSP](Ex%20CSP.pdf)
-- [Ex LocalBeam](Ex%20LocalBeam.pdf)
+- [CSP-Examples](CSP-Examples.pdf)
 - [Lec5.InfSearch](Lec5.InfSearch.pdf)
-- [Lec6.CSP](Lec6.CSP.pdf)
-- [Lec7.Game](Lec7.Game.pdf)
+- [Lec6.LocalSearch](Lec6.LocalSearch.pdf)
+- [Lec7.CSP](Lec7.CSP.pdf)
+- [Lec8.Game](Lec8.Game.pdf)
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
