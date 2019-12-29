@@ -14,8 +14,13 @@
 
 ## 📢 Sınavlar Hakkında
 
-- Çıkmışlardan karışık sormaktadır
+### 📅 Final Sınavı
 
+- 😥 Asistan hocaların anlattığı konulardan da sorumluyuz
+- 📋 Çıkmışlardan karışık sormaktadır
+
+
+![](../../../res/final_hakkinda2.png)
 ![](../../../res/final_hakkında.png)
 
 ## ✍ Öğrenci Çözümleri
