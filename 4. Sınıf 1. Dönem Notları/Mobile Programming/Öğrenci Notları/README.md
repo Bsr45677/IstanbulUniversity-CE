@@ -10,6 +10,7 @@
 
 🌟 [Android ~ YEmreAk](https://android.yemreak.com/) üzerinde özel olarak derlediğim konular
 
+- [📢 Broadcast](https://android.yemreak.com/haberlesme/broadcast)
 - [💽 Room Database](https://android.yemreak.com/veriler/room-database)
 - [💫 Asenkron İşlemler](https://android.yemreak.com/arkaplan/asynctask-ve-asynctaskloader)
 - [🌞 Foreground Service](https://android.yemreak.com/arkaplan/foreground-service)
