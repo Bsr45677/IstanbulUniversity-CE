@@ -10,6 +10,14 @@
 
 🌟 [Android ~ YEmreAk](https://android.yemreak.com/) üzerinde özel olarak derlediğim konular
 
+* [🗂️ RcycleView](https://android.yemreak.com/gui/rcycleview)
+* [⏰ Alarm](https://android.yemreak.com/arkaplan/alarm)
+* [👨‍💼 Verilerin Yönetimi](https://android.yemreak.com/veriler/)
+  * [🔸 Veri Saklama Yöntemleri](https://android.yemreak.com/veriler/veri-saklama-yoentemleri)
+  * [📂 Dosya İşlemleri](https://android.yemreak.com/veriler/dosya-islemleri)
+  * [👐 Shared Preferences](https://android.yemreak.com/veriler/shared-preferences)
+  * [🗃️ SQLite](https://android.yemreak.com/veriler/sqlite)
+  * [💽 Room Database](https://android.yemreak.com/veriler/room-database)
 - [📢 Broadcast](https://android.yemreak.com/haberlesme/broadcast)
 - [💽 Room Database](https://android.yemreak.com/veriler/room-database)
 - [💫 Asenkron İşlemler](https://android.yemreak.com/arkaplan/asynctask-ve-asynctaskloader)
