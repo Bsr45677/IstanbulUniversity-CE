@@ -10,6 +10,11 @@
 
 🌟 [Android ~ YEmreAk](https://android.yemreak.com/) üzerinde özel olarak derlediğim konular
 
+* [📢 Broadcast](https://android.yemreak.com/haberlesme/broadcast/)
+    * [🔰 Giriş \| Broadcast](https://android.yemreak.com/haberlesme/broadcast/giris)
+    * [🏗️ Broadcast Oluşturma](https://android.yemreak.com/haberlesme/broadcast/olusturma)
+    * [📡 Broadcast Alma](https://android.yemreak.com/haberlesme/broadcast/receiver)
+* [🌍 İnternete Bağlanma](https://android.yemreak.com/haberlesme/internete-baglanma)
 * [🗂️ RcycleView](https://android.yemreak.com/gui/rcycleview)
 * [⏰ Alarm](https://android.yemreak.com/arkaplan/alarm)
 * [👨‍💼 Verilerin Yönetimi](https://android.yemreak.com/veriler/)
@@ -18,13 +23,10 @@
   * [👐 Shared Preferences](https://android.yemreak.com/veriler/shared-preferences)
   * [🗃️ SQLite](https://android.yemreak.com/veriler/sqlite)
   * [💽 Room Database](https://android.yemreak.com/veriler/room-database)
-- [📢 Broadcast](https://android.yemreak.com/haberlesme/broadcast)
-- [💽 Room Database](https://android.yemreak.com/veriler/room-database)
 - [💫 Asenkron İşlemler](https://android.yemreak.com/arkaplan/asynctask-ve-asynctaskloader)
 - [🌞 Foreground Service](https://android.yemreak.com/arkaplan/foreground-service)
 - [🪐 Servisler](https://android.yemreak.com/arkaplan/android-servisleri)
 - [💌 HTTP İstekleri](https://android.yemreak.com/haberlesme/http-istekleris)
-- [🌍 İnternete Bağlanma](https://android.yemreak.com/haberlesme/internete-baglanma)
 
 ## 📅 Vize için YEmreAK Notları
 
