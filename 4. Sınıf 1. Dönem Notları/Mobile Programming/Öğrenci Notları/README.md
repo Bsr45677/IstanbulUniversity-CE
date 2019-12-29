@@ -28,6 +28,8 @@
 - [🪐 Servisler](https://android.yemreak.com/arkaplan/android-servisleri)
 - [💌 HTTP İstekleri](https://android.yemreak.com/haberlesme/http-istekleris)
 
+> 🏃‍♂️ Final için çalışmalarım bitince **PDF** hallerini de oluşturacağım.
+
 ## 📅 Vize için YEmreAK Notları
 
 🌟 [Android ~ YEmreAk](https://android.yemreak.com/) üzerinde özel olarak derlediğim konular
