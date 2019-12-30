@@ -10,7 +10,7 @@
 
 🌟 [Android ~ YEmreAk](https://android.yemreak.com/) üzerinde özel olarak derlediğim konular
 
-> 👇 PDF dosyalar alanına eklendi.
+> 👇 PDF dosyalar alanına eklendi lakin içerisinde **Menus** gibi eksk alanlar var.
 
 * [📢 Broadcast](https://android.yemreak.com/haberlesme/broadcast/)
     * [🔰 Giriş \| Broadcast](https://android.yemreak.com/haberlesme/broadcast/giris)
