@@ -10,6 +10,8 @@
 
 🌟 [Android ~ YEmreAk](https://android.yemreak.com/) üzerinde özel olarak derlediğim konular
 
+> 👇 PDF dosyalar alanına eklendi.
+
 * [📢 Broadcast](https://android.yemreak.com/haberlesme/broadcast/)
     * [🔰 Giriş \| Broadcast](https://android.yemreak.com/haberlesme/broadcast/giris)
     * [🏗️ Broadcast Oluşturma](https://android.yemreak.com/haberlesme/broadcast/olusturma)
@@ -46,6 +48,7 @@
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
+- [2019 Final (Eksik v1) MP ~ YEmreAK](2019%20Final%20%28Eksik%20v1%29%20MP%20~%20YEmreAK.pdf)
 - [2019 Final MP ~ YEmreAk](2019%20Final%20MP%20~%20YEmreAk.pdf)
 - [2019 Vize MP ~ YEmreAk](2019%20Vize%20MP%20~%20YEmreAk.pdf)
 - [2019 Vize Sınav Kağıdı](2019%20Vize%20S%C4%B1nav%20Ka%C4%9F%C4%B1d%C4%B1.pdf)
