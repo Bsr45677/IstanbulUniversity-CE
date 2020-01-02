@@ -2,7 +2,9 @@
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
-- [YönEylem 2.hafta ~YEmreAk](Y%C3%B6nEylem%202.hafta%20~YEmreAk.pdf)
+- [2019 2.hafta YE ~ YEmreAk](2019%202.hafta%20YE%20~%20YEmreAk.pdf)
+- [2019 Final YE ~ Ayşenur Kumbasar](2019%20Final%20YE%20~%20Ay%C5%9Fenur%20Kumbasar.pdf)
+- [2019 Final YE ~ Sezgin Otlak](2019%20Final%20YE%20~%20Sezgin%20Otlak.pdf)
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
