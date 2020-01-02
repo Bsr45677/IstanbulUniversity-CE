@@ -2,6 +2,10 @@
 
 ## 📋 Tüm Değişiklikler
 
+- [🔗 Badge'lere tıklanabilirlik eklendi ~ 03/01/2020 - 01:12:26](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/f501d205f642e07fe466931005efa3582dfe0697?diff=split)
+- [📗 Yön Eylem final notu eklendi ~ 03/01/2020 - 01:05:08](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/ee436f41b7fb3f90229565032af1cc830f69c67a?diff=split)
+- [📝 Açıklamalar artırıldı ~ 03/01/2020 - 00:55:22](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/87cf263d1515d3702d64edafc41563ae60df7fff?diff=split)
+- [👀 Neler değişti alanı yenilendi ~ 03/01/2020 - 00:50:02](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/9d161bd7c2272fdc4bca90b5a6a3303a458fbfb6?diff=split)
 - [📕 Yön Eylem final çalışmam eklendi ~ 03/01/2020 - 00:40:04](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/1869e5ad302614b51ab28cda5c68a15d2188fd09?diff=split)
 - [📕 Vize çalışmam eklendi ~ 03/01/2020 - 00:15:15](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/0a5a469147399eca8a26dd6fb8378be20760b619?diff=split)
 - [👨‍🔧 YEmreAk bağlantıları düzeltildi ~ 03/01/2020 - 00:08:30](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/386ad295985ac8f8c08b9a662b43922993f81bb8?diff=split)
