@@ -8,6 +8,10 @@
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
+## 💡 Notlar Hakkında
+
+- ⚠️ Sezgin Otlak'ın notların ilk hafta eksiktir.
+
 # 🔗 Faydalı Bağlantılar
 
 - [📺 Yöneylem Yol Yardımı](https://www.youtube.com/user/YoneylemDestek/videos)
