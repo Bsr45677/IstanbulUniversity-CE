@@ -5,12 +5,17 @@
 - [2019 2.hafta YE ~ YEmreAk](2019%202.hafta%20YE%20~%20YEmreAk.pdf)
 - [2019 Final YE ~ Ayşenur Kumbasar](2019%20Final%20YE%20~%20Ay%C5%9Fenur%20Kumbasar.pdf)
 - [2019 Final YE ~ Sezgin Otlak](2019%20Final%20YE%20~%20Sezgin%20Otlak.pdf)
+- [2019 Vize YE ~ Sezgin Otlak](2019%20Vize%20YE%20~%20Sezgin%20Otlak.pdf)
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 ## 💡 Notlar Hakkında
 
 - ⚠️ Sezgin Otlak'ın notların 1 hafta eksiktir.
+
+## 📅 2019 Final Hakkında
+
+- 🙄 "Simpleks olmadan sınav mı olur" kelamının hoca tarafından söylenmiş olduğu ifade edilmekte.
 
 # 🔗 Faydalı Bağlantılar
 
