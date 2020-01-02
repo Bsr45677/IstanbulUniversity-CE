@@ -2,7 +2,8 @@
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
-- [2018 Notlar BM](2018%20Notlar%20BM.pdf)
-- [2019 Notlar BN](2019%20Notlar%20BN.pdf)
+- [Final 2019 BM](Final%202019%20BM.pdf)
+- [Tam 2018 BM](Tam%202018%20BM.pdf)
+- [Vize 2019 BN](Vize%202019%20BN.pdf)
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
