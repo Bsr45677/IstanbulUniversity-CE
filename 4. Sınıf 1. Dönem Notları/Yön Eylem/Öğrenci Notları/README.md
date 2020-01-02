@@ -10,7 +10,7 @@
 
 ## 💡 Notlar Hakkında
 
-- ⚠️ Sezgin Otlak'ın notların ilk hafta eksiktir.
+- ⚠️ Sezgin Otlak'ın notların 1 hafta eksiktir.
 
 # 🔗 Faydalı Bağlantılar
 
