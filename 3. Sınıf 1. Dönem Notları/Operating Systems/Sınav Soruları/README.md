@@ -1,5 +1,13 @@
 # 📃 Sınav Soruları
 
+## 📂 Ek Dosyalar
+
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+
+- [Final 2020 OS](Final%202020%20OS.pdf)
+
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+
 ## 📅 2019 Final Bilgileri
 - En son _"Shared Libraries"_ konusu işlendi
 
@@ -54,4 +62,5 @@
 - Semafor nedir
 - Virtual Machine nedir
 - TLB (Translation Lookside Buffers) (Kitap 3 chapter 202. çizerseniz daha anlaşılır olur, çizmeden anlatsanız da olur.)
+
 
