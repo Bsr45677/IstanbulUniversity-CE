@@ -5,6 +5,7 @@
 - [2019 2.hafta YE ~ YEmreAk](2019%202.hafta%20YE%20~%20YEmreAk.pdf)
 - [2019 Final YE ~ Ayşenur Kumbasar](2019%20Final%20YE%20~%20Ay%C5%9Fenur%20Kumbasar.pdf)
 - [2019 Final YE ~ Sezgin Otlak](2019%20Final%20YE%20~%20Sezgin%20Otlak.pdf)
+- [2019 Final Çalışma YE ~ YEmreAk](2019%20Final%20%C3%87al%C4%B1%C5%9Fma%20YE%20~%20YEmreAk.pdf)
 - [2019 Vize YE ~ Sezgin Otlak](2019%20Vize%20YE%20~%20Sezgin%20Otlak.pdf)
 - [2019 Vize Çalışma YE ~ YEmreAk](2019%20Vize%20%C3%87al%C4%B1%C5%9Fma%20YE%20~%20YEmreAk.pdf)
 
