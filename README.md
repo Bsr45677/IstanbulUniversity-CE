@@ -1,8 +1,8 @@
 ---
-description: İstanbul Üniversitesi Bilgisayar Mühendisliği 💻 notlarını içerir 📚
+description: İstanbul Üniversitesi Bilgisayar Mühendisliği tüm ders notlarını içerir.
 ---
 
-# 🏫 Istanbul University - CE
+# 🏫 İstanbul Üniversitesi Bilgisayar Mühendisliği
 
 ## 🙋‍♂️ Hoş Geldin
 

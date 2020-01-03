@@ -2,7 +2,7 @@
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
-- [🏫 Istanbul University - CE](README.md)
+- [🏫 İstanbul Üniversitesi Bilgisayar Mühendisliği](README.md)
   - [👀 Neler değişti](CHANGELOG.md)
   - [💖 Katkıda Bulunma Rehberi](CONTRIBUTING.md)
   - [🧪 Computer Science](0%20-%20Computer%20Science/README.md)

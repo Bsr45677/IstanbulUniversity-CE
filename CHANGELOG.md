@@ -2,6 +2,12 @@
 
 ## 📋 Tüm Değişiklikler
 
+- [Revert "Revert "🔗 Badge'lere tıklanabilirlik eklendi"" ~ 03/01/2020 - 11:33:12](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/57d01cf850fc57ba7f74ca59ca4e3daf5c1e9777?diff=split)
+- [Revert "👨‍🔬 Linkler geri alındı" ~ 03/01/2020 - 11:33:08](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/d3085fe27223092ce9d7063e314a341d99a45217?diff=split)
+- [👨‍🔬 Linkler geri alındı ~ 03/01/2020 - 11:31:17](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/781d68b0cecabced39a600c2945818c55f646476?diff=split)
+- [Revert "🔗 Badge'lere tıklanabilirlik eklendi" ~ 03/01/2020 - 09:41:43](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/4fa2ec1eae121b2b5eb4a5cc5085ca40453f33f8?diff=split)
+- [🧹 Hatalı çalışma linki kaldırıldı ~ 03/01/2020 - 01:31:30](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/c9655841674f2696c3d8afc6ae25746ee6de12ce?diff=split)
+- [📋 Değişiklik raporlama eklendi ~ 03/01/2020 - 01:17:25](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/dfe9aa2ebb4b81f043a0036158ee3c3ed6abd28e?diff=split)
 - [🔗 Badge'lere tıklanabilirlik eklendi ~ 03/01/2020 - 01:12:26](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/f501d205f642e07fe466931005efa3582dfe0697?diff=split)
 - [📗 Yön Eylem final notu eklendi ~ 03/01/2020 - 01:05:08](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/ee436f41b7fb3f90229565032af1cc830f69c67a?diff=split)
 - [📝 Açıklamalar artırıldı ~ 03/01/2020 - 00:55:22](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/87cf263d1515d3702d64edafc41563ae60df7fff?diff=split)
