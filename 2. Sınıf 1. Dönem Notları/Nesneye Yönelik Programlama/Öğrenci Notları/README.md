@@ -9,7 +9,7 @@
   - [Dosya işlemleri ile yaptığım](https://github.com/yedhrab/JavaProjects/tree/master/NetBeans-Projects/Bookcase-FileOp)
 - 2017 Proje ödevi olan **Öğrenci Otomasyon Sistemi** ödevim için [buraya][Öğrenci Otomasyon Sistemi] bakabilirsin.
 
-[Java - yemreak.com]: https://wiki.yemreak.com/programlama-notlari/java
+[Java - yemreak.com]: https://lib.yemreak.com/programlama-notlari/java
 [Öğrenci Otomasyon Sistemi]: https://github.com/yedhrab/JavaProjects/tree/master/NetBeans-Projects/OgrenciOtomasyonu
 
 ## 🔗 Faydalı Bağlantılar
