@@ -7,8 +7,8 @@ description: İstanbul Üniversitesi Bilgisayar Mühendisliği tüm ders notlar�
 ## 🙋‍♂️ Hoş Geldin
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/yemreak/IstanbulUniversity-CE?label=Proje%20boyutu&style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/yemreak/IstanbulUniversity-CE?label=Son%20g%C3%BCncelleme&style=for-the-badge)
-![Github commit activity](https://img.shields.io/github/commit-activity/w/yemreak/IstanbulUniversity-CE?label=G%C3%BCncelleme%20S%C4%B1kl%C4%B1%C4%9F%C4%B1&style=for-the-badge)
+[![GitHub last commit](https://img.shields.io/github/last-commit/yemreak/IstanbulUniversity-CE?label=Son%20g%C3%BCncelleme&style=for-the-badge)](https://iuce.yemreak.com/changelog)
+[![Github commit activity](https://img.shields.io/github/commit-activity/w/yemreak/IstanbulUniversity-CE?label=G%C3%BCncelleme%20S%C4%B1kl%C4%B1%C4%9F%C4%B1&style=for-the-badge)](https://iuce.yemreak.com/changelog)
 
 - **[🔍 Arama Buton](https://iuce.yemreak.com/?q=)'nu kullanmayı asla ama asla ihmal etme**
   - Hocaların ve derslerin adları, ders konuları vs. aratabilirsin

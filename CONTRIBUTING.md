@@ -12,7 +12,7 @@ description: Projeye katkı sağlamak isteyenler için bilgilendirme
   - 📈 Bu yapı sayesinde aranan dersler daha belirgin olacaktır.
 - 💡 **Yapıcı** eleştirileriniz veya fikirleriniz varsa sağ üst köşedeki  **🏹 Edit on Github** alanından fikirlerinizi belirtebilirsiniz
 
-> 📌 **Formata ([markdown](https://wiki.yemreak.com/1-programlama-notlari/0-genel-notlar/2-markdown)'a) uygun şekilde katkıda bulunursanız hoş olur 😊**
+> 📌 **Formata ([markdown](https://lib.yemreak.com/1-programlama-notlari/0-genel-notlar/2-markdown)'a) uygun şekilde katkıda bulunursanız hoş olur 😊**
 
 ## 📙 Ders Notları Ekleme
 
@@ -86,7 +86,7 @@ Giriş cümlesi veya alakalı cümle.
 
 ## ✍ Çalışma Notları
 
-Markdown hakkında detaylı açıklamalara [📑 Markdown](https://wiki.yemreak.com/1-programlama-notlari/0-genel-notlar/2-markdown) bağlantısından erişebilirsin
+Markdown hakkında detaylı açıklamalara [📑 Markdown](https://lib.yemreak.com/1-programlama-notlari/0-genel-notlar/2-markdown) bağlantısından erişebilirsin
 
 - Her şey **dinamik** olmalı
 - Önemli notlar ve başlıklar **bold**
@@ -104,7 +104,7 @@ GitHub projelerini `clone` yapıp, internetini harcamak yerine web üzerinden ka
 - [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/YEmreAk/IstanbulUniversity-CE)
  ile online sanal makineden işlemlerinizi yapabilirsiniz
 - Katkı sağlama işlemi GitHub hesabı gerektirir.
-- Güncel bilgiler için [🌍 GitHub Web](https://wiki.yemreak.com/proje-yoenetimi/github/github-web) yazıma bakabilirsin
+- Güncel bilgiler için [🌍 GitHub Web](https://lib.yemreak.com/proje-yoenetimi/github/github-web) yazıma bakabilirsin
 
 > Videolar faydalı olmadıysa bana WhatsApp veya Mail üzerinden atabilirsin.
 
