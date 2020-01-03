@@ -52,7 +52,6 @@ description: İstanbul Üniversitesi Bilgisayar Mühendisliği tüm ders notlar�
 - 📉 Çoğu ders ezbere anlatılmaktadır, iyi işlenen dersler nadirdir. İyi anlatan hocalara Özgür Can Turna'yı örnek verebilirim. (⚠️ Bu örnek, diğer hepsinin kötü olduğu anlamına gelmez)
 - ⚠️ Yukarıdaki maddeyi okurken, diğer üniversitelerdeki eğitimden habersiz olduğumu bilmenizi isterim. (belki diğer okullar da aynıdır, bilemem)
 - 📋 Devam zorunluluğu pek yoktur, okula pek gitmek istemeyenler için ideal olabilir. (çalışma ihtiyacınız vs varsa)
-- 👶 Derslerin içeriği, teknik ünilere kıyasla nispeten kolaydır denebilir (programlama dersleri özellikle) (umarım bunu okuyanlar, bana laf atmıyorlardır 🙄)
 
 ~ YEmreAk
 
