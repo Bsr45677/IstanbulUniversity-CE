@@ -2,7 +2,8 @@
 
 ## 📋 Tüm Değişiklikler
 
-- [🚀 Yeni yapı kuruldu ~ 04/01/2020 - 22:40:29](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/57b39f231ba00333ad5662fc3201079ef91d3a38?diff=split)
+- [🥈 Katkı sağlayan eklendi ~ 04/01/2020 - 22:52:24](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/39028726c5a143c3e019d45b07ea1d21ebe27ea9?diff=split)
+- [🚀 Yeni yapı kuruldu ~ 04/01/2020 - 22:42:21](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/cabb87c25f4b3fa3ee343bbe8eec84324f620448?diff=split)
 - [🧹 Gereksizler kaldırıldı ~ 04/01/2020 - 01:38:56](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/bba3e5efec4ba90dc052ec1491ff33415823a24f?diff=split)
 - [💭 Okul Hakkında Yorumum ~ 04/01/2020 - 01:27:59](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/1fc1f9471d7834fda91df1741a0ff0e7c29cc5d8?diff=split)
 - [👨‍🔧 Eski commitler aktarıldı ~ 04/01/2020 - 01:25:22](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/516e719fa6aa5429a04988d9f002895cce4327da?diff=split)
