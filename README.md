@@ -67,6 +67,7 @@ description: İstanbul Üniversitesi Bilgisayar Mühendisliği tüm ders notlar�
 
 - 🏆 Asmaa Mirkhan
 - 🥇 Eda Nur Var
+- 🥈 Yunus Karakaya
 - 🥈 Furkan Özbek
 
 > 📢 Burada adı olmayıp da yardımcı olan arkadaşlar vardır, iletişime geçmeleri halinde onları da eklemek isterim 😊
