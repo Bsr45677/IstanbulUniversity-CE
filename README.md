@@ -6,12 +6,10 @@ description: İstanbul Üniversitesi Bilgisayar Mühendisliği tüm ders notlar�
 
 ## 🙋‍♂️ Hoş Geldin
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yemreak/IstanbulUniversity-CE?label=Proje%20boyutu&style=for-the-badge)
-[![GitHub last commit](https://img.shields.io/github/last-commit/yemreak/IstanbulUniversity-CE?label=Son%20g%C3%BCncelleme&style=for-the-badge)](https://iuce.yemreak.com/changelog)
-[![Github commit activity](https://img.shields.io/github/commit-activity/w/yemreak/IstanbulUniversity-CE?label=G%C3%BCncelleme%20S%C4%B1kl%C4%B1%C4%9F%C4%B1&style=for-the-badge)](https://iuce.yemreak.com/changelog)
-
 - **[🔍 Arama Buton](https://iuce.yemreak.com/?q=)'nu kullanmayı asla ama asla ihmal etme**
-  - Hocaların ve derslerin adları, ders konuları vs. aratabilirsin
+  - 👨‍🏫 Hocaların ve derslerin adları, ders konuları vs. aratabilirsin
+    - 💎 Dersleri kısaltmaları ile arayabilirsin (Atatürk İlkeleri ve İnkılap = Aİvİ)
+    - ⭐ "calculus 1 ders", "c1 ders", "fizik 2 sınav", "f2 sınav" ...
   - 🏹 Sağ üst köşededir, tıklandığında yeni pencere ile tepki verecektir
 - [📂 Düzenlenmemiş eski ders notlar arşivi](https://drive.google.com/open?id=1JPZH6Z_K59UeO-A79H0pcBIsAJlw40Y-) de ilgini çekebilir
 - [🏫 Okul Hakkında Bilgiler](./1%20-%20Okul%20Hakk%C4%B1nda%20Bilgiler/README.md) alanına göz atmayı unutma
@@ -19,6 +17,10 @@ description: İstanbul Üniversitesi Bilgisayar Mühendisliği tüm ders notlar�
 > Her sayfanın en altında bulunan memnuniyet anketi ile ✨ gelişime ortak olabilirsin.
 
 ## 👀 Değişiklikleri Görme
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/yemreak/IstanbulUniversity-CE?label=Son%20g%C3%BCncelleme&style=for-the-badge)](https://iuce.yemreak.com/changelog)
+[![Github commit activity](https://img.shields.io/github/commit-activity/w/yemreak/IstanbulUniversity-CE?label=G%C3%BCncelleme%20S%C4%B1kl%C4%B1%C4%9F%C4%B1&style=for-the-badge)](https://iuce.yemreak.com/changelog)
+
 
 - **⌚ Sayfanın en altında, en son ne zaman güncellendiği yazmaktadır**
 - 📋 Sitedeki tüm değişiklik **raporlanmaktadır**
