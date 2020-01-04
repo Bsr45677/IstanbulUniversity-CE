@@ -1,4 +1,10 @@
-# README.md \| SM
+---
+description: >-
+  Sayisal Metodlar için öğrenci notları, el yazıları, tutulmuş notlar
+  notları
+---
+
+# 📕 Öğrenci Notları \| SM
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
