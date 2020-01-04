@@ -1,4 +1,10 @@
-# 📕 Öğrenci Notları
+---
+description: >-
+  Operating Systems için öğrenci notları, el yazıları, tutulmuş notlar
+  notları
+---
+
+# 📕 Öğrenci Notları \| OS
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

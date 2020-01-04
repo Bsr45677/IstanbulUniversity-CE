@@ -1,4 +1,9 @@
-# 📃 Sınav Soruları
+---
+description: >-
+  Fizik 1 için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+---
+
+# 📃 Sınav Soruları \| F1
 
 
 ## 📂 Dosyalar

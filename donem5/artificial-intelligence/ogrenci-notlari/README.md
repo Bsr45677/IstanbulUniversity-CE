@@ -1,4 +1,10 @@
-# 📕 Öğrenci Notları
+---
+description: >-
+  Artificial Intelligence için öğrenci notları, el yazıları, tutulmuş notlar
+  notları
+---
+
+# 📕 Öğrenci Notları \| AI
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

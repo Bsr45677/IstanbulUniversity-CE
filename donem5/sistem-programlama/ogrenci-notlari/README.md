@@ -1,4 +1,10 @@
-# 📕 Öğrenci Notları
+---
+description: >-
+  Sistem Programlama için öğrenci notları, el yazıları, tutulmuş notlar
+  notları
+---
+
+# 📕 Öğrenci Notları \| SP
 
 ## 💎 Linux Kernel Güncelleme
 

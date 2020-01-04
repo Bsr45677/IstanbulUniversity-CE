@@ -1,4 +1,9 @@
-# 📃 Sınav Soruları
+---
+description: >-
+  Atatuerk Ilkeleri ve Inkilap 2 için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+---
+
+# 📃 Sınav Soruları \| AIvI2
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

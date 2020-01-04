@@ -1,4 +1,10 @@
-# ✍ Öğrenci Notları
+---
+description: >-
+  Bilisim Proje Gelistirme için öğrenci notları, el yazıları, tutulmuş notlar
+  notları
+---
+
+# ✍ Öğrenci Notları \| BPG
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

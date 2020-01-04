@@ -1,4 +1,10 @@
-# 📚 Ders İçeriği /| NN
+---
+description: >-
+  Neural Networks için öğrenci notları, el yazıları, tutulmuş notlar
+  notları
+---
+
+# 📚 Ders İçeriği /| NN \| NN
 
 ## 📢 Notlar Hakkında
 

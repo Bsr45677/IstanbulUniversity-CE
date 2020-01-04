@@ -1,4 +1,10 @@
-# 📚 Ders İçeriği
+---
+description: >-
+  Bilgisayar Aritmetigi için öğrenci notları, el yazıları, tutulmuş notlar
+  notları
+---
+
+# 📚 Ders İçeriği \| BA
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

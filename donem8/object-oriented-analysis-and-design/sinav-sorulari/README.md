@@ -1,4 +1,9 @@
-# 📃 Sınav Soruları
+---
+description: >-
+  Object Oriented Analysis and Design için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+---
+
+# 📃 Sınav Soruları \| OOAaD
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

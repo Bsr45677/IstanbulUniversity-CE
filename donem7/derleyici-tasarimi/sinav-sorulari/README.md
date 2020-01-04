@@ -1,4 +1,9 @@
-# 📃 Sınav Soruları
+---
+description: >-
+  Derleyici Tasarimi için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+---
+
+# 📃 Sınav Soruları \| DT
 
 ## 📅 Mazaret Hakkında
 

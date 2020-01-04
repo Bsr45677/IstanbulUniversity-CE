@@ -1,4 +1,10 @@
-# 📕 Öğrenci Notları
+---
+description: >-
+  Informasyon Guevenligi ve Kriptoloji için öğrenci notları, el yazıları, tutulmuş notlar
+  notları
+---
+
+# 📕 Öğrenci Notları \| IGvK
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

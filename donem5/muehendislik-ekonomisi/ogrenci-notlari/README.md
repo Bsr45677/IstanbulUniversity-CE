@@ -1,4 +1,10 @@
-# 📕 Öğrenci Notları
+---
+description: >-
+  Muehendislik Ekonomisi için öğrenci notları, el yazıları, tutulmuş notlar
+  notları
+---
+
+# 📕 Öğrenci Notları \| ME
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

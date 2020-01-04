@@ -1,4 +1,10 @@
-# 📚 Ders İçeriği
+---
+description: >-
+  Olasilik Teorisi ve Istatistik için öğrenci notları, el yazıları, tutulmuş notlar
+  notları
+---
+
+# 📚 Ders İçeriği \| OTvI
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

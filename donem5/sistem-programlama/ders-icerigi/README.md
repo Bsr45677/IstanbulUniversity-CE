@@ -1,4 +1,10 @@
-# 📚 Ders İçeriği
+---
+description: >-
+  Sistem Programlama için öğrenci notları, el yazıları, tutulmuş notlar
+  notları
+---
+
+# 📚 Ders İçeriği \| SP
 
 <!--Index-->
 

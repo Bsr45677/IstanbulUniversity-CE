@@ -1,4 +1,10 @@
-# 📚 Ders İçeriği
+---
+description: >-
+  Web Programlama için öğrenci notları, el yazıları, tutulmuş notlar
+  notları
+---
+
+# 📚 Ders İçeriği \| WP
 
 ## 🙋‍♂️ Giriş
 

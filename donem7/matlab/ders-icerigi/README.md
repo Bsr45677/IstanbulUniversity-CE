@@ -1,4 +1,10 @@
-# 📚 Ders İçeriği
+---
+description: >-
+  Matlab için öğrenci notları, el yazıları, tutulmuş notlar
+  notları
+---
+
+# 📚 Ders İçeriği \| M
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

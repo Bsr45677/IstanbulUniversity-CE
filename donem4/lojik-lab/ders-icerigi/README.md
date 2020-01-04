@@ -1,4 +1,10 @@
-# 📚 Ders İçeriği
+---
+description: >-
+  Lojik Lab için öğrenci notları, el yazıları, tutulmuş notlar
+  notları
+---
+
+# 📚 Ders İçeriği \| LL
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

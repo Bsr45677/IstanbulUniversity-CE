@@ -1,4 +1,10 @@
-# 📕 Öğrenci Notları /| NN
+---
+description: >-
+  Neural Networks için öğrenci notları, el yazıları, tutulmuş notlar
+  notları
+---
+
+# 📕 Öğrenci Notları /| NN \| NN
 
 ❕ Notlarda eksiklikler olabilir. (Hiç yoktan iyidir, diye atıldı 🙄)
 

@@ -1,4 +1,9 @@
-# 📃 Sınav Soruları
+---
+description: >-
+  Differantial Equations için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+---
+
+# 📃 Sınav Soruları \| DE
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

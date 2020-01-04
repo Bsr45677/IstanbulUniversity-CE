@@ -1,4 +1,10 @@
-# 📚 Ders İçeriği
+---
+description: >-
+  Is Sagligi ve Guevenligi için öğrenci notları, el yazıları, tutulmuş notlar
+  notları
+---
+
+# 📚 Ders İçeriği \| ISvG
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

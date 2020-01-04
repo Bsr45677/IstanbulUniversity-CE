@@ -1,4 +1,10 @@
-# 📕 Öğrenci Notları
+---
+description: >-
+  File Organization için öğrenci notları, el yazıları, tutulmuş notlar
+  notları
+---
+
+# 📕 Öğrenci Notları \| FO
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

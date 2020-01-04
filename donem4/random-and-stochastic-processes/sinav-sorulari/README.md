@@ -1,4 +1,9 @@
-# 📃 Sınav Soruları
+---
+description: >-
+  Random and Stochastic Processes için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+---
+
+# 📃 Sınav Soruları \| RaSP
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

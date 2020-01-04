@@ -1,7 +1,7 @@
 ---
 description: >-
-  Mobil programlama (Mobile Programming) için ders konuları, içeriği veya
+  Mobile Programming için öğrenci notları, el yazıları, tutulmuş notlar
   notları
 ---
 
-# 📚 Ders İçeriği
+# 📚 Ders İçeriği \| MP

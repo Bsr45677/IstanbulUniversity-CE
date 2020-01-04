@@ -1,4 +1,9 @@
-# 📃 Sınav Soruları
+---
+description: >-
+  Veri Yapilari için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+---
+
+# 📃 Sınav Soruları \| VY
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

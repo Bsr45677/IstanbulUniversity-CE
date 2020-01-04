@@ -1,4 +1,9 @@
-# 📃 Sınav Soruları
+---
+description: >-
+  Bilgisayar Organizasyonu ve Tasarimi Bot Lab için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+---
+
+# 📃 Sınav Soruları \| BOvTBL
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

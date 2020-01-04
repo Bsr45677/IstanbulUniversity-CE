@@ -1,4 +1,9 @@
-# 📃 Sınav Soruları
+---
+description: >-
+  Bilisim Hukuku için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+---
+
+# 📃 Sınav Soruları \| BH
 
 ## 📅 2019 Vize Hakkında
 

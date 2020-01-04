@@ -1,4 +1,10 @@
-# 📚 Ders İçeriği
+---
+description: >-
+  Operating Systems için öğrenci notları, el yazıları, tutulmuş notlar
+  notları
+---
+
+# 📚 Ders İçeriği \| OS
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

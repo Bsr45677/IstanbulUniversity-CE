@@ -1,4 +1,10 @@
-# 📚 Ders İçeriği
+---
+description: >-
+  Atatuerk Ilkeleri ve Inkilap 2 için öğrenci notları, el yazıları, tutulmuş notlar
+  notları
+---
+
+# 📚 Ders İçeriği \| AIvI2
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

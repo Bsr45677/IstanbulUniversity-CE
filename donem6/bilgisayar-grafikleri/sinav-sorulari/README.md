@@ -1,4 +1,9 @@
-# 📃 Sınav Soruları
+---
+description: >-
+  Bilgisayar Grafikleri için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+---
+
+# 📃 Sınav Soruları \| BG
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

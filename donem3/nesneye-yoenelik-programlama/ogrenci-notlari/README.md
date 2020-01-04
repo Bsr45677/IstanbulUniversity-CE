@@ -1,4 +1,10 @@
-# 📕 Öğrenci Notları
+---
+description: >-
+  Nesneye Yoenelik Programlama için öğrenci notları, el yazıları, tutulmuş notlar
+  notları
+---
+
+# 📕 Öğrenci Notları \| NYP
 
 - ☕ Ders **java** tabanlı ilerleyeceği için, [buraya][Java - yemreak.com] tıklayarak alttaki bilgileri edinebilirsin
   - Java hakkında bilgi

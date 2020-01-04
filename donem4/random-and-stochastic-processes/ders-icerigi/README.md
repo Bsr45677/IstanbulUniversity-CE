@@ -1,4 +1,10 @@
-# 📚 Ders İçeriği
+---
+description: >-
+  Random and Stochastic Processes için öğrenci notları, el yazıları, tutulmuş notlar
+  notları
+---
+
+# 📚 Ders İçeriği \| RaSP
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

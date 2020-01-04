@@ -1,4 +1,9 @@
-# 📃 Sınav Soruları
+---
+description: >-
+  Sistem Programlama için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+---
+
+# 📃 Sınav Soruları \| SP
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

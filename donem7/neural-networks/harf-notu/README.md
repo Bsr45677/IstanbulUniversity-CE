@@ -1,7 +1,3 @@
----
-description: 'Neural Networks (Sinir Ağları) için harf notu dağılımı, çan veya puantaj'
----
-
 # 🆎 Harf Notu \| NN
 
 ## 📅 2018 - 2019

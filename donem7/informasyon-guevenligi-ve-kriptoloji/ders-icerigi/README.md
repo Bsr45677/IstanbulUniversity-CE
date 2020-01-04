@@ -1,4 +1,10 @@
-# 📚 Ders İçeriği
+---
+description: >-
+  Informasyon Guevenligi ve Kriptoloji için öğrenci notları, el yazıları, tutulmuş notlar
+  notları
+---
+
+# 📚 Ders İçeriği \| IGvK
 
 ## 📕 Ders Kitapları
 

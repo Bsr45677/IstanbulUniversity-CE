@@ -1,4 +1,9 @@
-# 📃 Sınav Soruları
+---
+description: >-
+  Bilgisayar Aritmetigi için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+---
+
+# 📃 Sınav Soruları \| BA
 
 ## 📅 2019 Final Sınavı Hakkında
 

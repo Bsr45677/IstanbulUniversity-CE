@@ -1,4 +1,9 @@
-# 📃 Sınav Soruları
+---
+description: >-
+  Olasilik Teorisi ve Istatistik için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+---
+
+# 📃 Sınav Soruları \| OTvI
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

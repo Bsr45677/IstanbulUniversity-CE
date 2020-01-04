@@ -1,4 +1,9 @@
-# 📃 Sınav Soruları
+---
+description: >-
+  Software Testing and Quaility için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+---
+
+# 📃 Sınav Soruları \| STaQ
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

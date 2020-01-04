@@ -1,4 +1,9 @@
-# 📃 Sınav Soruları
+---
+description: >-
+  Nesneye Yoenelik Programlama için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+---
+
+# 📃 Sınav Soruları \| NYP
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

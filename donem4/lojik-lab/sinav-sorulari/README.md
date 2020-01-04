@@ -1,4 +1,9 @@
-# 📃 Sınav Soruları
+---
+description: >-
+  Lojik Lab için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+---
+
+# 📃 Sınav Soruları \| LL
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

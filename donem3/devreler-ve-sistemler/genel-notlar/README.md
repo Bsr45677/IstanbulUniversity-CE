@@ -1,4 +1,4 @@
-# 📜 Genel Notlar
+# 📜 Genel Notlar \| DvS
 
 ## Ders Bilgileri
 

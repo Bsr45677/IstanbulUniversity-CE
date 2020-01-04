@@ -1,1 +1,7 @@
-# 📚 Ders İçeriği
+---
+description: >-
+  Mikroislemciler için öğrenci notları, el yazıları, tutulmuş notlar
+  notları
+---
+
+# 📚 Ders İçeriği \| M

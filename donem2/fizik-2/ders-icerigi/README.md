@@ -1,3 +1,9 @@
+---
+description: >-
+  Fizik 2 için öğrenci notları, el yazıları, tutulmuş notlar
+  notları
+---
+
 # 📚 Ders İçeriği \| F2
 
 ## Ders Bilgileri

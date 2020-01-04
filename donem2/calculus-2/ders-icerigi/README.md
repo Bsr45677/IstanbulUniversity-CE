@@ -1,4 +1,10 @@
-# 📚 Ders İçeriği
+---
+description: >-
+  Calculus 2 için öğrenci notları, el yazıları, tutulmuş notlar
+  notları
+---
+
+# 📚 Ders İçeriği \| C2
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

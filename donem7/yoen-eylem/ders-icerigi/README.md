@@ -1,4 +1,10 @@
-# 📚 Ders İçeriği
+---
+description: >-
+  Yoen Eylem için öğrenci notları, el yazıları, tutulmuş notlar
+  notları
+---
+
+# 📚 Ders İçeriği \| YE
 
 ## 📅 Vizeye Kadar İşlenen Konular
 

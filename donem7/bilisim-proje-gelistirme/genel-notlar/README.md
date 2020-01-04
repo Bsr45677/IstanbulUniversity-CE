@@ -1,7 +1,3 @@
----
-description: Bilişim Proje Geliştirme için gerekli duyuru ve açıklamalar
----
-
 # 📢 Duyurular \| BPG
 
 ## 🕐 Dersin İşlenişi

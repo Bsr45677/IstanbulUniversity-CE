@@ -1,4 +1,10 @@
-# 📚 Ders İçeriği
+---
+description: >-
+  Bilgisayar Organizasyonu ve Tasarimi Bot Lab için öğrenci notları, el yazıları, tutulmuş notlar
+  notları
+---
+
+# 📚 Ders İçeriği \| BOvTBL
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

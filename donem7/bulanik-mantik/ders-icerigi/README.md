@@ -1,4 +1,10 @@
-# 📚 Ders İçeriği
+---
+description: >-
+  Bulanik Mantik için öğrenci notları, el yazıları, tutulmuş notlar
+  notları
+---
+
+# 📚 Ders İçeriği \| BM
 
 <!--Index-->
 

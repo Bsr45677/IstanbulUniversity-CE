@@ -1,4 +1,10 @@
-# 📚 Ders İçeriği
+---
+description: >-
+  Sayisal Metodlar için öğrenci notları, el yazıları, tutulmuş notlar
+  notları
+---
+
+# 📚 Ders İçeriği \| SM
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

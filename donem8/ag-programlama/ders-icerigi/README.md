@@ -1,4 +1,10 @@
-# 📚 Ders İçeriği
+---
+description: >-
+  Ag Programlama için öğrenci notları, el yazıları, tutulmuş notlar
+  notları
+---
+
+# 📚 Ders İçeriği \| AP
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

@@ -1,4 +1,9 @@
-# 📃 Sınav Soruları
+---
+description: >-
+  Bilgisayar Mimarisi için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+---
+
+# 📃 Sınav Soruları \| BM
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

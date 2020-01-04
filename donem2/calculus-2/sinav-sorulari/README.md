@@ -1,4 +1,9 @@
-# 📃 Sınav Soruları
+---
+description: >-
+  Calculus 2 için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+---
+
+# 📃 Sınav Soruları \| C2
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

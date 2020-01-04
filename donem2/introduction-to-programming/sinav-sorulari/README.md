@@ -1,4 +1,9 @@
-# 📃 Sınav Soruları
+---
+description: >-
+  Introduction to Programming için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+---
+
+# 📃 Sınav Soruları \| ItP
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

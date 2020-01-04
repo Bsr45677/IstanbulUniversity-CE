@@ -1,4 +1,9 @@
-# 📃 Sınav Soruları
+---
+description: >-
+  Algorithm Analysis için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+---
+
+# 📃 Sınav Soruları \| AA
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

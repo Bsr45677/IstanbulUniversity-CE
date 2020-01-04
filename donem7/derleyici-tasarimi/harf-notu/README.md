@@ -1,4 +1,4 @@
-# 🆎 Harf Notu Dağılımı
+# 🆎 Harf Notu Dağılımı \| DT
 
 ### 📅 2017 - 2018
 
