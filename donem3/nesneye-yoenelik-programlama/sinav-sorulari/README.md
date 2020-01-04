@@ -1,6 +1,6 @@
 ---
 description: >-
-  Nesneye Yoenelik Programlama için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+  Nesneye Yönelik Programlama için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
 ---
 
 # 📃 Sınav Soruları \| NYP

@@ -1,6 +1,6 @@
 ---
 description: >-
-  Bilisim Proje Gelistirme için öğrenci notları, el yazıları, tutulmuş notlar
+  Bilişim Proje Geliştirme için öğrenci notları, el yazıları, tutulmuş notlar
   notları
 ---
 

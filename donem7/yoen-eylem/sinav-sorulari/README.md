@@ -1,6 +1,6 @@
 ---
 description: >-
-  Yoen Eylem için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+  Yön Eylem için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
 ---
 
 # 📃 Sınav Soruları \| YE

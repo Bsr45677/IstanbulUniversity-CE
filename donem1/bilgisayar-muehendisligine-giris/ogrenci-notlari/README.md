@@ -1,6 +1,6 @@
 ---
 description: >-
-  Bilgisayar Muehendisligine Giris için öğrenci notları, el yazıları, tutulmuş notlar
+  Bilgisayar Mühendisliğine Giriş için öğrenci notları, el yazıları, tutulmuş notlar
   notları
 ---
 

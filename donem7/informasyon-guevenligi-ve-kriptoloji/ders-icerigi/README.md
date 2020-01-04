@@ -1,10 +1,10 @@
 ---
 description: >-
-  Informasyon Guevenligi ve Kriptoloji için öğrenci notları, el yazıları, tutulmuş notlar
+  İnformasyon Güvenliği ve Kriptoloji için öğrenci notları, el yazıları, tutulmuş notlar
   notları
 ---
 
-# 📚 Ders İçeriği \| IGvK
+# 📚 Ders İçeriği \| İGvK
 
 ## 📕 Ders Kitapları
 

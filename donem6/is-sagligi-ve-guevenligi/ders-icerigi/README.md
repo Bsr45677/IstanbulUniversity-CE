@@ -1,10 +1,10 @@
 ---
 description: >-
-  Is Sagligi ve Guevenligi için öğrenci notları, el yazıları, tutulmuş notlar
+  İş Sağlığı ve Güvenliği için öğrenci notları, el yazıları, tutulmuş notlar
   notları
 ---
 
-# 📚 Ders İçeriği \| ISvG
+# 📚 Ders İçeriği \| İSvG
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

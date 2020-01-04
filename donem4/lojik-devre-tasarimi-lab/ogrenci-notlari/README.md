@@ -1,10 +1,10 @@
 ---
 description: >-
-  Lojik Lab için öğrenci notları, el yazıları, tutulmuş notlar
+  Lojik Devre Tasarımı - Lab için öğrenci notları, el yazıları, tutulmuş notlar
   notları
 ---
 
-# 📕 Öğrenci Notları \| LL
+# 📕 Öğrenci Notları \| LDT-L
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

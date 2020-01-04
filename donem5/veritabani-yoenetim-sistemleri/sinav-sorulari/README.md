@@ -1,6 +1,6 @@
 ---
 description: >-
-  Veritabani Yoenetim Sistemleri için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+  Veritabanı Yönetim Sistemleri için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
 ---
 
 # 📃 Sınav Soruları \| VYS

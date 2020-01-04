@@ -42,36 +42,31 @@ def repeat(func):
 
 def renew(path):
     header = read_first_header(path)
-    lesson = os.path.basename(os.path.dirname(os.path.dirname(path))).split("-")
 
-    lesson_name = ""
+    lesson_path = os.path.join(os.path.dirname(os.path.dirname(path)), "README.md")
+    lesson_header = read_first_header(lesson_path)
+    lesson_header = lesson_header[lesson_header.find(" ") + 1:]  # Emojiyi kaldırma
+
     pattern = ""
-    for name in lesson:
-        if "ve" == name or "to" == name or "and" == name:
-            lesson_name += name + " "
-            key = name[0]
-        else:
-            lesson_name += name[0].upper() + name[1:] + " "
-            key = name[0].upper()
-        pattern += key
+    for name in lesson_header.split(" "):
+        pattern += name[0]
 
-    lesson_name = lesson_name[:-1]
     pattern = r" \| " + pattern
-    if not pattern in header:
-        newheader = header + pattern
-    else:
-        newheader = header
+    if r" \| " in header:
+        header = header[:header.find(r" \| ")]
+
+    header += pattern
 
     filestr = ""
     if "Öğrenci" in header:
-        filestr = DESC_OGR.format(lesson_name)
+        filestr = DESC_OGR.format(lesson_header)
     elif "Ders" in header:
-        filestr = DESC_OGR.format(lesson_name)
+        filestr = DESC_OGR.format(lesson_header)
     elif "Sınav" in header:
-        filestr = DESC_SINAV.format(lesson_name)
+        filestr = DESC_SINAV.format(lesson_header)
 
     read = False
-    filestr += "# " + newheader + "\n"
+    filestr += "# " + header + "\n"
     with open(path, "r+", encoding="utf-8") as file:
         for line in file:
             if not read and "# " in line:

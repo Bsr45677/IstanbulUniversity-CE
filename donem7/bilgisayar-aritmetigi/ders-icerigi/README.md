@@ -1,6 +1,6 @@
 ---
 description: >-
-  Bilgisayar Aritmetigi için öğrenci notları, el yazıları, tutulmuş notlar
+  Bilgisayar Aritmetiği için öğrenci notları, el yazıları, tutulmuş notlar
   notları
 ---
 

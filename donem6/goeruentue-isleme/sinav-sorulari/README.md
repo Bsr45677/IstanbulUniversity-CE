@@ -1,9 +1,9 @@
 ---
 description: >-
-  Goeruentue Isleme için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+  Görüntü İşleme için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
 ---
 
-# 📃 Sınav Soruları \| GI
+# 📃 Sınav Soruları \| Gİ
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

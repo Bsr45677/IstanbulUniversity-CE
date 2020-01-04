@@ -1,6 +1,6 @@
 ---
 description: >-
-  Derleyici Tasarimi için öğrenci notları, el yazıları, tutulmuş notlar
+  Derleyici Tasarımı için öğrenci notları, el yazıları, tutulmuş notlar
   notları
 ---
 

@@ -1,6 +1,6 @@
 ---
 description: >-
-  Bilgisayar Organizasyonu ve Tasarimi için öğrenci notları, el yazıları, tutulmuş notlar
+  Bilgisayar Organizasyonu ve Tasarımı için öğrenci notları, el yazıları, tutulmuş notlar
   notları
 ---
 

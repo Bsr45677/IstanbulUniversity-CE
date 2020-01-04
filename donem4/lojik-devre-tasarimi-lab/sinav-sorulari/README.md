@@ -1,9 +1,9 @@
 ---
 description: >-
-  Lojik Lab için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+  Lojik Devre Tasarımı - Lab için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
 ---
 
-# 📃 Sınav Soruları \| LL
+# 📃 Sınav Soruları \| LDT-L
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

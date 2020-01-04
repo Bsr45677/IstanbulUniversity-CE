@@ -1,6 +1,6 @@
 ---
 description: >-
-  Programming Application için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+  Programming Applicaiton için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
 ---
 
 # 📃 Sınav Soruları \| PA

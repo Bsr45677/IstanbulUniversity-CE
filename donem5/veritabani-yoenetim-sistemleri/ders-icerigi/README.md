@@ -1,6 +1,6 @@
 ---
 description: >-
-  Veritabani Yoenetim Sistemleri için öğrenci notları, el yazıları, tutulmuş notlar
+  Veritabanı Yönetim Sistemleri için öğrenci notları, el yazıları, tutulmuş notlar
   notları
 ---
 

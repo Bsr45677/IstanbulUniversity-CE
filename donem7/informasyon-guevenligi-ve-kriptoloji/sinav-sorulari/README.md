@@ -1,9 +1,9 @@
 ---
 description: >-
-  Informasyon Guevenligi ve Kriptoloji için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+  İnformasyon Güvenliği ve Kriptoloji için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
 ---
 
-# 📃 Sınav Soruları \| IGvK
+# 📃 Sınav Soruları \| İGvK
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

@@ -1,10 +1,10 @@
 ---
 description: >-
-  Goeruentue Isleme için öğrenci notları, el yazıları, tutulmuş notlar
+  Görüntü İşleme için öğrenci notları, el yazıları, tutulmuş notlar
   notları
 ---
 
-# 📕 Öğrenci Notları \| GI
+# 📕 Öğrenci Notları \| Gİ
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

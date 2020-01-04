@@ -1,9 +1,9 @@
 ---
 description: >-
-  Atatuerk Ilkeleri ve Inkilap 2 için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+  Atatürk İlkeleri ve İnkılap 2 için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
 ---
 
-# 📃 Sınav Soruları \| AIvI2
+# 📃 Sınav Soruları \| Aİvİ2
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

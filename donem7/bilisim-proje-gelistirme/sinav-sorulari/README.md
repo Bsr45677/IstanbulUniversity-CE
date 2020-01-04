@@ -1,6 +1,6 @@
 ---
 description: >-
-  Bilisim Proje Gelistirme için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+  Bilişim Proje Geliştirme için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
 ---
 
 # 📃 Sınav Soruları \| BPG

@@ -1,6 +1,6 @@
 ---
 description: >-
-  Ag Programlama için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+  Ağ Programlama için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
 ---
 
 # 📃 Sınav Soruları \| AP

@@ -1,6 +1,6 @@
 ---
 description: >-
-  Mikroislemciler için öğrenci notları, el yazıları, tutulmuş notlar
+  Mikroişlemciler için öğrenci notları, el yazıları, tutulmuş notlar
   notları
 ---
 

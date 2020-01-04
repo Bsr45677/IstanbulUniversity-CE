@@ -1,4 +1,4 @@
-# 🎲 Karma İçerikler \| STOCN
+# 🎲 Karma İçerikler \| SToCN
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

@@ -1,6 +1,6 @@
 ---
 description: >-
-  Bulanik Mantik için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+  Bulanık Mantık için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
 ---
 
 # 📃 Sınav Soruları \| BM

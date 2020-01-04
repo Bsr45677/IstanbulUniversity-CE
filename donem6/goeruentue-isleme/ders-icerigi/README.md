@@ -1,7 +1,7 @@
 ---
 description: >-
-  Goeruentue Isleme için öğrenci notları, el yazıları, tutulmuş notlar
+  Görüntü İşleme için öğrenci notları, el yazıları, tutulmuş notlar
   notları
 ---
 
-# 📚 Ders İçeriği \| GI
+# 📚 Ders İçeriği \| Gİ

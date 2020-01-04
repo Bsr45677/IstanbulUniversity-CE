@@ -1,9 +1,9 @@
 ---
 description: >-
-  Tuerk Dili için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+  Türk Dili 2 için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
 ---
 
-# 📃 Sınav Soruları \| TD
+# 📃 Sınav Soruları \| TD2
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

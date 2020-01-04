@@ -1,10 +1,10 @@
 ---
 description: >-
-  Olasilik Teorisi ve Istatistik için öğrenci notları, el yazıları, tutulmuş notlar
+  Olasılık Teorisi ve İstatistik için öğrenci notları, el yazıları, tutulmuş notlar
   notları
 ---
 
-# 📕 Öğrenci Notları \| OTvI
+# 📕 Öğrenci Notları \| OTvİ
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

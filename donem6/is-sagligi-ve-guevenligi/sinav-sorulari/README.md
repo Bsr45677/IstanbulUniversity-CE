@@ -1,9 +1,9 @@
 ---
 description: >-
-  Is Sagligi ve Guevenligi için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+  İş Sağlığı ve Güvenliği için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
 ---
 
-# 📃 Sınav Soruları \| ISvG
+# 📃 Sınav Soruları \| İSvG
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

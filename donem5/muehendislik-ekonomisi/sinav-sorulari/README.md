@@ -1,6 +1,6 @@
 ---
 description: >-
-  Muehendislik Ekonomisi için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+  Mühendislik Ekonomisi için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
 ---
 
 # 📃 Sınav Soruları \| ME

@@ -1,10 +1,10 @@
 ---
 description: >-
-  Bilgisayar Organizasyonu ve Tasarimi Bot Lab için öğrenci notları, el yazıları, tutulmuş notlar
+  Bilgisayar Organizasyonu ve Tasarımı - Lab için öğrenci notları, el yazıları, tutulmuş notlar
   notları
 ---
 
-# 📚 Ders İçeriği \| BOvTBL
+# 📚 Ders İçeriği \| BOvT-L
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

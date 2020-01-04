@@ -1,6 +1,6 @@
 ---
 description: >-
-  Kablosuz Haberlesme Aglari için öğrenci notları, el yazıları, tutulmuş notlar
+  Kablosuz Haberleşme Ağları için öğrenci notları, el yazıları, tutulmuş notlar
   notları
 ---
 

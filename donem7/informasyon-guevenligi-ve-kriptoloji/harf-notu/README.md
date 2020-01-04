@@ -1,4 +1,4 @@
-# 🆎 Harf Notu Dağılımı \| IGvK
+# 🆎 Harf Notu Dağılımı \| İGvK
 
 ## 🔔 Çan Bilgisi
 

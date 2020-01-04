@@ -1,6 +1,6 @@
 ---
 description: >-
-  Yoen Eylem için öğrenci notları, el yazıları, tutulmuş notlar
+  Yön Eylem için öğrenci notları, el yazıları, tutulmuş notlar
   notları
 ---
 

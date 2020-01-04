@@ -1,6 +1,6 @@
 ---
 description: >-
-  Bilisim Hukuku için öğrenci notları, el yazıları, tutulmuş notlar
+  Bilişim Hukuku için öğrenci notları, el yazıları, tutulmuş notlar
   notları
 ---
 

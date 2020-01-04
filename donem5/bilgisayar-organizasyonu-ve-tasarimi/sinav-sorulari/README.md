@@ -1,9 +1,9 @@
 ---
 description: >-
-  Bilgisayar Organizasyonu ve Tasarimi Bot Lab için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+  Bilgisayar Organizasyonu ve Tasarımı - Lab için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
 ---
 
-# 📃 Sınav Soruları \| BOvTBL
+# 📃 Sınav Soruları \| BOvT-L
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

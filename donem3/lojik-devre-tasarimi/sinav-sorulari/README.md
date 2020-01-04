@@ -1,6 +1,6 @@
 ---
 description: >-
-  Lojik Devre Tasarimi için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+  Lojik Devre Tasarımı için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
 ---
 
 # 📃 Sınav Soruları \| LDT

@@ -1,6 +1,6 @@
 ---
 description: >-
-  Bulanik Mantik için öğrenci notları, el yazıları, tutulmuş notlar
+  Bulanık Mantık için öğrenci notları, el yazıları, tutulmuş notlar
   notları
 ---
 

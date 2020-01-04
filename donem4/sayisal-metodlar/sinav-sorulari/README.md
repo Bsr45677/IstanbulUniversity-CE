@@ -1,6 +1,6 @@
 ---
 description: >-
-  Sayisal Metodlar için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+  Sayısal Metodlar için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
 ---
 
 # 📃 Sınav Soruları \| SM
