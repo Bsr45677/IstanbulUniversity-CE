@@ -27,24 +27,30 @@ Açık kaynaklı projeye ders notların ile katkı sağlamak için:
 
 ### 👮‍ Adlandırma Kuralı <a name="adlandirma-kurali"></a>
 
-Adlandırma kuralı `<yıl> <tip> <ders_kodu> ~ <sahibi>` şeklindedir.
+| 👮‍ Kural | 📑 Format                                                      |
+| --------- | ---------------------------------------------------------------- |
+| 📕 Öğrenci notları       |  `<tip> <yıl> <ders_kodu> ~ <sahibi>`                 |
+| 📃 Sınav       |  `<tip> <yıl> <ders_kodu>`                 |
+| 📚 Ders notu | `<hafta>.hafta <yıl> <ders kodu>` veya orjinal ismi ile kalabilir |
+
+> ❣️ `Vize, Final veya Büt` özellikleri, tarihinden daha önemli olduğundan ilk onlar yazılmalıdır
 
 | 👮‍ Kural | 📜 Açıklama                                                      |
 | --------- | ---------------------------------------------------------------- |
-| Yıl       | `2019`, `2020`                                                   |
 | Tip       | `Vize`, `Final`, `Quiz`, tüm notlar için `Tam` vs                |
+| Yıl       | `2019`, `2020`                                                   |
 | Ders Kodu | Dersinin adının baş harfleri (`NYP` Nesneye yönelik programlama) |
-| Sahibi    | Hocanın verdiği notsa boş bırakın, aksi halde isminiz ✨          |
+| Sahibi    | Hocanın verdiği notsa boş bırakın, aksi halde isminizi lütfedin ✨|
+| Hafta | Kaçıncı haftanın notu olduğu (`1`, `2`, `Son`) |
 
 ### 🚙 Dosya Konumlandırması <a name="dosya-konumlandirmasi"></a>
 
 | ⭐ Örnek Dosya İsmi                     | 📁 Koyulması gereken yer                                        |
 | -------------------------------------- | --------------------------------------------------------------- |
-| `2018 Final Notu BM ~ YEmreAk.pdf`     | `3. Sınıf 2. Dönem Notları/Bilgisayar Mimarisi/Öğrenci Notları` |
-| `2018 Tam Calculus ~ Asma Mirkhan.pdf` | `1. Sınıf 1. Dönem Notları - Calculus 1 - Öğrenci Notları`      |
-| `Final 2018 BM.pdf`                    | `3. Sınıf 2. Dönem Notları/Bilgisayar Mimarisi/Sınav Soruları`  |
-
-> 📢 Sınav soruları için `Vize, Final veya Büt` özellikleri, tarihinden daha önemli olduğundan ilk onlar yazılmalıdır
+| `2018 Final Notu BM ~ YEmreAk.pdf`     | `donem6\bilgisayar-mimarisi\ogrenci-notlari` |
+| `2018 Tam Calculus ~ Asma Mirkhan.pdf` | `donem1\calculus-1\ogrenci-notlari`      |
+| `Final 2018 BM.pdf`                    | `donem6\bilgisayar-mimarisi\sinav-sorulari`  |
+| `BPG1- Giris.pdf` | `donem7\bilisim-proje-gelistirme\ders-icerigi\sunumlar` |
 
 ## 📑 İçerik Yazma Formatı
 
@@ -110,27 +116,15 @@ GitHub projelerini `clone` yapıp, internetini harcamak yerine web üzerinden ka
 
 ## ⚓ GitHook'lar
 
+- ❣️ Bu alana sadece **ne olduğunu biliyorsan** bakmanı tavsiye ederim.
+- 📢 Ders notu ekleme gibi işlemler, yaptıktan sonra bilene haber edebilirsiniz
+- 💁‍♂️ Zaten eklenme işlemleri ile oluşan *pull request* bilen tarafından kabul edilecektir
+
 ### 💫 GitBook İndekslemesini Yapma
 
 Projeyi güncelleme işlemi için alttaki komutları veya `integrate.sh` scriptini kullanın
 
 - `pip3 install ypackage` ile ypackage paketimi indirin
-- `ygitbookintegration . -ur -ll 2` komutu ile entegrasyonu sağlayın
+- `ygitbookintegration .` komutu ile entegrasyonu sağlayın
 
 > Komut hakkında detaylar için `ygitbookintegration -h` yazabilirsiniz.
-
-### 👀 Neler Değişti Commit'i Tanımlama
-
-```sh
-#!/bin/sh
-# .git/hooks/pre-push dosyasında
-
-remote="$1"
-url="$2"
-
-echo "---
-description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri 🔍 arama motorunda aratarak sayfaya erişebilirsin
----
-" > CHANGELOG.md && \
-ygitchangelog.exe >> CHANGELOG.md && git add CHANGELOG.md && git commit -m "👀 Neler Değişti alanı yenilendi" && exit 0
-```
