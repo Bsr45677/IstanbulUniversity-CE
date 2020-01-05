@@ -3,7 +3,7 @@ description: >-
   Lojik Devre Tasarımı için genel, düzenlenmemiş, duyuru veya ek ders kaynağı notları
 ---
 
-# Genel Notlar \| LDT
+# 📖 Genel Notlar \| LDT
 
 - Alakalı konu olan **Sayısal Tasarım** notlarına [buradan][Sayısal Tasarım - Ege Uni] erişebilirsin
 - **Digital Desing** ek kaynak için [buraya][Digital Design - ITU] bakabilirsin

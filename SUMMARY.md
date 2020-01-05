@@ -70,7 +70,7 @@
       - [📚 Ders İçeriği \| LDT](donem3/lojik-devre-tasarimi/ders-icerigi/README.md)
         - [📅 Final \| LDT](donem3/lojik-devre-tasarimi/ders-icerigi/Final/README.md)
         - [📅 Vize \| LDT](donem3/lojik-devre-tasarimi/ders-icerigi/Vize/README.md)
-      - [Genel Notlar \| LDT](donem3/lojik-devre-tasarimi/genel-notlar/README.md)
+      - [📖 Genel Notlar \| LDT](donem3/lojik-devre-tasarimi/genel-notlar/README.md)
       - [📕 Öğrenci Notları \| LDT](donem3/lojik-devre-tasarimi/ogrenci-notlari/README.md)
       - [📃 Sınav Soruları \| LDT](donem3/lojik-devre-tasarimi/sinav-sorulari/README.md)
     - [👨‍💻 Nesneye Yönelik Programlama](donem3/nesneye-yonelik-programlama/README.md)
