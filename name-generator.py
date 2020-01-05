@@ -23,6 +23,20 @@ description: >-
 
 """
 
+DESC_KARMA = r"""---
+description: >-
+  {} için karışık, düzenlememiş, eski içerikler
+---
+
+"""
+
+DESC_GENEL = r"""---
+description: >-
+  {} için genel, düzenlenmemiş, duyuru veya ek ders kaynağı notları
+---
+
+"""
+
 
 def repeat(func):
     for l1 in os.listdir():
@@ -58,12 +72,18 @@ def renew(path):
     header += pattern
 
     filestr = ""
+    description = ""
     if "Öğrenci" in header:
-        filestr = DESC_OGR.format(lesson_header)
+        description = DESC_OGR
     elif "Ders" in header:
-        filestr = DESC_OGR.format(lesson_header)
+        description = DESC_DERS
     elif "Sınav" in header:
-        filestr = DESC_SINAV.format(lesson_header)
+        description = DESC_SINAV
+    elif "Karma" in header:
+        description = DESC_KARMA
+    elif "Genel" in header:
+        description = DESC_GENEL
+    filestr = description.format(lesson_header)
 
     read = False
     filestr += "# " + header + "\n"
