@@ -34,11 +34,11 @@ Lab dersinde **LTspice** uygulaması kullanılmaktadır.
 
 R1 R2 akım değerleri:
 
-![Akım R1,R2](../../../../res/Akım&#32;R1,R2.png)
+![Akım R1,R2](../../../../res/Ak%C4%B1m%20R1,R2.png)
 
 A, B, C arasındaki gerilim:
 
-![Volt A,B,C](../../../../res/Volt&#32;A,B,C.png)
+![Volt A,B,C](../../../../res/Volt%20A,B,C.png)
 
 #### Transient Analiz
 
