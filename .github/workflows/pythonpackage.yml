@@ -1,0 +1,40 @@
+﻿name: 💫 YGitBook Integration
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    strategy:
+      max-parallel: 4
+      matrix:
+        python-version: [3.8]
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v1
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    - name: Run name generator
+      run: |
+        python name-generator.py
+    - name: Run ygitbookintegration
+      run: |
+        ygitbookintegration .
+    - name: Commit changes
+      run: |
+        git config --local user.email "yedhrab@gmail.com"
+        git config --local user.name "yedhrab"
+        echo `git add -A && git commit -m "💫 GitBook entegrasyonu yapıldı"`
+    - name: GitHub Push
+      uses: ad-m/github-push-action@v0.5.0
+      with:
+        github_token: ${{ secrets.YGITBOOK_INTEGRATION }}
+
+

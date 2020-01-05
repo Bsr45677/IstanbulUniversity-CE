@@ -1,7 +1,6 @@
 ---
 description: >-
-  Software Engineering için öğrenci notları, el yazıları, tutulmuş notlar
-  notları
+  Software Engineering için öğrenci notları, el yazıları, tutulmuş veya alınmış notlar
 ---
 
 # 📕 Öğrenci Notları \| SE

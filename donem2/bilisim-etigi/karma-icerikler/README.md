@@ -1,6 +1,6 @@
 ---
 description: >-
-  Bilişim Etiği için karışık, düzenlememiş, eski içerikler
+  Bilişim Etiği için karışık, düzenlememiş ve eski içerikleri barındıran notlar
 ---
 
 # 🎲 Karma İçerikler \| BE

@@ -1,6 +1,6 @@
 ---
 description: >-
-  Formal Diller ve Otomatlar için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+  Formal Diller ve Otomatlar için sınav soruları, çıkmış sorular, çıkmışlar veya önceki senelerde çıkan sorular
 ---
 
 # 📃 Sınav Soruları \| FDvO
@@ -14,7 +14,7 @@ description: >-
 
 ## 📅 Final 2018 Sınavı Bilgileri
 
-Resme [buradan][Final 2018 FDO] erişebilirsin
+Resme [buradan](./Final%202018%20Formal.pdf) erişebilirsin
 
 1. düzgün gramer ve lineer gramer olup olmadıklarını gösteriniz diyordu.
 2. Soruda da yanda verilen g gramerini chomsky normal form'a dönüştürünüz diyordu.
@@ -23,7 +23,3 @@ Aşağıda verilen Pda nın dilini tanımlayınız yazıyor,
 ikinci satırda ise;
 abbaaa dizgisini anlık geçişlerle işleyiniz ve kabul edilip edilmediğini bulunuz, belirleyiniz falan. Yani genel olarak bunlar;
 Pda, npda, anlık geçiş, chomsky  normal form vardı.
-
-> © Copyright ~ Hüseyin Karademir
-
-[Final 2018 FDO]: ./S%C4%B1nav%20Sorular%C4%B1%2FFinal%202018%20FDO.pdf

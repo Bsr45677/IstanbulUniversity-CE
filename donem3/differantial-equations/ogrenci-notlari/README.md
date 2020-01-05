@@ -1,7 +1,6 @@
 ---
 description: >-
-  Differantial Equations için öğrenci notları, el yazıları, tutulmuş notlar
-  notları
+  Differantial Equations için öğrenci notları, el yazıları, tutulmuş veya alınmış notlar
 ---
 
 # 📕 Öğrenci Notları \| DE

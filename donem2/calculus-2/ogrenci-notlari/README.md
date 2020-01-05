@@ -1,7 +1,6 @@
 ---
 description: >-
-  Calculus 2 için öğrenci notları, el yazıları, tutulmuş notlar
-  notları
+  Calculus 2 için öğrenci notları, el yazıları, tutulmuş veya alınmış notlar
 ---
 
 # 📕 Öğrenci Notları \| C2

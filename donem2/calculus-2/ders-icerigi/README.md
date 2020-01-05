@@ -1,7 +1,6 @@
 ---
 description: >-
-  Calculus 2 için ders konuları, içeriği veya
-  notları
+  Calculus 2 için ders konuları, içeriği veya notları
 ---
 
 # 📚 Ders İçeriği \| C2

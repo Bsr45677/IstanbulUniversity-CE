@@ -1,6 +1,6 @@
 ---
 description: >-
-  Signal Processing için Final 2019 notları
+  Signal Processing için 2019 notları
 ---
 
 # 📅 2019 \| SP

@@ -1,7 +1,6 @@
 ---
 description: >-
-  Bilgisayar Mühendisliğine Giriş için öğrenci notları, el yazıları, tutulmuş notlar
-  notları
+  Bilgisayar Mühendisliğine Giriş için öğrenci notları, el yazıları, tutulmuş veya alınmış notlar
 ---
 
 # 📕 Öğrenci Notları \| BMG

@@ -1,7 +1,6 @@
 ---
 description: >-
-  Fizik 2 için ders konuları, içeriği veya
-  notları
+  Fizik 2 için ders konuları, içeriği veya notları
 ---
 
 # 📚 Ders İçeriği \| F2

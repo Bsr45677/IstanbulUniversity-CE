@@ -1,7 +1,6 @@
 ---
 description: >-
-  Sayısal Metodlar için ders konuları, içeriği veya
-  notları
+  Sayısal Metodlar için ders konuları, içeriği veya notları
 ---
 
 # 📚 Ders İçeriği \| SM

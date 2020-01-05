@@ -1,6 +1,6 @@
 ---
 description: >-
-  Bilgisayar Ağlarında Güvenlik için karışık, düzenlememiş, eski içerikler
+  Bilgisayar Ağlarında Güvenlik için karışık, düzenlememiş ve eski içerikleri barındıran notlar
 ---
 
 # 🎲 Karma İçerikler \| BAG

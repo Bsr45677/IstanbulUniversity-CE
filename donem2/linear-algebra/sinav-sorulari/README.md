@@ -1,6 +1,6 @@
 ---
 description: >-
-  Linear Algebra için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+  Linear Algebra için sınav soruları, çıkmış sorular, çıkmışlar veya önceki senelerde çıkan sorular
 ---
 
 # 📃 Sınav Soruları \| LA

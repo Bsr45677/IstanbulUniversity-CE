@@ -1,7 +1,6 @@
 ---
 description: >-
-  İş Sağlığı ve Güvenliği için ders konuları, içeriği veya
-  notları
+  İş Sağlığı ve Güvenliği için ders konuları, içeriği veya notları
 ---
 
 # 📚 Ders İçeriği \| İSvG

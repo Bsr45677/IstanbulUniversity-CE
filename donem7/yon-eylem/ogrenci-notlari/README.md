@@ -1,7 +1,6 @@
 ---
 description: >-
-  Yön Eylem için öğrenci notları, el yazıları, tutulmuş notlar
-  notları
+  Yön Eylem için öğrenci notları, el yazıları, tutulmuş veya alınmış notlar
 ---
 
 # 📕 Öğrenci Notları \| YE

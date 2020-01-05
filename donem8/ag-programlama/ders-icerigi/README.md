@@ -1,7 +1,6 @@
 ---
 description: >-
-  Ağ Programlama için ders konuları, içeriği veya
-  notları
+  Ağ Programlama için ders konuları, içeriği veya notları
 ---
 
 # 📚 Ders İçeriği \| AP

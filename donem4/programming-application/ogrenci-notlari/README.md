@@ -1,7 +1,6 @@
 ---
 description: >-
-  Programming Applicaiton için öğrenci notları, el yazıları, tutulmuş notlar
-  notları
+  Programming Applicaiton için öğrenci notları, el yazıları, tutulmuş veya alınmış notlar
 ---
 
 # 📕 Öğrenci Notları \| PA
@@ -12,7 +11,7 @@ description: >-
 
 ## 🔗 Faydalı Bağlantılar
 
-- [W3Scholl][W3Scholl] adli sitede HTML / CSS hakkında bilgiler mevcut.
+- [W3Schools][W3Scholl] adli sitede HTML / CSS hakkında bilgiler mevcut.
   - Hocanın slaytlarından bazıları buradan alıntıdır.
 - [Accessing JSF components tag attribute values from a backing bean](https://stackoverflow.com/questions/11061356/accessing-jsf-components-tag-attribute-values-from-a-backing-bean)
 - [Calling a JavaScript function from managed bean](https://stackoverflow.com/questions/5675017/calling-a-javascript-function-from-managed-bean)

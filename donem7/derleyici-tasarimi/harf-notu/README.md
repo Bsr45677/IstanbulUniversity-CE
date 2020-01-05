@@ -1,3 +1,8 @@
+---
+description: >-
+  Derleyici Tasarımı için Harf Notu Dağılımı notları
+---
+
 # 🆎 Harf Notu Dağılımı \| DT
 
 ### 📅 2017 - 2018

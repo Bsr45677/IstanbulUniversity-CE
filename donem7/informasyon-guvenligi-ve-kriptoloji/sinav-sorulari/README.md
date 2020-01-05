@@ -1,9 +1,25 @@
 ---
 description: >-
-  İnformasyon Güvenliği ve Kriptoloji için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+  İnformasyon Güvenliği ve Kriptoloji için sınav soruları, çıkmış sorular, çıkmışlar veya önceki senelerde çıkan sorular
 ---
 
 # 📃 Sınav Soruları \| İGvK
+
+## 📢 Sınavlar Hakkında
+
+### 📅 Final Sınavı
+
+- 📋 Çıkmışlardan karışık sormaktadır
+- 🤯 50 soruluk testler gelebilmektedir
+- 😏 Ama hepsi çıkmışlardandır
+
+## ✍ Öğrenci Çözümleri
+
+### 📅 Vize 2018
+
+![](../../../res/kripto_vize.png)
+
+## 📂 Dosyalar
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
@@ -17,20 +33,3 @@ description: >-
 - [Vize 2018 Kripto](Vize%202018%20Kripto.pdf)
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
-
-## 📢 Sınavlar Hakkında
-
-### 📅 Final Sınavı
-
-- 😥 Asistan hocaların anlattığı konulardan da sorumluyuz
-- 📋 Çıkmışlardan karışık sormaktadır
-
-
-![](../../../res/final_hakkinda2.png)
-![](../../../res/final_hakkında.png)
-
-## ✍ Öğrenci Çözümleri
-
-### 📅 Vize 2018
-
-![](../../../res/kripto_vize.png)

@@ -1,7 +1,6 @@
 ---
 description: >-
-  Operating Systems için ders konuları, içeriği veya
-  notları
+  Operating Systems için ders konuları, içeriği veya notları
 ---
 
 # 📚 Ders İçeriği \| OS

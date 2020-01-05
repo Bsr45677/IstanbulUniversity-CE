@@ -1,6 +1,6 @@
 ---
 description: >-
-  Ağ Programlama için karışık, düzenlememiş, eski içerikler
+  Ağ Programlama için karışık, düzenlememiş ve eski içerikleri barındıran notlar
 ---
 
 # 🎲 Karma İçerikler \| AP

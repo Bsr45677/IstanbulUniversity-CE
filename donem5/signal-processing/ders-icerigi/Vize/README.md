@@ -1,6 +1,6 @@
 ---
 description: >-
-  Signal Processing için Vize 2019 notları
+  Signal Processing için Vize notları
 ---
 
 # 📅 Vize \| SP

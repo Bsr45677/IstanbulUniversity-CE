@@ -1,4 +1,9 @@
-# 🆎 Harf Notu /| MP \| MP
+---
+description: >-
+  Mobile Programming için Harf Notu notları
+---
+
+# 🆎 Harf Notu \| MP
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

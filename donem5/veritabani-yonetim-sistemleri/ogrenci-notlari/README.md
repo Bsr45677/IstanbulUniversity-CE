@@ -1,7 +1,6 @@
 ---
 description: >-
-  Veritabanı Yönetim Sistemleri için öğrenci notları, el yazıları, tutulmuş notlar
-  notları
+  Veritabanı Yönetim Sistemleri için öğrenci notları, el yazıları, tutulmuş veya alınmış notlar
 ---
 
 # 📕 Öğrenci Notları \| VYS

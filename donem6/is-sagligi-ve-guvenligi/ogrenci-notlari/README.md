@@ -1,7 +1,6 @@
 ---
 description: >-
-  İş Sağlığı ve Güvenliği için öğrenci notları, el yazıları, tutulmuş notlar
-  notları
+  İş Sağlığı ve Güvenliği için öğrenci notları, el yazıları, tutulmuş veya alınmış notlar
 ---
 
 # 📕 Öğrenci Notları \| İSvG

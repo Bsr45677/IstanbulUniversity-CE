@@ -1,7 +1,6 @@
 ---
 description: >-
-  Mobile Programming için öğrenci notları, el yazıları, tutulmuş notlar
-  notları
+  Mobile Programming için öğrenci notları, el yazıları, tutulmuş veya alınmış notlar
 ---
 
 # 📕 Öğrenci Notları \| MP

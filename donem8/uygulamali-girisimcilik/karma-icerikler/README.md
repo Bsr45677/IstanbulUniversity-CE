@@ -1,6 +1,6 @@
 ---
 description: >-
-  Uygulamalı Girişimcilik için karışık, düzenlememiş, eski içerikler
+  Uygulamalı Girişimcilik için karışık, düzenlememiş ve eski içerikleri barındıran notlar
 ---
 
 # 🎲 Karma İçerikler \| UG

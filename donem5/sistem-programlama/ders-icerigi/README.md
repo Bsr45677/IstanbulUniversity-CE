@@ -1,7 +1,6 @@
 ---
 description: >-
-  Sistem Programlama için ders konuları, içeriği veya
-  notları
+  Sistem Programlama için ders konuları, içeriği veya notları
 ---
 
 # 📚 Ders İçeriği \| SP

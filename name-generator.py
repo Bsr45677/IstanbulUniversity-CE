@@ -4,28 +4,26 @@ from ypackage.markdown import read_first_header
 
 DESC_DERS = r"""---
 description: >-
-  {} için ders konuları, içeriği veya
-  notları
+  {} için ders konuları, içeriği veya notları
 ---
 
 """
 DESC_SINAV = r"""---
 description: >-
-  {} için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+  {} için sınav soruları, çıkmış sorular, çıkmışlar veya önceki senelerde çıkan sorular
 ---
 
 """
 DESC_OGR = r"""---
 description: >-
-  {} için öğrenci notları, el yazıları, tutulmuş notlar
-  notları
+  {} için öğrenci notları, el yazıları, tutulmuş veya alınmış notlar
 ---
 
 """
 
 DESC_KARMA = r"""---
 description: >-
-  {} için karışık, düzenlememiş, eski içerikler
+  {} için karışık, düzenlememiş ve eski içerikleri barındıran notlar
 ---
 
 """
@@ -57,18 +55,23 @@ def repeat(func):
                         if os.path.isdir(l3):
                             for l4 in os.listdir(l3):
                                 l4 = os.path.join(l3, l4)
-                                if os.path.isdir(l4):
+                                if "README.md" in l4:
+                                    func(l4, 4)
+                                elif os.path.isdir(l4):
                                     for l5 in os.listdir(l4):
-                                        if "README" in l5:
+                                        if "README.md" in l5:
                                             l5 = os.path.join(l4, l5)
-                                            func(l5)
+                                            func(l5, 5)
 
 
-def renew(path):
+def renew(path, lvl):
     header = read_first_header(path)
 
-    lesson_path = os.path.join(os.path.dirname(
-        os.path.dirname(os.path.dirname(path))), "README.md")
+    lesson_path = path
+    for i in range(2, lvl):
+        lesson_path = os.path.dirname(lesson_path)
+    lesson_path = os.path.join(lesson_path, "README.md")
+
     lesson_header = read_first_header(lesson_path)
     lesson_header = lesson_header[lesson_header.find(" ") + 1:]  # Emojiyi kaldırma
 

@@ -1,7 +1,6 @@
 ---
 description: >-
-  Lojik Devre Tasarımı - Lab için ders konuları, içeriği veya
-  notları
+  Lojik Devre Tasarımı - Lab için ders konuları, içeriği veya notları
 ---
 
 # 📚 Ders İçeriği \| LDT-L

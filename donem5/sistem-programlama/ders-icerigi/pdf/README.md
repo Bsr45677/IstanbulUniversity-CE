@@ -11,6 +11,7 @@ description: >-
 - [2_TableOfContents](2_TableOfContents.pdf)
 - [3_Preface](3_Preface.pdf)
 - [4_Index](4_Index.pdf)
+- [TITLE](TITLE.pdf)
 - [ch01_An Introduction to Device Drivers](ch01_An%20Introduction%20to%20Device%20Drivers.pdf)
 - [ch02_Bulding and Running Modules](ch02_Bulding%20and%20Running%20Modules.pdf)
 - [ch03_CharDrivers](ch03_CharDrivers.pdf)
@@ -29,6 +30,5 @@ description: >-
 - [ch16_Block Devices](ch16_Block%20Devices.pdf)
 - [ch17_Network Drivers](ch17_Network%20Drivers.pdf)
 - [ch18_TTY Drivers](ch18_TTY%20Drivers.pdf)
-- [TITLE](TITLE.pdf)
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

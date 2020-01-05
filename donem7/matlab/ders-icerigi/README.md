@@ -1,7 +1,6 @@
 ---
 description: >-
-  Matlab için ders konuları, içeriği veya
-  notları
+  Matlab için ders konuları, içeriği veya notları
 ---
 
 # 📚 Ders İçeriği \| M

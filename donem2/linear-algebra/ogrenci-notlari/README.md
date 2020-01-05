@@ -1,7 +1,6 @@
 ---
 description: >-
-  Linear Algebra için öğrenci notları, el yazıları, tutulmuş notlar
-  notları
+  Linear Algebra için öğrenci notları, el yazıları, tutulmuş veya alınmış notlar
 ---
 
 # 📕 Öğrenci Notları \| LA

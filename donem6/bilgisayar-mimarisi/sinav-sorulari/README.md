@@ -1,6 +1,6 @@
 ---
 description: >-
-  Bilgisayar Mimarisi için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+  Bilgisayar Mimarisi için sınav soruları, çıkmış sorular, çıkmışlar veya önceki senelerde çıkan sorular
 ---
 
 # 📃 Sınav Soruları \| BM

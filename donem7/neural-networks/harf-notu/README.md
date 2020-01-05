@@ -1,3 +1,8 @@
+---
+description: >-
+  Neural Networks için Harf Notu notları
+---
+
 # 🆎 Harf Notu \| NN
 
 ## 📅 2018 - 2019

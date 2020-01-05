@@ -1,7 +1,6 @@
 ---
 description: >-
-  Mühendislik Ekonomisi için öğrenci notları, el yazıları, tutulmuş notlar
-  notları
+  Mühendislik Ekonomisi için öğrenci notları, el yazıları, tutulmuş veya alınmış notlar
 ---
 
 # 📕 Öğrenci Notları \| ME

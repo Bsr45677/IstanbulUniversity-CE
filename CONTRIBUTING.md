@@ -31,7 +31,7 @@ Açık kaynaklı projeye ders notların ile katkı sağlamak için:
 | --------- | ---------------------------------------------------------------- |
 | 📕 Öğrenci notları       |  `<tip> <yıl> <ders_kodu> ~ <sahibi>`                 |
 | 📃 Sınav       |  `<tip> <yıl> <ders_kodu>`                 |
-| 📚 Ders notu | `<hafta>.hafta <yıl> <ders kodu>` veya orjinal ismi ile kalabilir |
+| 📚 Ders notu | `<hafta | konu> <yıl> <ders kodu>` veya orjinal ismi ile kalabilir |
 
 > ❣️ `Vize, Final veya Büt` özellikleri, tarihinden daha önemli olduğundan ilk onlar yazılmalıdır
 
@@ -41,7 +41,8 @@ Açık kaynaklı projeye ders notların ile katkı sağlamak için:
 | Yıl       | `2019`, `2020`                                                   |
 | Ders Kodu | Dersinin adının baş harfleri (`NYP` Nesneye yönelik programlama) |
 | Sahibi    | Hocanın verdiği notsa boş bırakın, aksi halde isminizi lütfedin ✨|
-| Hafta | Kaçıncı haftanın notu olduğu (`1`, `2`, `Son`) |
+| Hafta | Kaçıncı haftanın notu olduğu (`1. Hafta`, `2. Hafta`, `Son Hafta`) |
+| Konu | Derste işlenen konu (`Services`, `Multiprocessing`) |
 
 ### 🚙 Dosya Konumlandırması <a name="dosya-konumlandirmasi"></a>
 

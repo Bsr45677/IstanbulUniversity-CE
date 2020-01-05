@@ -1,7 +1,6 @@
 ---
 description: >-
-  İnformasyon Güvenliği ve Kriptoloji için ders konuları, içeriği veya
-  notları
+  İnformasyon Güvenliği ve Kriptoloji için ders konuları, içeriği veya notları
 ---
 
 # 📚 Ders İçeriği \| İGvK

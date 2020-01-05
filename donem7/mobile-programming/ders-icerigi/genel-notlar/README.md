@@ -3,7 +3,7 @@ description: >-
   Mobile Programming için genel, düzenlenmemiş, duyuru veya ek ders kaynağı notları
 ---
 
-# 📖 Genel Notlar /| MP \| MP
+# 📖 Genel Notlar \| MP
 
 ## 📢 Ders Hakkında
 

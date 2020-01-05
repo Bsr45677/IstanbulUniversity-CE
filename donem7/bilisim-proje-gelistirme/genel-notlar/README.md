@@ -1,4 +1,9 @@
-# 📢 Duyurular \| BPG
+---
+description: >-
+  Bilişim Proje Geliştirme için genel, düzenlenmemiş, duyuru veya ek ders kaynağı notları
+---
+
+# 📖 Genel Notlar \| BPG
 
 ## 🕐 Dersin İşlenişi
 

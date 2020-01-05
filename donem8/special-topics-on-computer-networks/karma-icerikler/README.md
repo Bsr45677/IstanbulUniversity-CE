@@ -1,6 +1,6 @@
 ---
 description: >-
-  Special Topics on Computer Networks için karışık, düzenlememiş, eski içerikler
+  Special Topics on Computer Networks için karışık, düzenlememiş ve eski içerikleri barındıran notlar
 ---
 
 # 🎲 Karma İçerikler \| SToCN

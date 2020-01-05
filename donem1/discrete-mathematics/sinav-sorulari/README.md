@@ -1,13 +1,13 @@
 ---
 description: >-
-  Discrete Mathematics için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+  Discrete Mathematics için sınav soruları, çıkmış sorular, çıkmışlar veya önceki senelerde çıkan sorular
 ---
 
 # 📃 Sınav Soruları \| DM
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
-- [2017 Büt DM](2017%20B%C3%BCt%20DM.pdf)
+- [Büt 2017 DM](B%C3%BCt%202017%20DM.pdf)
 - [Final 2017 DM_1](Final%202017%20DM_1.pdf)
 - [Final 2017 DM_2](Final%202017%20DM_2.pdf)
 - [Final 2018 DM](Final%202018%20DM.pdf)

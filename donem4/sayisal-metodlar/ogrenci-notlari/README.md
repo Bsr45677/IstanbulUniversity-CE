@@ -1,7 +1,6 @@
 ---
 description: >-
-  Sayısal Metodlar için öğrenci notları, el yazıları, tutulmuş notlar
-  notları
+  Sayısal Metodlar için öğrenci notları, el yazıları, tutulmuş veya alınmış notlar
 ---
 
 # 📕 Öğrenci Notları \| SM

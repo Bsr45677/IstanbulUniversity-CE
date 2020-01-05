@@ -1,9 +1,9 @@
 ---
 description: >-
-  Mobile Programming için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+  Mobile Programming için sınav soruları, çıkmış sorular, çıkmışlar veya önceki senelerde çıkan sorular
 ---
 
-# 📃 Sınav Soruları /| MP \| MP
+# 📃 Sınav Soruları \| MP
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

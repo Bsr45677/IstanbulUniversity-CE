@@ -1,6 +1,6 @@
 ---
 description: >-
-  Calculus 2 için sınav soruları, çıkmış sorular, çıkmışlar, önceki senelerde çıkan sorular
+  Calculus 2 için sınav soruları, çıkmış sorular, çıkmışlar veya önceki senelerde çıkan sorular
 ---
 
 # 📃 Sınav Soruları \| C2

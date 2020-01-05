@@ -1,7 +1,6 @@
 ---
 description: >-
-  Introduction to Programming için öğrenci notları, el yazıları, tutulmuş notlar
-  notları
+  Introduction to Programming için öğrenci notları, el yazıları, tutulmuş veya alınmış notlar
 ---
 
 # 📕 Öğrenci Notları \| ItP

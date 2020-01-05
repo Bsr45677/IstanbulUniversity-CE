@@ -1,7 +1,6 @@
 ---
 description: >-
-  Yön Eylem için ders konuları, içeriği veya
-  notları
+  Yön Eylem için ders konuları, içeriği veya notları
 ---
 
 # 📚 Ders İçeriği \| YE

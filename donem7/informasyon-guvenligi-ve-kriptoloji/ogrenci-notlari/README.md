@@ -1,7 +1,6 @@
 ---
 description: >-
-  İnformasyon Güvenliği ve Kriptoloji için öğrenci notları, el yazıları, tutulmuş notlar
-  notları
+  İnformasyon Güvenliği ve Kriptoloji için öğrenci notları, el yazıları, tutulmuş veya alınmış notlar
 ---
 
 # 📕 Öğrenci Notları \| İGvK

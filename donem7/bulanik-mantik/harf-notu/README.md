@@ -1,3 +1,8 @@
+---
+description: >-
+  Bulanık Mantık için Harf Notu notları
+---
+
 # 🆎 Harf Notu \| BM
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

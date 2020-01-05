@@ -1,7 +1,6 @@
 ---
 description: >-
-  Kablosuz Haberleşme Ağları için öğrenci notları, el yazıları, tutulmuş notlar
-  notları
+  Kablosuz Haberleşme Ağları için öğrenci notları, el yazıları, tutulmuş veya alınmış notlar
 ---
 
 # 📕 Öğrenci Notları \| KHA

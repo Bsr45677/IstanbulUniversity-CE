@@ -1,7 +1,6 @@
 ---
 description: >-
-  Bilgisayar Aritmetiği için ders konuları, içeriği veya
-  notları
+  Bilgisayar Aritmetiği için ders konuları, içeriği veya notları
 ---
 
 # 📚 Ders İçeriği \| BA

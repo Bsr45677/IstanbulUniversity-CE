@@ -1,3 +1,8 @@
+---
+description: >-
+  İnformasyon Güvenliği ve Kriptoloji için Harf Notu Dağılımı notları
+---
+
 # 🆎 Harf Notu Dağılımı \| İGvK
 
 ## 🔔 Çan Bilgisi

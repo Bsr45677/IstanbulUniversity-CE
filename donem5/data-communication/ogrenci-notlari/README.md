@@ -1,7 +1,6 @@
 ---
 description: >-
-  Data Communication için öğrenci notları, el yazıları, tutulmuş notlar
-  notları
+  Data Communication için öğrenci notları, el yazıları, tutulmuş veya alınmış notlar
 ---
 
 # 📕 Öğrenci Notları \| DC

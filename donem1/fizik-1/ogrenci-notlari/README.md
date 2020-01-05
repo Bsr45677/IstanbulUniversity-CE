@@ -1,7 +1,6 @@
 ---
 description: >-
-  Fizik 1 için öğrenci notları, el yazıları, tutulmuş notlar
-  notları
+  Fizik 1 için öğrenci notları, el yazıları, tutulmuş veya alınmış notlar
 ---
 
 # 📕 Öğrenci Notları \| F1

@@ -1,6 +1,6 @@
 ---
 description: >-
-  Information Technology Management and Standards için karışık, düzenlememiş, eski içerikler
+  Information Technology Management and Standards için karışık, düzenlememiş ve eski içerikleri barındıran notlar
 ---
 
 # 🎲 Karma İçerikler \| ITMaS

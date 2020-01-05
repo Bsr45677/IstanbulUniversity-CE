@@ -1,6 +1,6 @@
 ---
 description: >-
-  Finansta Bilişim Teknolojileri için karışık, düzenlememiş, eski içerikler
+  Finansta Bilişim Teknolojileri için karışık, düzenlememiş ve eski içerikleri barındıran notlar
 ---
 
 # 🎲 Karma İçerikler \| FBT

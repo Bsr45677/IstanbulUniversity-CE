@@ -1,7 +1,6 @@
 ---
 description: >-
-  Bilişim Proje Geliştirme için öğrenci notları, el yazıları, tutulmuş notlar
-  notları
+  Bilişim Proje Geliştirme için öğrenci notları, el yazıları, tutulmuş veya alınmış notlar
 ---
 
 # ✍ Öğrenci Notları \| BPG

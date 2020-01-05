@@ -1,14 +1,13 @@
 ---
 description: >-
-  File Organization için öğrenci notları, el yazıları, tutulmuş notlar
-  notları
+  File Organization için öğrenci notları, el yazıları, tutulmuş veya alınmış notlar
 ---
 
 # 📕 Öğrenci Notları \| FO
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
-- [Ders Notları FO ~ YEmreAk](Ders%20Notlar%C4%B1%20FO%20~%20YEmreAk.pdf)
+- [Tam 2018 FO ~ YEmreAk](Tam%202018%20FO%20~%20YEmreAk.pdf)
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

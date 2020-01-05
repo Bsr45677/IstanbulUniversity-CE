@@ -1,7 +1,6 @@
 ---
 description: >-
-  Veri Yapıları için öğrenci notları, el yazıları, tutulmuş notlar
-  notları
+  Veri Yapıları için öğrenci notları, el yazıları, tutulmuş veya alınmış notlar
 ---
 
 # 📕 Öğrenci Notları \| VY

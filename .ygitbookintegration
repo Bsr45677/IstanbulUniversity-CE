@@ -1,3 +1,2 @@
 [integration "pre"]
-args = -rg -ll 2 -c https://github.com/YEmreAk/IstanbulUniversity-CE
-
+args = -rgc -ll 2 -ru https://github.com/YEmreAk/IstanbulUniversity-CE -ic "💫 GitBook entegrasyonu yapıldı" "Merge branch 'master' of https://github.com/YEmreAk/IstanbulUniversity-CE" -cm "💫 GitBook entegrasyonu yapıldı"

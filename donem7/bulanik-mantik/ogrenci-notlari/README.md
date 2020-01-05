@@ -1,7 +1,6 @@
 ---
 description: >-
-  Bulanık Mantık için öğrenci notları, el yazıları, tutulmuş notlar
-  notları
+  Bulanık Mantık için öğrenci notları, el yazıları, tutulmuş veya alınmış notlar
 ---
 
 # 📕 Öğrenci Notları \| BM

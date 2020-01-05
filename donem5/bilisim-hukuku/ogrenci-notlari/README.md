@@ -1,7 +1,6 @@
 ---
 description: >-
-  Bilişim Hukuku için öğrenci notları, el yazıları, tutulmuş notlar
-  notları
+  Bilişim Hukuku için öğrenci notları, el yazıları, tutulmuş veya alınmış notlar
 ---
 
 # 📕 Öğrenci Notları \| BH

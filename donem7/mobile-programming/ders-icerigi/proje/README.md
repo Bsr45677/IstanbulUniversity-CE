@@ -1,9 +1,9 @@
 ---
 description: >-
-  Mobile Programming için  Proje /| MP notları
+  Mobile Programming için  Proje notları
 ---
 
-# 🏗️ Proje /| MP \| MP
+# 🏗️ Proje \| MP
 
 - 📰 Haber uygulaması yapılması istenmektedir
 - ✨ Her ek özellik, ek puan kazandıracaktır

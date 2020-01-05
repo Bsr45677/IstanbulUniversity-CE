@@ -1,7 +1,6 @@
 ---
 description: >-
-  Olasılık Teorisi ve İstatistik için ders konuları, içeriği veya
-  notları
+  Olasılık Teorisi ve İstatistik için ders konuları, içeriği veya notları
 ---
 
 # 📚 Ders İçeriği \| OTvİ

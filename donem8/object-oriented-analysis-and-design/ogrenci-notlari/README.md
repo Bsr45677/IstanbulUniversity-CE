@@ -1,7 +1,6 @@
 ---
 description: >-
-  Object Oriented Analysis and Design için öğrenci notları, el yazıları, tutulmuş notlar
-  notları
+  Object Oriented Analysis and Design için öğrenci notları, el yazıları, tutulmuş veya alınmış notlar
 ---
 
 # 📕 Öğrenci Notları \| OOAaD

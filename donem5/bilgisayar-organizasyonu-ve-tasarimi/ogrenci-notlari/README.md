@@ -1,7 +1,6 @@
 ---
 description: >-
-  Bilgisayar Organizasyonu ve Tasarımı - Lab için öğrenci notları, el yazıları, tutulmuş notlar
-  notları
+  Bilgisayar Organizasyonu ve Tasarımı - Lab için öğrenci notları, el yazıları, tutulmuş veya alınmış notlar
 ---
 
 # 📕 Öğrenci Notları \| BOvT-L

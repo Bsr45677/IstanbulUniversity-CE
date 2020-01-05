@@ -1,6 +1,6 @@
 ---
 description: >-
-  Artificial Intelligence için Final 2019 notları
+  Artificial Intelligence için Final notları
 ---
 
 # 📅 Final \| AI

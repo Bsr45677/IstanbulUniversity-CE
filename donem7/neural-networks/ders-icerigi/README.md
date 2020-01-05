@@ -1,10 +1,9 @@
 ---
 description: >-
-  Neural Networks için ders konuları, içeriği veya
-  notları
+  Neural Networks için ders konuları, içeriği veya notları
 ---
 
-# 📚 Ders İçeriği /| NN \| NN
+# 📚 Ders İçeriği  \| NN
 
 ## 📢 Notlar Hakkında
 

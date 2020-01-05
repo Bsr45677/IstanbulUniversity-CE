@@ -1,7 +1,6 @@
 ---
 description: >-
-  Lojik Devre Tasarımı için öğrenci notları, el yazıları, tutulmuş notlar
-  notları
+  Lojik Devre Tasarımı için öğrenci notları, el yazıları, tutulmuş veya alınmış notlar
 ---
 
 # 📕 Öğrenci Notları \| LDT

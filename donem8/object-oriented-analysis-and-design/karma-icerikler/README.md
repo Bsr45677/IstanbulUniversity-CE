@@ -1,6 +1,6 @@
 ---
 description: >-
-  Object Oriented Analysis and Design için karışık, düzenlememiş, eski içerikler
+  Object Oriented Analysis and Design için karışık, düzenlememiş ve eski içerikleri barındıran notlar
 ---
 
 # 🎲 Karma İçerikler \| OOAaD

@@ -1,7 +1,6 @@
 ---
 description: >-
-  Bulanık Mantık için ders konuları, içeriği veya
-  notları
+  Bulanık Mantık için ders konuları, içeriği veya notları
 ---
 
 # 📚 Ders İçeriği \| BM

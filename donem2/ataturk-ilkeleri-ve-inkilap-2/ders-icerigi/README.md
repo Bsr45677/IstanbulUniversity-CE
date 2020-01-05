@@ -1,7 +1,6 @@
 ---
 description: >-
-  Atatürk İlkeleri ve İnkılap 2 için ders konuları, içeriği veya
-  notları
+  Atatürk İlkeleri ve İnkılap 2 için ders konuları, içeriği veya notları
 ---
 
 # 📚 Ders İçeriği \| Aİvİ2

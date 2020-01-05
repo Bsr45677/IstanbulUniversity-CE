@@ -1,7 +1,6 @@
 ---
 description: >-
-  Random and Stochastic Processes için ders konuları, içeriği veya
-  notları
+  Random and Stochastic Processes için ders konuları, içeriği veya notları
 ---
 
 # 📚 Ders İçeriği \| RaSP

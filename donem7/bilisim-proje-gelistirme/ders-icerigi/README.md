@@ -1,7 +1,6 @@
 ---
 description: >-
-  Bilişim Proje Geliştirme için ders konuları, içeriği veya
-  notları
+  Bilişim Proje Geliştirme için ders konuları, içeriği veya notları
 ---
 
 # 📚 Ders İçeriği \| BPG

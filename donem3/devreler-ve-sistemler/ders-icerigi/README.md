@@ -1,7 +1,6 @@
 ---
 description: >-
-  Devreler ve Sistemler için ders konuları, içeriği veya
-  notları
+  Devreler ve Sistemler için ders konuları, içeriği veya notları
 ---
 
 # 📚 Ders İçeriği \| DvS

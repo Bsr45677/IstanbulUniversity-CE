@@ -1,6 +1,6 @@
 ---
 description: >-
-  Artificial Intelligence için Vize 2019 notları
+  Artificial Intelligence için Vize notları
 ---
 
 # 📅 Vize \| AI

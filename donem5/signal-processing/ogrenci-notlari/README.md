@@ -1,7 +1,6 @@
 ---
 description: >-
-  Signal Processing için öğrenci notları, el yazıları, tutulmuş notlar
-  notları
+  Signal Processing için öğrenci notları, el yazıları, tutulmuş veya alınmış notlar
 ---
 
 # 📕 Öğrenci Notları \| SP

@@ -1,7 +1,6 @@
 ---
 description: >-
-  Web Programlama için ders konuları, içeriği veya
-  notları
+  Web Programlama için ders konuları, içeriği veya notları
 ---
 
 # 📚 Ders İçeriği \| WP

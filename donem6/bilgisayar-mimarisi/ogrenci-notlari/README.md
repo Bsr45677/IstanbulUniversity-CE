@@ -1,10 +1,11 @@
 ---
 description: >-
-  Bilgisayar Mimarisi için öğrenci notları, el yazıları, tutulmuş notlar
-  notları
+  Bilgisayar Mimarisi için öğrenci notları, el yazıları, tutulmuş veya alınmış notlar
 ---
 
 # 📕 Öğrenci Notları \| BM
+
+## 📂 Dosyalar
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
@@ -17,14 +18,14 @@ description: >-
 
 ### 🗽 Açıklama
 
-Proje ödevinin PDF'ine [buradan][Proje Ödevi] ulaşabilirsin.
+Proje ödevinin PDF'ine [buradan](../../../res/2019_bilgisayar_mimarisi_proje.pdf) ulaşabilirsin.
 
-- Proje için hazırladığımız [PDF](../../res/16BitMipsVHDL.pdf)'e ve [repository][16bit Mips VHDL - Repo]'e yazılara tıklayarak erişebilirsin
+- Proje için hazırladığımız [PDF](../../../res/16BitMipsVHDL.pdf)'e ve [repository][16bit Mips VHDL - Repo]'e yazılara tıklayarak erişebilirsin
 - Grup sayısı 5 kişiliktir
 - Son teslim tarihi: 20 Mayıs 2019 Pazartesi
 - Proje'yi yapabilmek için **XILINX ISE Design Studio kurulumu** yapmanız gerekmekte
 
-### XILINX ISE Design Studio
+### 🌃 XILINX ISE Design Studio
 
 - Resmi sitesinde indirmek için [buraya][XILINX ISE Design Studio] tıklayabilirsin
   - Username: `yemreak`
@@ -72,20 +73,12 @@ Hocanın hazırlamış olduğu videolar:
 - PDF ile `.vhd` uzantılı kaynak kodlarını sisteme yüklenecek
   - Aksis - Döküman paylaşımı - Bilgisayar Mimarisi - Proje
 
-### Faydalı Bağlantılar
+### 🔗 Faydalı Bağlantılar
 
 - [16bit Mips VHDL]
 - [MIPS-Processor-VHDL - Github]
 - [PiJoules/MIPS-processor]
 
-<!--Index-->
-
-- [Proje 2019 BM](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/2019%20Proje%20%C3%96devi/Proje%202019%20BM.pdf)
-
-<!--Index-->
-
-
-[Proje Ödevi]: ../../res/2019_bilgisayar_mimarisi_proje.pdf
 [XILINX ISE Design Studio]: https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/design-tools.html
 [XILINX ISE Design Studio - Direct]: https://xilinx-ax-dl.entitlenow.com/dl/ul/2018/02/21/R209898474/Xilinx_ISE_S6_Win10_14.7_ISE_VMs_0206_1.zip/70f417f0787735862bdf9e9e3107e2af/5CC73BF4?akdm=0&filename=Xilinx_ISE_S6_Win10_14.7_ISE_VMs_0206_1.zip
 [XILINX ISE Design Studio - Drive]: https://drive.google.com/open?id=1-4j-ZBZmA5axu2G3ebxcITROWsR2IUny
