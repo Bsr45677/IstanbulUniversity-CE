@@ -313,7 +313,6 @@
       - [🎲 Karma İçerikler \| SToCN](donem8/special-topics-on-computer-networks/karma-icerikler/README.md)
     - [💰 Uygulamalı Girişimcilik](donem8/uygulamali-girisimcilik/README.md)
       - [🎲 Karma İçerikler \| UG](donem8/uygulamali-girisimcilik/karma-icerikler/README.md)
-  - [Dökümanlar](D%C3%B6k%C3%BCmanlar/README.md)
   - [📚 Karışık Notlar](karisik/README.md)
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

@@ -2,6 +2,11 @@
 
 ## 📋 Tüm Değişiklikler
 
+- [👨‍🔧 Hatalı resimler düzetildi #62 ~ 05/01/2020 - 12:59:38](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/cf89a073abc233dcb143e0de9082cca28f5991c0?diff=split)
+- [👨‍🔧 Hatalı resimler düzeltildi #62 ~ 05/01/2020 - 12:58:19](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/c3fa8fcd50ab372eae878813428702469246d143?diff=split)
+- [👨‍🔧 Sayfa Indexleri düzeltildi ~ 05/01/2020 - 12:58:04](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/0c4b6a0fa305bddec06d20ecb79af8ea4ca1387c?diff=split)
+- [📝 Açıklamalar artırıldı ~ 05/01/2020 - 12:17:31](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/eb2556a85ca83c39a65b729628656bb86aade17b?diff=split)
+- [👨‍🔧 Ufak düzeltmeler ~ 05/01/2020 - 12:10:12](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/7e712a61164a68628584ce05a9284d095209812b?diff=split)
 - [📝 Açıklamalar yenilendi ~ 05/01/2020 - 12:07:20](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/7f97026ae5bce7d1d7e4bca497dd8fec8ff843d4?diff=split)
 - [✨ ~ 05/01/2020 - 12:05:30](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/4285dcbcfbf4d35558b2beff1df1df47ad89cd97?diff=split)
 - [👀 Neler değişti alanı yenilendi ~ 05/01/2020 - 11:59:27](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/eadc172c31cc674d2a243f6256de851f5acf0425?diff=split)
