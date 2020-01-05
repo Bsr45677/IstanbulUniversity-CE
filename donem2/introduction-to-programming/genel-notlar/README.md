@@ -1,4 +1,9 @@
-# 📜 Genel Notlar \| ItP
+---
+description: >-
+  Introduction to Programming için genel, düzenlenmemiş, duyuru veya ek ders kaynağı notları
+---
+
+# 📖 Genel Notlar \| ItP
 
 ## Workshop Notları
 

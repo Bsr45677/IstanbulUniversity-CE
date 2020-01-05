@@ -1,3 +1,8 @@
+---
+description: >-
+  Information Technology Management and Standards için karışık, düzenlememiş, eski içerikler
+---
+
 # 🎲 Karma İçerikler \| ITMaS
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

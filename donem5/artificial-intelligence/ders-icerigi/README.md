@@ -1,6 +1,6 @@
 ---
 description: >-
-  Artificial Intelligence için öğrenci notları, el yazıları, tutulmuş notlar
+  Artificial Intelligence için ders konuları, içeriği veya
   notları
 ---
 

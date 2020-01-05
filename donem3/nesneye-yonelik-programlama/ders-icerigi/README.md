@@ -1,6 +1,6 @@
 ---
 description: >-
-  Nesneye Yönelik Programlama için öğrenci notları, el yazıları, tutulmuş notlar
+  Nesneye Yönelik Programlama için ders konuları, içeriği veya
   notları
 ---
 

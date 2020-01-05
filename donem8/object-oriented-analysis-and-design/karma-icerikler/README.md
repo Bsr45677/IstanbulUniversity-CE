@@ -1,3 +1,8 @@
+---
+description: >-
+  Object Oriented Analysis and Design için karışık, düzenlememiş, eski içerikler
+---
+
 # 🎲 Karma İçerikler \| OOAaD
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

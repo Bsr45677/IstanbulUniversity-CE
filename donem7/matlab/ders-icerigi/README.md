@@ -1,6 +1,6 @@
 ---
 description: >-
-  Matlab için öğrenci notları, el yazıları, tutulmuş notlar
+  Matlab için ders konuları, içeriği veya
   notları
 ---
 

@@ -4,7 +4,7 @@ from ypackage.markdown import read_first_header
 
 DESC_DERS = r"""---
 description: >-
-  Mobil programlama (Mobile Programming) için ders konuları, içeriği veya
+  {} için ders konuları, içeriği veya
   notları
 ---
 

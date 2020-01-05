@@ -1,6 +1,6 @@
 ---
 description: >-
-  Signal Processing için öğrenci notları, el yazıları, tutulmuş notlar
+  Signal Processing için ders konuları, içeriği veya
   notları
 ---
 

@@ -1,6 +1,6 @@
 ---
 description: >-
-  Neural Networks için öğrenci notları, el yazıları, tutulmuş notlar
+  Neural Networks için ders konuları, içeriği veya
   notları
 ---
 

@@ -1,6 +1,6 @@
 ---
 description: >-
-  Veri Yapıları için öğrenci notları, el yazıları, tutulmuş notlar
+  Veri Yapıları için ders konuları, içeriği veya
   notları
 ---
 

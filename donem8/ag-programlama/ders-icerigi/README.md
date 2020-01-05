@@ -1,6 +1,6 @@
 ---
 description: >-
-  Ağ Programlama için öğrenci notları, el yazıları, tutulmuş notlar
+  Ağ Programlama için ders konuları, içeriği veya
   notları
 ---
 

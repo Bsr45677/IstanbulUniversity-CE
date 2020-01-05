@@ -1,6 +1,6 @@
 ---
 description: >-
-  Bilgisayar Aritmetiği için öğrenci notları, el yazıları, tutulmuş notlar
+  Bilgisayar Aritmetiği için ders konuları, içeriği veya
   notları
 ---
 

@@ -1,6 +1,6 @@
 ---
 description: >-
-  Algorithm Analysis için öğrenci notları, el yazıları, tutulmuş notlar
+  Algorithm Analysis için ders konuları, içeriği veya
   notları
 ---
 

@@ -1,6 +1,6 @@
 ---
 description: >-
-  File Organization için öğrenci notları, el yazıları, tutulmuş notlar
+  File Organization için ders konuları, içeriği veya
   notları
 ---
 

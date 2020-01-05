@@ -1,3 +1,8 @@
+---
+description: >-
+  Special Topics on Computer Networks için karışık, düzenlememiş, eski içerikler
+---
+
 # 🎲 Karma İçerikler \| SToCN
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

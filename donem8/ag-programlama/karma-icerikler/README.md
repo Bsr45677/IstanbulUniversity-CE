@@ -1,3 +1,8 @@
+---
+description: >-
+  Ağ Programlama için karışık, düzenlememiş, eski içerikler
+---
+
 # 🎲 Karma İçerikler \| AP
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

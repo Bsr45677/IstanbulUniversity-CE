@@ -1,4 +1,9 @@
-# 📜 Genel Notlar \| DvS
+---
+description: >-
+  Devreler ve Sistemler için genel, düzenlenmemiş, duyuru veya ek ders kaynağı notları
+---
+
+# 📖 Genel Notlar \| DvS
 
 ## Ders Bilgileri
 

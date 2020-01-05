@@ -1,6 +1,6 @@
 ---
 description: >-
-  Yön Eylem için öğrenci notları, el yazıları, tutulmuş notlar
+  Yön Eylem için ders konuları, içeriği veya
   notları
 ---
 

@@ -1,6 +1,6 @@
 ---
 description: >-
-  Software Testing and Quality için öğrenci notları, el yazıları, tutulmuş notlar
+  Software Testing and Quality için ders konuları, içeriği veya
   notları
 ---
 

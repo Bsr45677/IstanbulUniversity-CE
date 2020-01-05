@@ -1,6 +1,6 @@
 ---
 description: >-
-  Görüntü İşleme için öğrenci notları, el yazıları, tutulmuş notlar
+  Görüntü İşleme için ders konuları, içeriği veya
   notları
 ---
 

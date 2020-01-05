@@ -1,6 +1,6 @@
 ---
 description: >-
-  İnformasyon Güvenliği ve Kriptoloji için öğrenci notları, el yazıları, tutulmuş notlar
+  İnformasyon Güvenliği ve Kriptoloji için ders konuları, içeriği veya
   notları
 ---
 

@@ -1,6 +1,6 @@
 ---
 description: >-
-  Fizik 2 için öğrenci notları, el yazıları, tutulmuş notlar
+  Fizik 2 için ders konuları, içeriği veya
   notları
 ---
 

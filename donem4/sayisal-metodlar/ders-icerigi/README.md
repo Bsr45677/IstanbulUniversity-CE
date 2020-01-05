@@ -1,6 +1,6 @@
 ---
 description: >-
-  Sayısal Metodlar için öğrenci notları, el yazıları, tutulmuş notlar
+  Sayısal Metodlar için ders konuları, içeriği veya
   notları
 ---
 

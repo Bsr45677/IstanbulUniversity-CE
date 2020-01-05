@@ -1,6 +1,6 @@
 ---
 description: >-
-  Bilgisayar Mimarisi için öğrenci notları, el yazıları, tutulmuş notlar
+  Bilgisayar Mimarisi için ders konuları, içeriği veya
   notları
 ---
 

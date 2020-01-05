@@ -1,6 +1,6 @@
 ---
 description: >-
-  Web Programlama için öğrenci notları, el yazıları, tutulmuş notlar
+  Web Programlama için ders konuları, içeriği veya
   notları
 ---
 

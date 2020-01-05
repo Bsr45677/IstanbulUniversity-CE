@@ -1,6 +1,6 @@
 ---
 description: >-
-  Olasılık Teorisi ve İstatistik için öğrenci notları, el yazıları, tutulmuş notlar
+  Olasılık Teorisi ve İstatistik için ders konuları, içeriği veya
   notları
 ---
 

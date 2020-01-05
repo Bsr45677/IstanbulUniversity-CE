@@ -1,6 +1,6 @@
 ---
 description: >-
-  Devreler ve Sistemler için öğrenci notları, el yazıları, tutulmuş notlar
+  Devreler ve Sistemler için ders konuları, içeriği veya
   notları
 ---
 

@@ -1,6 +1,6 @@
 ---
 description: >-
-  Mobile Programming için öğrenci notları, el yazıları, tutulmuş notlar
+  Mobile Programming için ders konuları, içeriği veya
   notları
 ---
 

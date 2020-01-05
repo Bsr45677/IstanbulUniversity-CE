@@ -1,3 +1,8 @@
+---
+description: >-
+  Finansta Bilişim Teknolojileri için karışık, düzenlememiş, eski içerikler
+---
+
 # 🎲 Karma İçerikler \| FBT
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

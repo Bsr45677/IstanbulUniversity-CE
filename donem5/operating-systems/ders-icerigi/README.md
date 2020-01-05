@@ -1,6 +1,6 @@
 ---
 description: >-
-  Operating Systems için öğrenci notları, el yazıları, tutulmuş notlar
+  Operating Systems için ders konuları, içeriği veya
   notları
 ---
 

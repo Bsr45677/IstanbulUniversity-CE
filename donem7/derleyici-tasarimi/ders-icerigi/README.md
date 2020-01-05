@@ -1,6 +1,6 @@
 ---
 description: >-
-  Derleyici Tasarımı için öğrenci notları, el yazıları, tutulmuş notlar
+  Derleyici Tasarımı için ders konuları, içeriği veya
   notları
 ---
 

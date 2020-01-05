@@ -1,6 +1,6 @@
 ---
 description: >-
-  Random and Stochastic Processes için öğrenci notları, el yazıları, tutulmuş notlar
+  Random and Stochastic Processes için ders konuları, içeriği veya
   notları
 ---
 

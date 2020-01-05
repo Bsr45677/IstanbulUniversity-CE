@@ -1,6 +1,6 @@
 ---
 description: >-
-  Bilgisayar Organizasyonu ve Tasarımı - Lab için öğrenci notları, el yazıları, tutulmuş notlar
+  Bilgisayar Organizasyonu ve Tasarımı - Lab için ders konuları, içeriği veya
   notları
 ---
 

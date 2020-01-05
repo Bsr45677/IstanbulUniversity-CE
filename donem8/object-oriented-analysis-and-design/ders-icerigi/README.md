@@ -1,6 +1,6 @@
 ---
 description: >-
-  Object Oriented Analysis and Design için öğrenci notları, el yazıları, tutulmuş notlar
+  Object Oriented Analysis and Design için ders konuları, içeriği veya
   notları
 ---
 

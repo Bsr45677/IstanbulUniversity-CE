@@ -1,6 +1,6 @@
 ---
 description: >-
-  İş Sağlığı ve Güvenliği için öğrenci notları, el yazıları, tutulmuş notlar
+  İş Sağlığı ve Güvenliği için ders konuları, içeriği veya
   notları
 ---
 

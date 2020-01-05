@@ -1,3 +1,8 @@
+---
+description: >-
+  Bilişim Etiği için karışık, düzenlememiş, eski içerikler
+---
+
 # 🎲 Karma İçerikler \| BE
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

@@ -1,3 +1,8 @@
+---
+description: >-
+  Bilgisayar Ağlarında Güvenlik için karışık, düzenlememiş, eski içerikler
+---
+
 # 🎲 Karma İçerikler \| BAG
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

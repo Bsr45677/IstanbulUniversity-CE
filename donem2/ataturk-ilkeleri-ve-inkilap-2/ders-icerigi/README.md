@@ -1,6 +1,6 @@
 ---
 description: >-
-  Atatürk İlkeleri ve İnkılap 2 için öğrenci notları, el yazıları, tutulmuş notlar
+  Atatürk İlkeleri ve İnkılap 2 için ders konuları, içeriği veya
   notları
 ---
 

@@ -1,6 +1,6 @@
 ---
 description: >-
-  Lojik Devre Tasarımı için öğrenci notları, el yazıları, tutulmuş notlar
+  Lojik Devre Tasarımı için ders konuları, içeriği veya
   notları
 ---
 

@@ -1,6 +1,6 @@
 ---
 description: >-
-  Bulanık Mantık için öğrenci notları, el yazıları, tutulmuş notlar
+  Bulanık Mantık için ders konuları, içeriği veya
   notları
 ---
 

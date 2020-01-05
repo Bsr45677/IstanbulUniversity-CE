@@ -1,6 +1,6 @@
 ---
 description: >-
-  Sistem Programlama için öğrenci notları, el yazıları, tutulmuş notlar
+  Sistem Programlama için ders konuları, içeriği veya
   notları
 ---
 

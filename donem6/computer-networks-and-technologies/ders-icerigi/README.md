@@ -1,6 +1,6 @@
 ---
 description: >-
-  Computer Networks and Technologies için öğrenci notları, el yazıları, tutulmuş notlar
+  Computer Networks and Technologies için ders konuları, içeriği veya
   notları
 ---
 

@@ -1,6 +1,6 @@
 ---
 description: >-
-  Software Engineering için öğrenci notları, el yazıları, tutulmuş notlar
+  Software Engineering için ders konuları, içeriği veya
   notları
 ---
 
