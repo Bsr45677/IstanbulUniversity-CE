@@ -2,6 +2,9 @@
 
 ## 📋 Tüm Değişiklikler
 
+- [👨‍🔧 Türkçe karakter sorunu giderildi ~ 05/01/2020 - 11:59:03](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/3cbfaf27203b38ff8088bcb76ecd402afac122fd?diff=split)
+- [📝 Ufak notlar eklendi ~ 05/01/2020 - 02:04:01](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/02da9359ce9378c073f901c3157e63177cf0db02?diff=split)
+- [👨‍🔧 Açıklama ve notlardaki sorunlar giderildi ~ 05/01/2020 - 01:41:55](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/7a732157054d8180756ece9fc551b6305bbea884?diff=split)
 - [👀 Neler değişti alanı yenilendi ~ 05/01/2020 - 01:26:33](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/e9342fb29f11ecd2e4fea32f96d8cb83e7e7d539?diff=split)
 - [👨‍🔧 Ufak sorunlar giderildi ~ 05/01/2020 - 01:23:41](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/d013370c83656183738a4aad34f4caea4a2701f5?diff=split)
 - [📝 İçeriklere detaylar eklendi ~ 05/01/2020 - 01:15:25](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/998c798b121e1160aa1099e98c7ebc7075438f3a?diff=split)
