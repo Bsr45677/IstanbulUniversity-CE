@@ -7,6 +7,6 @@ description: >-
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
-- [2019 Final LDT Lab](2019%20Final%20LDT%20Lab.pdf)
+- [Final 2019 LDT Lab](Final%202019%20LDT%20Lab.pdf)
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

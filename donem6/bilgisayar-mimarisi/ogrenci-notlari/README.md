@@ -8,8 +8,8 @@ description: >-
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
-- [2018 Final Notu BM ~ YEmreAk](2018%20Final%20Notu%20BM%20~%20YEmreAk.pdf)
-- [2018 Vize Notları BM ~ YEmreAk](2018%20Vize%20Notlar%C4%B1%20BM%20~%20YEmreAk.pdf)
+- [Final 2018 Notu BM ~ YEmreAk](Final%202018%20Notu%20BM%20~%20YEmreAk.pdf)
+- [Vize 2018 Notları BM ~ YEmreAk](Vize%202018%20Notlar%C4%B1%20BM%20~%20YEmreAk.pdf)
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

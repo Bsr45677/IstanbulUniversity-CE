@@ -7,11 +7,11 @@ description: >-
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
-- [2015 Vize MP](2015%20Vize%20MP.pdf)
-- [2017 Vize MP](2017%20Vize%20MP.pdf)
-- [2017 Vize2 MP](2017%20Vize2%20MP.pdf)
 - [2018 Bitirme MP](2018%20Bitirme%20MP.pdf)
-- [2018 Final İÖ MP](2018%20Final%20%C4%B0%C3%96%20MP.pdf)
+- [Final 2018 İÖ MP](Final%202018%20%C4%B0%C3%96%20MP.pdf)
+- [Vize 2015 MP](Vize%202015%20MP.pdf)
+- [Vize 2017 MP](Vize%202017%20MP.pdf)
+- [Vize 20172 MP](Vize%2020172%20MP.pdf)
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

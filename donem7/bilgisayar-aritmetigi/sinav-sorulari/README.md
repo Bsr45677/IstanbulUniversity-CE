@@ -18,6 +18,6 @@ description: >-
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
-- [2016 Final BA](2016%20Final%20BA.pdf)
+- [Final 2016 BA](Final%202016%20BA.pdf)
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

@@ -2,6 +2,7 @@
 
 ## 📋 Tüm Değişiklikler
 
+- [👨‍🔧 PDF isimleri düzeltildi ~ 05/01/2020 - 13:38:22](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/1367431ee9f2004b05a867f7d109329f23745865?diff=split)
 - [💖 Katkı sağlama rehberi yenilendi ~ 05/01/2020 - 13:25:37](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/c2b00d1f286fbbf75d019ec115182c35219fce2b?diff=split)
 - [✨ Emojilendi ~ 05/01/2020 - 13:03:35](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/f037ef5b9a648037d6b862045c97a960d7666807?diff=split)
 - [🧹 İndeksleme sorunları giderildi ~ 05/01/2020 - 13:00:12](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/8d4b1946c6515f00826c206d279dd3102ca63244?diff=split)
