@@ -88,7 +88,7 @@
       - [📃 Sınav Soruları \| OTvİ](donem3/olasilik-teorisi-ve-istatistik/sinav-sorulari/README.md)
     - [💾 Veri Yapıları](donem3/veri-yapilari/README.md)
       - [📚 Ders İçeriği \| VY](donem3/veri-yapilari/ders-icerigi/README.md)
-        - [Genel Notlar](donem3/veri-yapilari/ders-icerigi/genel-notlar/README.md)
+        - [📖 Genel Notlar](donem3/veri-yapilari/ders-icerigi/genel-notlar/README.md)
         - [👩‍🔬 Lab](donem3/veri-yapilari/ders-icerigi/lab/README.md)
       - [📕 Öğrenci Notları \| VY](donem3/veri-yapilari/ogrenci-notlari/README.md)
       - [📃 Sınav Soruları \| VY](donem3/veri-yapilari/sinav-sorulari/README.md)
