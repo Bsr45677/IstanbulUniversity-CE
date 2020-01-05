@@ -13,10 +13,10 @@ description: >-
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
-## 📅 2019 Final Bilgileri
+## 📅 Final 2019 Bilgileri
 - En son _"Shared Libraries"_ konusu işlendi
 
-## 📅 2019 Vize Sınavı
+## 📅 Vize 2019 Sınavı
 - Bütün processlerde bulunan registerlar açıkla.
 - a-Special files in Unix
 - Nasıl special files yapıldığı ve nedeni?
@@ -24,7 +24,7 @@ description: >-
 - Monolithic system nedir ve basic structure'i nedir
 - Thread ve process arasındaki farklar
 
-## 📅 2019 Vize Bilgileri
+## 📅 Vize 2019 Bilgileri
 
 - _Scheduling Algorithms In Batch Systems_ konusunun sonuna kadar sorumluyuz.
 - Kod sorusu olmayacak
@@ -39,7 +39,7 @@ description: >-
 - memory management with bitmaps i anlatmamızı istedi.
 - cache memory de page lerin hangi durumlarda değişeceğini maddeler haline yazmamızı istedi.
 
-## 📅 2018 Final Sınavı
+## 📅 Final 2018 Sınavı
 
 - Virtual machine nedir? tiplerini diagram çizerek anlatın
 - Threadlerin processlere göre detaylı avantajları
@@ -52,7 +52,7 @@ description: >-
 - Monitör nedir simülasyonu varmış herhalde onu sordu aynı soruda
 - Virtual machine nedir tüm yönleri ile açıklayınız
 
-## 📅 2018 Vize Sınavı
+## 📅 Vize 2018 Sınavı
 
 - 3 tane önemli register vardı onlar ve kısaca ne yaptıkları
 - Pipe nedir
@@ -61,7 +61,7 @@ description: >-
 - Process in aldığı durumlar ve aralarındaki geçiş mantığı (started, ready, blocked)
 - Monolithic system nedir özellikleri nelerdir
 
-## 📅 2017 Final Sınavı
+## 📅 Final 2017 Sınavı
 
 - Thread'lerin processlere göre avantajları
 - Semafor nedir

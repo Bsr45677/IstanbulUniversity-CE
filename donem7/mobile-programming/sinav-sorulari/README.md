@@ -15,7 +15,7 @@ description: >-
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
-## 📅 2019 Vize Hakkında
+## 📅 Vize 2019 Hakkında
 
 Bir kaç arkadaştan sınavda sorumlu olduğunuz içerik hakkında mailler aldım. Buna istinaden Ara Sınav hakkında bilgilendirmeleri buradan alabilirsiniz.
 

@@ -1,9 +1,9 @@
 ---
 description: >-
-  Signal Processing için 2019 Final notları
+  Signal Processing için Final 2019 notları
 ---
 
-# 📅 2019 Final \| SP
+# 📅 2019 \| SP
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

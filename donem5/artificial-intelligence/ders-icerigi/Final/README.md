@@ -1,9 +1,9 @@
 ---
 description: >-
-  Artificial Intelligence için 2019 Final notları
+  Artificial Intelligence için Final 2019 notları
 ---
 
-# 📅 2019 Final \| AI
+# 📅 Final \| AI
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

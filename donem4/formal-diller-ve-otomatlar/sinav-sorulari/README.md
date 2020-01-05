@@ -12,9 +12,9 @@ description: >-
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
-## 📅 2018 Final Sınavı Bilgileri
+## 📅 Final 2018 Sınavı Bilgileri
 
-Resme [buradan][2018 Final FDO] erişebilirsin
+Resme [buradan][Final 2018 FDO] erişebilirsin
 
 1. düzgün gramer ve lineer gramer olup olmadıklarını gösteriniz diyordu.
 2. Soruda da yanda verilen g gramerini chomsky normal form'a dönüştürünüz diyordu.
@@ -26,4 +26,4 @@ Pda, npda, anlık geçiş, chomsky  normal form vardı.
 
 > © Copyright ~ Hüseyin Karademir
 
-[2018 Final FDO]: ./S%C4%B1nav%20Sorular%C4%B1%2FFinal%202018%20FDO.pdf
+[Final 2018 FDO]: ./S%C4%B1nav%20Sorular%C4%B1%2FFinal%202018%20FDO.pdf

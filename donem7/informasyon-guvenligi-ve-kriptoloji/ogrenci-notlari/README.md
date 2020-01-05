@@ -16,7 +16,7 @@ description: >-
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
-> [2019 Vize Kripto (Eksik) ~YEmreAk](./2019%20Vize%20Kripto%20%28Eksik%29%20~YEmreAk.pdf) notumu çalıştıkça güncelleyeceğim ✨
+> [Vize 2019 Kripto (Eksik) ~YEmreAk](./2019%20Vize%20Kripto%20%28Eksik%29%20~YEmreAk.pdf) notumu çalıştıkça güncelleyeceğim ✨
 
 ## 🆚 3-DES vs 2-DES
 

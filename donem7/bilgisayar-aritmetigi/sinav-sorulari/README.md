@@ -5,7 +5,7 @@ description: >-
 
 # 📃 Sınav Soruları \| BA
 
-## 📅 2019 Final Sınavı Hakkında
+## 📅 Final 2019 Sınavı Hakkında
 
 - ✔️ Sınav test olacak
 - 🎳 Son 3 slayt ağırlıklı

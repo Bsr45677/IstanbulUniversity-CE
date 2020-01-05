@@ -21,7 +21,7 @@ description: >-
 
 - ⚠️ Sezgin Otlak'ın notların 1 hafta eksiktir.
 
-## 📅 2019 Final Hakkında
+## 📅 Final 2019 Hakkında
 
 - 🙄 "Simpleks olmadan sınav mı olur" kelamının hoca tarafından söylenmiş olduğu ifade edilmekte.
 

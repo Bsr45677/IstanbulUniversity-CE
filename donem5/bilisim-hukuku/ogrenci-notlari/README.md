@@ -6,7 +6,7 @@ description: >-
 
 # 📕 Öğrenci Notları \| BH
 
-## 📅 2019 Final Hakkında
+## 📅 Final 2019 Hakkında
 
 - 🤝 Final sınavında çıkacak ülke sorularına katkı sağlamak için [buraya](https://docs.google.com/document/d/1qPsto1GGJmo7l1pdxBSqlc6bRQXB6aOwTsC_-DpPlIA/edit) tıklayıp, içeriğe erişebilirsin.
 

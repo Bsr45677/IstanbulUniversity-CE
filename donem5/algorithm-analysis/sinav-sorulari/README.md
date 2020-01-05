@@ -16,7 +16,7 @@ description: >-
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
-## 📅 2019 Vize Bilgileri
+## 📅 Vize 2019 Bilgileri
 
 - Öğrenci sunumlarından sorumlu değiliz.
 - _Transform and Conquer_ konusuna kadar sorumluyuz.
@@ -26,7 +26,7 @@ description: >-
   - Grfikli bir soru olabilir (Analiz grafiği verilip onunla ilgili sorular).
   - Bir problem verip _Transform and Conquer_ mantığıyla ve _Transform and Conquer_ mantığıyla olmadan çözme sorusu olabilir.
 
-## 📅 2019 Final Soruları
+## 📅 Final 2019 Soruları
 1. Kendi "sıralama algoritma"nızı geliştirin ve verimini _(efficiency)_ araştrın **(40 puan)**
    - Örnek 5 elemanlı sayı dizisi verildi, algortimayı onun üzerinden göstermemiz istendi.
 2. Tanım sorusu **(30 puan)**

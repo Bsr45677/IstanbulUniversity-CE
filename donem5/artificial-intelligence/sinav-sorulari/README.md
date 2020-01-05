@@ -14,7 +14,7 @@ description: >-
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
-## 📅 2019 Vize Bilgileri
+## 📅 Vize 2019 Bilgileri
 
 -  5\. slaytın sonuna kadar sorumluyuz.
 - Sınav klasik olacak.

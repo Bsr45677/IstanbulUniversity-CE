@@ -5,7 +5,7 @@ description: >-
 
 # 📃 Sınav Soruları \| BM
 
-## 📅 2019 Vize Hakkında
+## 📅 Vize 2019 Hakkında
 
 - Küme işlemleri
 - BKS

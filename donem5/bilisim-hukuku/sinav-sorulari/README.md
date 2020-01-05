@@ -5,7 +5,7 @@ description: >-
 
 # 📃 Sınav Soruları \| BH
 
-## 📅 2019 Vize Hakkında
+## 📅 Vize 2019 Hakkında
 
 - Test yapacakmış
 - Düşük alma ihtimalimzie karşı şıkları açıklamamızı isteyebilirmiş

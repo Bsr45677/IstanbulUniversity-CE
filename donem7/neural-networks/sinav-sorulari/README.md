@@ -12,7 +12,7 @@ description: >-
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
-## 📅 2019 Vize Sınavı
+## 📅 Vize 2019 Sınavı
 
 - Function approximation task nasıl çalışır gibi bir şey vardı
 - hebbian learning rule 3 adım için
