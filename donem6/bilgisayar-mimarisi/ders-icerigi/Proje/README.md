@@ -1,4 +1,9 @@
-# 🏗️ Proje
+---
+description: >-
+  Bilgisayar Mimarisi için  Proje notları
+---
+
+# 🏗️ Proje \| BM
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

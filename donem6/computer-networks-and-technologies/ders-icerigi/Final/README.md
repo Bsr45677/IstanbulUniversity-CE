@@ -1,4 +1,9 @@
-# 📅 Final
+---
+description: >-
+  Computer Networks and Technologies için Final notları
+---
+
+# 📅 Final \| CNaT
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

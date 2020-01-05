@@ -1,4 +1,9 @@
-# 📅 Final
+---
+description: >-
+  Bilgisayar Mimarisi için Final notları
+---
+
+# 📅 Final \| BM
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

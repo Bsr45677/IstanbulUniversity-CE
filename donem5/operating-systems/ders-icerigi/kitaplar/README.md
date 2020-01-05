@@ -1,4 +1,9 @@
-# 📘 Kitaplar
+---
+description: >-
+  Operating Systems için Kitaplar notları
+---
+
+# 📘 Kitaplar \| OS
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

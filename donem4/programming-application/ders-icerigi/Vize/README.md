@@ -1,4 +1,9 @@
-# 📅 Vize
+---
+description: >-
+  Programming Applicaiton için Vize notları
+---
+
+# 📅 Vize \| PA
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

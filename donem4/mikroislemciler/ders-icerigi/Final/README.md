@@ -1,4 +1,9 @@
-# 📅 Final
+---
+description: >-
+  Mikroişlemciler için Final notları
+---
+
+# 📅 Final \| M
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

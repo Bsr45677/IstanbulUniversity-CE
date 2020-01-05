@@ -1,4 +1,9 @@
-# 📅 Vize
+---
+description: >-
+  Bilgisayar Organizasyonu ve Tasarımı için Vize notları
+---
+
+# 📅 Vize \| BOvT
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

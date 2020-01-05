@@ -1,4 +1,10 @@
-# 📹 Ders Sunumları
+---
+description: >-
+  Operating Systems için ders konuları, içeriği veya
+  notları
+---
+
+# 📹 Ders Sunumları \| OS
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

@@ -1,4 +1,9 @@
-# 📅 Final
+---
+description: >-
+  Object Oriented Analysis and Design için Final notları
+---
+
+# 📅 Final \| OOAaD
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

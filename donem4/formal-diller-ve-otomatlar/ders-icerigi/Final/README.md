@@ -1,4 +1,9 @@
-# 📅 Final
+---
+description: >-
+  Formal Diller ve Otomatlar için Final notları
+---
+
+# 📅 Final \| FDvO
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

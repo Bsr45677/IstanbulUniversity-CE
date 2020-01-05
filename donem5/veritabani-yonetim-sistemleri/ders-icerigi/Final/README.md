@@ -1,4 +1,9 @@
-# 📅 Final
+---
+description: >-
+  Veritabanı Yönetim Sistemleri için Final notları
+---
+
+# 📅 Final \| VYS
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

@@ -1,4 +1,9 @@
-# 📖 Genel Notlar
+---
+description: >-
+  Computer Networks and Technologies için genel, düzenlenmemiş, duyuru veya ek ders kaynağı notları
+---
+
+# 📖 Genel Notlar \| CNaT
 
 ## ☪️ Slaytların Türkçesi
 

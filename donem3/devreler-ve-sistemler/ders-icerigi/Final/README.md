@@ -1,4 +1,9 @@
-# 📅 Final
+---
+description: >-
+  Devreler ve Sistemler için Final notları
+---
+
+# 📅 Final \| DvS
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

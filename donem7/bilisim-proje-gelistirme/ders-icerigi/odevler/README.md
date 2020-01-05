@@ -1,4 +1,9 @@
-# ⭐ Ödevler
+---
+description: >-
+  Bilişim Proje Geliştirme için Ödevler notları
+---
+
+# ⭐ Ödevler \| BPG
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

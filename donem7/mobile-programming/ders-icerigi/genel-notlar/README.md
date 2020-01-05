@@ -1,4 +1,9 @@
-# 📖 Genel Notlar /| MP
+---
+description: >-
+  Mobile Programming için genel, düzenlenmemiş, duyuru veya ek ders kaynağı notları
+---
+
+# 📖 Genel Notlar /| MP \| MP
 
 ## 📢 Ders Hakkında
 

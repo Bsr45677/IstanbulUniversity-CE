@@ -1,4 +1,9 @@
-# 📖 Genel Notlar
+---
+description: >-
+  Operating Systems için genel, düzenlenmemiş, duyuru veya ek ders kaynağı notları
+---
+
+# 📖 Genel Notlar \| OS
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

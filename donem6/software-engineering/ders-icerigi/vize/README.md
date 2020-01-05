@@ -1,4 +1,9 @@
-# 📅 Vize Kısmı
+---
+description: >-
+  Software Engineering için Vize Kısmı notları
+---
+
+# 📅 Vize Kısmı \| SE
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

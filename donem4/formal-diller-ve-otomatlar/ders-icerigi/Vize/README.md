@@ -1,4 +1,9 @@
-# 📅 Vize
+---
+description: >-
+  Formal Diller ve Otomatlar için Vize notları
+---
+
+# 📅 Vize \| FDvO
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

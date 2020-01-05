@@ -1,4 +1,9 @@
-# 📅 Vize
+---
+description: >-
+  File Organization için Vize notları
+---
+
+# 📅 Vize \| FO
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

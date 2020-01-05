@@ -1,4 +1,9 @@
-# 📅 Vize
+---
+description: >-
+  Görüntü İşleme için Vize notları
+---
+
+# 📅 Vize \| Gİ
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

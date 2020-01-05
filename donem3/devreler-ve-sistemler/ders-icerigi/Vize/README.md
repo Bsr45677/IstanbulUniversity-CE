@@ -1,4 +1,9 @@
-# 📅 Vize
+---
+description: >-
+  Devreler ve Sistemler için Vize notları
+---
+
+# 📅 Vize \| DvS
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

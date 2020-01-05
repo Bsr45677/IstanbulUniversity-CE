@@ -1,4 +1,9 @@
-# 📅 Vize
+---
+description: >-
+  Veritabanı Yönetim Sistemleri için Vize notları
+---
+
+# 📅 Vize \| VYS
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

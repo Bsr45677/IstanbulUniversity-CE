@@ -1,4 +1,9 @@
-# 📅 Vize
+---
+description: >-
+  Nesneye Yönelik Programlama için Vize notları
+---
+
+# 📅 Vize \| NYP
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

@@ -1,4 +1,9 @@
-# 📅 Final
+---
+description: >-
+  File Organization için Final notları
+---
+
+# 📅 Final \| FO
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

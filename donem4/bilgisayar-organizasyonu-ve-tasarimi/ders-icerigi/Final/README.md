@@ -1,4 +1,9 @@
-# 📅 Final
+---
+description: >-
+  Bilgisayar Organizasyonu ve Tasarımı için Final notları
+---
+
+# 📅 Final \| BOvT
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

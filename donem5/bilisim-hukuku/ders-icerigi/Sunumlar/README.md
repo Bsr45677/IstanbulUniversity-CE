@@ -1,4 +1,9 @@
-# 📹 Sunumlar
+---
+description: >-
+  Bilişim Hukuku için Sunumlar notları
+---
+
+# 📹 Sunumlar \| BH
 
 ## 👨‍🎓 Öğrenci Sunumlar
 

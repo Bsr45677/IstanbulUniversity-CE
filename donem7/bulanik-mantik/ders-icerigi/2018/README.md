@@ -1,4 +1,9 @@
-# 📅 2018
+---
+description: >-
+  Bulanık Mantık için 2018 notları
+---
+
+# 📅 2018 \| BM
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

@@ -1,4 +1,9 @@
-# 👩‍🔬 Lab Notları
+---
+description: >-
+  Devreler ve Sistemler için 🔬 Lab Notları notları
+---
+
+# 👩‍🔬 Lab Notları \| DvS
 
 ## 👩‍🔬 Lab Bilgileri
 

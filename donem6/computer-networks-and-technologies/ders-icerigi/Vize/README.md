@@ -1,4 +1,9 @@
-# 📅 Vize
+---
+description: >-
+  Computer Networks and Technologies için Vize notları
+---
+
+# 📅 Vize \| CNaT
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

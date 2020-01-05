@@ -1,4 +1,10 @@
-# 📹 Ders Sunumları
+---
+description: >-
+  Bilişim Proje Geliştirme için ders konuları, içeriği veya
+  notları
+---
+
+# 📹 Ders Sunumları \| BPG
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

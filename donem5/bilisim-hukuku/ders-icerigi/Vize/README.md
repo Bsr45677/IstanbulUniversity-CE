@@ -1,4 +1,9 @@
-# 📅 Vize
+---
+description: >-
+  Bilişim Hukuku için Vize notları
+---
+
+# 📅 Vize \| BH
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

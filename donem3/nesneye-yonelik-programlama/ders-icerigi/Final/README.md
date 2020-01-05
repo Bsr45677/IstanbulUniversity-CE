@@ -1,4 +1,9 @@
-# 📅 Final
+---
+description: >-
+  Nesneye Yönelik Programlama için Final notları
+---
+
+# 📅 Final \| NYP
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

@@ -1,4 +1,9 @@
-# 📅 Final
+---
+description: >-
+  Olasılık Teorisi ve İstatistik için Final notları
+---
+
+# 📅 Final \| OTvİ
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

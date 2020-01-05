@@ -1,4 +1,9 @@
-# 👩‍🔬 Lab
+---
+description: >-
+  Veri Yapıları için 🔬 Lab notları
+---
+
+# 👩‍🔬 Lab \| VY
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

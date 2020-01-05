@@ -37,6 +37,13 @@ description: >-
 
 """
 
+DESC_DEFAULT = r"""---
+description: >-
+  {} için {} notları
+---
+
+"""
+
 
 def repeat(func):
     for l1 in os.listdir():
@@ -49,15 +56,19 @@ def repeat(func):
                         l3 = os.path.join(l2, l3)
                         if os.path.isdir(l3):
                             for l4 in os.listdir(l3):
-                                if "README" in l4:
-                                    l4 = os.path.join(l3, l4)
-                                    func(l4)
+                                l4 = os.path.join(l3, l4)
+                                if os.path.isdir(l4):
+                                    for l5 in os.listdir(l4):
+                                        if "README" in l5:
+                                            l5 = os.path.join(l4, l5)
+                                            func(l5)
 
 
 def renew(path):
     header = read_first_header(path)
 
-    lesson_path = os.path.join(os.path.dirname(os.path.dirname(path)), "README.md")
+    lesson_path = os.path.join(os.path.dirname(
+        os.path.dirname(os.path.dirname(path))), "README.md")
     lesson_header = read_first_header(lesson_path)
     lesson_header = lesson_header[lesson_header.find(" ") + 1:]  # Emojiyi kaldırma
 
@@ -83,6 +94,8 @@ def renew(path):
         description = DESC_KARMA
     elif "Genel" in header:
         description = DESC_GENEL
+    else:
+        description = DESC_DEFAULT.format("{}", header[2:header.find(r" \|")])
     filestr = description.format(lesson_header)
 
     read = False

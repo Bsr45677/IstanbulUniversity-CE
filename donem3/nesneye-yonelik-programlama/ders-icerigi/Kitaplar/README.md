@@ -1,4 +1,9 @@
-# 📘 Kitaplar
+---
+description: >-
+  Nesneye Yönelik Programlama için Kitaplar notları
+---
+
+# 📘 Kitaplar \| NYP
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

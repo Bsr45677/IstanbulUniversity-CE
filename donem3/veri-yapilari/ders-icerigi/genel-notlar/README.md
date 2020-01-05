@@ -1,4 +1,9 @@
-# 📖 Genel Notlar
+---
+description: >-
+  Veri Yapıları için genel, düzenlenmemiş, duyuru veya ek ders kaynağı notları
+---
+
+# 📖 Genel Notlar \| VY
 
 ## 🤓 Ders Bilgileri
 

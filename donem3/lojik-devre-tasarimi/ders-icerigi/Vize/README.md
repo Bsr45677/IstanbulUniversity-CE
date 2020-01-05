@@ -1,4 +1,9 @@
-# 📅 Vize
+---
+description: >-
+  Lojik Devre Tasarımı için Vize notları
+---
+
+# 📅 Vize \| LDT
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

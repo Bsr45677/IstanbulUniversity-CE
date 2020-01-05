@@ -1,4 +1,9 @@
-# 📅 2018
+---
+description: >-
+  Derleyici Tasarımı için 2018 notları
+---
+
+# 📅 2018 \| DT
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

@@ -1,4 +1,9 @@
-# 👨‍💻 Kodlar
+---
+description: >-
+  Sistem Programlama için 💻 Kodlar notları
+---
+
+# 👨‍💻 Kodlar \| SP
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

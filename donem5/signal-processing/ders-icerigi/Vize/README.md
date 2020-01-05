@@ -1,4 +1,9 @@
-# 📅 2019 Vize
+---
+description: >-
+  Signal Processing için 2019 Vize notları
+---
+
+# 📅 2019 Vize \| SP
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

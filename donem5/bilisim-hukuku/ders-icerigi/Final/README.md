@@ -1,4 +1,9 @@
-# 📅 Final
+---
+description: >-
+  Bilişim Hukuku için Final notları
+---
+
+# 📅 Final \| BH
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

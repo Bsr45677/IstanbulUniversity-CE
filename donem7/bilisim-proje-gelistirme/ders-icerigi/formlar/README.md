@@ -1,4 +1,9 @@
-# 📑 Formlar
+---
+description: >-
+  Bilişim Proje Geliştirme için Formlar notları
+---
+
+# 📑 Formlar \| BPG
 
 ## 📂 Form Dosyaları
 

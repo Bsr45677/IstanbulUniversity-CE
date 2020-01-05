@@ -1,4 +1,9 @@
-# 📖 Genel Notlar
+---
+description: >-
+  Sistem Programlama için genel, düzenlenmemiş, duyuru veya ek ders kaynağı notları
+---
+
+# 📖 Genel Notlar \| SP
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

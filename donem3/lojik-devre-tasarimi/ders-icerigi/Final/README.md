@@ -1,4 +1,9 @@
-# 📅 Final
+---
+description: >-
+  Lojik Devre Tasarımı için Final notları
+---
+
+# 📅 Final \| LDT
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

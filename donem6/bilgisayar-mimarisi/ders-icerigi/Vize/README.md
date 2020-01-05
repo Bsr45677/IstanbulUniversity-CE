@@ -1,4 +1,9 @@
-# 📅 Vize
+---
+description: >-
+  Bilgisayar Mimarisi için Vize notları
+---
+
+# 📅 Vize \| BM
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

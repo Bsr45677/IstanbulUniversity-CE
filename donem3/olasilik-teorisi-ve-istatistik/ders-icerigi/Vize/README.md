@@ -1,4 +1,9 @@
-# 📅 Vize
+---
+description: >-
+  Olasılık Teorisi ve İstatistik için Vize notları
+---
+
+# 📅 Vize \| OTvİ
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

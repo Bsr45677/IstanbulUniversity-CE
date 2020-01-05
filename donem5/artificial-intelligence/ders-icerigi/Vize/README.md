@@ -1,4 +1,9 @@
-# 📅 2019 Vize
+---
+description: >-
+  Artificial Intelligence için 2019 Vize notları
+---
+
+# 📅 2019 Vize \| AI
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

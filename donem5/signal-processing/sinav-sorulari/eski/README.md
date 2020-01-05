@@ -1,4 +1,9 @@
-# 🕐 Eski
+---
+description: >-
+  Signal Processing için Eski notları
+---
+
+# 🕐 Eski \| SP
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

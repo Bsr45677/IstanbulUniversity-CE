@@ -1,4 +1,9 @@
-# ⭐ Yeni
+---
+description: >-
+  Signal Processing için Yeni notları
+---
+
+# ⭐ Yeni \| SP
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

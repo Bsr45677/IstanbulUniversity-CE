@@ -1,4 +1,9 @@
-# 📅 Vize
+---
+description: >-
+  Software Testing and Quality için Vize notları
+---
+
+# 📅 Vize \| STaQ
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

@@ -1,4 +1,9 @@
-# 📅 Final
+---
+description: >-
+  Software Testing and Quality için Final notları
+---
+
+# 📅 Final \| STaQ
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

@@ -1,4 +1,9 @@
-# 📅 Final
+---
+description: >-
+  Görüntü İşleme için Final notları
+---
+
+# 📅 Final \| Gİ
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

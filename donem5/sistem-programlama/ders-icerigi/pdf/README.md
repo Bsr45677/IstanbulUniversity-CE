@@ -1,4 +1,9 @@
-# 📜 PDF
+---
+description: >-
+  Sistem Programlama için PDF notları
+---
+
+# 📜 PDF \| SP
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

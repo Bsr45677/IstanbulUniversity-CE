@@ -1,4 +1,9 @@
-# 📅 Final Kısmı
+---
+description: >-
+  Software Engineering için Final Kısmı notları
+---
+
+# 📅 Final Kısmı \| SE
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

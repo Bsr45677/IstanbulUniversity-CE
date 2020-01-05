@@ -1,4 +1,9 @@
-# 📅 Vize
+---
+description: >-
+  Algorithm Analysis için Vize notları
+---
+
+# 📅 Vize \| AA
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
