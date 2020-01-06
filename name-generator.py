@@ -1,4 +1,5 @@
 import os
+from pathlib import Path
 from ypackage.markdown import read_first_header
 
 
@@ -65,12 +66,13 @@ def repeat(func):
 
 
 def renew(path, lvl):
+    path = Path(path)
     header = read_first_header(path)
 
     lesson_path = path
     for i in range(2, lvl):
-        lesson_path = os.path.dirname(lesson_path)
-    lesson_path = os.path.join(lesson_path, "README.md")
+        lesson_path = lesson_path.parent
+    lesson_path = lesson_path / "README.md"
 
     lesson_header = read_first_header(lesson_path)
     lesson_header = lesson_header[lesson_header.find(" ") + 1:]  # Emojiyi kaldırma
