@@ -7,12 +7,12 @@ description: >-
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
-- [Final 2017 AA](Final%202017%20AA.pdf)
-- [Final 2018 AA](Final%202018%20AA.pdf)
-- [Final 2018 Örnek Soruları AA](Final%202018%20%C3%96rnek%20Sorular%C4%B1%20AA.pdf)
-- [Vize 2018 AA](Vize%202018%20AA.pdf)
-- [Vize 2019 AA](Vize%202019%20AA.pdf)
-- [Örnek Vize AA](%C3%96rnek%20Vize%20AA.pdf)
+- [Final 2017 AA.pdf](Final%202017%20AA.pdf)
+- [Final 2018 AA.pdf](Final%202018%20AA.pdf)
+- [Final 2018 Örnek Soruları AA.pdf](Final%202018%20%C3%96rnek%20Sorular%C4%B1%20AA.pdf)
+- [Vize 2018 AA.pdf](Vize%202018%20AA.pdf)
+- [Vize 2019 AA.pdf](Vize%202019%20AA.pdf)
+- [Örnek Vize AA.pdf](%C3%96rnek%20Vize%20AA.pdf)
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

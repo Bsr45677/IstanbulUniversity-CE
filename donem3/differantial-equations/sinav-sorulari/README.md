@@ -7,6 +7,6 @@ description: >-
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
-- [Karma DE](Karma%20DE.pdf)
+- [Karma DE.pdf](Karma%20DE.pdf)
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

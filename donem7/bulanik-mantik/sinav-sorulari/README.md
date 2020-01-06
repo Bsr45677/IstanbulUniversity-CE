@@ -15,9 +15,9 @@ description: >-
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
-- [Bulanık](Bulan%C4%B1k.pdf)
-- [Final Bulanık](Final%20Bulan%C4%B1k.pdf)
-- [Vize Bulanık](Vize%20Bulan%C4%B1k.pdf)
+- [Bulanık.pdf](Bulan%C4%B1k.pdf)
+- [Final Bulanık.pdf](Final%20Bulan%C4%B1k.pdf)
+- [Vize Bulanık.pdf](Vize%20Bulan%C4%B1k.pdf)
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

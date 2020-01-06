@@ -4,6 +4,8 @@
 
 |📅 Tarih|🔀 Commit|🐥 Sahibi|
 |-|-|-|
+|06/01/2020 - 15:40:11|[✨ Entegrasyon versiyonu yenilendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/ae5dd972249448323442768a9958f9cf3ff7bd88?diff=split)|Yunus Emre|
+|06/01/2020 - 14:02:11|[🚄 Summary sırası düzenlendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/5ac056a3b310a1ac4b84dc33446db8824e0806c3?diff=split)|Yunus Emre|
 |06/01/2020 - 02:44:27|[✨ Senkornizasyon sürümü yenilendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/292aa10c96256f81af6dbbdb993ba992496185df?diff=split)|Yunus Emre|
 |06/01/2020 - 02:18:49|[🚀Yeni yapı kuruldu](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/64de805f3c1e22ef911008b31e2eaaf8559676eb?diff=split)|Yunus Emre|
 |05/01/2020 - 13:57:15|[🔩 Aİvİ2 sınav soruları düzenlendi (#63)](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/4dc34715e2692f46441096a71de1db662435113e?diff=split)|Asmaa Mirkhan|

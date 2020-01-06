@@ -7,7 +7,7 @@ description: >-
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
-- [Final Notları LA](Final%20Notlar%C4%B1%20LA.pdf)
-- [Vize Notları LA](Vize%20Notlar%C4%B1%20LA.pdf)
+- [Final Notları LA.pdf](Final%20Notlar%C4%B1%20LA.pdf)
+- [Vize Notları LA.pdf](Vize%20Notlar%C4%B1%20LA.pdf)
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

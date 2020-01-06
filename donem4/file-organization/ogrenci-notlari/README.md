@@ -7,7 +7,7 @@ description: >-
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
-- [Tam 2018 FO ~ YEmreAk](Tam%202018%20FO%20~%20YEmreAk.pdf)
+- [Tam 2018 FO ~ YEmreAk.pdf](Tam%202018%20FO%20~%20YEmreAk.pdf)
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

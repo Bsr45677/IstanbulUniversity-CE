@@ -9,7 +9,7 @@ description: >-
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
-- [Final 2020 OS](Final%202020%20OS.pdf)
+- [Final 2020 OS.pdf](Final%202020%20OS.pdf)
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

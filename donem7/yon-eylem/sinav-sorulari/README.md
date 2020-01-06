@@ -7,7 +7,7 @@ description: >-
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
-- [Final 2009 YA](Final%202009%20YA.pdf)
-- [Vize 2009 YA](Vize%202009%20YA.pdf)
+- [Final 2009 YA.pdf](Final%202009%20YA.pdf)
+- [Vize 2009 YA.pdf](Vize%202009%20YA.pdf)
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

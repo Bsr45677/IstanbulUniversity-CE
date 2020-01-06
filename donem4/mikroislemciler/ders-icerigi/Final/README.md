@@ -7,7 +7,7 @@ description: >-
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
-- [Bellek Mimarileri-1](Bellek%20Mimarileri-1.pdf)
-- [Bellek](Bellek.pdf)
+- [Bellek Mimarileri-1.pdf](Bellek%20Mimarileri-1.pdf)
+- [Bellek.pdf](Bellek.pdf)
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

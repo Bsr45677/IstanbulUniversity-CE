@@ -23,6 +23,6 @@ description: >-
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
-- [Final 2017 DC](Final%202017%20DC.pdf)
+- [Final 2017 DC.pdf](Final%202017%20DC.pdf)
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

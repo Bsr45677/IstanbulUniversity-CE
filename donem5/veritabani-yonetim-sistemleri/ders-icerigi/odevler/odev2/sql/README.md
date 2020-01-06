@@ -2,7 +2,7 @@
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
-- [database](database.sql)
-- [sql-init](sql-init.sql)
+- [database.sql](database.sql)
+- [sql-init.sql](sql-init.sql)
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

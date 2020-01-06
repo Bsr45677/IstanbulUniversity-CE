@@ -7,8 +7,8 @@ description: >-
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
-- [Final 2018 Formal](Final%202018%20Formal.pdf)
-- [Final 2019 Formal](Final%202019%20Formal.pdf)
+- [Final 2018 Formal.pdf](Final%202018%20Formal.pdf)
+- [Final 2019 Formal.pdf](Final%202019%20Formal.pdf)
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

@@ -7,8 +7,8 @@ description: >-
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
-- [Final ISG](Final%20ISG.pdf)
-- [Vize ISG](Vize%20ISG.pdf)
+- [Final ISG.pdf](Final%20ISG.pdf)
+- [Vize ISG.pdf](Vize%20ISG.pdf)
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

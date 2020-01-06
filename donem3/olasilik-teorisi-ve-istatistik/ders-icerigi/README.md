@@ -7,6 +7,6 @@ description: >-
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
-- [Ders Kitabı OTI](Ders%20Kitab%C4%B1%20OTI.pdf)
+- [Ders Kitabı OTI.pdf](Ders%20Kitab%C4%B1%20OTI.pdf)
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

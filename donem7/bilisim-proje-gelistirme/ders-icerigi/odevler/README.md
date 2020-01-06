@@ -7,7 +7,7 @@ description: >-
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
-- [BilisimProjeGelistirmeOdevKonusu](BilisimProjeGelistirmeOdevKonusu.pdf)
-- [OdevTeslimTakvimi](OdevTeslimTakvimi.pdf)
+- [BilisimProjeGelistirmeOdevKonusu.pdf](BilisimProjeGelistirmeOdevKonusu.pdf)
+- [OdevTeslimTakvimi.pdf](OdevTeslimTakvimi.pdf)
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

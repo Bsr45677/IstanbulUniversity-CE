@@ -7,8 +7,8 @@ description: >-
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
-- [Final 2019 BM](Final%202019%20BM.pdf)
-- [Tam 2018 BM](Tam%202018%20BM.pdf)
-- [Vize 2019 BN](Vize%202019%20BN.pdf)
+- [Final 2019 BM.pdf](Final%202019%20BM.pdf)
+- [Tam 2018 BM.pdf](Tam%202018%20BM.pdf)
+- [Vize 2019 BN.pdf](Vize%202019%20BN.pdf)
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

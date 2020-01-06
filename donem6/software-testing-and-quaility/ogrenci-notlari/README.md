@@ -7,7 +7,7 @@ description: >-
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
-- [Final Notları STQ ~ YEmreAk](Final%20Notlar%C4%B1%20STQ%20~%20YEmreAk.pdf)
+- [Final Notları STQ ~ YEmreAk.pdf](Final%20Notlar%C4%B1%20STQ%20~%20YEmreAk.pdf)
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

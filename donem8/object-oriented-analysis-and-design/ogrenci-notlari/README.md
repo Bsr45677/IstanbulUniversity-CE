@@ -7,6 +7,6 @@ description: >-
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
-- [Final Notları](Final%20Notlar%C4%B1.pdf)
+- [Final Notları.pdf](Final%20Notlar%C4%B1.pdf)
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
