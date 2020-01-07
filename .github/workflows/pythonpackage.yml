@@ -13,26 +13,26 @@ jobs:
 
     steps:
     - uses: actions/checkout@v1
-    - name: Set up Python ${{ matrix.python-version }}
+    - name: 🏗️ Python ${{ matrix.python-version }} kurulması
       uses: actions/setup-python@v1
       with:
         python-version: ${{ matrix.python-version }}
-    - name: Install dependencies
+    - name: 📦 Bağımlılıkların kurulması
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
-    - name: Run name generator
+    - name: 🚧 Açıklamaların oluşturulması
       run: |
         python name-generator.py
-    - name: Run ygitbookintegration
+    - name: 💫 GitBook uyumluluğunun sağlanması
       run: |
         ygitbookintegration .
-    - name: Commit changes
+    - name: 🔀 Değişiklerin commit edilmesi
       run: |
         git config --local user.email "yedhrab@gmail.com"
         git config --local user.name "yedhrab"
         echo `git add -A && git commit -m "💫 GitBook entegrasyonu yapıldı"`
-    - name: GitHub Push
+    - name: 🎉 GitHub push işlemi
       uses: ad-m/github-push-action@v0.5.0
       with:
         github_token: ${{ secrets.YGITBOOK_INTEGRATION }}
