@@ -4,6 +4,7 @@
 
 |📅 Tarih|🔀 Commit|🐥 Sahibi|
 |-|-|-|
+|07/01/2020 - 23:51:17|[👨‍🔧 PR kalıbı düzeltildi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/67c7f186abd8003cbc49f0bd21d629f156c5e1f9?diff=split)|Yunus Emre|
 |07/01/2020 - 23:15:23|[🚀 Katkı sağlama rehberi daha anlaşılır oldu](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/21a01a3902fd9d0b9a56b0896b0ade3e2b35357f?diff=split)|Yunus Emre|
 |07/01/2020 - 22:06:13|[📃 DT final sınavı eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/41cd331e05afaa134ade9fdaa948a7840ae9c862?diff=split)|Yunus Emre|
 |07/01/2020 - 15:41:59|[🔢 Bahar çanları eklendi (#71)](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/7cdc533a5227814c0e7f4a834913ba4be25f1896?diff=split)|Asmaa Mirkhan|
