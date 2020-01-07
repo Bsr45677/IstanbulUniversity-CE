@@ -1,4 +1,9 @@
-# harf-notu
+---
+description: >-
+  Bilgisayar Mimarisi için rf-notu notları
+---
+
+# harf-notu \| BM
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
