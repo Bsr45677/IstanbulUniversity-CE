@@ -33,6 +33,5 @@ Alttakilerden satırlardan birini kopyalayın:
 
 <!-- PR isteğinden önce yaptıklarını işaretler -->
 - [ ] [💖 Katkıda Bulunma Rehberi](https://iuce.yemreak.com/contributing) yazısını okudum
-- [ ] 🤯 Yazıyı anladım ve uyguladım
-- [ ] 📝 Gerekli değişikliklerin hepsini yaptım (gitbook işlemleri hariç)
+- [ ] 👮‍♂️ Adlandırma ve dosya konumlandırma kurallarına uygun yerleştirdim
 - [ ] 🎉 Merge edilmeye hazır pozisyonda olduğunu onaylarım
