@@ -4,6 +4,7 @@
 
 |📅 Tarih|🔀 Commit|🐥 Sahibi|
 |-|-|-|
+|07/01/2020 - 15:41:59|[🔢 Bahar çanları eklendi (#71)](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/7cdc533a5227814c0e7f4a834913ba4be25f1896?diff=split)|Asmaa Mirkhan|
 |07/01/2020 - 11:55:24|[🚩 C1 ve BM notları düzenlendi (#70)](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/513649e87cdc3e08c8e591c6d5e6ddaa52a164f7?diff=split)|Asmaa Mirkhan|
 |07/01/2020 - 00:54:21|[🏗️ PR Yapısı geliştirildi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/d491cadc26a93851ede3e137f14d93c474ce0a4b?diff=split)|Yunus Emre|
 |07/01/2020 - 00:36:21|[🏗️ Workflow tanımlandı](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/84db3aa258113c663a3092d46dbf76dda91b1e8f?diff=split)|Yunus Emre|
