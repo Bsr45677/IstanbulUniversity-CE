@@ -204,6 +204,7 @@
         - [📅 Final \| BM](donem6/bilgisayar-mimarisi/ders-icerigi/Final/README.md)
         - [🏗️ Proje \| BM](donem6/bilgisayar-mimarisi/ders-icerigi/Proje/README.md)
         - [📅 Vize \| BM](donem6/bilgisayar-mimarisi/ders-icerigi/Vize/README.md)
+      - [harf-notu](donem6/bilgisayar-mimarisi/harf-notu/README.md)
       - [📕 Öğrenci Notları \| BM](donem6/bilgisayar-mimarisi/ogrenci-notlari/README.md)
       - [📃 Sınav Soruları \| BM](donem6/bilgisayar-mimarisi/sinav-sorulari/README.md)
     - [🕸️ Computer Networks and Technologies](donem6/computer-networks-and-technologies/README.md)
