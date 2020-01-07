@@ -1,15 +1,18 @@
 <!-- Yardımın ve desteğin için teşekkürler. Detaylı bilgiler için  contributing dosyasına bakabilirsin. -->
 
-## 📑 Başlık
+## 🎈 Başlık
 <!-- Değişikliği özetleyen başlık, hangi issue'ye çözüm buluyorsa onunu ID'si (Örn: #12) -->
 
-## Değişiklik Türü
+## 💎 Değişiklik Türü
 
-- [ ] 📘 Ders notu ekleme
-- [ ] 📃 Sınav soruları ekleme
-- [ ] 🕵️‍ Sorun tespiti
-- [ ] 🐛 Sorun çözümü
-- [ ] ✨ Geliştirme
+<!--
+Alttakilerden satırlardan birini kopyalayın:
+📘 Ders notu ekleme
+📃 Sınav soruları ekleme
+🕵️‍ Sorun tespiti
+🐛 Sorun çözümü
+✨ Geliştirme
+-->
 
 ## ✨ Değişiklikler
 <!--
@@ -26,3 +29,10 @@
 - Önemli olduğunu belirmek istediğin özel notları yazabilirsin
 -->
 
+## ✔️ Yaptıklarım
+
+<!-- PR isteğinden önce yaptıklarını işaretler -->
+- [ ] [💖 Katkıda Bulunma Rehberi](https://iuce.yemreak.com/contributing) yazısını okudum
+- [ ] 🤯 Yazıyı anladım ve uyguladım
+- [ ] 📝 Gerekli değişikliklerin hepsini yaptım (gitbook işlemleri hariç)
+- [ ] 🎉 Merge edilmeye hazır pozisyonda olduğunu onaylarım
