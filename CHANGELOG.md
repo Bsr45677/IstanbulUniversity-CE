@@ -4,6 +4,7 @@
 
 |📅 Tarih|🔀 Commit|🐥 Sahibi|
 |-|-|-|
+|07/01/2020 - 00:21:00|[📃 Final için hazırlık soruları eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/40606888fe253ddb26b21dc70fae7ff27523bf77?diff=split)|Yunus Emre|
 |06/01/2020 - 15:47:48|[👨‍🔧İsim oluşturucu sorunu giderildi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/55beb0db8cbae6ee621acbba23acdc1f2f483aa0?diff=split)|Yunus Emre|
 |06/01/2020 - 15:41:01|[👁️ Dosya uzantıları eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/4917412afdbfeb793bef6cad92bcb6f3c2cb2a57?diff=split)|Yunus Emre|
 |06/01/2020 - 15:40:11|[✨ Entegrasyon versiyonu yenilendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/ae5dd972249448323442768a9958f9cf3ff7bd88?diff=split)|Yunus Emre|
