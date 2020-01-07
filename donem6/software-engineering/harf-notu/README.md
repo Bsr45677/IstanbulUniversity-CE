@@ -1,4 +1,9 @@
-# harf-notu
+---
+description: >-
+  Software Engineering için rf-notu notları
+---
+
+# harf-notu \| SE
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

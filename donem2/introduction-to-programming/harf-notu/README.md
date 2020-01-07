@@ -1,4 +1,9 @@
-# harf-notu
+---
+description: >-
+  Introduction to Programming için rf-notu notları
+---
+
+# harf-notu \| ItP
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

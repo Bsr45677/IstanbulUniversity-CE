@@ -1,4 +1,9 @@
-# harf-notu
+---
+description: >-
+  Random and Stochastic Processes için rf-notu notları
+---
+
+# harf-notu \| RaSP
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

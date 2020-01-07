@@ -1,4 +1,9 @@
-# harf-notu
+---
+description: >-
+  Bilgisayar Organizasyonu ve Tasarımı için rf-notu notları
+---
+
+# harf-notu \| BOvT
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
